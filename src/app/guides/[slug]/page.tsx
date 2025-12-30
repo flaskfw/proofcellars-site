@@ -2,12 +2,14 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import CTAButton from '@/components/CTAButton';
+import TrackedLink from '@/components/TrackedLink';
 import {
   getGuideData,
   getGuideSlugs,
   generateGuideFAQSchema,
   generateArticleSchema,
 } from '@/lib/getGuideData';
+import { AnalyticsEvents } from '@/lib/analytics';
 
 interface PageProps {
   params: Promise<{ slug: string }>;
@@ -166,13 +168,21 @@ export default async function GuidePage({ params }: PageProps) {
               through our form, or text photos directly if that is easier.
             </p>
             <div className="flex flex-col sm:flex-row gap-4">
-              <CTAButton href="/get-offer">Get an Offer</CTAButton>
-              <a
+              <CTAButton
+                href="/get-offer"
+                eventName={AnalyticsEvents.CLICK_GET_OFFER}
+                eventParams={{ location: 'guide_cta_block', href: '/get-offer' }}
+              >
+                Get an Offer
+              </CTAButton>
+              <TrackedLink
                 href="sms:+12137709463"
                 className="inline-flex items-center justify-center rounded-md border border-accent px-6 py-3 text-base font-medium text-accent hover:bg-accent hover:text-white transition-colors"
+                eventName={AnalyticsEvents.CLICK_TEXT_PHOTOS}
+                eventParams={{ location: 'guide_cta_block', phone: '2137709463' }}
               >
                 Text Photos to 213-770-WINE
-              </a>
+              </TrackedLink>
             </div>
           </div>
 

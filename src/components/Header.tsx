@@ -2,6 +2,7 @@
 
 import Link from 'next/link';
 import { useState } from 'react';
+import { trackEvent, AnalyticsEvents } from '@/lib/analytics';
 
 export default function Header() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
@@ -46,6 +47,12 @@ export default function Header() {
             <Link
               href="/get-offer"
               className="inline-flex items-center justify-center rounded-md bg-accent px-4 py-2 text-sm font-medium text-white hover:bg-accent-hover transition-colors"
+              onClick={() =>
+                trackEvent(AnalyticsEvents.CLICK_GET_OFFER, {
+                  location: 'header',
+                  href: '/get-offer',
+                })
+              }
             >
               Get an Offer
             </Link>
@@ -128,7 +135,13 @@ export default function Header() {
               <Link
                 href="/get-offer"
                 className="inline-flex items-center justify-center rounded-md bg-accent px-4 py-2 text-sm font-medium text-white hover:bg-accent-hover transition-colors w-full"
-                onClick={() => setMobileMenuOpen(false)}
+                onClick={() => {
+                  trackEvent(AnalyticsEvents.CLICK_GET_OFFER, {
+                    location: 'header',
+                    href: '/get-offer',
+                  });
+                  setMobileMenuOpen(false);
+                }}
               >
                 Get an Offer
               </Link>

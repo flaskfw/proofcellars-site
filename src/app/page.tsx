@@ -1,9 +1,11 @@
 import Link from 'next/link';
 import CTAButton from '@/components/CTAButton';
+import TrackedLink from '@/components/TrackedLink';
 import ProcessSteps from '@/components/ProcessSteps';
 import PhotoChecklist from '@/components/PhotoChecklist';
 import FAQItem from '@/components/FAQItem';
 import { getFirstNFAQs } from '@/lib/getFAQData';
+import { AnalyticsEvents } from '@/lib/analytics';
 
 export default function Home() {
   const previewFaqs = getFirstNFAQs(6);
@@ -38,8 +40,19 @@ export default function Home() {
               Bourbon, scotch, and fine wine. No consignment. No auctions. Just a direct offer.
             </p>
             <div className="mt-8 flex flex-col sm:flex-row gap-4">
-              <CTAButton href="/get-offer">Get an Offer</CTAButton>
-              <CTAButton href="sms:+12137709463" variant="secondary">
+              <CTAButton
+                href="/get-offer"
+                eventName={AnalyticsEvents.CLICK_GET_OFFER}
+                eventParams={{ location: 'hero', href: '/get-offer' }}
+              >
+                Get an Offer
+              </CTAButton>
+              <CTAButton
+                href="sms:+12137709463"
+                variant="secondary"
+                eventName={AnalyticsEvents.CLICK_TEXT_PHOTOS}
+                eventParams={{ location: 'hero', phone: '2137709463' }}
+              >
                 Text Photos
               </CTAButton>
             </div>
@@ -252,13 +265,21 @@ export default function Home() {
             Get a direct offer for your bottles.
           </p>
           <div className="mt-8 flex flex-col sm:flex-row gap-4 justify-center items-center">
-            <CTAButton href="/get-offer">Get an Offer</CTAButton>
-            <a
+            <CTAButton
+              href="/get-offer"
+              eventName={AnalyticsEvents.CLICK_GET_OFFER}
+              eventParams={{ location: 'cta_band', href: '/get-offer' }}
+            >
+              Get an Offer
+            </CTAButton>
+            <TrackedLink
               href="sms:+12137709463"
               className="text-secondary hover:text-primary transition-colors"
+              eventName={AnalyticsEvents.CLICK_TEXT_PHOTOS}
+              eventParams={{ location: 'cta_band', phone: '2137709463' }}
             >
               Or text photos to 213-770-9463
-            </a>
+            </TrackedLink>
           </div>
         </div>
       </section>

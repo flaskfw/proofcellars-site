@@ -1,4 +1,7 @@
+'use client';
+
 import Link from 'next/link';
+import { trackEvent, AnalyticsEvents } from '@/lib/analytics';
 
 export default function Footer() {
   return (
@@ -25,7 +28,16 @@ export default function Footer() {
                 </Link>
               </li>
               <li>
-                <Link href="/get-offer" className="text-sm text-secondary hover:text-primary transition-colors">
+                <Link
+                  href="/get-offer"
+                  className="text-sm text-secondary hover:text-primary transition-colors"
+                  onClick={() =>
+                    trackEvent(AnalyticsEvents.CLICK_GET_OFFER, {
+                      location: 'footer',
+                      href: '/get-offer',
+                    })
+                  }
+                >
                   Get an Offer
                 </Link>
               </li>
@@ -50,6 +62,12 @@ export default function Footer() {
                 <a
                   href="tel:+12137709463"
                   className="text-sm text-secondary hover:text-primary transition-colors"
+                  onClick={() =>
+                    trackEvent(AnalyticsEvents.CLICK_TAP_TO_CALL, {
+                      location: 'footer',
+                      phone: '2137709463',
+                    })
+                  }
                 >
                   213-770-9463
                 </a>
