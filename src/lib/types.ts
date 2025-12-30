@@ -48,7 +48,7 @@ export interface GuideConfig {
   title: string;
   metaTitle: string;
   metaDescription: string;
-  category: 'estate' | 'practical' | 'condition' | 'safety';
+  category: 'estate' | 'practical' | 'condition' | 'safety' | 'scenario';
   publishedDate: string;
   summary: string;
   tableOfContents: string[];

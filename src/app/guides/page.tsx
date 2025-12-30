@@ -21,8 +21,9 @@ function groupGuidesByCategory(guides: GuideConfig[]) {
   const practicalGuides = guides.filter((g) => g.category === 'practical');
   const conditionGuides = guides.filter((g) => g.category === 'condition');
   const safetyGuides = guides.filter((g) => g.category === 'safety');
+  const scenarioGuides = guides.filter((g) => g.category === 'scenario');
 
-  return { estateGuides, practicalGuides, conditionGuides, safetyGuides };
+  return { estateGuides, practicalGuides, conditionGuides, safetyGuides, scenarioGuides };
 }
 
 function GuideCard({ guide }: { guide: GuideConfig }) {
@@ -39,7 +40,7 @@ function GuideCard({ guide }: { guide: GuideConfig }) {
 
 export default function GuidesIndexPage() {
   const allGuides = getAllGuides();
-  const { estateGuides, practicalGuides, conditionGuides, safetyGuides } =
+  const { estateGuides, practicalGuides, conditionGuides, safetyGuides, scenarioGuides } =
     groupGuidesByCategory(allGuides);
 
   return (
@@ -149,8 +150,28 @@ export default function GuidesIndexPage() {
         </section>
       )}
 
+      {/* Scenarios Section */}
+      {scenarioGuides.length > 0 && (
+        <section className="py-16 md:py-24">
+          <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+            <h2 className="text-2xl md:text-3xl font-semibold text-primary mb-4">
+              Scenarios
+            </h2>
+            <p className="text-secondary mb-8 max-w-3xl">
+              Guides for specific situations including legal matters, business
+              closures, found inventory, and household staff handling sales.
+            </p>
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+              {scenarioGuides.map((guide) => (
+                <GuideCard key={guide.slug} guide={guide} />
+              ))}
+            </div>
+          </div>
+        </section>
+      )}
+
       {/* CTA Section */}
-      <section className="py-16 md:py-24">
+      <section className="bg-surface py-16 md:py-24">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 text-center">
           <h2 className="text-2xl md:text-3xl font-semibold text-primary">
             Ready to sell?
