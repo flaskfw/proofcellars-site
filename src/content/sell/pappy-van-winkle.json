@@ -1,0 +1,36 @@
+{
+  "slug": "pappy-van-winkle",
+  "title": "Sell Pappy Van Winkle",
+  "metaTitle": "Sell Pappy Van Winkle | Proof Cellars",
+  "metaDescription": "Sell your Pappy Van Winkle bottles to Proof Cellars. We buy all Pappy expressions including 10, 12, 15, 20, and 23 year. Direct offers with no fees.",
+  "heroHeadline": "Sell Your Pappy Van Winkle",
+  "heroSubhead": "We buy all Pappy Van Winkle expressions directly - no consignment, no auctions.",
+  "introParagraph": "Pappy Van Winkle is among the most sought-after bourbon in the world. Whether you have a single bottle or multiple expressions, we provide direct offers with no consignment fees. Our process is simple: send us photos and details, receive an offer, and get paid after we verify your bottles.",
+  "categoryType": "bourbon",
+  "whatWeBuy": [
+    "Pappy Van Winkle 23 Year Family Reserve",
+    "Pappy Van Winkle 20 Year Family Reserve",
+    "Pappy Van Winkle 15 Year Family Reserve",
+    "Old Rip Van Winkle 10 Year",
+    "Van Winkle Special Reserve 12 Year",
+    "Van Winkle Family Reserve Rye",
+    "Older and vintage Pappy releases"
+  ],
+  "whatWeDoNotBuy": [
+    "Opened bottles",
+    "Bottles with compromised seals",
+    "Leaking or heavily damaged bottles",
+    "Counterfeit or suspected counterfeit bottles",
+    "Items we cannot legally purchase in your state"
+  ],
+  "conditionNotes": "Pappy Van Winkle condition is carefully assessed. Fill level should be at or near the original level. Seals must be intact with no signs of tampering. Labels in good condition with minimal wear are preferred. Original packaging - boxes and tubes - adds value. We carefully verify authenticity during inspection.",
+  "pricingFactors": [
+    "Expression and age statement (10, 12, 15, 20, or 23 year)",
+    "Release year and batch",
+    "Fill level and seal condition",
+    "Label condition and presentation",
+    "Presence of original box or tube",
+    "Current market demand and transaction history"
+  ],
+  "faqSubset": ["fees", "how-to-get-offer", "offer-time", "pricing", "authenticity", "payment"]
+}

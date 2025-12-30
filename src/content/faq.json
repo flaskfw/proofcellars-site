@@ -1,0 +1,72 @@
+[
+  {
+    "id": "fees",
+    "question": "Do you charge any fees?",
+    "answer": "No. We make a direct offer. There are no seller fees and no consignment commissions."
+  },
+  {
+    "id": "single-or-collection",
+    "question": "Do you buy single bottles, or only full collections?",
+    "answer": "Both. Single bottles are fine. Collections are fine. If you have a larger cellar, we can review it as a single submission."
+  },
+  {
+    "id": "how-to-get-offer",
+    "question": "How do I get an offer?",
+    "answer": "Use the form on our Get an Offer page, or text photos and a bottle list to 213-770-9463 (213-770-WINE)."
+  },
+  {
+    "id": "fastest-quote",
+    "question": "What should I send to get the fastest quote?",
+    "answer": "A bottle list and clear photos. Photos that help most: front label, back label, capsule or seal, fill level, any box, and any flaws."
+  },
+  {
+    "id": "offer-time",
+    "question": "How long does it take to receive an offer?",
+    "answer": "Typically within 1 business day. Larger collections can take longer depending on the number of items and the quality of the information provided."
+  },
+  {
+    "id": "pricing",
+    "question": "How is pricing determined?",
+    "answer": "We base offers on current market demand, recent transaction ranges, bottle condition, completeness (box, papers), provenance when available, and how quickly an item can be resold."
+  },
+  {
+    "id": "condition-issues",
+    "question": "What condition issues matter most?",
+    "answer": "For spirits: seal integrity, fill level, label condition, and any signs of tampering or leakage. For wine: fill level, label condition, capsule condition, storage history when known, and visible seepage or heat damage."
+  },
+  {
+    "id": "opened-bottles",
+    "question": "Do you buy opened bottles?",
+    "answer": "Generally no. If you have an unusual exception, send details and photos and we will tell you quickly."
+  },
+  {
+    "id": "damaged-bottles",
+    "question": "Will you still consider bottles with worn labels or damaged boxes?",
+    "answer": "Sometimes. Cosmetic issues usually reduce value but do not automatically disqualify a bottle. Leakage, compromised seals, or severe damage usually does."
+  },
+  {
+    "id": "shipping",
+    "question": "How do shipping and drop-off work?",
+    "answer": "We will explain your options after we review your submission. Where permitted, we can arrange shipping steps and provide clear packing guidance. If you are local, drop-off may be possible by appointment."
+  },
+  {
+    "id": "payment",
+    "question": "How do I get paid?",
+    "answer": "Payment methods depend on the transaction and location. We will confirm the method before you ship. Payment is issued after inspection and acceptance of the items received."
+  },
+  {
+    "id": "authenticity",
+    "question": "What if I am not sure my bottle is authentic?",
+    "answer": "Send photos anyway. We look for red flags and will tell you if something does not check out. Authenticity and condition are verified during inspection."
+  },
+  {
+    "id": "privacy",
+    "question": "Do you keep my information private?",
+    "answer": "Yes. We use your information to evaluate your offer request and coordinate next steps. We do not publish seller details."
+  },
+  {
+    "id": "what-we-dont-buy",
+    "question": "What do you typically not buy?",
+    "answer": "Low-value items, heavily damaged or leaking bottles, opened bottles, and items we cannot legally purchase in your location."
+  }
+]

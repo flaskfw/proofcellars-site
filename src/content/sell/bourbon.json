@@ -1,0 +1,35 @@
+{
+  "slug": "bourbon",
+  "title": "Sell Bourbon",
+  "metaTitle": "Sell Bourbon | Proof Cellars",
+  "metaDescription": "Sell your bourbon collection directly to Proof Cellars. We buy Pappy Van Winkle, BTAC, allocated releases, and more. Get a direct offer with no fees.",
+  "heroHeadline": "Sell Your Bourbon Collection",
+  "heroSubhead": "We buy bourbon directly - from single allocated bottles to full collections.",
+  "introParagraph": "Whether you have a single bottle of Pappy Van Winkle or a collection of allocated releases, we provide direct offers with no consignment fees. Our process is straightforward: submit photos and details, receive an offer, and get paid after we receive and verify your bottles.",
+  "categoryType": "bourbon",
+  "whatWeBuy": [
+    "Pappy Van Winkle (all expressions and ages)",
+    "Buffalo Trace Antique Collection (BTAC)",
+    "Old Rip Van Winkle",
+    "Allocated and limited release bourbons",
+    "Vintage and discontinued American whiskey",
+    "Single barrel selections from premium distilleries",
+    "Rare and collectible bourbon releases"
+  ],
+  "whatWeDoNotBuy": [
+    "Opened bottles",
+    "Common shelf bourbons",
+    "Heavily damaged or leaking bottles",
+    "Bottles with compromised seals",
+    "Items we cannot legally purchase in your state"
+  ],
+  "conditionNotes": "Bourbon condition is assessed based on fill level, seal integrity, and label condition. Original packaging - tubes, boxes, and papers - adds value when present. Signs of tampering, leakage, or significant damage typically disqualify a bottle. Minor label wear or scuffing usually reduces value but does not automatically disqualify.",
+  "pricingFactors": [
+    "Current secondary market demand and transaction history",
+    "Bottle condition including seal, fill level, and labels",
+    "Presence of original packaging (box, tube, papers)",
+    "Expression, age statement, and release year",
+    "Rarity and availability in the current market"
+  ],
+  "faqSubset": ["fees", "single-or-collection", "how-to-get-offer", "offer-time", "condition-issues", "shipping"]
+}

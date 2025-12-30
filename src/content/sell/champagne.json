@@ -1,0 +1,36 @@
+{
+  "slug": "champagne",
+  "title": "Sell Champagne",
+  "metaTitle": "Sell Champagne | Proof Cellars",
+  "metaDescription": "Sell your champagne collection to Proof Cellars. We buy Dom Perignon, Krug, Cristal, Salon, and more. Direct offers with no consignment fees.",
+  "heroHeadline": "Sell Your Champagne Collection",
+  "heroSubhead": "We buy champagne directly - from prestige cuvees to vintage collections.",
+  "introParagraph": "From Dom Perignon and Krug to Salon and rare vintage champagnes, we buy directly with no consignment fees. Submit photos and details of your bottles, receive an offer typically within one business day, and get paid after we verify your champagne.",
+  "categoryType": "champagne",
+  "whatWeBuy": [
+    "Dom Perignon (all vintages, including P2 and P3)",
+    "Krug (Grande Cuvee, Vintage, Clos du Mesnil, Clos d'Ambonnay)",
+    "Louis Roederer Cristal (all vintages)",
+    "Salon (all vintages)",
+    "Bollinger (R.D., Vieilles Vignes Francaises)",
+    "Taittinger Comtes de Champagne",
+    "Other prestige cuvees and vintage champagnes"
+  ],
+  "whatWeDoNotBuy": [
+    "Opened bottles",
+    "Non-vintage champagne from common producers",
+    "Bottles with visible seepage or cork issues",
+    "Champagne stored improperly or showing heat damage",
+    "Items we cannot legally purchase in your state"
+  ],
+  "conditionNotes": "Champagne requires careful storage. Fill levels should be normal. Corks should show no signs of pushing out or leakage. Labels and foils should be intact, though age-appropriate wear on vintage bottles is expected. Storage history is important - champagne stored at proper cellar temperature is preferred over bottles with unknown storage.",
+  "pricingFactors": [
+    "Producer and cuvee",
+    "Vintage year",
+    "Bottle condition and fill level",
+    "Label and foil presentation",
+    "Storage history when known",
+    "Current market demand"
+  ],
+  "faqSubset": ["fees", "how-to-get-offer", "offer-time", "condition-issues", "damaged-bottles", "shipping"]
+}

@@ -1,0 +1,267 @@
+import Link from 'next/link';
+import CTAButton from '@/components/CTAButton';
+import ProcessSteps from '@/components/ProcessSteps';
+import PhotoChecklist from '@/components/PhotoChecklist';
+import FAQItem from '@/components/FAQItem';
+import { getFirstNFAQs } from '@/lib/getFAQData';
+
+export default function Home() {
+  const previewFaqs = getFirstNFAQs(6);
+
+  const organizationSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'Organization',
+    name: 'Proof Cellars',
+    url: 'https://proofcellars.com',
+    contactPoint: {
+      '@type': 'ContactPoint',
+      telephone: '+1-213-770-9463',
+      contactType: 'sales',
+    },
+  };
+
+  return (
+    <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationSchema) }}
+      />
+
+      {/* Hero Section */}
+      <section className="bg-surface py-16 md:py-24">
+        <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+          <div className="max-w-3xl">
+            <h1 className="text-4xl md:text-5xl font-semibold tracking-tight text-primary">
+              We buy collectible wine and spirits directly.
+            </h1>
+            <p className="mt-6 text-lg text-secondary">
+              Bourbon, scotch, and fine wine. No consignment. No auctions. Just a direct offer.
+            </p>
+            <div className="mt-8 flex flex-col sm:flex-row gap-4">
+              <CTAButton href="/get-offer">Get an Offer</CTAButton>
+              <CTAButton href="sms:+12137709463" variant="secondary">
+                Text Photos
+              </CTAButton>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* Process Section */}
+      <section className="py-16 md:py-24">
+        <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+          <h2 className="text-2xl md:text-3xl font-semibold text-primary mb-12">
+            How It Works
+          </h2>
+          <ProcessSteps />
+        </div>
+      </section>
+
+      {/* What We Buy Section */}
+      <section id="what-we-buy" className="bg-surface py-16 md:py-24">
+        <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+          <h2 className="text-2xl md:text-3xl font-semibold text-primary mb-12">
+            What We Buy
+          </h2>
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-12">
+            <div>
+              <h3 className="text-xl font-medium text-primary mb-4">We buy:</h3>
+              <ul className="space-y-3">
+                {[
+                  'Bourbon and American whiskey (Pappy Van Winkle, BTAC, allocated releases)',
+                  'Scotch whisky (Macallan, rare single malts, limited editions)',
+                  'Fine wine (Bordeaux, Burgundy, Napa cult wines)',
+                  'Champagne (Dom Perignon, Krug, Cristal, Salon)',
+                  'Cognac and other collectible spirits',
+                ].map((item) => (
+                  <li key={item} className="flex items-start gap-3">
+                    <svg
+                      className="h-5 w-5 text-success flex-shrink-0 mt-0.5"
+                      fill="none"
+                      viewBox="0 0 24 24"
+                      strokeWidth="2"
+                      stroke="currentColor"
+                    >
+                      <path
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                        d="M4.5 12.75l6 6 9-13.5"
+                      />
+                    </svg>
+                    <span className="text-secondary">{item}</span>
+                  </li>
+                ))}
+              </ul>
+            </div>
+            <div>
+              <h3 className="text-xl font-medium text-primary mb-4">
+                We typically do not buy:
+              </h3>
+              <ul className="space-y-3">
+                {[
+                  'Opened bottles',
+                  'Heavily damaged or leaking bottles',
+                  'Low-value or common items',
+                  'Items we cannot legally purchase in your state',
+                ].map((item) => (
+                  <li key={item} className="flex items-start gap-3">
+                    <svg
+                      className="h-5 w-5 text-error flex-shrink-0 mt-0.5"
+                      fill="none"
+                      viewBox="0 0 24 24"
+                      strokeWidth="2"
+                      stroke="currentColor"
+                    >
+                      <path
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                        d="M6 18L18 6M6 6l12 12"
+                      />
+                    </svg>
+                    <span className="text-secondary">{item}</span>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* What to Send Section */}
+      <section className="py-16 md:py-24">
+        <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+          <div className="max-w-2xl">
+            <h2 className="text-2xl md:text-3xl font-semibold text-primary mb-8">
+              What to Send for a Quote
+            </h2>
+            <PhotoChecklist />
+          </div>
+        </div>
+      </section>
+
+      {/* Condition Section */}
+      <section className="bg-surface py-16 md:py-24">
+        <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+          <h2 className="text-2xl md:text-3xl font-semibold text-primary mb-8">
+            Condition Factors That Affect Value
+          </h2>
+          <ul className="grid grid-cols-1 md:grid-cols-2 gap-6 max-w-4xl">
+            {[
+              {
+                title: 'Fill level',
+                description: 'Higher is better. Low fills reduce value significantly.',
+              },
+              {
+                title: 'Seal and capsule',
+                description:
+                  'Intact seals matter. Signs of tampering or leakage are disqualifying.',
+              },
+              {
+                title: 'Label condition',
+                description:
+                  'Tears, stains, or fading reduce value but do not always disqualify.',
+              },
+              {
+                title: 'Original packaging',
+                description: 'Boxes, papers, and tubes add value when present.',
+              },
+              {
+                title: 'Storage history',
+                description: 'Proper storage matters for wine especially.',
+              },
+              {
+                title: 'Authenticity',
+                description: 'We verify during inspection and will flag concerns.',
+              },
+            ].map((item) => (
+              <li key={item.title} className="flex items-start gap-3">
+                <span className="text-accent font-medium flex-shrink-0">-</span>
+                <div>
+                  <span className="font-medium text-primary">{item.title}:</span>{' '}
+                  <span className="text-secondary">{item.description}</span>
+                </div>
+              </li>
+            ))}
+          </ul>
+        </div>
+      </section>
+
+      {/* Why Proof Cellars Section */}
+      <section className="py-16 md:py-24">
+        <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+          <h2 className="text-2xl md:text-3xl font-semibold text-primary mb-8">
+            Why Proof Cellars
+          </h2>
+          <ul className="grid grid-cols-1 md:grid-cols-2 gap-6 max-w-4xl">
+            {[
+              'Direct offers with no consignment and no seller fees.',
+              'Clear process from submission to payment.',
+              'Responsive communication. We reply to every inquiry.',
+              'Your information stays private. We do not publish seller details.',
+            ].map((item) => (
+              <li key={item} className="flex items-start gap-3">
+                <svg
+                  className="h-5 w-5 text-accent flex-shrink-0 mt-0.5"
+                  fill="none"
+                  viewBox="0 0 24 24"
+                  strokeWidth="2"
+                  stroke="currentColor"
+                >
+                  <path
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                    d="M4.5 12.75l6 6 9-13.5"
+                  />
+                </svg>
+                <span className="text-secondary">{item}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+      </section>
+
+      {/* FAQ Preview Section */}
+      <section className="bg-surface py-16 md:py-24">
+        <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+          <h2 className="text-2xl md:text-3xl font-semibold text-primary mb-8">
+            Common Questions
+          </h2>
+          <div className="max-w-3xl">
+            {previewFaqs.map((faq) => (
+              <FAQItem key={faq.id} faq={faq} />
+            ))}
+            <div className="mt-8">
+              <Link
+                href="/faq"
+                className="text-accent hover:text-accent-hover font-medium transition-colors"
+              >
+                See all questions
+              </Link>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* Final CTA Section */}
+      <section className="py-16 md:py-24">
+        <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 text-center">
+          <h2 className="text-2xl md:text-3xl font-semibold text-primary">
+            Ready to sell?
+          </h2>
+          <p className="mt-4 text-lg text-secondary">
+            Get a direct offer for your bottles.
+          </p>
+          <div className="mt-8 flex flex-col sm:flex-row gap-4 justify-center items-center">
+            <CTAButton href="/get-offer">Get an Offer</CTAButton>
+            <a
+              href="sms:+12137709463"
+              className="text-secondary hover:text-primary transition-colors"
+            >
+              Or text photos to 213-770-9463
+            </a>
+          </div>
+        </div>
+      </section>
+    </>
+  );
+}

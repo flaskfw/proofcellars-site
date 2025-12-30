@@ -1,0 +1,36 @@
+{
+  "slug": "macallan",
+  "title": "Sell Macallan",
+  "metaTitle": "Sell Macallan Whisky | Proof Cellars",
+  "metaDescription": "Sell your Macallan whisky collection to Proof Cellars. We buy rare, vintage, and limited edition Macallan bottles. Direct offers with no consignment fees.",
+  "heroHeadline": "Sell Your Macallan Collection",
+  "heroSubhead": "We buy Macallan whisky directly - from rare vintages to limited editions.",
+  "introParagraph": "Macallan is one of the most collectible single malt scotch whiskies in the world. We buy Macallan bottles directly, from vintage releases to limited editions. Submit photos and details, receive an offer, and get paid after we verify your bottles - no consignment or auction fees.",
+  "categoryType": "scotch",
+  "whatWeBuy": [
+    "Macallan 18 Year and older expressions",
+    "Macallan Sherry Oak and Double Cask releases",
+    "Limited edition and special releases",
+    "Vintage Macallan bottles",
+    "Macallan Fine and Rare collection",
+    "Macallan Edition series",
+    "Older discontinued expressions"
+  ],
+  "whatWeDoNotBuy": [
+    "Opened bottles",
+    "Common current releases (12 Year standard expressions)",
+    "Heavily damaged or leaking bottles",
+    "Bottles with compromised seals",
+    "Items we cannot legally purchase in your state"
+  ],
+  "conditionNotes": "Macallan bottles are evaluated based on fill level, seal condition, label presentation, and overall bottle condition. Original packaging - boxes, tubes, and certificates - significantly impacts value for collectible releases. Vintage bottles may show appropriate age wear, but leakage or seal damage typically disqualifies a bottle.",
+  "pricingFactors": [
+    "Age statement and specific expression",
+    "Release year and rarity",
+    "Bottle and label condition",
+    "Original packaging completeness",
+    "Current market demand and recent transactions",
+    "Provenance when available"
+  ],
+  "faqSubset": ["fees", "how-to-get-offer", "pricing", "condition-issues", "authenticity", "shipping"]
+}

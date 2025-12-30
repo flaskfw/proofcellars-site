@@ -1,0 +1,36 @@
+{
+  "slug": "wine",
+  "title": "Sell Wine",
+  "metaTitle": "Sell Fine Wine | Proof Cellars",
+  "metaDescription": "Sell your fine wine collection to Proof Cellars. We buy Bordeaux, Burgundy, Napa cult wines, and more. Direct offers with no consignment fees.",
+  "heroHeadline": "Sell Your Wine Collection",
+  "heroSubhead": "We buy fine wine directly - from single bottles to full cellars.",
+  "introParagraph": "Whether you have a few bottles of sought-after Burgundy or a full cellar of Bordeaux and Napa wines, we provide direct offers with no consignment fees. Our straightforward process: submit photos and details, receive an offer, and get paid after we receive and verify your wine.",
+  "categoryType": "wine",
+  "whatWeBuy": [
+    "Bordeaux first growths and classified estates",
+    "Burgundy from premier and grand cru vineyards",
+    "Napa Valley cult wines (Screaming Eagle, Harlan, etc.)",
+    "Vintage Champagne and prestige cuvees",
+    "Italian fine wines (Barolo, Brunello, Super Tuscans)",
+    "Rhone Valley producers",
+    "Rare and collectible wines from other regions"
+  ],
+  "whatWeDoNotBuy": [
+    "Opened bottles",
+    "Wine with visible seepage or heat damage",
+    "Bottles with extremely low fill levels",
+    "Common or inexpensive wines",
+    "Items we cannot legally purchase in your state"
+  ],
+  "conditionNotes": "Wine condition is critical. Fill level should be appropriate for the wine's age. Capsules should be intact without signs of seepage. Labels should be legible, though age-appropriate wear is expected for older vintages. Storage history matters - wines stored in temperature-controlled environments are preferred. We may ask about storage conditions for valuable bottles.",
+  "pricingFactors": [
+    "Producer, vineyard, and vintage",
+    "Fill level appropriate to age",
+    "Label and capsule condition",
+    "Storage history when known",
+    "Provenance documentation if available",
+    "Current market demand and auction results"
+  ],
+  "faqSubset": ["fees", "single-or-collection", "fastest-quote", "condition-issues", "shipping", "payment"]
+}

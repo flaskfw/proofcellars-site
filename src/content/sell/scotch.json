@@ -1,0 +1,35 @@
+{
+  "slug": "scotch",
+  "title": "Sell Scotch",
+  "metaTitle": "Sell Scotch Whisky | Proof Cellars",
+  "metaDescription": "Sell your scotch whisky collection to Proof Cellars. We buy Macallan, rare single malts, and limited editions. Get a direct offer with no consignment fees.",
+  "heroHeadline": "Sell Your Scotch Collection",
+  "heroSubhead": "We buy scotch whisky directly - from rare single malts to full collections.",
+  "introParagraph": "From rare Macallan releases to vintage single malts, we purchase scotch whisky directly with no consignment fees. Submit photos and details of your bottles, receive an offer typically within one business day, and get paid after we verify your items.",
+  "categoryType": "scotch",
+  "whatWeBuy": [
+    "Macallan (especially older releases and limited editions)",
+    "Rare and vintage single malt scotch",
+    "Limited edition and special releases",
+    "Closed distillery bottles",
+    "Age-stated single malts from premium distilleries",
+    "Collectible blended scotch",
+    "Japanese whisky (select items)"
+  ],
+  "whatWeDoNotBuy": [
+    "Opened bottles",
+    "Common or widely available scotch",
+    "Heavily damaged or leaking bottles",
+    "Bottles with compromised seals or signs of tampering",
+    "Items we cannot legally purchase in your state"
+  ],
+  "conditionNotes": "Scotch whisky condition is evaluated based on fill level, seal integrity, label condition, and overall presentation. Original packaging significantly impacts value for many collectible bottles. Vintage bottles may show age-appropriate wear, but signs of leakage, tampering, or severe damage typically disqualify a bottle from consideration.",
+  "pricingFactors": [
+    "Age statement and distillery reputation",
+    "Rarity and current market demand",
+    "Bottle and packaging condition",
+    "Provenance and storage history when known",
+    "Completeness of original packaging and papers"
+  ],
+  "faqSubset": ["fees", "single-or-collection", "how-to-get-offer", "pricing", "condition-issues", "authenticity"]
+}
