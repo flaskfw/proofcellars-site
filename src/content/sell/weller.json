@@ -1,0 +1,90 @@
+{
+  "slug": "weller",
+  "title": "Sell Weller",
+  "metaTitle": "Sell W.L. Weller Bourbon | Proof Cellars",
+  "metaDescription": "Sell your Weller bourbon to Proof Cellars. We buy 12 Year, Full Proof, CYPB, Antique 107, and more. Direct offers with no fees.",
+  "heroHeadline": "Sell Your W.L. Weller Bourbon",
+  "heroSubhead": "We buy Weller directly - from allocated releases to the full lineup.",
+  "introParagraph": "W.L. Weller wheated bourbons have become highly collectible, with allocated expressions commanding significant interest. We buy Weller bottles directly, from the standard lineup to limited releases like CYPB and Single Barrel. Submit photos and details to receive an offer with no consignment fees.",
+  "categoryType": "bourbon",
+  "whatWeBuy": [
+    "W.L. Weller 12 Year",
+    "W.L. Weller Full Proof",
+    "W.L. Weller C.Y.P.B. (Craft Your Perfect Bourbon)",
+    "W.L. Weller Single Barrel",
+    "W.L. Weller Antique 107",
+    "W.L. Weller Special Reserve (older bottlings)",
+    "William Larue Weller (BTAC release)"
+  ],
+  "whatWeDoNotBuy": [
+    "Opened bottles",
+    "Current Weller Special Reserve (widely available)",
+    "Bottles with compromised seals",
+    "Leaking or heavily damaged bottles",
+    "Items we cannot legally purchase in your state"
+  ],
+  "photoChecklist": [
+    "Front label showing expression name",
+    "Back label with lot code if visible",
+    "Capsule and seal condition",
+    "Fill level visible in the bottle",
+    "Original box if available",
+    "Any damage or imperfections"
+  ],
+  "conditionFactors": [
+    "Fill level should be at or near original for maximum value",
+    "Seal must be intact with no signs of tampering",
+    "Label condition matters - clear, legible labels are preferred",
+    "Lot codes can help identify bottling date for some expressions",
+    "Original boxes add value for expressions sold with packaging",
+    "Storage history affects overall condition assessment"
+  ],
+  "pricingFactors": [
+    "Specific expression (12 Year, Full Proof, CYPB, etc.)",
+    "Bottling date and lot code when available",
+    "Condition of bottle, label, and seal",
+    "Current market demand for the expression",
+    "Presence of original packaging",
+    "Whether expression is currently in production"
+  ],
+  "faqs": [
+    {
+      "question": "Which Weller expressions do you buy?",
+      "answer": "We buy W.L. Weller 12 Year, Full Proof, CYPB, Single Barrel, Antique 107, and older Special Reserve bottlings. We also buy William Larue Weller from the BTAC collection."
+    },
+    {
+      "question": "Do you buy Weller Special Reserve?",
+      "answer": "Current Weller Special Reserve is widely available and typically does not meet our criteria. Older bottlings with vintage labels may be considered."
+    },
+    {
+      "question": "Is Weller 12 Year valuable?",
+      "answer": "Yes. Weller 12 Year is allocated and in demand. We provide competitive offers based on current market conditions."
+    },
+    {
+      "question": "What is the difference between Weller expressions?",
+      "answer": "Weller makes several wheated bourbon expressions at different ages and proofs. The 12 Year, Full Proof, and CYPB are among the most allocated and sought-after."
+    },
+    {
+      "question": "Does William Larue Weller fall under Weller or BTAC?",
+      "answer": "William Larue Weller is part of the Buffalo Trace Antique Collection (BTAC) released annually. We buy it as part of both categories."
+    },
+    {
+      "question": "How quickly will I receive an offer?",
+      "answer": "We typically respond within one business day for Weller submissions."
+    },
+    {
+      "question": "Does the box add value?",
+      "answer": "Original boxes add some value when present. Include photos of any packaging you have."
+    },
+    {
+      "question": "Can I sell multiple Weller bottles at once?",
+      "answer": "Yes. We buy single bottles as well as collections. If you have multiple expressions, submit them together for a combined offer."
+    }
+  ],
+  "relatedLinks": [
+    {"label": "Get an Offer", "href": "/get-offer"},
+    {"label": "Sell Bourbon", "href": "/sell/bourbon"},
+    {"label": "Sell BTAC", "href": "/sell/btac"},
+    {"label": "Sell Van Winkle", "href": "/sell/van-winkle"}
+  ]
+}

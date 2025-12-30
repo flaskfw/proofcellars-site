@@ -1,0 +1,90 @@
+{
+  "slug": "michters",
+  "title": "Sell Michter's",
+  "metaTitle": "Sell Michter's Whiskey | Proof Cellars",
+  "metaDescription": "Sell your Michter's whiskey to Proof Cellars. We buy 10, 20, 25 year, Celebration, and Toasted releases. Direct offers.",
+  "heroHeadline": "Sell Your Michter's Whiskey",
+  "heroSubhead": "We buy Michter's limited releases directly - aged expressions and special editions.",
+  "introParagraph": "Michter's produces highly allocated aged expressions and special releases that are sought after by collectors. We buy Michter's limited releases directly, including the 10, 20, and 25 Year expressions, Celebration Sour Mash, and Toasted Barrel releases. Submit photos and details to receive an offer.",
+  "categoryType": "bourbon",
+  "whatWeBuy": [
+    "Michter's 10 Year Bourbon and Rye",
+    "Michter's 20 Year Bourbon",
+    "Michter's 25 Year Bourbon",
+    "Michter's Celebration Sour Mash",
+    "Michter's Toasted Barrel Finish (Bourbon, Rye, Sour Mash)",
+    "Michter's Barrel Strength Rye",
+    "Limited and special releases"
+  ],
+  "whatWeDoNotBuy": [
+    "Opened bottles",
+    "Standard Michter's US*1 expressions",
+    "Bottles with compromised seals",
+    "Leaking or heavily damaged bottles",
+    "Items we cannot legally purchase in your state"
+  ],
+  "photoChecklist": [
+    "Front label showing expression and age statement",
+    "Back label with batch or bottle number",
+    "Capsule and seal condition",
+    "Fill level visible in the bottle",
+    "Original box or packaging if available",
+    "Any damage or imperfections"
+  ],
+  "conditionFactors": [
+    "Fill level should be at or near original",
+    "Seal must be intact with no signs of tampering",
+    "Label should clearly show expression and any age statement",
+    "Original boxes add significant value for aged expressions",
+    "Bottle numbers are often tracked for limited releases",
+    "Storage conditions affect overall assessment"
+  ],
+  "pricingFactors": [
+    "Expression and age statement (10, 20, or 25 year)",
+    "Specific release (Celebration, Toasted, etc.)",
+    "Bottle number if applicable",
+    "Bottle and label condition",
+    "Presence of original packaging",
+    "Current market demand"
+  ],
+  "faqs": [
+    {
+      "question": "Which Michter's expressions do you buy?",
+      "answer": "We buy Michter's limited releases including 10, 20, and 25 Year expressions, Celebration Sour Mash, Toasted Barrel releases, and Barrel Strength Rye."
+    },
+    {
+      "question": "Do you buy standard Michter's?",
+      "answer": "Standard US*1 expressions (Small Batch Bourbon, American Whiskey, etc.) are widely available and typically do not meet our criteria. We focus on limited and aged releases."
+    },
+    {
+      "question": "What is Michter's Celebration?",
+      "answer": "Michter's Celebration Sour Mash is a rare release blending their oldest barrels. It is among the most sought-after Michter's expressions."
+    },
+    {
+      "question": "Does the box add value?",
+      "answer": "Yes. Original boxes and presentation packaging add significant value, especially for aged expressions and Celebration releases."
+    },
+    {
+      "question": "Are Toasted Barrel releases collectible?",
+      "answer": "Yes. Michter's Toasted Barrel Finish expressions (Bourbon, Rye, Sour Mash) are allocated and in demand."
+    },
+    {
+      "question": "How quickly will I receive an offer?",
+      "answer": "We typically respond within one business day for Michter's submissions."
+    },
+    {
+      "question": "What affects Michter's 20 and 25 Year pricing?",
+      "answer": "Condition, original packaging, bottle number, and current market demand all affect pricing for these rare releases."
+    },
+    {
+      "question": "Can I sell multiple Michter's bottles?",
+      "answer": "Yes. We buy single bottles as well as collections of multiple expressions."
+    }
+  ],
+  "relatedLinks": [
+    {"label": "Get an Offer", "href": "/get-offer"},
+    {"label": "Sell Bourbon", "href": "/sell/bourbon"},
+    {"label": "Sell Four Roses Limited", "href": "/sell/four-roses-limited"},
+    {"label": "Sell Willett", "href": "/sell/willett"}
+  ]
+}

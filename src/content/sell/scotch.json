@@ -2,19 +2,20 @@
   "slug": "scotch",
   "title": "Sell Scotch",
   "metaTitle": "Sell Scotch Whisky | Proof Cellars",
-  "metaDescription": "Sell your scotch whisky collection to Proof Cellars. We buy Macallan, rare single malts, and limited editions. Get a direct offer with no consignment fees.",
+  "metaDescription": "Sell your scotch whisky collection to Proof Cellars. We buy Macallan, rare single malts, and limited editions. Direct offers with no fees.",
   "heroHeadline": "Sell Your Scotch Collection",
   "heroSubhead": "We buy scotch whisky directly - from rare single malts to full collections.",
-  "introParagraph": "From rare Macallan releases to vintage single malts, we purchase scotch whisky directly with no consignment fees. Submit photos and details of your bottles, receive an offer typically within one business day, and get paid after we verify your items.",
+  "introParagraph": "From rare Macallan releases to vintage single malts and limited editions, we purchase scotch whisky directly with no consignment fees. Submit photos and details of your bottles, receive an offer typically within one business day, and get paid after we verify your items.",
   "categoryType": "scotch",
   "whatWeBuy": [
-    "Macallan (especially older releases and limited editions)",
+    "Macallan aged expressions and limited editions",
+    "Springbank, Longrow, and Hazelburn releases",
+    "Islay malts (Ardbeg, Lagavulin, Bowmore)",
     "Rare and vintage single malt scotch",
-    "Limited edition and special releases",
     "Closed distillery bottles",
     "Age-stated single malts from premium distilleries",
-    "Collectible blended scotch",
-    "Japanese whisky (select items)"
+    "Limited edition and special releases",
+    "Collectible blended scotch"
   ],
   "whatWeDoNotBuy": [
     "Opened bottles",
@@ -23,13 +24,68 @@
     "Bottles with compromised seals or signs of tampering",
     "Items we cannot legally purchase in your state"
   ],
-  "conditionNotes": "Scotch whisky condition is evaluated based on fill level, seal integrity, label condition, and overall presentation. Original packaging significantly impacts value for many collectible bottles. Vintage bottles may show age-appropriate wear, but signs of leakage, tampering, or severe damage typically disqualify a bottle from consideration.",
+  "photoChecklist": [
+    "Front label showing distillery, age, and expression",
+    "Back label with batch or cask information",
+    "Capsule and closure condition",
+    "Fill level visible in the bottle",
+    "Original box, tube, or presentation case",
+    "Any damage, wear, or imperfections"
+  ],
+  "conditionFactors": [
+    "Fill level should be appropriate for the bottle's age - some evaporation is normal for older bottles",
+    "Seal integrity is critical - cork condition and capsule must show no signs of tampering",
+    "Label condition matters - vintage bottles may show age-appropriate wear",
+    "Original packaging significantly impacts value for many collectible releases",
+    "Provenance and storage history add value when documented",
+    "Cask information and bottling details help verify authenticity"
+  ],
   "pricingFactors": [
-    "Age statement and distillery reputation",
+    "Distillery reputation and region (Speyside, Islay, Highland, etc.)",
+    "Age statement and vintage year",
+    "Cask type and finishing (sherry, bourbon, wine casks)",
     "Rarity and current market demand",
     "Bottle and packaging condition",
-    "Provenance and storage history when known",
-    "Completeness of original packaging and papers"
+    "Completeness of original presentation materials"
   ],
-  "faqSubset": ["fees", "single-or-collection", "how-to-get-offer", "pricing", "condition-issues", "authenticity"]
+  "faqs": [
+    {
+      "question": "What scotch distilleries do you buy?",
+      "answer": "We buy collectible scotch from distilleries including Macallan, Springbank, Ardbeg, Lagavulin, Bowmore, and many others. Contact us with your specific bottles."
+    },
+    {
+      "question": "Do you buy Japanese whisky?",
+      "answer": "Yes. We buy collectible Japanese whisky including Yamazaki, Hibiki, Hakushu, and other sought-after expressions. See our Japanese whisky page for details."
+    },
+    {
+      "question": "How do you evaluate older scotch bottles?",
+      "answer": "We consider fill level, label condition, seal integrity, and provenance. Some evaporation is expected in older bottles. Send photos and we will assess."
+    },
+    {
+      "question": "Does the original box or tube add value?",
+      "answer": "Yes. Original packaging adds significant value for many collectible scotch releases. Include photos of any boxes, tubes, or presentation cases."
+    },
+    {
+      "question": "What if my bottle is from a closed distillery?",
+      "answer": "Bottles from closed or silent distilleries are often collectible. Send photos and details and we will evaluate based on current demand."
+    },
+    {
+      "question": "How quickly will I receive an offer?",
+      "answer": "We typically respond within one business day. For larger collections or unusual bottles, evaluation may take slightly longer."
+    },
+    {
+      "question": "Do you buy blended scotch?",
+      "answer": "We focus on single malts and rare blends. Common blended scotch typically does not meet our criteria, but limited editions and older blends may be considered."
+    },
+    {
+      "question": "Can I sell scotch from any state?",
+      "answer": "We can only purchase where legally permitted. We will confirm whether we can proceed based on your location after reviewing your submission."
+    }
+  ],
+  "relatedLinks": [
+    {"label": "Get an Offer", "href": "/get-offer"},
+    {"label": "Sell Macallan", "href": "/sell/macallan"},
+    {"label": "Sell Japanese Whisky", "href": "/sell/japanese-whisky"},
+    {"label": "Sell Ardbeg", "href": "/sell/ardbeg"}
+  ]
 }

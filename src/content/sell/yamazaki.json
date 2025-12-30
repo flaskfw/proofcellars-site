@@ -1,0 +1,89 @@
+{
+  "slug": "yamazaki",
+  "title": "Sell Yamazaki",
+  "metaTitle": "Sell Yamazaki Whisky | Proof Cellars",
+  "metaDescription": "Sell your Yamazaki whisky to Proof Cellars. We buy 12, 18, 25 year, Limited Edition, and Sherry Cask. Direct offers.",
+  "heroHeadline": "Sell Your Yamazaki Whisky",
+  "heroSubhead": "We buy Yamazaki directly - from 12 Year to rare limited editions.",
+  "introParagraph": "Yamazaki is Japan's first and most iconic single malt whisky distillery. We buy Yamazaki directly, including aged expressions and limited releases like the Sherry Cask. Submit photos and details to receive an offer with no consignment fees.",
+  "categoryType": "scotch",
+  "whatWeBuy": [
+    "Yamazaki 12 Year",
+    "Yamazaki 18 Year",
+    "Yamazaki 25 Year",
+    "Yamazaki Limited Edition releases",
+    "Yamazaki Sherry Cask releases",
+    "Yamazaki Mizunara and other cask finishes"
+  ],
+  "whatWeDoNotBuy": [
+    "Opened bottles",
+    "Bottles with compromised seals",
+    "Leaking or heavily damaged bottles",
+    "Suspected counterfeit bottles",
+    "Items we cannot legally purchase in your state"
+  ],
+  "photoChecklist": [
+    "Front label showing age statement or edition",
+    "Back label with production details",
+    "Capsule and closure condition",
+    "Fill level visible in the bottle",
+    "Original box or presentation case",
+    "Any damage or imperfections"
+  ],
+  "conditionFactors": [
+    "Fill level should be at or near original",
+    "Seal must be intact - counterfeiting is a concern",
+    "Label should clearly show expression details",
+    "Original boxes add significant value",
+    "Limited edition documentation is helpful",
+    "Bottle condition affects collectibility"
+  ],
+  "pricingFactors": [
+    "Age statement (12, 18, or 25 year)",
+    "Limited edition or special release status",
+    "Cask type (Sherry, Mizunara, etc.)",
+    "Bottle and packaging condition",
+    "Presence of original box",
+    "Current market demand"
+  ],
+  "faqs": [
+    {
+      "question": "Which Yamazaki expressions do you buy?",
+      "answer": "We buy Yamazaki 12, 18, and 25 Year expressions, Limited Editions, Sherry Cask releases, and other special bottlings."
+    },
+    {
+      "question": "Is Yamazaki 12 Year valuable?",
+      "answer": "Yes. Yamazaki 12 Year has become allocated and in demand. Current availability affects pricing."
+    },
+    {
+      "question": "What is Yamazaki Sherry Cask?",
+      "answer": "Yamazaki Sherry Cask editions are aged or finished in sherry casks. These limited releases gained worldwide acclaim and are highly collectible."
+    },
+    {
+      "question": "Do you verify Yamazaki authenticity?",
+      "answer": "Yes. Japanese whisky has high counterfeiting rates. We carefully review photos and conduct full verification during physical inspection."
+    },
+    {
+      "question": "Does the box add value?",
+      "answer": "Yes. Original boxes add significant value for Yamazaki, especially for aged expressions and limited releases."
+    },
+    {
+      "question": "How quickly will I receive an offer?",
+      "answer": "We typically respond within one business day for Yamazaki submissions."
+    },
+    {
+      "question": "What is Yamazaki Mizunara?",
+      "answer": "Yamazaki has released expressions aged or finished in Japanese Mizunara oak. These are rare and collectible."
+    },
+    {
+      "question": "Why is aged Yamazaki so scarce?",
+      "answer": "Japanese whisky production was not planned for current global demand. Limited stock of aged whisky has driven scarcity and collector interest."
+    }
+  ],
+  "relatedLinks": [
+    {"label": "Get an Offer", "href": "/get-offer"},
+    {"label": "Sell Hibiki", "href": "/sell/hibiki"},
+    {"label": "Sell Japanese Whisky", "href": "/sell/japanese-whisky"},
+    {"label": "Sell Scotch", "href": "/sell/scotch"}
+  ]
+}

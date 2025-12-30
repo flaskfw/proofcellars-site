@@ -1,0 +1,89 @@
+{
+  "slug": "springbank",
+  "title": "Sell Springbank",
+  "metaTitle": "Sell Springbank Whisky | Proof Cellars",
+  "metaDescription": "Sell your Springbank whisky to Proof Cellars. We buy Springbank, Longrow, Hazelburn, and limited releases. Direct offers.",
+  "heroHeadline": "Sell Your Springbank Whisky",
+  "heroSubhead": "We buy Springbank, Longrow, and Hazelburn directly - all expressions.",
+  "introParagraph": "Springbank Distillery in Campbeltown produces three distinct whisky styles: Springbank, Longrow, and Hazelburn. All three are sought after by collectors. We buy these whiskies directly, including aged expressions and limited releases. Submit photos and details to receive an offer.",
+  "categoryType": "scotch",
+  "whatWeBuy": [
+    "Springbank aged expressions (15, 18, 21, 25 year and older)",
+    "Springbank Local Barley releases",
+    "Longrow all expressions including Red and peated releases",
+    "Hazelburn aged expressions",
+    "Campbeltown Loch and other distillery releases",
+    "Older and vintage Springbank bottlings"
+  ],
+  "whatWeDoNotBuy": [
+    "Opened bottles",
+    "Standard Springbank 10 Year (depending on availability)",
+    "Bottles with compromised seals",
+    "Leaking or heavily damaged bottles",
+    "Items we cannot legally purchase in your state"
+  ],
+  "photoChecklist": [
+    "Front label showing expression and age statement",
+    "Back label with bottling information",
+    "Capsule and closure condition",
+    "Fill level visible in the bottle",
+    "Original box or tube if available",
+    "Any damage or imperfections"
+  ],
+  "conditionFactors": [
+    "Fill level should be appropriate for the bottle's age",
+    "Seal must be intact with no signs of tampering",
+    "Label condition matters - bottling details should be legible",
+    "Original tubes and boxes add meaningful value",
+    "Local Barley and limited releases require documentation",
+    "Older bottles may show age-appropriate wear"
+  ],
+  "pricingFactors": [
+    "Brand (Springbank, Longrow, or Hazelburn)",
+    "Age statement and specific expression",
+    "Local Barley or special release status",
+    "Bottle and label condition",
+    "Presence of original packaging",
+    "Current market demand"
+  ],
+  "faqs": [
+    {
+      "question": "What Springbank expressions do you buy?",
+      "answer": "We buy Springbank, Longrow, and Hazelburn expressions, focusing on aged and limited releases. Higher age statements and special releases like Local Barley are of particular interest."
+    },
+    {
+      "question": "What is the difference between Springbank, Longrow, and Hazelburn?",
+      "answer": "All three are made at Springbank Distillery. Springbank is lightly peated, Longrow is heavily peated, and Hazelburn is unpeated. Each has distinct flavor profiles."
+    },
+    {
+      "question": "What are Local Barley releases?",
+      "answer": "Springbank Local Barley releases use barley grown on specific local farms. These limited releases are highly collectible."
+    },
+    {
+      "question": "Does the tube add value?",
+      "answer": "Yes. Original tubes add value for Springbank releases. Include photos of any original packaging."
+    },
+    {
+      "question": "Are older Springbank bottles valuable?",
+      "answer": "Yes. Older and vintage Springbank bottlings, especially higher age statements and earlier bottlings, are often collectible."
+    },
+    {
+      "question": "How quickly will I receive an offer?",
+      "answer": "We typically respond within one business day for Springbank submissions."
+    },
+    {
+      "question": "Do you buy Longrow Red releases?",
+      "answer": "Yes. Longrow Red releases, finished in various wine casks, are collectible. Send photos and details."
+    },
+    {
+      "question": "What age statements are most valuable?",
+      "answer": "Higher age statements generally command higher prices. The 18, 21, and 25 year expressions are particularly sought after."
+    }
+  ],
+  "relatedLinks": [
+    {"label": "Get an Offer", "href": "/get-offer"},
+    {"label": "Sell Scotch", "href": "/sell/scotch"},
+    {"label": "Sell Ardbeg", "href": "/sell/ardbeg"},
+    {"label": "Sell Lagavulin", "href": "/sell/lagavulin"}
+  ]
+}

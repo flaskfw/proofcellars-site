@@ -20,7 +20,7 @@ export default function Header() {
           {/* Desktop Navigation */}
           <div className="hidden md:flex md:items-center md:space-x-8">
             <Link
-              href="/#what-we-buy"
+              href="/sell"
               className="text-secondary hover:text-primary transition-colors"
             >
               What We Buy
@@ -92,7 +92,7 @@ export default function Header() {
           <div className="md:hidden border-t border-border py-4">
             <div className="flex flex-col space-y-4">
               <Link
-                href="/#what-we-buy"
+                href="/sell"
                 className="text-secondary hover:text-primary transition-colors"
                 onClick={() => setMobileMenuOpen(false)}
               >

@@ -1,0 +1,87 @@
+{
+  "slug": "stagg",
+  "title": "Sell Stagg",
+  "metaTitle": "Sell George T. Stagg and Stagg Jr. | Proof Cellars",
+  "metaDescription": "Sell your Stagg bourbon to Proof Cellars. We buy George T. Stagg (BTAC) and Stagg Jr. all batches. Direct offers with no fees.",
+  "heroHeadline": "Sell Your Stagg Bourbon",
+  "heroSubhead": "We buy George T. Stagg and Stagg Jr. directly - all release years and batches.",
+  "introParagraph": "Stagg bourbons are prized for their barrel-proof intensity. We buy both George T. Stagg from the annual BTAC release and Stagg Jr. (now called Stagg) from all batch releases. Submit photos and details to receive a direct offer with no consignment fees.",
+  "categoryType": "bourbon",
+  "whatWeBuy": [
+    "George T. Stagg (BTAC, all release years)",
+    "Stagg Jr. all batch releases",
+    "Stagg (current naming, all batches)",
+    "Older George T. Stagg with vintage packaging"
+  ],
+  "whatWeDoNotBuy": [
+    "Opened bottles",
+    "Bottles with compromised seals",
+    "Leaking or heavily damaged bottles",
+    "Counterfeit or suspected counterfeit bottles",
+    "Items we cannot legally purchase in your state"
+  ],
+  "photoChecklist": [
+    "Front label showing batch number and proof",
+    "Back label with additional details",
+    "Capsule and seal condition",
+    "Fill level visible in the bottle",
+    "Original tube or box if available",
+    "Any damage or imperfections"
+  ],
+  "conditionFactors": [
+    "Fill level is important - barrel proof bottles should show minimal evaporation",
+    "Seal integrity must be intact - high proof whiskey is sensitive to tampering signs",
+    "Batch number and proof should be clearly visible on label",
+    "Original tubes add value for George T. Stagg",
+    "Storage conditions matter - barrel proof bourbon benefits from proper storage",
+    "Release year and batch number help identify specific releases"
+  ],
+  "pricingFactors": [
+    "Expression (George T. Stagg vs Stagg Jr./Stagg)",
+    "Release year or batch number",
+    "Proof (varies by release)",
+    "Bottle and label condition",
+    "Presence of original packaging",
+    "Market demand for specific batches"
+  ],
+  "faqs": [
+    {
+      "question": "What is the difference between George T. Stagg and Stagg Jr.?",
+      "answer": "George T. Stagg is the annual BTAC release, typically aged longer and released once per year. Stagg Jr. (now just called Stagg) is released in batches throughout the year and is more available, though still allocated."
+    },
+    {
+      "question": "Which Stagg batches are most valuable?",
+      "answer": "Value varies by batch depending on proof, reviews, and availability. We evaluate each batch based on current market demand."
+    },
+    {
+      "question": "How do I identify my Stagg Jr. batch?",
+      "answer": "The batch number is printed on the label, typically in a format like Batch 1 or with a numerical identifier. The proof also varies by batch."
+    },
+    {
+      "question": "Does the tube add value?",
+      "answer": "Yes. Original tubes add value for George T. Stagg releases. Stagg Jr. does not typically come with a tube."
+    },
+    {
+      "question": "Why did Stagg Jr. become just Stagg?",
+      "answer": "Buffalo Trace renamed Stagg Jr. to Stagg starting in 2023. Both names refer to the same product line, and we buy all releases under either name."
+    },
+    {
+      "question": "How quickly will I receive an offer?",
+      "answer": "We typically respond within one business day for Stagg submissions."
+    },
+    {
+      "question": "Do you verify authenticity?",
+      "answer": "Yes. We review photos for authenticity indicators and conduct full verification during physical inspection."
+    },
+    {
+      "question": "Can I sell multiple Stagg bottles together?",
+      "answer": "Yes. We buy single bottles as well as collections of multiple batches or years."
+    }
+  ],
+  "relatedLinks": [
+    {"label": "Get an Offer", "href": "/get-offer"},
+    {"label": "Sell Bourbon", "href": "/sell/bourbon"},
+    {"label": "Sell BTAC", "href": "/sell/btac"},
+    {"label": "Sell Weller", "href": "/sell/weller"}
+  ]
+}

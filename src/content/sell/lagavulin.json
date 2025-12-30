@@ -1,0 +1,89 @@
+{
+  "slug": "lagavulin",
+  "title": "Sell Lagavulin",
+  "metaTitle": "Sell Lagavulin Whisky | Proof Cellars",
+  "metaDescription": "Sell your Lagavulin whisky to Proof Cellars. We buy 16, 12 cask strength, Distillers Edition, and special releases. Direct offers.",
+  "heroHeadline": "Sell Your Lagavulin Whisky",
+  "heroSubhead": "We buy Lagavulin directly - from standard releases to rare editions.",
+  "introParagraph": "Lagavulin is one of Islay's most iconic distilleries, known for intensely peated single malts. We buy Lagavulin directly, including the 16 Year, cask strength releases, Distillers Editions, and special releases. Submit photos and details to receive an offer.",
+  "categoryType": "scotch",
+  "whatWeBuy": [
+    "Lagavulin 16 Year (especially older bottlings)",
+    "Lagavulin 12 Year Cask Strength (all releases)",
+    "Lagavulin Distillers Edition (various years)",
+    "Lagavulin 8 Year 200th Anniversary",
+    "Special Releases and limited editions",
+    "Older Lagavulin with vintage packaging"
+  ],
+  "whatWeDoNotBuy": [
+    "Opened bottles",
+    "Current standard releases widely available",
+    "Bottles with compromised seals",
+    "Leaking or heavily damaged bottles",
+    "Items we cannot legally purchase in your state"
+  ],
+  "photoChecklist": [
+    "Front label showing expression and age",
+    "Back label with bottling details",
+    "Capsule and closure condition",
+    "Fill level visible in the bottle",
+    "Original box or tube if available",
+    "Any damage or imperfections"
+  ],
+  "conditionFactors": [
+    "Fill level should be at or near original",
+    "Seal must be intact with no signs of tampering",
+    "Label should clearly show expression details",
+    "Original boxes add value for special releases",
+    "Cask strength bottles should show batch information",
+    "Vintage releases require careful assessment"
+  ],
+  "pricingFactors": [
+    "Expression (16 Year, 12 Cask Strength, Distillers Edition)",
+    "Release year or batch number",
+    "Special release or limited edition status",
+    "Bottle and label condition",
+    "Presence of original packaging",
+    "Current market demand"
+  ],
+  "faqs": [
+    {
+      "question": "Which Lagavulin expressions do you buy?",
+      "answer": "We buy Lagavulin 16 Year, 12 Year Cask Strength, Distillers Edition, anniversary releases, and other limited editions. Availability of standard releases affects whether we can offer on them."
+    },
+    {
+      "question": "Is Lagavulin 12 Cask Strength collectible?",
+      "answer": "Yes. The annual 12 Year Cask Strength release is a Special Release that varies in character each year and is sought after by collectors."
+    },
+    {
+      "question": "Do older Lagavulin 16 bottles have value?",
+      "answer": "Older Lagavulin 16 Year bottles with vintage labels and packaging can be collectible. Send photos and we will evaluate."
+    },
+    {
+      "question": "What is the Distillers Edition?",
+      "answer": "Lagavulin Distillers Edition features sherry cask finishing. Different years have different vintage dates and finish styles."
+    },
+    {
+      "question": "Does the box add value?",
+      "answer": "Yes. Original boxes add value, especially for special releases and older bottlings."
+    },
+    {
+      "question": "How quickly will I receive an offer?",
+      "answer": "We typically respond within one business day for Lagavulin submissions."
+    },
+    {
+      "question": "What was the 200th Anniversary release?",
+      "answer": "The Lagavulin 8 Year was released for the distillery's 200th anniversary in 2016 and has become a regular expression. Anniversary editions may have collectible value."
+    },
+    {
+      "question": "Do you buy Diageo Special Releases?",
+      "answer": "Yes. Lagavulin releases within the annual Diageo Special Releases program are collectible. Send photos of any special release bottles."
+    }
+  ],
+  "relatedLinks": [
+    {"label": "Get an Offer", "href": "/get-offer"},
+    {"label": "Sell Scotch", "href": "/sell/scotch"},
+    {"label": "Sell Ardbeg", "href": "/sell/ardbeg"},
+    {"label": "Sell Bowmore", "href": "/sell/bowmore"}
+  ]
+}

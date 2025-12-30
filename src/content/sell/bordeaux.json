@@ -1,0 +1,91 @@
+{
+  "slug": "bordeaux",
+  "title": "Sell Bordeaux",
+  "metaTitle": "Sell Bordeaux Wine | Proof Cellars",
+  "metaDescription": "Sell your Bordeaux wine collection to Proof Cellars. We buy first growths, classified estates, and Right Bank collectibles. Direct offers.",
+  "heroHeadline": "Sell Your Bordeaux Collection",
+  "heroSubhead": "We buy Bordeaux directly - from first growths to classified estates.",
+  "introParagraph": "Bordeaux produces some of the world's most collectible wines. We buy Bordeaux directly, from first growth estates like Lafite, Margaux, and Petrus to classified growths and Right Bank producers. Submit photos and details to receive an offer with no consignment fees.",
+  "categoryType": "wine",
+  "whatWeBuy": [
+    "First growths (Lafite, Latour, Margaux, Mouton, Haut-Brion)",
+    "Petrus and Le Pin",
+    "Super seconds (Leoville Las Cases, Palmer, Cos d'Estournel)",
+    "Classified growths from Left and Right Bank",
+    "Saint-Emilion grands crus classes",
+    "Pomerol estates",
+    "Vintage Sauternes (Yquem, Climens, Rieussec)"
+  ],
+  "whatWeDoNotBuy": [
+    "Opened bottles",
+    "Wines with visible seepage or heat damage",
+    "Bottles with extremely low fill levels",
+    "Lesser vintages from non-classified estates",
+    "Wines from unknown or poor storage conditions",
+    "Items we cannot legally purchase in your state"
+  ],
+  "photoChecklist": [
+    "Front label showing chateau, vintage, and appellation",
+    "Back label if present",
+    "Capsule condition showing no leakage",
+    "Fill level visible in the bottle neck",
+    "Original wood case if applicable",
+    "Any damage, staining, or condition issues"
+  ],
+  "conditionFactors": [
+    "Fill level must be appropriate for the vintage - high shoulder or better for most wines",
+    "Capsule must show no signs of seepage or leakage",
+    "Label condition matters - staining and damage reduce value",
+    "Storage history is important - provenance documentation adds value",
+    "Original wood cases (OWC) add meaningful value",
+    "Vintage quality affects pricing significantly"
+  ],
+  "pricingFactors": [
+    "Chateau reputation and classification",
+    "Vintage year and quality",
+    "Bottle condition and fill level",
+    "Provenance and storage documentation",
+    "Original wood case status",
+    "Current market demand for that producer and vintage"
+  ],
+  "faqs": [
+    {
+      "question": "Which Bordeaux chateaux do you buy?",
+      "answer": "We buy first growths, super seconds, classified growths, and collectible Right Bank producers. Contact us with your specific wines for evaluation."
+    },
+    {
+      "question": "Do you buy full cases of Bordeaux?",
+      "answer": "Yes. We buy single bottles as well as full cases. Original wood cases (OWC) add value."
+    },
+    {
+      "question": "How important is vintage quality for Bordeaux?",
+      "answer": "Vintage quality significantly affects value. Great vintages from top chateaux command premium prices."
+    },
+    {
+      "question": "What fill levels are acceptable?",
+      "answer": "For younger wines, into neck is expected. Older wines may show some ullage. High shoulder or better is generally acceptable for mature vintages."
+    },
+    {
+      "question": "Does the original wood case add value?",
+      "answer": "Yes. Original wood cases add value, especially for first growths and collectible estates."
+    },
+    {
+      "question": "How quickly will I receive an offer?",
+      "answer": "We typically respond within one business day. Larger cellars may take slightly longer to evaluate."
+    },
+    {
+      "question": "Do you buy Sauternes?",
+      "answer": "Yes. We buy collectible Sauternes including Chateau d'Yquem and other premier estates."
+    },
+    {
+      "question": "What is provenance and why does it matter?",
+      "answer": "Provenance documents the wine's ownership and storage history. Proper storage in temperature-controlled conditions adds confidence and value."
+    }
+  ],
+  "relatedLinks": [
+    {"label": "Get an Offer", "href": "/get-offer"},
+    {"label": "Sell Wine", "href": "/sell/wine"},
+    {"label": "Sell Burgundy", "href": "/sell/burgundy"},
+    {"label": "Sell Wine Collection", "href": "/sell/wine-collection"}
+  ]
+}

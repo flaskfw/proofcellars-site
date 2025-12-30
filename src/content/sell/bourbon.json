@@ -2,34 +2,92 @@
   "slug": "bourbon",
   "title": "Sell Bourbon",
   "metaTitle": "Sell Bourbon | Proof Cellars",
-  "metaDescription": "Sell your bourbon collection directly to Proof Cellars. We buy Pappy Van Winkle, BTAC, allocated releases, and more. Get a direct offer with no fees.",
+  "metaDescription": "Sell your bourbon collection directly to Proof Cellars. We buy allocated releases, limited editions, and collectible American whiskey. No fees.",
   "heroHeadline": "Sell Your Bourbon Collection",
   "heroSubhead": "We buy bourbon directly - from single allocated bottles to full collections.",
-  "introParagraph": "Whether you have a single bottle of Pappy Van Winkle or a collection of allocated releases, we provide direct offers with no consignment fees. Our process is straightforward: submit photos and details, receive an offer, and get paid after we receive and verify your bottles.",
+  "introParagraph": "Whether you have a single bottle of allocated bourbon or a collection of limited releases, we provide direct offers with no consignment fees. Our process is straightforward: submit photos and details, receive an offer typically within one business day, and get paid after we receive and verify your bottles.",
   "categoryType": "bourbon",
   "whatWeBuy": [
-    "Pappy Van Winkle (all expressions and ages)",
+    "Van Winkle family (Old Rip, Lot B, 15, 20, 23 year)",
     "Buffalo Trace Antique Collection (BTAC)",
-    "Old Rip Van Winkle",
-    "Allocated and limited release bourbons",
-    "Vintage and discontinued American whiskey",
-    "Single barrel selections from premium distilleries",
-    "Rare and collectible bourbon releases"
+    "W.L. Weller allocated expressions",
+    "Blanton's limited releases",
+    "George T. Stagg and Stagg Jr.",
+    "Eagle Rare 17 Year",
+    "Four Roses Limited Edition releases",
+    "Michter's limited and aged expressions",
+    "Willett Family Estate bottles",
+    "Other allocated and collectible American whiskey"
   ],
   "whatWeDoNotBuy": [
     "Opened bottles",
-    "Common shelf bourbons",
+    "Common shelf bourbons widely available at retail",
     "Heavily damaged or leaking bottles",
     "Bottles with compromised seals",
     "Items we cannot legally purchase in your state"
   ],
-  "conditionNotes": "Bourbon condition is assessed based on fill level, seal integrity, and label condition. Original packaging - tubes, boxes, and papers - adds value when present. Signs of tampering, leakage, or significant damage typically disqualify a bottle. Minor label wear or scuffing usually reduces value but does not automatically disqualify.",
-  "pricingFactors": [
-    "Current secondary market demand and transaction history",
-    "Bottle condition including seal, fill level, and labels",
-    "Presence of original packaging (box, tube, papers)",
-    "Expression, age statement, and release year",
-    "Rarity and availability in the current market"
+  "photoChecklist": [
+    "Front label showing brand, expression, and age statement",
+    "Back label with any lot or batch codes",
+    "Capsule and seal showing it is intact",
+    "Fill level visible against a light source",
+    "Original box or packaging if available",
+    "Any flaws, damage, or imperfections"
   ],
-  "faqSubset": ["fees", "single-or-collection", "how-to-get-offer", "offer-time", "condition-issues", "shipping"]
+  "conditionFactors": [
+    "Fill level is critical - bottles should be at or near original fill",
+    "Seal integrity matters - intact seals with no signs of tampering",
+    "Label condition affects value - tears, stains, or fading reduce offers",
+    "Original packaging (boxes, tubes, bags) adds value when present",
+    "Storage conditions - bottles stored properly maintain better value",
+    "Tax stamps and lot codes help verify authenticity and dating"
+  ],
+  "pricingFactors": [
+    "Brand reputation and rarity of the specific expression",
+    "Age statement and proof",
+    "Release year and batch number when applicable",
+    "Current secondary market demand",
+    "Bottle and packaging condition",
+    "Completeness of original packaging and paperwork"
+  ],
+  "faqs": [
+    {
+      "question": "What bourbon brands do you buy?",
+      "answer": "We buy allocated and collectible bourbon from distilleries including Buffalo Trace (Van Winkle, BTAC, Weller, Blanton's, Stagg), Four Roses, Michter's, Willett, and others. Contact us with your specific bottles."
+    },
+    {
+      "question": "Do you buy common bourbon like Maker's Mark or Buffalo Trace?",
+      "answer": "We focus on allocated, limited edition, and collectible bourbon. Standard expressions widely available at retail typically do not meet our buying criteria."
+    },
+    {
+      "question": "How do I get an offer for my bourbon?",
+      "answer": "Submit photos and a bottle list through our Get an Offer form, or text photos directly to 213-770-9463. We typically respond within one business day."
+    },
+    {
+      "question": "Does the original box matter?",
+      "answer": "Yes. Original boxes, tubes, and packaging add value for many collectible bourbons. Include photos of any packaging you have."
+    },
+    {
+      "question": "What condition issues disqualify a bottle?",
+      "answer": "Opened bottles, compromised seals, significant leakage, and severe damage typically disqualify bottles. Minor cosmetic issues usually reduce value but do not disqualify."
+    },
+    {
+      "question": "How long does the process take?",
+      "answer": "We provide offers within one business day. If you accept, we coordinate shipping or drop-off, then issue payment after inspection. The full process typically takes one to two weeks."
+    },
+    {
+      "question": "Can I sell bourbon from any state?",
+      "answer": "We can only purchase where legally permitted. After reviewing your submission, we will confirm whether we can proceed based on your location."
+    },
+    {
+      "question": "Do you charge any fees?",
+      "answer": "No. We make direct offers with no seller fees, no consignment commissions, and no hidden costs."
+    }
+  ],
+  "relatedLinks": [
+    {"label": "Get an Offer", "href": "/get-offer"},
+    {"label": "Sell Van Winkle", "href": "/sell/van-winkle"},
+    {"label": "Sell BTAC", "href": "/sell/btac"},
+    {"label": "Sell Blanton's", "href": "/sell/blantons"}
+  ]
 }

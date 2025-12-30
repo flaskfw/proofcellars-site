@@ -1,0 +1,91 @@
+{
+  "slug": "burgundy",
+  "title": "Sell Burgundy",
+  "metaTitle": "Sell Burgundy Wine | Proof Cellars",
+  "metaDescription": "Sell your Burgundy wine to Proof Cellars. We buy DRC, Leroy, Rousseau, and other grand cru producers. Direct offers with no fees.",
+  "heroHeadline": "Sell Your Burgundy Collection",
+  "heroSubhead": "We buy Burgundy directly - from grand cru to premier cru.",
+  "introParagraph": "Burgundy wines from top producers are among the most sought-after in the world. We buy Burgundy directly, including Domaine de la Romanee-Conti (DRC), Leroy, Rousseau, and other grand cru and premier cru wines. Submit photos and details to receive an offer.",
+  "categoryType": "wine",
+  "whatWeBuy": [
+    "Domaine de la Romanee-Conti (all wines)",
+    "Leroy and Domaine Leroy",
+    "Domaine Armand Rousseau",
+    "Georges Roumier",
+    "Henri Jayer and related domaines",
+    "Grand cru Burgundy from recognized producers",
+    "Premier cru from top domaines"
+  ],
+  "whatWeDoNotBuy": [
+    "Opened bottles",
+    "Wines with visible seepage or cork issues",
+    "Bottles with very low fill levels",
+    "Village level wines from lesser producers",
+    "Wines from unknown storage conditions",
+    "Items we cannot legally purchase in your state"
+  ],
+  "photoChecklist": [
+    "Front label showing producer, vineyard, and vintage",
+    "Back label if present",
+    "Capsule condition and any seepage signs",
+    "Fill level visible in the bottle",
+    "Original box or case if available",
+    "Any damage, staining, or condition issues"
+  ],
+  "conditionFactors": [
+    "Fill level is critical - Burgundy is particularly sensitive to storage",
+    "Capsule must show no signs of seepage or leakage",
+    "Label condition matters for collectible producers",
+    "Storage history is very important for Burgundy",
+    "Cork condition affects value for older bottles",
+    "Provenance documentation strengthens value significantly"
+  ],
+  "pricingFactors": [
+    "Producer reputation",
+    "Vineyard classification (grand cru, premier cru, village)",
+    "Vintage quality",
+    "Bottle condition and fill level",
+    "Storage history and provenance",
+    "Current market demand"
+  ],
+  "faqs": [
+    {
+      "question": "Which Burgundy producers do you buy?",
+      "answer": "We buy from top producers including DRC, Leroy, Rousseau, Roumier, Jayer, and other recognized grand cru and premier cru domaines."
+    },
+    {
+      "question": "Do you buy DRC?",
+      "answer": "Yes. We buy all Domaine de la Romanee-Conti wines including Romanee-Conti, La Tache, Richebourg, and the full range. These are highly sought after."
+    },
+    {
+      "question": "How important is storage history for Burgundy?",
+      "answer": "Very important. Burgundy is sensitive to storage conditions. Documentation of proper cellar storage significantly strengthens value."
+    },
+    {
+      "question": "What fill levels are acceptable?",
+      "answer": "Acceptable fill depends on the wine's age. Recent vintages should show into neck. Older wines may show some natural ullage."
+    },
+    {
+      "question": "Do you buy white Burgundy?",
+      "answer": "Yes. We buy collectible white Burgundy from grand cru vineyards like Montrachet and Corton-Charlemagne from recognized producers."
+    },
+    {
+      "question": "How quickly will I receive an offer?",
+      "answer": "We typically respond within one business day for Burgundy submissions."
+    },
+    {
+      "question": "What makes Burgundy so collectible?",
+      "answer": "Limited production from small vineyards, combined with exceptional quality and global demand, makes top Burgundy highly collectible."
+    },
+    {
+      "question": "Do you verify Burgundy authenticity?",
+      "answer": "Yes. We review photos for authenticity indicators and conduct full verification during physical inspection."
+    }
+  ],
+  "relatedLinks": [
+    {"label": "Get an Offer", "href": "/get-offer"},
+    {"label": "Sell Wine", "href": "/sell/wine"},
+    {"label": "Sell Bordeaux", "href": "/sell/bordeaux"},
+    {"label": "Sell Wine Collection", "href": "/sell/wine-collection"}
+  ]
+}

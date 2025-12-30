@@ -1,0 +1,89 @@
+{
+  "slug": "four-roses-limited",
+  "title": "Sell Four Roses Limited",
+  "metaTitle": "Sell Four Roses Limited Edition | Proof Cellars",
+  "metaDescription": "Sell your Four Roses Limited Edition bourbon to Proof Cellars. We buy LESB, LESMB, and special releases. Direct offers.",
+  "heroHeadline": "Sell Your Four Roses Limited Edition Bourbon",
+  "heroSubhead": "We buy Four Roses limited releases directly - Small Batch and Single Barrel editions.",
+  "introParagraph": "Four Roses releases annual Limited Edition Small Batch (LESB) and Limited Edition Single Barrel (LESMB) expressions that are highly collectible. We buy these limited releases directly, along with special bottlings and older expressions. Submit photos and details to receive an offer.",
+  "categoryType": "bourbon",
+  "whatWeBuy": [
+    "Four Roses Limited Edition Small Batch (LESB, all years)",
+    "Four Roses Limited Edition Single Barrel (all years)",
+    "Four Roses Al Young Anniversary releases",
+    "Four Roses Mariage Collection",
+    "Gift shop and distillery exclusive releases",
+    "Older Four Roses with vintage packaging"
+  ],
+  "whatWeDoNotBuy": [
+    "Opened bottles",
+    "Standard Four Roses Yellow Label or Small Batch",
+    "Bottles with compromised seals",
+    "Leaking or heavily damaged bottles",
+    "Items we cannot legally purchase in your state"
+  ],
+  "photoChecklist": [
+    "Front label showing release year and edition",
+    "Back label with recipe codes if visible",
+    "Capsule and seal condition",
+    "Fill level visible in the bottle",
+    "Original box or packaging if available",
+    "Any damage or imperfections"
+  ],
+  "conditionFactors": [
+    "Fill level should be at or near original",
+    "Seal must be intact with no signs of tampering",
+    "Label should clearly show the release year and edition",
+    "Original boxes add meaningful value for limited releases",
+    "Recipe codes (like OBSV, OESF) are noted when evaluating",
+    "Bottle condition matters - scratches or damage reduce value"
+  ],
+  "pricingFactors": [
+    "Release year and specific edition",
+    "Recipe blend or single barrel recipe code",
+    "Anniversary or special release status",
+    "Bottle and label condition",
+    "Presence of original packaging",
+    "Current market demand for that release"
+  ],
+  "faqs": [
+    {
+      "question": "What Four Roses releases do you buy?",
+      "answer": "We buy Limited Edition Small Batch (LESB), Limited Edition Single Barrel, anniversary releases like Al Young editions, and other special or distillery exclusive bottlings."
+    },
+    {
+      "question": "Do you buy standard Four Roses?",
+      "answer": "Standard Four Roses Yellow Label and regular Small Batch are widely available and typically do not meet our criteria. We focus on limited and allocated releases."
+    },
+    {
+      "question": "What are Four Roses recipe codes?",
+      "answer": "Four Roses uses a coding system (like OBSV, OESF, OBSK) to identify yeast strains and mashbills. Limited releases often highlight specific recipes. Include any visible recipe information."
+    },
+    {
+      "question": "Does the original box add value?",
+      "answer": "Yes. Original boxes and packaging add meaningful value for Four Roses limited releases. Include photos of any packaging."
+    },
+    {
+      "question": "Which years are most valuable?",
+      "answer": "Value varies by release year based on critical acclaim and availability. We evaluate each release based on current market demand."
+    },
+    {
+      "question": "How quickly will I receive an offer?",
+      "answer": "We typically respond within one business day for Four Roses limited release submissions."
+    },
+    {
+      "question": "Do you buy gift shop releases?",
+      "answer": "Yes. Four Roses gift shop and distillery exclusive releases are often collectible. Send photos and details."
+    },
+    {
+      "question": "What are anniversary releases?",
+      "answer": "Four Roses has released special editions for anniversaries, including the Al Young 50th Anniversary. These limited releases are collectible."
+    }
+  ],
+  "relatedLinks": [
+    {"label": "Get an Offer", "href": "/get-offer"},
+    {"label": "Sell Bourbon", "href": "/sell/bourbon"},
+    {"label": "Sell Willett", "href": "/sell/willett"},
+    {"label": "Sell Michter's", "href": "/sell/michters"}
+  ]
+}

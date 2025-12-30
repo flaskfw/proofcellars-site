@@ -1,0 +1,89 @@
+{
+  "slug": "ardbeg",
+  "title": "Sell Ardbeg",
+  "metaTitle": "Sell Ardbeg Whisky | Proof Cellars",
+  "metaDescription": "Sell your Ardbeg whisky to Proof Cellars. We buy Committee releases, aged expressions, and limited editions. Direct offers.",
+  "heroHeadline": "Sell Your Ardbeg Whisky",
+  "heroSubhead": "We buy Ardbeg directly - from Committee releases to limited editions.",
+  "introParagraph": "Ardbeg produces intensely peated Islay single malts with a devoted following. We buy Ardbeg directly, including Committee releases, aged expressions, and limited editions like Supernova and Ardbog. Submit photos and details to receive an offer.",
+  "categoryType": "scotch",
+  "whatWeBuy": [
+    "Ardbeg Committee releases (all years)",
+    "Ardbeg aged expressions (17, 21, 23, 25 year)",
+    "Ardbeg Supernova releases",
+    "Ardbeg Day special releases",
+    "Limited editions (Ardbog, Galileo, Alligator, etc.)",
+    "Vintage and older Ardbeg bottlings"
+  ],
+  "whatWeDoNotBuy": [
+    "Opened bottles",
+    "Ardbeg 10 Year standard release",
+    "Bottles with compromised seals",
+    "Leaking or heavily damaged bottles",
+    "Items we cannot legally purchase in your state"
+  ],
+  "photoChecklist": [
+    "Front label showing expression name",
+    "Back label with bottling details",
+    "Capsule and closure condition",
+    "Fill level visible in the bottle",
+    "Original box or tube if available",
+    "Any damage or imperfections"
+  ],
+  "conditionFactors": [
+    "Fill level should be at or near original",
+    "Seal must be intact with no signs of tampering",
+    "Limited release labels should be clearly legible",
+    "Original tubes and boxes add meaningful value",
+    "Committee release documentation adds value",
+    "Older releases may show appropriate packaging wear"
+  ],
+  "pricingFactors": [
+    "Specific expression or release name",
+    "Committee release vs standard release",
+    "Age statement if applicable",
+    "Release year and limited availability",
+    "Bottle and packaging condition",
+    "Current market demand"
+  ],
+  "faqs": [
+    {
+      "question": "What are Ardbeg Committee releases?",
+      "answer": "The Ardbeg Committee is a membership program, and Committee releases are special bottlings offered to members before general release. These are often sought after."
+    },
+    {
+      "question": "Which Ardbeg releases are most valuable?",
+      "answer": "Aged expressions (17, 21, 23, 25 year), early Supernova releases, and popular limited editions like Ardbog tend to be most collectible."
+    },
+    {
+      "question": "What is Ardbeg Day?",
+      "answer": "Ardbeg Day is an annual celebration with special releases. These limited bottlings are often collectible."
+    },
+    {
+      "question": "Does the tube add value?",
+      "answer": "Yes. Original tubes add value for Ardbeg releases. Include photos of any original packaging."
+    },
+    {
+      "question": "Do you buy Ardbeg 10 Year?",
+      "answer": "Ardbeg 10 Year is widely available and typically does not meet our criteria. We focus on limited and aged releases."
+    },
+    {
+      "question": "How quickly will I receive an offer?",
+      "answer": "We typically respond within one business day for Ardbeg submissions."
+    },
+    {
+      "question": "What are some collectible Ardbeg releases?",
+      "answer": "Collectible releases include Supernova, Ardbog, Galileo, Alligator, Rollercoaster, and various Committee releases. Send photos and we will evaluate."
+    },
+    {
+      "question": "Are older Ardbeg bottles valuable?",
+      "answer": "Yes. Vintage Ardbeg from earlier eras can be highly collectible. Send photos of any older bottles."
+    }
+  ],
+  "relatedLinks": [
+    {"label": "Get an Offer", "href": "/get-offer"},
+    {"label": "Sell Scotch", "href": "/sell/scotch"},
+    {"label": "Sell Lagavulin", "href": "/sell/lagavulin"},
+    {"label": "Sell Bowmore", "href": "/sell/bowmore"}
+  ]
+}

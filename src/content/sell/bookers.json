@@ -1,0 +1,88 @@
+{
+  "slug": "bookers",
+  "title": "Sell Booker's",
+  "metaTitle": "Sell Booker's Bourbon | Proof Cellars",
+  "metaDescription": "Sell your Booker's bourbon to Proof Cellars. We buy quarterly releases and older batches. Direct offers with no fees.",
+  "heroHeadline": "Sell Your Booker's Bourbon",
+  "heroSubhead": "We buy Booker's quarterly releases directly - all batches.",
+  "introParagraph": "Booker's releases quarterly batches of uncut, unfiltered bourbon, each with a unique name and flavor profile. We buy Booker's batches directly, with particular interest in older releases and sought-after batches. Submit photos and details to receive an offer.",
+  "categoryType": "bourbon",
+  "whatWeBuy": [
+    "Booker's quarterly batch releases (all years)",
+    "Booker's 25th and 30th Anniversary releases",
+    "Older Booker's with vintage packaging",
+    "Booker's Rye",
+    "Special and limited Booker's releases"
+  ],
+  "whatWeDoNotBuy": [
+    "Opened bottles",
+    "Bottles with compromised seals",
+    "Leaking or heavily damaged bottles",
+    "Bottles with missing or illegible batch information",
+    "Items we cannot legally purchase in your state"
+  ],
+  "photoChecklist": [
+    "Front label showing batch name and number",
+    "Back label with proof and age information",
+    "Box showing batch details",
+    "Seal and capsule condition",
+    "Fill level visible in the bottle",
+    "Any damage or imperfections"
+  ],
+  "conditionFactors": [
+    "Fill level should be at or near original",
+    "Seal must be intact with no signs of tampering",
+    "Batch name and number should be clearly visible",
+    "Original box adds value and helps identify the batch",
+    "Proof and age vary by batch - capture these details",
+    "Older batches may show appropriate packaging wear"
+  ],
+  "pricingFactors": [
+    "Specific batch name and release year",
+    "Age statement and proof of that batch",
+    "Anniversary or special release status",
+    "Bottle and packaging condition",
+    "Presence of original box",
+    "Current market demand for that batch"
+  ],
+  "faqs": [
+    {
+      "question": "What Booker's batches do you buy?",
+      "answer": "We buy Booker's quarterly batches from all release years. Some batches are more collectible than others based on age, proof, and critical reception."
+    },
+    {
+      "question": "Are some Booker's batches more valuable?",
+      "answer": "Yes. Value varies by batch based on age statement, proof, reviews, and availability. Anniversary releases and certain named batches command premiums."
+    },
+    {
+      "question": "How do I identify my Booker's batch?",
+      "answer": "Each Booker's batch has a unique name (like Kathleen's Batch, Country Ham, etc.) and batch number on the label and box. Include these details in your photos."
+    },
+    {
+      "question": "Does the box add value?",
+      "answer": "Yes. The original Booker's box adds value and helps identify the specific batch. Include photos of the box if available."
+    },
+    {
+      "question": "Do you buy Booker's Rye?",
+      "answer": "Yes. Booker's Rye was a limited release and is collectible. Send photos if you have one."
+    },
+    {
+      "question": "How quickly will I receive an offer?",
+      "answer": "We typically respond within one business day for Booker's submissions."
+    },
+    {
+      "question": "Are older Booker's bottles more valuable?",
+      "answer": "Older Booker's releases, especially from the early years with different packaging, can be collectible. Send photos and we will evaluate."
+    },
+    {
+      "question": "What are Booker's Anniversary releases?",
+      "answer": "Booker's 25th and 30th Anniversary releases were special editions commemorating the brand's milestones. These limited releases are in demand."
+    }
+  ],
+  "relatedLinks": [
+    {"label": "Get an Offer", "href": "/get-offer"},
+    {"label": "Sell Bourbon", "href": "/sell/bourbon"},
+    {"label": "Sell Stagg", "href": "/sell/stagg"},
+    {"label": "Sell BTAC", "href": "/sell/btac"}
+  ]
+}

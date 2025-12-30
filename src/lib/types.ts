@@ -4,6 +4,16 @@ export interface FAQ {
   answer: string;
 }
 
+export interface SellPageFAQ {
+  question: string;
+  answer: string;
+}
+
+export interface RelatedLink {
+  label: string;
+  href: string;
+}
+
 export interface SellPageConfig {
   slug: string;
   title: string;
@@ -15,7 +25,9 @@ export interface SellPageConfig {
   categoryType: 'bourbon' | 'scotch' | 'wine' | 'champagne' | 'cognac' | 'spirits';
   whatWeBuy: string[];
   whatWeDoNotBuy: string[];
-  conditionNotes: string;
+  photoChecklist: string[];
+  conditionFactors: string[];
   pricingFactors: string[];
-  faqSubset?: string[];
+  faqs: SellPageFAQ[];
+  relatedLinks: RelatedLink[];
 }

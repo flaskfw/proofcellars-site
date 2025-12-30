@@ -1,0 +1,89 @@
+{
+  "slug": "bowmore",
+  "title": "Sell Bowmore",
+  "metaTitle": "Sell Bowmore Whisky | Proof Cellars",
+  "metaDescription": "Sell your Bowmore whisky to Proof Cellars. We buy aged expressions and limited editions. Direct offers with no fees.",
+  "heroHeadline": "Sell Your Bowmore Whisky",
+  "heroSubhead": "We buy Bowmore directly - from aged expressions to limited editions.",
+  "introParagraph": "Bowmore, one of the oldest distilleries on Islay, produces distinctive peated single malts. We buy Bowmore directly, including aged expressions and limited releases. Submit photos and details to receive an offer with no consignment fees.",
+  "categoryType": "scotch",
+  "whatWeBuy": [
+    "Bowmore 18, 25, and 30 Year expressions",
+    "Bowmore vintage releases and special editions",
+    "Bowmore Black series",
+    "Bowmore Tempest releases",
+    "Older Bowmore with vintage packaging",
+    "Limited edition and travel retail exclusives"
+  ],
+  "whatWeDoNotBuy": [
+    "Opened bottles",
+    "Bowmore 12 Year standard release",
+    "Bottles with compromised seals",
+    "Leaking or heavily damaged bottles",
+    "Items we cannot legally purchase in your state"
+  ],
+  "photoChecklist": [
+    "Front label showing age and expression",
+    "Back label with bottling details",
+    "Capsule and closure condition",
+    "Fill level visible in the bottle",
+    "Original box or presentation case",
+    "Any damage or imperfections"
+  ],
+  "conditionFactors": [
+    "Fill level should be appropriate for the bottle's age",
+    "Seal must be intact with no signs of tampering",
+    "Label condition matters for collectible releases",
+    "Original boxes add meaningful value for aged expressions",
+    "Vintage releases require condition assessment",
+    "Presentation cases should be complete for special editions"
+  ],
+  "pricingFactors": [
+    "Age statement and specific expression",
+    "Vintage or distillation year if stated",
+    "Limited edition or special release status",
+    "Bottle and packaging condition",
+    "Presence of original box or case",
+    "Current market demand"
+  ],
+  "faqs": [
+    {
+      "question": "Which Bowmore expressions do you buy?",
+      "answer": "We buy Bowmore aged expressions (18, 25, 30 year), vintage releases, Black series, Tempest releases, and other limited editions. Standard 12 Year typically does not meet our criteria."
+    },
+    {
+      "question": "What is Bowmore Black?",
+      "answer": "Bowmore Black is a series of limited releases featuring older expressions. These are collectible and in demand."
+    },
+    {
+      "question": "Does the original box add value?",
+      "answer": "Yes. Original boxes and presentation cases add value, especially for aged expressions and special releases."
+    },
+    {
+      "question": "Are older Bowmore bottles valuable?",
+      "answer": "Yes. Vintage Bowmore releases, especially from the 1960s through 1990s bottlings, can be highly collectible."
+    },
+    {
+      "question": "What is Bowmore Tempest?",
+      "answer": "Bowmore Tempest is a cask strength series released in batches. These higher proof releases are sought after."
+    },
+    {
+      "question": "How quickly will I receive an offer?",
+      "answer": "We typically respond within one business day for Bowmore submissions."
+    },
+    {
+      "question": "Do you buy travel retail exclusives?",
+      "answer": "Yes. Travel retail exclusive releases can be collectible. Send photos and details for evaluation."
+    },
+    {
+      "question": "What condition issues affect value?",
+      "answer": "Fill level, seal integrity, and label condition are key factors. Original packaging completeness also matters."
+    }
+  ],
+  "relatedLinks": [
+    {"label": "Get an Offer", "href": "/get-offer"},
+    {"label": "Sell Scotch", "href": "/sell/scotch"},
+    {"label": "Sell Lagavulin", "href": "/sell/lagavulin"},
+    {"label": "Sell Ardbeg", "href": "/sell/ardbeg"}
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "slug": "blantons",
+  "title": "Sell Blanton's",
+  "metaTitle": "Sell Blanton's Bourbon | Proof Cellars",
+  "metaDescription": "Sell your Blanton's bourbon to Proof Cellars. We buy Original, Gold, Straight from the Barrel, and Special Reserve. Direct offers.",
+  "heroHeadline": "Sell Your Blanton's Bourbon",
+  "heroSubhead": "We buy Blanton's directly - from Original Single Barrel to international releases.",
+  "introParagraph": "Blanton's is known as the original single barrel bourbon. We buy Blanton's expressions directly, including domestic releases and international exclusives like Gold and Straight from the Barrel. Submit photos and details, receive an offer, and get paid after verification - no consignment or auction fees.",
+  "categoryType": "bourbon",
+  "whatWeBuy": [
+    "Blanton's Original Single Barrel",
+    "Blanton's Gold (export exclusive)",
+    "Blanton's Straight from the Barrel",
+    "Blanton's Special Reserve",
+    "Blanton's Red (Japan exclusive)",
+    "Blanton's Black (Japan exclusive)",
+    "Older Blanton's releases with vintage labels"
+  ],
+  "whatWeDoNotBuy": [
+    "Opened bottles",
+    "Bottles with compromised seals or damaged stoppers",
+    "Leaking or heavily damaged bottles",
+    "Bottles missing the horse stopper",
+    "Items we cannot legally purchase in your state"
+  ],
+  "photoChecklist": [
+    "Front label showing expression and dump date",
+    "Horse stopper letter and condition",
+    "Seal and capsule condition",
+    "Fill level visible in the bottle",
+    "Original box or bag if available",
+    "Any damage or imperfections"
+  ],
+  "conditionFactors": [
+    "Horse stopper must be present and undamaged - missing or broken stoppers significantly reduce value",
+    "Seal integrity is important - any signs of tampering affect offers",
+    "Fill level should be at or near original",
+    "Label condition matters - the dump date and warehouse information should be legible",
+    "Original boxes add value, especially for international releases",
+    "Complete stopper letter sets (spelling BLANTONS) command premium prices"
+  ],
+  "pricingFactors": [
+    "Specific expression (Original, Gold, SFTB, Red, Black)",
+    "Stopper letter and condition",
+    "Dump date and warehouse information",
+    "Bottle and packaging condition",
+    "Current market demand for the specific variant",
+    "Presence of original packaging"
+  ],
+  "faqs": [
+    {
+      "question": "Which Blanton's expressions do you buy?",
+      "answer": "We buy all Blanton's expressions including Original Single Barrel, Gold, Straight from the Barrel, Special Reserve, and Japan exclusives (Red and Black)."
+    },
+    {
+      "question": "Does the horse stopper letter matter?",
+      "answer": "Yes. The stopper must be present for us to purchase. Complete letter sets that spell BLANTONS can command higher prices, but we buy individual bottles with any letter."
+    },
+    {
+      "question": "Are international Blanton's releases more valuable?",
+      "answer": "Some international releases like Gold and Straight from the Barrel are in high demand in the US. Value depends on the specific expression and current market conditions."
+    },
+    {
+      "question": "What is the dump date and why does it matter?",
+      "answer": "The dump date on the label indicates when the bourbon was bottled. Some collectors seek specific dates or warehouses. Include this information in your photos."
+    },
+    {
+      "question": "Does the box add value for Blanton's?",
+      "answer": "Original boxes add some value, especially for international releases that typically include presentation packaging. Include photos of any boxes or bags."
+    },
+    {
+      "question": "How quickly will I receive an offer?",
+      "answer": "We typically respond within one business day for Blanton's submissions."
+    },
+    {
+      "question": "Can I sell a single bottle or do you prefer sets?",
+      "answer": "Both. We buy single Blanton's bottles as well as full stopper letter sets or collections. Tell us what you have."
+    },
+    {
+      "question": "What if my stopper is damaged?",
+      "answer": "Damaged or missing stoppers significantly reduce value. Send photos showing the issue and we will evaluate what we can offer."
+    }
+  ],
+  "relatedLinks": [
+    {"label": "Get an Offer", "href": "/get-offer"},
+    {"label": "Sell Bourbon", "href": "/sell/bourbon"},
+    {"label": "Sell BTAC", "href": "/sell/btac"},
+    {"label": "Sell Eagle Rare", "href": "/sell/eagle-rare"}
+  ]
+}

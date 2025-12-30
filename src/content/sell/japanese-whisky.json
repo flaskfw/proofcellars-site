@@ -1,0 +1,89 @@
+{
+  "slug": "japanese-whisky",
+  "title": "Sell Japanese Whisky",
+  "metaTitle": "Sell Japanese Whisky | Proof Cellars",
+  "metaDescription": "Sell your Japanese whisky to Proof Cellars. We buy Yamazaki, Hibiki, Hakushu, Nikka, and more. Direct offers with no fees.",
+  "heroHeadline": "Sell Your Japanese Whisky",
+  "heroSubhead": "We buy Japanese whisky directly - from Suntory to Nikka and beyond.",
+  "introParagraph": "Japanese whisky has become highly collectible worldwide, with demand for aged expressions far exceeding supply. We buy Japanese whisky directly, including Yamazaki, Hibiki, Hakushu, and Nikka releases. Submit photos and details to receive an offer with no consignment fees.",
+  "categoryType": "scotch",
+  "whatWeBuy": [
+    "Yamazaki (12, 18, 25 year and limited editions)",
+    "Hibiki (17, 21, 30 year and Japanese Harmony limited editions)",
+    "Hakushu (12, 18, 25 year and limited editions)",
+    "Nikka (Taketsuru, Yoichi, Miyagikyo aged expressions)",
+    "Chichibu releases",
+    "Other collectible Japanese whisky"
+  ],
+  "whatWeDoNotBuy": [
+    "Opened bottles",
+    "Common releases like Hibiki Harmony standard or Nikka from the Barrel",
+    "Bottles with compromised seals",
+    "Leaking or heavily damaged bottles",
+    "Items we cannot legally purchase in your state"
+  ],
+  "photoChecklist": [
+    "Front label showing brand and age statement",
+    "Back label with production details",
+    "Capsule and closure condition",
+    "Fill level visible in the bottle",
+    "Original box or presentation case",
+    "Any damage or imperfections"
+  ],
+  "conditionFactors": [
+    "Fill level should be at or near original",
+    "Seal must be intact - Japanese whisky is frequently counterfeited",
+    "Label condition matters for collectible releases",
+    "Original boxes add significant value",
+    "Japanese text and labeling help verify authenticity",
+    "Import documentation may be requested for some bottles"
+  ],
+  "pricingFactors": [
+    "Brand and specific expression",
+    "Age statement (aged Japanese whisky is scarce)",
+    "Limited edition or special release status",
+    "Bottle and packaging condition",
+    "Presence of original box",
+    "Current market demand"
+  ],
+  "faqs": [
+    {
+      "question": "What Japanese whisky brands do you buy?",
+      "answer": "We buy Suntory brands (Yamazaki, Hibiki, Hakushu), Nikka brands (Taketsuru, Yoichi, Miyagikyo), Chichibu, and other collectible Japanese whisky."
+    },
+    {
+      "question": "Why is Japanese whisky so collectible?",
+      "answer": "Japanese whisky production cannot keep pace with global demand, especially for aged expressions. Limited supply has driven strong collector interest."
+    },
+    {
+      "question": "Do you verify authenticity for Japanese whisky?",
+      "answer": "Yes. Japanese whisky has high counterfeiting rates. We review photos carefully and conduct full verification during physical inspection."
+    },
+    {
+      "question": "Does the box add value?",
+      "answer": "Yes. Original boxes add significant value for Japanese whisky, especially for aged expressions and limited releases."
+    },
+    {
+      "question": "Is Hibiki Harmony valuable?",
+      "answer": "Standard Hibiki Japanese Harmony is widely available and typically does not meet our criteria. Limited edition Harmony releases may be considered."
+    },
+    {
+      "question": "How quickly will I receive an offer?",
+      "answer": "We typically respond within one business day for Japanese whisky submissions."
+    },
+    {
+      "question": "What age statements are most sought after?",
+      "answer": "Higher age statements are generally more valuable. Yamazaki 18 and 25, Hibiki 21 and 30, and aged Hakushu are particularly in demand."
+    },
+    {
+      "question": "Do you buy Chichibu?",
+      "answer": "Yes. Chichibu releases are collectible, especially single cask and limited editions. Send photos and details."
+    }
+  ],
+  "relatedLinks": [
+    {"label": "Get an Offer", "href": "/get-offer"},
+    {"label": "Sell Yamazaki", "href": "/sell/yamazaki"},
+    {"label": "Sell Hibiki", "href": "/sell/hibiki"},
+    {"label": "Sell Scotch", "href": "/sell/scotch"}
+  ]
+}

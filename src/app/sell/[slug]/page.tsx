@@ -1,14 +1,13 @@
 import type { Metadata } from 'next';
+import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import CTAButton from '@/components/CTAButton';
-import PhotoChecklist from '@/components/PhotoChecklist';
-import FAQItem from '@/components/FAQItem';
 import {
   getSellPageData,
   getSellPageSlugs,
   generateBreadcrumbSchema,
+  generateFAQSchemaFromPage,
 } from '@/lib/getSellPageData';
-import { getFAQsByIds, generateFAQSchema } from '@/lib/getFAQData';
 
 interface PageProps {
   params: Promise<{ slug: string }>;
@@ -48,12 +47,8 @@ export default async function SellPage({ params }: PageProps) {
     notFound();
   }
 
-  const defaultFaqIds = ['fees', 'how-to-get-offer', 'offer-time', 'condition-issues'];
-  const faqIds = data.faqSubset || defaultFaqIds;
-  const faqs = getFAQsByIds(faqIds);
-
   const breadcrumbSchema = generateBreadcrumbSchema(data.title, slug);
-  const faqSchema = generateFAQSchema(faqs);
+  const faqSchema = generateFAQSchemaFromPage(data.faqs);
 
   return (
     <>
@@ -74,8 +69,14 @@ export default async function SellPage({ params }: PageProps) {
               {data.heroHeadline}
             </h1>
             <p className="mt-6 text-lg text-secondary">{data.heroSubhead}</p>
-            <div className="mt-8">
+            <div className="mt-8 flex flex-col sm:flex-row gap-4">
               <CTAButton href="/get-offer">Get an Offer</CTAButton>
+              <a
+                href="sms:+12137709463"
+                className="inline-flex items-center justify-center rounded-md border border-accent px-6 py-3 text-base font-medium text-accent hover:bg-accent hover:text-white transition-colors"
+              >
+                Text Photos to 213-770-WINE
+              </a>
             </div>
           </div>
         </div>
@@ -157,19 +158,45 @@ export default async function SellPage({ params }: PageProps) {
             <h2 className="text-2xl md:text-3xl font-semibold text-primary mb-8">
               What to Send for a Quote
             </h2>
-            <PhotoChecklist />
+            <ul className="space-y-3">
+              {data.photoChecklist.map((item) => (
+                <li key={item} className="flex items-start gap-3">
+                  <svg
+                    className="h-5 w-5 text-accent flex-shrink-0 mt-0.5"
+                    fill="none"
+                    viewBox="0 0 24 24"
+                    strokeWidth="2"
+                    stroke="currentColor"
+                  >
+                    <path
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
+                      d="M4.5 12.75l6 6 9-13.5"
+                    />
+                  </svg>
+                  <span className="text-secondary">{item}</span>
+                </li>
+              ))}
+            </ul>
           </div>
         </div>
       </section>
 
-      {/* Condition Notes */}
+      {/* Condition Factors */}
       <section className="bg-surface py-16 md:py-24">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
           <div className="max-w-3xl">
             <h2 className="text-2xl md:text-3xl font-semibold text-primary mb-6">
-              Condition Notes
+              Condition Factors
             </h2>
-            <p className="text-secondary leading-relaxed">{data.conditionNotes}</p>
+            <ul className="space-y-3">
+              {data.conditionFactors.map((item) => (
+                <li key={item} className="flex items-start gap-3">
+                  <span className="text-accent font-medium flex-shrink-0">-</span>
+                  <span className="text-secondary">{item}</span>
+                </li>
+              ))}
+            </ul>
           </div>
         </div>
       </section>
@@ -200,20 +227,49 @@ export default async function SellPage({ params }: PageProps) {
             <h2 className="text-2xl md:text-3xl font-semibold text-primary mb-8">
               Common Questions
             </h2>
-            <div className="space-y-0">
-              {faqs.map((faq) => (
-                <FAQItem key={faq.id} faq={faq} />
+            <div className="space-y-6">
+              {data.faqs.map((faq, index) => (
+                <div key={index} className="border-b border-border pb-6 last:border-0">
+                  <h3 className="text-base font-medium text-primary mb-2">
+                    {faq.question}
+                  </h3>
+                  <p className="text-secondary">{faq.answer}</p>
+                </div>
               ))}
             </div>
           </div>
         </div>
       </section>
 
+      {/* Related Links */}
+      {data.relatedLinks && data.relatedLinks.length > 0 && (
+        <section className="py-16 md:py-24">
+          <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+            <div className="max-w-3xl">
+              <h2 className="text-xl font-medium text-primary mb-6">
+                Related Pages
+              </h2>
+              <div className="flex flex-wrap gap-3">
+                {data.relatedLinks.map((link) => (
+                  <Link
+                    key={link.href}
+                    href={link.href}
+                    className="inline-flex items-center rounded-md border border-border px-4 py-2 text-sm text-secondary hover:border-accent hover:text-accent transition-colors"
+                  >
+                    {link.label}
+                  </Link>
+                ))}
+              </div>
+            </div>
+          </div>
+        </section>
+      )}
+
       {/* CTA Section */}
-      <section className="py-16 md:py-24">
+      <section className="bg-surface py-16 md:py-24">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 text-center">
           <h2 className="text-2xl md:text-3xl font-semibold text-primary">
-            Ready to sell your {data.title.replace('Sell ', '').toLowerCase()}?
+            Ready to sell?
           </h2>
           <p className="mt-4 text-lg text-secondary">
             Get a direct offer with no consignment fees.
@@ -224,7 +280,7 @@ export default async function SellPage({ params }: PageProps) {
               href="sms:+12137709463"
               className="text-secondary hover:text-primary transition-colors"
             >
-              Or text photos to 213-770-9463
+              Or text photos to 213-770-9463 (213-770-WINE)
             </a>
           </div>
         </div>

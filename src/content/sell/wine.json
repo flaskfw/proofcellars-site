@@ -2,35 +2,91 @@
   "slug": "wine",
   "title": "Sell Wine",
   "metaTitle": "Sell Fine Wine | Proof Cellars",
-  "metaDescription": "Sell your fine wine collection to Proof Cellars. We buy Bordeaux, Burgundy, Napa cult wines, and more. Direct offers with no consignment fees.",
+  "metaDescription": "Sell your fine wine collection to Proof Cellars. We buy Bordeaux, Burgundy, Napa cult wines, and more. Direct offers with no fees.",
   "heroHeadline": "Sell Your Wine Collection",
   "heroSubhead": "We buy fine wine directly - from single bottles to full cellars.",
-  "introParagraph": "Whether you have a few bottles of sought-after Burgundy or a full cellar of Bordeaux and Napa wines, we provide direct offers with no consignment fees. Our straightforward process: submit photos and details, receive an offer, and get paid after we receive and verify your wine.",
+  "introParagraph": "Whether you have a few bottles of sought-after Burgundy or a full cellar of Bordeaux, Napa, and other collectible wines, we provide direct offers with no consignment fees. Our straightforward process: submit photos and details, receive an offer, and get paid after we receive and verify your wine.",
   "categoryType": "wine",
   "whatWeBuy": [
     "Bordeaux first growths and classified estates",
-    "Burgundy from premier and grand cru vineyards",
-    "Napa Valley cult wines (Screaming Eagle, Harlan, etc.)",
-    "Vintage Champagne and prestige cuvees",
+    "Burgundy grand cru and premier cru",
+    "Napa Valley cult wines",
+    "Rhone Valley collectibles",
     "Italian fine wines (Barolo, Brunello, Super Tuscans)",
-    "Rhone Valley producers",
-    "Rare and collectible wines from other regions"
+    "Vintage champagne and prestige cuvees",
+    "California collectibles beyond Napa",
+    "Other fine wines from recognized producers"
   ],
   "whatWeDoNotBuy": [
     "Opened bottles",
     "Wine with visible seepage or heat damage",
     "Bottles with extremely low fill levels",
     "Common or inexpensive wines",
+    "Wines from unknown storage conditions without documentation",
     "Items we cannot legally purchase in your state"
   ],
-  "conditionNotes": "Wine condition is critical. Fill level should be appropriate for the wine's age. Capsules should be intact without signs of seepage. Labels should be legible, though age-appropriate wear is expected for older vintages. Storage history matters - wines stored in temperature-controlled environments are preferred. We may ask about storage conditions for valuable bottles.",
-  "pricingFactors": [
-    "Producer, vineyard, and vintage",
-    "Fill level appropriate to age",
-    "Label and capsule condition",
-    "Storage history when known",
-    "Provenance documentation if available",
-    "Current market demand and auction results"
+  "photoChecklist": [
+    "Front label showing producer, vintage, and appellation",
+    "Back label if present",
+    "Capsule condition (intact, no signs of leakage)",
+    "Fill level visible in the bottle neck",
+    "Original wood case or packaging if available",
+    "Any damage, staining, or condition issues"
   ],
-  "faqSubset": ["fees", "single-or-collection", "fastest-quote", "condition-issues", "shipping", "payment"]
+  "conditionFactors": [
+    "Fill level must be appropriate for the wine's age - excessive ullage significantly reduces value",
+    "Capsule condition is critical - any signs of seepage or leakage are problematic",
+    "Label condition matters - staining and damage reduce value but age-appropriate wear is expected",
+    "Storage history is important - documentation of proper cellar conditions adds value",
+    "Original wood cases add value for wines sold in cases",
+    "Provenance documentation strengthens value for high-end bottles"
+  ],
+  "pricingFactors": [
+    "Producer reputation and classification",
+    "Vintage quality and scores",
+    "Current market demand for the specific wine",
+    "Bottle condition, fill level, and label presentation",
+    "Storage history and provenance documentation",
+    "Original packaging (wood cases, individual boxes)"
+  ],
+  "faqs": [
+    {
+      "question": "What wines do you buy?",
+      "answer": "We buy fine wines from recognized regions including Bordeaux, Burgundy, Napa Valley, Rhone, Italy, and other collectible wine areas. Contact us with your specific bottles or cellar inventory."
+    },
+    {
+      "question": "Do you buy full wine cellars?",
+      "answer": "Yes. We purchase full cellars and large collections. For cellar buyouts, we can review an inventory list and provide an offer for the complete collection."
+    },
+    {
+      "question": "How important is storage history?",
+      "answer": "Storage history matters significantly for fine wine. Wines stored in temperature-controlled environments retain more value. If you have documentation of storage conditions, include it."
+    },
+    {
+      "question": "What fill levels are acceptable?",
+      "answer": "Acceptable fill levels depend on the wine's age. Recent vintages should have high fills. Older wines may show some natural ullage. Send photos and we will evaluate."
+    },
+    {
+      "question": "Do original wood cases add value?",
+      "answer": "Yes. Original wood cases (OWC) add value, especially for wines originally sold in cases. Include photos of any original packaging."
+    },
+    {
+      "question": "How do you handle large collections?",
+      "answer": "For large collections, send an inventory list with as much detail as possible. We can provide a preliminary offer range and then refine after reviewing photos."
+    },
+    {
+      "question": "What if I do not know my wine's value?",
+      "answer": "Send photos and details through our form or by text. We will research the wines and provide an offer based on current market values."
+    },
+    {
+      "question": "How quickly can you evaluate my wine?",
+      "answer": "Single bottles and small lots typically receive offers within one business day. Larger cellars may take two to three days depending on the number of bottles."
+    }
+  ],
+  "relatedLinks": [
+    {"label": "Get an Offer", "href": "/get-offer"},
+    {"label": "Sell Bordeaux", "href": "/sell/bordeaux"},
+    {"label": "Sell Burgundy", "href": "/sell/burgundy"},
+    {"label": "Sell Napa Cult Wines", "href": "/sell/napa-cult"}
+  ]
 }

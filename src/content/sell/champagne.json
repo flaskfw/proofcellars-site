@@ -2,19 +2,20 @@
   "slug": "champagne",
   "title": "Sell Champagne",
   "metaTitle": "Sell Champagne | Proof Cellars",
-  "metaDescription": "Sell your champagne collection to Proof Cellars. We buy Dom Perignon, Krug, Cristal, Salon, and more. Direct offers with no consignment fees.",
+  "metaDescription": "Sell your champagne collection to Proof Cellars. We buy Dom Perignon, Krug, Cristal, Salon, and prestige cuvees. Direct offers with no fees.",
   "heroHeadline": "Sell Your Champagne Collection",
   "heroSubhead": "We buy champagne directly - from prestige cuvees to vintage collections.",
   "introParagraph": "From Dom Perignon and Krug to Salon and rare vintage champagnes, we buy directly with no consignment fees. Submit photos and details of your bottles, receive an offer typically within one business day, and get paid after we verify your champagne.",
   "categoryType": "champagne",
   "whatWeBuy": [
-    "Dom Perignon (all vintages, including P2 and P3)",
+    "Dom Perignon (all vintages, P2, P3, Rose, Oenotheque)",
     "Krug (Grande Cuvee, Vintage, Clos du Mesnil, Clos d'Ambonnay)",
-    "Louis Roederer Cristal (all vintages)",
+    "Louis Roederer Cristal (all vintages and Rose)",
     "Salon (all vintages)",
     "Bollinger (R.D., Vieilles Vignes Francaises)",
     "Taittinger Comtes de Champagne",
-    "Other prestige cuvees and vintage champagnes"
+    "Jacques Selosse and other grower champagnes",
+    "Vintage champagne from major houses"
   ],
   "whatWeDoNotBuy": [
     "Opened bottles",
@@ -23,14 +24,68 @@
     "Champagne stored improperly or showing heat damage",
     "Items we cannot legally purchase in your state"
   ],
-  "conditionNotes": "Champagne requires careful storage. Fill levels should be normal. Corks should show no signs of pushing out or leakage. Labels and foils should be intact, though age-appropriate wear on vintage bottles is expected. Storage history is important - champagne stored at proper cellar temperature is preferred over bottles with unknown storage.",
-  "pricingFactors": [
-    "Producer and cuvee",
-    "Vintage year",
-    "Bottle condition and fill level",
-    "Label and foil presentation",
-    "Storage history when known",
-    "Current market demand"
+  "photoChecklist": [
+    "Front label showing producer, cuvee, and vintage",
+    "Back label if present",
+    "Foil and cage condition",
+    "Fill level and any sediment visible",
+    "Original box or gift packaging",
+    "Any damage, staining, or condition issues"
   ],
-  "faqSubset": ["fees", "how-to-get-offer", "offer-time", "condition-issues", "damaged-bottles", "shipping"]
+  "conditionFactors": [
+    "Fill level should be normal - excessive ullage indicates potential problems",
+    "Cork condition is important - no signs of pushing out or leakage",
+    "Foil and label should be intact with acceptable age-appropriate wear",
+    "Storage temperature matters significantly for champagne quality",
+    "Original boxes and packaging add value for prestige cuvees",
+    "Disgorgement dates on late-disgorged bottles affect value"
+  ],
+  "pricingFactors": [
+    "Producer and specific cuvee",
+    "Vintage year and quality",
+    "Bottle size (standard, magnum, larger formats)",
+    "Condition including fill, cork, foil, and label",
+    "Storage history when known",
+    "Current market demand for the specific champagne"
+  ],
+  "faqs": [
+    {
+      "question": "Which champagne houses do you buy?",
+      "answer": "We buy prestige cuvees and vintage champagne from Dom Perignon, Krug, Cristal, Salon, Bollinger, Taittinger, and other collectible houses. We also consider grower champagnes from sought-after producers."
+    },
+    {
+      "question": "Do you buy non-vintage champagne?",
+      "answer": "We focus on vintage champagne and prestige cuvees. Non-vintage champagne from common producers typically does not meet our criteria unless it is from a collectible grower."
+    },
+    {
+      "question": "How important is storage for champagne?",
+      "answer": "Storage is very important for champagne. Bottles stored at proper cellar temperatures retain better quality and value. If you know your storage conditions, include that information."
+    },
+    {
+      "question": "What condition issues affect champagne values?",
+      "answer": "Cork pushing, seepage, excessive ullage, and heat damage significantly reduce or eliminate value. Cosmetic label wear is less critical but still affects offers."
+    },
+    {
+      "question": "Does the original box matter?",
+      "answer": "Yes. Original gift boxes and presentation packaging add value for prestige cuvees. Include photos of any original packaging."
+    },
+    {
+      "question": "Do you buy larger format champagne bottles?",
+      "answer": "Yes. We buy magnums, jeroboams, and other larger formats. Large format champagne often commands premium prices due to better aging and rarity."
+    },
+    {
+      "question": "How do I know if my champagne is still good?",
+      "answer": "Look for normal fill levels, intact corks without pushing, and no visible seepage. Send photos and we will evaluate. Champagne from unknown storage may need assessment."
+    },
+    {
+      "question": "How quickly will I receive an offer?",
+      "answer": "We typically respond within one business day for champagne submissions."
+    }
+  ],
+  "relatedLinks": [
+    {"label": "Get an Offer", "href": "/get-offer"},
+    {"label": "Sell Wine", "href": "/sell/wine"},
+    {"label": "Sell Bordeaux", "href": "/sell/bordeaux"},
+    {"label": "Sell Burgundy", "href": "/sell/burgundy"}
+  ]
 }

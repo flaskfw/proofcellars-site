@@ -2,35 +2,90 @@
   "slug": "macallan",
   "title": "Sell Macallan",
   "metaTitle": "Sell Macallan Whisky | Proof Cellars",
-  "metaDescription": "Sell your Macallan whisky collection to Proof Cellars. We buy rare, vintage, and limited edition Macallan bottles. Direct offers with no consignment fees.",
+  "metaDescription": "Sell your Macallan whisky collection to Proof Cellars. We buy 18, 25, 30 year, Fine and Rare, and Lalique editions. Direct offers.",
   "heroHeadline": "Sell Your Macallan Collection",
-  "heroSubhead": "We buy Macallan whisky directly - from rare vintages to limited editions.",
-  "introParagraph": "Macallan is one of the most collectible single malt scotch whiskies in the world. We buy Macallan bottles directly, from vintage releases to limited editions. Submit photos and details, receive an offer, and get paid after we verify your bottles - no consignment or auction fees.",
+  "heroSubhead": "We buy Macallan whisky directly - from aged expressions to rare editions.",
+  "introParagraph": "Macallan is one of the most collectible single malt scotch whiskies in the world. We buy Macallan bottles directly, from standard aged expressions to Fine and Rare releases and Lalique decanters. Submit photos and details, receive an offer, and get paid after we verify your bottles - no consignment or auction fees.",
   "categoryType": "scotch",
   "whatWeBuy": [
-    "Macallan 18 Year and older expressions",
-    "Macallan Sherry Oak and Double Cask releases",
-    "Limited edition and special releases",
-    "Vintage Macallan bottles",
+    "Macallan 18 Year Sherry Oak and Double Cask",
+    "Macallan 25 Year and 30 Year expressions",
     "Macallan Fine and Rare collection",
-    "Macallan Edition series",
-    "Older discontinued expressions"
+    "Macallan Lalique decanters (all editions)",
+    "Macallan Edition Series (No. 1 through No. 6)",
+    "Limited edition and travel retail exclusives",
+    "Older discontinued expressions",
+    "Vintage Macallan bottles"
   ],
   "whatWeDoNotBuy": [
     "Opened bottles",
-    "Common current releases (12 Year standard expressions)",
+    "Macallan 12 Year standard expressions (widely available)",
     "Heavily damaged or leaking bottles",
     "Bottles with compromised seals",
     "Items we cannot legally purchase in your state"
   ],
-  "conditionNotes": "Macallan bottles are evaluated based on fill level, seal condition, label presentation, and overall bottle condition. Original packaging - boxes, tubes, and certificates - significantly impacts value for collectible releases. Vintage bottles may show appropriate age wear, but leakage or seal damage typically disqualifies a bottle.",
+  "photoChecklist": [
+    "Front label showing age statement and series",
+    "Back label with bottling codes",
+    "Capsule and cork closure condition",
+    "Fill level visible in the bottle",
+    "Original box, tube, or presentation case",
+    "Any scratches, damage, or imperfections"
+  ],
+  "conditionFactors": [
+    "Fill level should be appropriate - older bottles may show slight evaporation",
+    "Seal and capsule must be intact with no signs of tampering",
+    "Label condition matters - scratches, tears, or staining reduce value",
+    "Original packaging is important for Macallan, especially for Lalique editions",
+    "Certificates of authenticity and paperwork add value when present",
+    "Decanter condition for Lalique editions must be pristine"
+  ],
   "pricingFactors": [
     "Age statement and specific expression",
-    "Release year and rarity",
-    "Bottle and label condition",
-    "Original packaging completeness",
-    "Current market demand and recent transactions",
-    "Provenance when available"
+    "Series (Fine and Rare, Lalique, Edition, etc.)",
+    "Release year and bottling date",
+    "Current market demand and recent transaction history",
+    "Bottle, label, and packaging condition",
+    "Completeness of original materials"
   ],
-  "faqSubset": ["fees", "how-to-get-offer", "pricing", "condition-issues", "authenticity", "shipping"]
+  "faqs": [
+    {
+      "question": "Which Macallan expressions do you buy?",
+      "answer": "We buy Macallan 18 Year and older, Fine and Rare bottles, Lalique decanters, Edition Series, and other limited or collectible releases. Standard 12 Year expressions typically do not meet our criteria."
+    },
+    {
+      "question": "Do you buy Macallan Lalique decanters?",
+      "answer": "Yes. We buy all Macallan Lalique editions. Decanter and stopper condition is important, as is the presence of the original presentation box."
+    },
+    {
+      "question": "How do I know the value of my Macallan?",
+      "answer": "Submit photos and details through our form or by text. We will evaluate based on expression, condition, packaging, and current market demand, then provide a specific offer."
+    },
+    {
+      "question": "Does the original box add value?",
+      "answer": "Yes. Original boxes, tubes, and presentation cases add significant value for Macallan. For Lalique editions, the presentation box is particularly important."
+    },
+    {
+      "question": "What condition issues affect Macallan values?",
+      "answer": "Fill level, seal integrity, and label condition are key factors. Original packaging completeness also matters. Minor wear may reduce value but usually does not disqualify."
+    },
+    {
+      "question": "How quickly will I get an offer?",
+      "answer": "We typically respond within one business day. Macallan bottles are in demand, so we prioritize these submissions."
+    },
+    {
+      "question": "Do you buy vintage Macallan bottles?",
+      "answer": "Yes. Older and vintage Macallan bottles are often collectible. Send photos and details and we will evaluate based on age, condition, and current demand."
+    },
+    {
+      "question": "Is my Macallan authentic?",
+      "answer": "We review photos for authenticity indicators and conduct full verification during physical inspection. If you have concerns, include them in your submission."
+    }
+  ],
+  "relatedLinks": [
+    {"label": "Get an Offer", "href": "/get-offer"},
+    {"label": "Sell Scotch", "href": "/sell/scotch"},
+    {"label": "Sell Japanese Whisky", "href": "/sell/japanese-whisky"},
+    {"label": "Sell Springbank", "href": "/sell/springbank"}
+  ]
 }

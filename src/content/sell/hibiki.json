@@ -1,0 +1,89 @@
+{
+  "slug": "hibiki",
+  "title": "Sell Hibiki",
+  "metaTitle": "Sell Hibiki Whisky | Proof Cellars",
+  "metaDescription": "Sell your Hibiki whisky to Proof Cellars. We buy 17, 21, 30 year, and Japanese Harmony limited editions. Direct offers.",
+  "heroHeadline": "Sell Your Hibiki Whisky",
+  "heroSubhead": "We buy Hibiki directly - from aged expressions to limited editions.",
+  "introParagraph": "Hibiki is Suntory's flagship blended whisky, known for its elegant 24-faceted bottle and harmonious flavor. We buy Hibiki directly, including the sought-after 17, 21, and 30 Year expressions. Submit photos and details to receive an offer.",
+  "categoryType": "scotch",
+  "whatWeBuy": [
+    "Hibiki 17 Year",
+    "Hibiki 21 Year",
+    "Hibiki 30 Year",
+    "Hibiki Japanese Harmony limited editions",
+    "Hibiki Blossom Harmony",
+    "Older Hibiki with vintage packaging"
+  ],
+  "whatWeDoNotBuy": [
+    "Opened bottles",
+    "Standard Hibiki Japanese Harmony (widely available)",
+    "Bottles with compromised seals",
+    "Leaking or heavily damaged bottles",
+    "Items we cannot legally purchase in your state"
+  ],
+  "photoChecklist": [
+    "Front label showing age statement or edition",
+    "Back label with production details",
+    "Capsule and closure condition",
+    "Fill level visible in the bottle",
+    "Original box with Hibiki branding",
+    "Any damage or imperfections"
+  ],
+  "conditionFactors": [
+    "Fill level should be at or near original",
+    "Seal must be intact - authenticity concerns are common",
+    "The distinctive bottle should be undamaged",
+    "Original boxes add significant value",
+    "Age statement visibility is important",
+    "Label condition affects collectibility"
+  ],
+  "pricingFactors": [
+    "Age statement (17, 21, or 30 year)",
+    "Limited edition or special release status",
+    "Bottle and label condition",
+    "Presence of original box",
+    "Authenticity verification",
+    "Current market demand"
+  ],
+  "faqs": [
+    {
+      "question": "Which Hibiki expressions do you buy?",
+      "answer": "We buy Hibiki 17, 21, and 30 Year expressions, as well as limited editions like Blossom Harmony. Standard Japanese Harmony is widely available and typically does not meet our criteria."
+    },
+    {
+      "question": "Why is aged Hibiki so valuable?",
+      "answer": "Hibiki 17 Year was discontinued and 21 Year has become extremely scarce. Limited production of aged whisky has driven strong collector interest."
+    },
+    {
+      "question": "Do you verify Hibiki authenticity?",
+      "answer": "Yes. Japanese whisky has high counterfeiting rates. We carefully review photos and conduct full verification during physical inspection."
+    },
+    {
+      "question": "Does the box add value?",
+      "answer": "Yes. Original Hibiki boxes add significant value. The presentation packaging is part of the collectible appeal."
+    },
+    {
+      "question": "Is my Hibiki 17 Year authentic?",
+      "answer": "Send photos and we will review for authenticity indicators. Full verification happens during physical inspection."
+    },
+    {
+      "question": "How quickly will I receive an offer?",
+      "answer": "We typically respond within one business day for Hibiki submissions."
+    },
+    {
+      "question": "What is Hibiki Blossom Harmony?",
+      "answer": "Hibiki Blossom Harmony is a limited edition featuring sakura cask finishing. These seasonal releases are collectible."
+    },
+    {
+      "question": "Do older Hibiki bottles have more value?",
+      "answer": "Older bottlings, especially with vintage packaging, may have additional collectible value. Send photos for evaluation."
+    }
+  ],
+  "relatedLinks": [
+    {"label": "Get an Offer", "href": "/get-offer"},
+    {"label": "Sell Yamazaki", "href": "/sell/yamazaki"},
+    {"label": "Sell Japanese Whisky", "href": "/sell/japanese-whisky"},
+    {"label": "Sell Scotch", "href": "/sell/scotch"}
+  ]
+}

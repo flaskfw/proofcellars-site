@@ -1,0 +1,89 @@
+{
+  "slug": "btac",
+  "title": "Sell BTAC",
+  "metaTitle": "Sell Buffalo Trace Antique Collection | Proof Cellars",
+  "metaDescription": "Sell your BTAC bourbon to Proof Cellars. We buy George T. Stagg, Sazerac 18, Eagle Rare 17, Handy, and Weller. Direct offers.",
+  "heroHeadline": "Sell Your Buffalo Trace Antique Collection",
+  "heroSubhead": "We buy all BTAC releases directly - no consignment, no auctions.",
+  "introParagraph": "The Buffalo Trace Antique Collection represents some of the most sought-after American whiskeys released each year. We buy all five BTAC expressions directly: George T. Stagg, William Larue Weller, Thomas H. Handy, Eagle Rare 17, and Sazerac 18. Submit photos and details to receive an offer.",
+  "categoryType": "bourbon",
+  "whatWeBuy": [
+    "George T. Stagg (all release years)",
+    "William Larue Weller (all release years)",
+    "Thomas H. Handy Sazerac Rye (all release years)",
+    "Eagle Rare 17 Year (all release years)",
+    "Sazerac 18 Year (all release years)",
+    "Older BTAC releases with vintage packaging"
+  ],
+  "whatWeDoNotBuy": [
+    "Opened bottles",
+    "Bottles with compromised seals",
+    "Leaking or heavily damaged bottles",
+    "Counterfeit or suspected counterfeit bottles",
+    "Items we cannot legally purchase in your state"
+  ],
+  "photoChecklist": [
+    "Front label showing expression and proof",
+    "Back label with release year information",
+    "Capsule and seal condition",
+    "Fill level visible against a light source",
+    "Original tube or box if available",
+    "Any damage or condition issues"
+  ],
+  "conditionFactors": [
+    "Fill level must be at or near original - BTAC bottles should show minimal evaporation",
+    "Seal integrity is critical - any signs of tampering or opening disqualify bottles",
+    "Label condition matters - proof and release year should be clearly visible",
+    "Original tubes add value when present",
+    "Release year affects demand - some years are more sought after",
+    "Storage conditions matter - properly stored bottles retain better value"
+  ],
+  "pricingFactors": [
+    "Specific expression within the collection",
+    "Release year and proof (varies annually)",
+    "Bottle and label condition",
+    "Presence of original tube or box",
+    "Current market demand for that year's release",
+    "Overall collection completeness if selling multiple"
+  ],
+  "faqs": [
+    {
+      "question": "Which BTAC expressions do you buy?",
+      "answer": "We buy all five BTAC releases: George T. Stagg, William Larue Weller, Thomas H. Handy, Eagle Rare 17 Year, and Sazerac 18 Year from any release year."
+    },
+    {
+      "question": "Do some BTAC release years have more value?",
+      "answer": "Yes. Demand varies by release year and expression. Some years with exceptional reviews or unusual proofs command higher prices. We evaluate each bottle individually."
+    },
+    {
+      "question": "Does the tube add value?",
+      "answer": "Yes. Original BTAC tubes add value. Include photos of the tube if you have it."
+    },
+    {
+      "question": "How do I identify my BTAC release year?",
+      "answer": "The release year is typically indicated on the back label. The proof varies each year for most expressions, which also helps identify the vintage."
+    },
+    {
+      "question": "Can I sell a complete BTAC set?",
+      "answer": "Yes. We buy complete annual sets as well as individual bottles. For complete sets, provide photos of all five bottles."
+    },
+    {
+      "question": "How quickly will I receive an offer?",
+      "answer": "We typically respond within one business day for BTAC submissions. These bottles are in high demand."
+    },
+    {
+      "question": "What if I have older BTAC bottles?",
+      "answer": "Older BTAC releases, especially from the early years of the collection, are often collectible. Send photos and we will evaluate based on age, condition, and current demand."
+    },
+    {
+      "question": "Do you verify authenticity?",
+      "answer": "Yes. We review photos for authenticity indicators and conduct full verification during physical inspection. BTAC bottles are carefully examined."
+    }
+  ],
+  "relatedLinks": [
+    {"label": "Get an Offer", "href": "/get-offer"},
+    {"label": "Sell Bourbon", "href": "/sell/bourbon"},
+    {"label": "Sell Stagg", "href": "/sell/stagg"},
+    {"label": "Sell Weller", "href": "/sell/weller"}
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "slug": "eagle-rare",
+  "title": "Sell Eagle Rare",
+  "metaTitle": "Sell Eagle Rare Bourbon | Proof Cellars",
+  "metaDescription": "Sell your Eagle Rare bourbon to Proof Cellars. We buy Eagle Rare 17 Year and collectible 10 Year releases. Direct offers with no fees.",
+  "heroHeadline": "Sell Your Eagle Rare Bourbon",
+  "heroSubhead": "We buy Eagle Rare directly - from 17 Year to collectible releases.",
+  "introParagraph": "Eagle Rare is produced by Buffalo Trace with two main expressions: the allocated 10 Year single barrel and the highly sought-after 17 Year from the BTAC collection. We buy both expressions directly, with particular interest in the 17 Year. Submit photos and details to receive an offer.",
+  "categoryType": "bourbon",
+  "whatWeBuy": [
+    "Eagle Rare 17 Year (BTAC release, all years)",
+    "Eagle Rare 10 Year single barrel store picks",
+    "Older Eagle Rare 10 Year with vintage packaging",
+    "Eagle Rare Double Eagle Very Rare",
+    "Pre-Buffalo Trace Eagle Rare releases"
+  ],
+  "whatWeDoNotBuy": [
+    "Opened bottles",
+    "Current standard Eagle Rare 10 Year (widely available in some markets)",
+    "Bottles with compromised seals",
+    "Leaking or heavily damaged bottles",
+    "Items we cannot legally purchase in your state"
+  ],
+  "photoChecklist": [
+    "Front label showing expression and age",
+    "Back label with proof and release information",
+    "Capsule and seal condition",
+    "Fill level visible in the bottle",
+    "Original tube or box if available",
+    "Store pick sticker if applicable"
+  ],
+  "conditionFactors": [
+    "Fill level should be at or near original - especially critical for 17 Year",
+    "Seal integrity must be intact with no signs of tampering",
+    "Label condition matters - age statement and proof should be clearly visible",
+    "Original tubes add significant value for 17 Year releases",
+    "Store pick stickers and documentation add interest for single barrel releases",
+    "Release year affects value for 17 Year expressions"
+  ],
+  "pricingFactors": [
+    "Expression (17 Year vs 10 Year)",
+    "Release year for 17 Year bottles",
+    "Single barrel store pick status for 10 Year",
+    "Bottle and label condition",
+    "Presence of original packaging",
+    "Current market demand"
+  ],
+  "faqs": [
+    {
+      "question": "Do you buy Eagle Rare 10 Year?",
+      "answer": "We buy Eagle Rare 10 Year single barrel store picks and older releases with vintage packaging. Standard current releases that are widely available may not meet our criteria depending on market conditions."
+    },
+    {
+      "question": "Is Eagle Rare 17 Year valuable?",
+      "answer": "Yes. Eagle Rare 17 Year is part of the Buffalo Trace Antique Collection and is highly sought after. We provide competitive offers for all release years."
+    },
+    {
+      "question": "What is Double Eagle Very Rare?",
+      "answer": "Double Eagle Very Rare is an ultra-premium release in a distinctive decanter. These are rare and collectible. Send photos if you have one."
+    },
+    {
+      "question": "Does the tube add value for 17 Year?",
+      "answer": "Yes. The original tube adds meaningful value for Eagle Rare 17 Year. Include photos of the tube if available."
+    },
+    {
+      "question": "What are store picks?",
+      "answer": "Store picks are single barrel selections made by retailers. These bottles often have a sticker identifying the store and may include tasting notes. Some store picks are collectible."
+    },
+    {
+      "question": "How quickly will I receive an offer?",
+      "answer": "We typically respond within one business day for Eagle Rare submissions."
+    },
+    {
+      "question": "Do older Eagle Rare 10 Year bottles have value?",
+      "answer": "Older Eagle Rare 10 Year bottles with vintage labels and packaging may have collectible value. Send photos and we will evaluate."
+    },
+    {
+      "question": "What affects Eagle Rare 17 Year pricing?",
+      "answer": "Release year, proof, condition, and presence of original tube all affect pricing. Some vintages are more sought after than others."
+    }
+  ],
+  "relatedLinks": [
+    {"label": "Get an Offer", "href": "/get-offer"},
+    {"label": "Sell Bourbon", "href": "/sell/bourbon"},
+    {"label": "Sell BTAC", "href": "/sell/btac"},
+    {"label": "Sell Blanton's", "href": "/sell/blantons"}
+  ]
+}

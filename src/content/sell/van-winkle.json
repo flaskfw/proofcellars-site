@@ -1,0 +1,90 @@
+{
+  "slug": "van-winkle",
+  "title": "Sell Van Winkle",
+  "metaTitle": "Sell Van Winkle Bourbon | Proof Cellars",
+  "metaDescription": "Sell your Van Winkle bourbon directly. We buy Old Rip, Lot B, 10, 12, 15, 20, and 23 year expressions. Get a direct offer with no fees.",
+  "heroHeadline": "Sell Your Van Winkle Bourbon",
+  "heroSubhead": "We buy all Van Winkle expressions directly - no consignment, no auctions.",
+  "introParagraph": "Van Winkle bourbons are among the most collectible American whiskeys. Whether you have a single bottle or multiple expressions from the Van Winkle family lineup, we provide direct offers with no consignment fees. Our process is simple: send us photos and details, receive an offer, and get paid after we verify your bottles.",
+  "categoryType": "bourbon",
+  "whatWeBuy": [
+    "Old Rip Van Winkle 10 Year",
+    "Van Winkle Special Reserve 12 Year (Lot B)",
+    "Van Winkle Family Reserve 15 Year",
+    "Van Winkle Family Reserve 20 Year",
+    "Van Winkle Family Reserve 23 Year",
+    "Van Winkle Family Reserve Rye 13 Year",
+    "Older and vintage Van Winkle releases"
+  ],
+  "whatWeDoNotBuy": [
+    "Opened bottles",
+    "Bottles with compromised seals",
+    "Leaking or heavily damaged bottles",
+    "Suspected counterfeit bottles",
+    "Items we cannot legally purchase in your state"
+  ],
+  "photoChecklist": [
+    "Front label showing brand and age statement",
+    "Back label with lot and bottle codes",
+    "Capsule and seal condition",
+    "Fill level visible against a light source",
+    "Original box or tube if available",
+    "Any flaws, scratches, or damage"
+  ],
+  "conditionFactors": [
+    "Fill level should be at or near the original level - low fills significantly reduce value",
+    "Seals must be intact with no signs of tampering or previous opening",
+    "Labels should be clean and legible with minimal wear or staining",
+    "Original packaging (boxes, tubes) adds meaningful value",
+    "Lot codes and date stamps help verify authenticity",
+    "Storage history matters - bottles stored upright in temperature-controlled environments are preferred"
+  ],
+  "pricingFactors": [
+    "Expression and age statement (10, 12, 15, 20, or 23 year)",
+    "Release year and specific lot number",
+    "Fill level and overall condition",
+    "Presence of original packaging",
+    "Current secondary market demand",
+    "Authenticity verification during inspection"
+  ],
+  "faqs": [
+    {
+      "question": "Which Van Winkle expressions do you buy?",
+      "answer": "We buy all Van Winkle family expressions including Old Rip Van Winkle 10 Year, Van Winkle Special Reserve 12 Year (Lot B), and the Family Reserve lineup at 15, 20, and 23 years. We also purchase the Van Winkle Family Reserve Rye."
+    },
+    {
+      "question": "How do I know if my Van Winkle bottle is authentic?",
+      "answer": "Send photos and we will review them for common authenticity markers. We examine label details, lot codes, fill levels, and capsule condition. Full verification happens during physical inspection after you ship."
+    },
+    {
+      "question": "Does the box or tube add value?",
+      "answer": "Yes. Original packaging adds value for Van Winkle bottles. If you have the original box or tube, include photos of it in your submission."
+    },
+    {
+      "question": "How quickly will I receive an offer?",
+      "answer": "We typically respond within one business day. Van Winkle bottles are in high demand, so we prioritize these submissions."
+    },
+    {
+      "question": "What if my bottle has minor label wear?",
+      "answer": "Minor cosmetic issues usually reduce value but do not disqualify a bottle. Send photos showing the condition and we will factor it into our offer."
+    },
+    {
+      "question": "Do you buy single bottles or only collections?",
+      "answer": "Both. Single Van Winkle bottles are welcome. If you have multiple bottles or a larger collection, we can review everything in one submission."
+    },
+    {
+      "question": "How is payment handled?",
+      "answer": "Payment methods depend on the transaction size and your location. We will confirm the payment method before you ship. Payment is issued after we receive and inspect your bottles."
+    },
+    {
+      "question": "Can I sell Van Winkle bottles from any state?",
+      "answer": "We can only purchase bottles where legally permitted. After reviewing your submission, we will confirm whether we can proceed based on your location."
+    }
+  ],
+  "relatedLinks": [
+    {"label": "Get an Offer", "href": "/get-offer"},
+    {"label": "Sell Bourbon", "href": "/sell/bourbon"},
+    {"label": "Sell BTAC", "href": "/sell/btac"},
+    {"label": "Sell Weller", "href": "/sell/weller"}
+  ]
+}

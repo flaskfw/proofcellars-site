@@ -1,4 +1,4 @@
-import type { SellPageConfig } from './types';
+import type { SellPageConfig, SellPageFAQ } from './types';
 import fs from 'fs';
 import path from 'path';
 
@@ -9,6 +9,10 @@ export function getSellPageSlugs(): string[] {
   return files
     .filter((file) => file.endsWith('.json'))
     .map((file) => file.replace('.json', ''));
+}
+
+export function getAllSellPageSlugs(): string[] {
+  return getSellPageSlugs();
 }
 
 export function getSellPageData(slug: string): SellPageConfig | null {
@@ -29,6 +33,14 @@ export function getAllSellPageData(): SellPageConfig[] {
     .filter((data): data is SellPageConfig => data !== null);
 }
 
+export function getAllSellPages(): SellPageConfig[] {
+  return getAllSellPageData();
+}
+
+export function getSellPagesByCategory(categoryType: SellPageConfig['categoryType']): SellPageConfig[] {
+  return getAllSellPageData().filter((page) => page.categoryType === categoryType);
+}
+
 export function generateBreadcrumbSchema(
   title: string,
   slug: string,
@@ -47,9 +59,30 @@ export function generateBreadcrumbSchema(
       {
         '@type': 'ListItem',
         position: 2,
+        name: 'What We Buy',
+        item: `${baseUrl}/sell`,
+      },
+      {
+        '@type': 'ListItem',
+        position: 3,
         name: title,
         item: `${baseUrl}/sell/${slug}`,
       },
     ],
+  };
+}
+
+export function generateFAQSchemaFromPage(faqs: SellPageFAQ[]) {
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: faqs.map((faq) => ({
+      '@type': 'Question',
+      name: faq.question,
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: faq.answer,
+      },
+    })),
   };
 }

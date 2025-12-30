@@ -1,0 +1,90 @@
+{
+  "slug": "willett",
+  "title": "Sell Willett",
+  "metaTitle": "Sell Willett Bourbon | Proof Cellars",
+  "metaDescription": "Sell your Willett bourbon to Proof Cellars. We buy Family Estate, Purple Top, and aged releases. Direct offers with no fees.",
+  "heroHeadline": "Sell Your Willett Bourbon",
+  "heroSubhead": "We buy Willett Family Estate and limited releases directly.",
+  "introParagraph": "Willett Family Estate bottles, especially older releases with Purple Top wax, are highly collectible. We buy Willett directly, including Family Estate single barrels, aged expressions, and vintage releases. Submit photos and details to receive an offer with no consignment fees.",
+  "categoryType": "bourbon",
+  "whatWeBuy": [
+    "Willett Family Estate Bourbon (all ages)",
+    "Willett Family Estate Rye (all ages)",
+    "Purple Top (older wax-sealed releases)",
+    "Willett Pot Still Reserve older releases",
+    "Rowan's Creek older bottlings",
+    "Noah's Mill older bottlings",
+    "Kentucky Vintage older releases"
+  ],
+  "whatWeDoNotBuy": [
+    "Opened bottles",
+    "Current Pot Still Reserve (widely available)",
+    "Bottles with compromised seals or damaged wax",
+    "Leaking or heavily damaged bottles",
+    "Items we cannot legally purchase in your state"
+  ],
+  "photoChecklist": [
+    "Front label showing age statement if present",
+    "Barrel and bottle number information",
+    "Wax seal condition (especially for Purple Top)",
+    "Fill level visible in the bottle",
+    "Any age statement or proof details",
+    "Any damage or imperfections"
+  ],
+  "conditionFactors": [
+    "Wax seal must be intact - cracked or damaged wax affects value",
+    "Fill level should be appropriate for the bottle's age",
+    "Age statement visibility matters for Family Estate bottles",
+    "Barrel and bottle numbers help identify specific releases",
+    "Label condition affects value - handwritten details should be legible",
+    "Older Purple Top releases require careful wax assessment"
+  ],
+  "pricingFactors": [
+    "Age statement (higher ages command premium prices)",
+    "Bourbon vs Rye expression",
+    "Purple Top vs current release",
+    "Barrel and bottle numbers",
+    "Wax seal and overall condition",
+    "Current market demand for that age/style"
+  ],
+  "faqs": [
+    {
+      "question": "What are Purple Top Willetts?",
+      "answer": "Purple Top refers to older Willett Family Estate releases sealed with purple wax. These vintage releases often feature higher age statements and are highly collectible."
+    },
+    {
+      "question": "Does the age statement affect value?",
+      "answer": "Yes. Higher age statements on Willett Family Estate bottles generally command higher prices. The age is handwritten on the label."
+    },
+    {
+      "question": "Do you buy current Willett releases?",
+      "answer": "We buy current Willett Family Estate single barrels with desirable age statements. Standard Pot Still Reserve is widely available and typically does not meet our criteria."
+    },
+    {
+      "question": "What condition should the wax be in?",
+      "answer": "The wax seal should be intact without cracks or damage. Minor cosmetic imperfections in the wax are usually acceptable, but significant damage affects value."
+    },
+    {
+      "question": "What are the barrel and bottle numbers?",
+      "answer": "Willett Family Estate bottles include handwritten barrel and bottle numbers. Include these details in your photos as they help identify specific releases."
+    },
+    {
+      "question": "How quickly will I receive an offer?",
+      "answer": "We typically respond within one business day for Willett submissions."
+    },
+    {
+      "question": "Do you buy Rowan's Creek and Noah's Mill?",
+      "answer": "We buy older Rowan's Creek and Noah's Mill bottlings that may have collectible value. Current releases are more widely available."
+    },
+    {
+      "question": "Is Willett bourbon or rye more valuable?",
+      "answer": "Both can be valuable depending on age and demand. Currently, aged Willett rye is often in high demand."
+    }
+  ],
+  "relatedLinks": [
+    {"label": "Get an Offer", "href": "/get-offer"},
+    {"label": "Sell Bourbon", "href": "/sell/bourbon"},
+    {"label": "Sell Michter's", "href": "/sell/michters"},
+    {"label": "Sell Four Roses Limited", "href": "/sell/four-roses-limited"}
+  ]
+}
