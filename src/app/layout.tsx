@@ -1,46 +1,49 @@
-import type { Metadata } from 'next';
-import { Inter } from 'next/font/google';
-import './globals.css';
-import Header from '@/components/Header';
-import Footer from '@/components/Footer';
+import type { Metadata } from "next";
+import { Inter } from "next/font/google";
+import Script from "next/script";
+import "./globals.css";
+import Header from "@/components/Header";
+import Footer from "@/components/Footer";
 
 const inter = Inter({
-  variable: '--font-inter',
-  subsets: ['latin'],
-  display: 'swap',
+  variable: "--font-inter",
+  subsets: ["latin"],
+  display: "swap",
 });
+
+const GA_ID = "G-36L308Q68S";
 
 export const metadata: Metadata = {
   title: {
-    default: 'Proof Cellars | We Buy Collectible Wine and Spirits',
-    template: '%s | Proof Cellars',
+    default: "Proof Cellars | We Buy Collectible Wine and Spirits",
+    template: "%s | Proof Cellars",
   },
   description:
-    'Sell your bourbon, scotch, and fine wine directly. No consignment, no auctions. Get a direct offer from Proof Cellars.',
-  metadataBase: new URL('https://proofcellars.com'),
+    "Sell your bourbon, scotch, and fine wine directly. No consignment, no auctions. Get a direct offer from Proof Cellars.",
+  metadataBase: new URL("https://proofcellars.com"),
   openGraph: {
-    title: 'Proof Cellars | We Buy Collectible Wine and Spirits',
+    title: "Proof Cellars | We Buy Collectible Wine and Spirits",
     description:
-      'Sell your bourbon, scotch, and fine wine directly. No consignment, no auctions. Get a direct offer from Proof Cellars.',
-    url: 'https://proofcellars.com',
-    siteName: 'Proof Cellars',
+      "Sell your bourbon, scotch, and fine wine directly. No consignment, no auctions. Get a direct offer from Proof Cellars.",
+    url: "https://proofcellars.com",
+    siteName: "Proof Cellars",
     images: [
       {
-        url: '/og-image.png',
+        url: "/og-image.png",
         width: 1200,
         height: 630,
-        alt: 'Proof Cellars',
+        alt: "Proof Cellars",
       },
     ],
-    locale: 'en_US',
-    type: 'website',
+    locale: "en_US",
+    type: "website",
   },
   twitter: {
-    card: 'summary_large_image',
-    title: 'Proof Cellars | We Buy Collectible Wine and Spirits',
+    card: "summary_large_image",
+    title: "Proof Cellars | We Buy Collectible Wine and Spirits",
     description:
-      'Sell your bourbon, scotch, and fine wine directly. No consignment, no auctions. Get a direct offer from Proof Cellars.',
-    images: ['/og-image.png'],
+      "Sell your bourbon, scotch, and fine wine directly. No consignment, no auctions. Get a direct offer from Proof Cellars.",
+    images: ["/og-image.png"],
   },
   robots: {
     index: true,
@@ -55,6 +58,20 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <head>
+        <Script
+          src={`https://www.googletagmanager.com/gtag/js?id=${GA_ID}`}
+          strategy="afterInteractive"
+        />
+        <Script id="ga4-init" strategy="afterInteractive">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){window.dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', '${GA_ID}');
+          `}
+        </Script>
+      </head>
       <body className={`${inter.variable} antialiased min-h-screen flex flex-col`}>
         <Header />
         <main className="flex-grow">{children}</main>

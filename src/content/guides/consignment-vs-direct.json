@@ -1,0 +1,127 @@
+{
+  "slug": "consignment-vs-direct",
+  "title": "Consignment vs Direct Purchase for Wine and Spirits",
+  "metaTitle": "Consignment vs Direct Purchase for Wine and Spirits | Proof Cellars",
+  "metaDescription": "Compare auction consignment and direct sale when selling wine or spirits. Understand fees, timelines, price certainty, and which approach fits your situation.",
+  "category": "practical",
+  "publishedDate": "2025-01-15",
+  "summary": "When selling wine or spirits, you can consign to auction or sell directly to a buyer. Each approach has trade-offs around price, timing, fees, and certainty. This guide compares the options.",
+  "tableOfContents": [
+    "Two Main Approaches",
+    "Auction Consignment Explained",
+    "Direct Sale Explained",
+    "Comparing the Options",
+    "When Consignment Makes Sense",
+    "When Direct Sale Makes Sense"
+  ],
+  "sections": [
+    {
+      "heading": "Two Main Approaches",
+      "content": [
+        "Sellers of wine and spirits generally have two paths. Consignment to an auction house, or direct sale to a buyer.",
+        "There is no universally right answer. The best choice depends on what you value most. Do you want the highest possible price and can wait months? Or do you want a known price, faster payment, and simpler logistics?",
+        "Understanding the trade-offs helps you decide."
+      ]
+    },
+    {
+      "heading": "Auction Consignment Explained",
+      "content": [
+        "With consignment, you ship your bottles to an auction house. They photograph, catalog, and include them in an upcoming sale. Buyers bid, and you receive proceeds minus fees after the auction closes.",
+        "Auction houses typically charge seller commissions of ten to twenty-five percent. Some also charge buyer premiums, which can reduce final hammer prices.",
+        "The timeline from submission to payment is often three to six months. Auctions are scheduled periodically, and payment is issued after buyers pay."
+      ],
+      "list": [
+        "Seller fees typically ten to twenty-five percent",
+        "Timeline of three to six months to payment",
+        "Final price uncertain until bidding ends",
+        "Bottles must be shipped to auction house",
+        "Minimum lot values may apply"
+      ]
+    },
+    {
+      "heading": "Direct Sale Explained",
+      "content": [
+        "With direct sale, a buyer evaluates your collection and makes an offer. If you accept, you ship the bottles or coordinate pickup, and receive payment after verification.",
+        "Proof Cellars operates as a direct buyer. We charge no seller fees. You receive the full offer amount.",
+        "The timeline is faster. Offers typically come within one to three business days. Payment is issued one to two weeks after we receive and verify the bottles."
+      ],
+      "list": [
+        "No seller fees",
+        "Known price before you commit",
+        "Timeline of one to three weeks to payment",
+        "Shipping coordinated by buyer",
+        "No minimum lot requirements"
+      ]
+    },
+    {
+      "heading": "Comparing the Options",
+      "content": [
+        "The core trade-off is between price potential and certainty. Auctions may achieve higher prices for rare items with active bidding, but you will not know the final price until the auction ends. Direct sale provides a known price upfront.",
+        "Fees also differ significantly. Auction seller fees reduce your proceeds by ten to twenty-five percent. Direct buyers like Proof Cellars charge no seller fees.",
+        "Timeline matters for many sellers. Auctions require patience. Direct sale works better for sellers who need liquidity or have a deadline."
+      ]
+    },
+    {
+      "heading": "When Consignment Makes Sense",
+      "content": [
+        "Auction consignment may be the right choice for specific situations. Very rare bottles with active collector demand can sometimes achieve premium prices at auction.",
+        "If you have no time pressure and want to test the market, consignment allows you to see what bidders will pay. Some sellers are comfortable with uncertainty in exchange for upside potential.",
+        "Large, museum-quality collections with exceptional provenance may benefit from auction cataloging and marketing."
+      ],
+      "list": [
+        "Rare bottles with known collector demand",
+        "No urgency for payment",
+        "Comfort with uncertain final price",
+        "Collection justifies auction cataloging effort"
+      ]
+    },
+    {
+      "heading": "When Direct Sale Makes Sense",
+      "content": [
+        "Direct sale makes sense for most sellers. If you want a known price, faster payment, no fees, and simpler logistics, direct sale delivers on all of these.",
+        "Sellers with deadlines, those handling estates, and anyone who values certainty over speculation typically prefer direct sale.",
+        "Mixed collections with a range of values often work better with direct sale. Auction houses may decline lower-value items or charge higher fees for smaller lots."
+      ],
+      "list": [
+        "You want a known price before committing",
+        "You have a timeline or deadline",
+        "You prefer not to pay seller fees",
+        "You want simpler logistics",
+        "Your collection includes a range of values"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Will I get more at auction?",
+      "answer": "Sometimes, for rare items with active bidding. But after fees, the difference may be smaller than expected. And you will not know until the auction ends."
+    },
+    {
+      "question": "What are typical auction fees?",
+      "answer": "Seller commissions range from ten to twenty-five percent depending on the auction house and lot value. Some also charge insurance, photography, or handling fees."
+    },
+    {
+      "question": "How long does auction consignment take?",
+      "answer": "Three to six months from submission to payment is typical. Auctions are scheduled periodically, and payment follows after buyers settle."
+    },
+    {
+      "question": "Can I get offers from both?",
+      "answer": "Yes. You can request auction estimates and direct offers to compare. There is no obligation until you commit."
+    },
+    {
+      "question": "What if my bottles do not sell at auction?",
+      "answer": "Unsold lots are typically returned to you or relisted. You may be charged fees for photography and handling even if items do not sell."
+    },
+    {
+      "question": "Why does Proof Cellars not charge seller fees?",
+      "answer": "We buy directly for our own inventory and network. Our margin comes from the difference between buy and sell prices, not from charging sellers."
+    }
+  ],
+  "relatedLinks": [
+    {"label": "Get an Offer", "href": "/get-offer"},
+    {"label": "Sell Wine Collection", "href": "/sell/wine-collection"},
+    {"label": "Downsizing Guide", "href": "/guides/downsizing-moving"},
+    {"label": "What We Need", "href": "/guides/what-we-need"},
+    {"label": "Inherited Cellar", "href": "/guides/inherited-cellar"}
+  ]
+}

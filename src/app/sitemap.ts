@@ -1,5 +1,6 @@
 import { MetadataRoute } from 'next';
 import { getSellPageSlugs } from '@/lib/getSellPageData';
+import { getGuideSlugs } from '@/lib/getGuideData';
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = 'https://proofcellars.com';
@@ -36,6 +37,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: 'weekly',
       priority: 0.9,
     },
+    {
+      url: `${baseUrl}/guides`,
+      lastModified: new Date(),
+      changeFrequency: 'weekly',
+      priority: 0.8,
+    },
   ];
 
   // Dynamic sell pages
@@ -47,5 +54,14 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.8,
   }));
 
-  return [...staticPages, ...sellPages];
+  // Dynamic guide pages
+  const guideSlugs = getGuideSlugs();
+  const guidePages: MetadataRoute.Sitemap = guideSlugs.map((slug) => ({
+    url: `${baseUrl}/guides/${slug}`,
+    lastModified: new Date(),
+    changeFrequency: 'monthly' as const,
+    priority: 0.7,
+  }));
+
+  return [...staticPages, ...sellPages, ...guidePages];
 }

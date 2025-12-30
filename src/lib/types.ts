@@ -31,3 +31,28 @@ export interface SellPageConfig {
   faqs: SellPageFAQ[];
   relatedLinks: RelatedLink[];
 }
+
+export interface GuideSection {
+  heading: string;
+  content: string[];
+  list?: string[];
+}
+
+export interface GuideFAQ {
+  question: string;
+  answer: string;
+}
+
+export interface GuideConfig {
+  slug: string;
+  title: string;
+  metaTitle: string;
+  metaDescription: string;
+  category: 'estate' | 'practical' | 'condition' | 'safety';
+  publishedDate: string;
+  summary: string;
+  tableOfContents: string[];
+  sections: GuideSection[];
+  faqs: GuideFAQ[];
+  relatedLinks: RelatedLink[];
+}

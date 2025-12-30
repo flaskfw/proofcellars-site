@@ -26,6 +26,12 @@ export default function Header() {
               What We Buy
             </Link>
             <Link
+              href="/guides"
+              className="text-secondary hover:text-primary transition-colors"
+            >
+              Guides
+            </Link>
+            <Link
               href="/faq"
               className="text-secondary hover:text-primary transition-colors"
             >
@@ -97,6 +103,13 @@ export default function Header() {
                 onClick={() => setMobileMenuOpen(false)}
               >
                 What We Buy
+              </Link>
+              <Link
+                href="/guides"
+                className="text-secondary hover:text-primary transition-colors"
+                onClick={() => setMobileMenuOpen(false)}
+              >
+                Guides
               </Link>
               <Link
                 href="/faq"
