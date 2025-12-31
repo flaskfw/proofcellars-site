@@ -82,9 +82,29 @@
     }
   ],
   "relatedLinks": [
-    {"label": "Get an Offer", "href": "/get-offer"},
-    {"label": "Sell Bourbon", "href": "/sell/bourbon"},
-    {"label": "Sell Michter's", "href": "/sell/michters"},
-    {"label": "Sell Four Roses Limited", "href": "/sell/four-roses-limited"}
+    {
+      "label": "Get an Offer",
+      "href": "/get-offer"
+    },
+    {
+      "label": "Sell Bourbon",
+      "href": "/sell/bourbon"
+    },
+    {
+      "label": "Sell Michter's",
+      "href": "/sell/michters"
+    },
+    {
+      "label": "Sell Four Roses Limited",
+      "href": "/sell/four-roses-limited"
+    },
+    {
+      "label": "Photo Guide",
+      "href": "/resources/photos-for-quote"
+    },
+    {
+      "label": "How Pricing Works",
+      "href": "/resources/how-pricing-works"
+    }
   ]
 }

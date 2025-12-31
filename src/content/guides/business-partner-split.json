@@ -1,132 +1,140 @@
 {
-    "slug": "business-partner-split",
-    "title": "Business Partner Split: Dividing and Selling High Value Bottles",
-    "metaTitle": "Business Partner Split: Selling Wine and Spirits | Proof Cellars",
-    "metaDescription": "How to handle wine and spirits when business partners split. Covers documentation, avoiding disputes, getting neutral valuations, and selling efficiently.",
-    "category": "scenario",
-    "publishedDate": "2025-01-15",
-    "summary": "When business partners split, dividing shared assets like wine and spirits collections can become complicated. A neutral sale often makes the division simpler and cleaner.",
-    "tableOfContents": [
-        "What to Do Next",
-        "What Information Matters for Pricing",
-        "Common Mistakes to Avoid",
-        "How the Process Works",
-        "Privacy and Safety Notes"
-    ],
-    "sections": [
-        {
-            "heading": "What to Do Next",
-            "content": [
-                "Determine what the partnership agreement says about asset division. If bottles were purchased with business funds, they are business assets.",
-                "Getting a neutral valuation helps partners agree on fair division. One partner can buy out the other, or the collection can be sold and proceeds divided."
-            ],
-            "list": [
-                "Review partnership agreement regarding asset division",
-                "Confirm who has authority to sell or receive offers",
-                "Document the collection with photos and inventory",
-                "Get a neutral offer to establish value",
-                "Decide whether to sell or have one partner buy out the other"
-            ]
-        },
-        {
-            "heading": "What Information Matters for Pricing",
-            "content": [
-                "We provide offers based on current market value. This gives both partners a neutral basis for discussion."
-            ],
-            "list": [
-                "Producer names and vintages",
-                "Quantities and bottle sizes",
-                "Storage conditions",
-                "Original packaging or wood cases",
-                "Any purchase documentation or records"
-            ]
-        },
-        {
-            "heading": "Common Mistakes to Avoid",
-            "content": [
-                "Letting disputes delay the sale can be costly if storage fees apply or if bottles need to be moved.",
-                "Piecemeal division where each partner takes bottles can lead to disagreements about relative values."
-            ],
-            "list": [
-                "Dividing bottles without establishing equal values",
-                "Delaying while paying storage costs",
-                "Selling without partner agreement or authorization",
-                "Discarding original packaging",
-                "Using valuations based on retail prices instead of what buyers pay"
-            ]
-        },
-        {
-            "heading": "How the Process Works",
-            "content": [
-                "We provide a written offer that both partners can review. This serves as a neutral market valuation."
-            ],
-            "list": [
-                "Submit photos and inventory through our form or text to 213-770-9463",
-                "We provide a written offer within one to three business days",
-                "Share the offer with all partners for discussion",
-                "If you decide to sell, confirm authorization and we coordinate logistics",
-                "Payment is issued after we receive and verify the bottles"
-            ]
-        },
-        {
-            "heading": "Privacy and Safety Notes",
-            "content": [
-                "The offer we provide is confidential and can be shared among partners as needed.",
-                "We provide documentation suitable for partnership dissolution records.",
-                "We do not take sides in disputes. Our role is to provide fair market value and handle the transaction if you choose to sell."
-            ]
-        }
-    ],
-    "faqs": [
-        {
-            "question": "Do both partners need to agree to the sale?",
-            "answer": "We confirm authorization before proceeding. Typically both partners should agree, or one partner should have documented authority to sell partnership assets."
-        },
-        {
-            "question": "Can one partner use your offer to buy out the other?",
-            "answer": "Yes. Our offer represents fair market value. One partner can pay that amount to the other to keep the collection."
-        },
-        {
-            "question": "What if partners disagree about whether to sell?",
-            "answer": "We can provide a valuation for discussion purposes. You are not obligated to sell. Sometimes having a concrete number helps partners reach agreement."
-        },
-        {
-            "question": "How do we split payment?",
-            "answer": "We issue payment to the authorized seller. Division between partners is handled according to your agreement."
-        },
-        {
-            "question": "What if the collection is at one partner's location?",
-            "answer": "We can pick up from wherever the collection is located. Coordinate access with whoever controls the storage location."
-        },
-        {
-            "question": "How long is the offer valid?",
-            "answer": "We specify validity when we provide the offer. Typically offers are valid for two to four weeks. If you need more time to reach agreement, let us know."
-        }
-    ],
-    "relatedLinks": [
-        {
-            "label": "Get an Offer",
-            "href": "/get-offer"
-        },
-        {
-            "label": "Sell Wine Collection",
-            "href": "/sell/wine-collection"
-        },
-        {
-            "label": "Sell Bourbon",
-            "href": "/sell/bourbon"
-        },
-        {
-            "label": "Sell Scotch",
-            "href": "/sell/scotch"
-        },
-        {
-            "label": "What We Need Guide",
-            "href": "/guides/what-we-need"
-        },
-        {
-            "label": "All Sell Pages",
-            "href": "/sell"
-        }
-    ]
+  "slug": "business-partner-split",
+  "title": "Business Partner Split: Dividing and Selling High Value Bottles",
+  "metaTitle": "Business Partner Split: Selling Wine and Spirits | Proof Cellars",
+  "metaDescription": "How to handle wine and spirits when business partners split. Covers documentation, avoiding disputes, getting neutral valuations, and selling efficiently.",
+  "category": "scenario",
+  "publishedDate": "2025-01-15",
+  "summary": "When business partners split, dividing shared assets like wine and spirits collections can become complicated. A neutral sale often makes the division simpler and cleaner.",
+  "tableOfContents": [
+    "What to Do Next",
+    "What Information Matters for Pricing",
+    "Common Mistakes to Avoid",
+    "How the Process Works",
+    "Privacy and Safety Notes"
+  ],
+  "sections": [
+    {
+      "heading": "What to Do Next",
+      "content": [
+        "Determine what the partnership agreement says about asset division. If bottles were purchased with business funds, they are business assets.",
+        "Getting a neutral valuation helps partners agree on fair division. One partner can buy out the other, or the collection can be sold and proceeds divided."
+      ],
+      "list": [
+        "Review partnership agreement regarding asset division",
+        "Confirm who has authority to sell or receive offers",
+        "Document the collection with photos and inventory",
+        "Get a neutral offer to establish value",
+        "Decide whether to sell or have one partner buy out the other"
+      ]
+    },
+    {
+      "heading": "What Information Matters for Pricing",
+      "content": [
+        "We provide offers based on current market value. This gives both partners a neutral basis for discussion."
+      ],
+      "list": [
+        "Producer names and vintages",
+        "Quantities and bottle sizes",
+        "Storage conditions",
+        "Original packaging or wood cases",
+        "Any purchase documentation or records"
+      ]
+    },
+    {
+      "heading": "Common Mistakes to Avoid",
+      "content": [
+        "Letting disputes delay the sale can be costly if storage fees apply or if bottles need to be moved.",
+        "Piecemeal division where each partner takes bottles can lead to disagreements about relative values."
+      ],
+      "list": [
+        "Dividing bottles without establishing equal values",
+        "Delaying while paying storage costs",
+        "Selling without partner agreement or authorization",
+        "Discarding original packaging",
+        "Using valuations based on retail prices instead of what buyers pay"
+      ]
+    },
+    {
+      "heading": "How the Process Works",
+      "content": [
+        "We provide a written offer that both partners can review. This serves as a neutral market valuation."
+      ],
+      "list": [
+        "Submit photos and inventory through our form or text to 213-770-9463",
+        "We provide a written offer within one to three business days",
+        "Share the offer with all partners for discussion",
+        "If you decide to sell, confirm authorization and we coordinate logistics",
+        "Payment is issued after we receive and verify the bottles"
+      ]
+    },
+    {
+      "heading": "Privacy and Safety Notes",
+      "content": [
+        "The offer we provide is confidential and can be shared among partners as needed.",
+        "We provide documentation suitable for partnership dissolution records.",
+        "We do not take sides in disputes. Our role is to provide fair market value and handle the transaction if you choose to sell."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Do both partners need to agree to the sale?",
+      "answer": "We confirm authorization before proceeding. Typically both partners should agree, or one partner should have documented authority to sell partnership assets."
+    },
+    {
+      "question": "Can one partner use your offer to buy out the other?",
+      "answer": "Yes. Our offer represents fair market value. One partner can pay that amount to the other to keep the collection."
+    },
+    {
+      "question": "What if partners disagree about whether to sell?",
+      "answer": "We can provide a valuation for discussion purposes. You are not obligated to sell. Sometimes having a concrete number helps partners reach agreement."
+    },
+    {
+      "question": "How do we split payment?",
+      "answer": "We issue payment to the authorized seller. Division between partners is handled according to your agreement."
+    },
+    {
+      "question": "What if the collection is at one partner's location?",
+      "answer": "We can pick up from wherever the collection is located. Coordinate access with whoever controls the storage location."
+    },
+    {
+      "question": "How long is the offer valid?",
+      "answer": "We specify validity when we provide the offer. Typically offers are valid for two to four weeks. If you need more time to reach agreement, let us know."
+    }
+  ],
+  "relatedLinks": [
+    {
+      "label": "Get an Offer",
+      "href": "/get-offer"
+    },
+    {
+      "label": "Sell Wine Collection",
+      "href": "/sell/wine-collection"
+    },
+    {
+      "label": "Sell Bourbon",
+      "href": "/sell/bourbon"
+    },
+    {
+      "label": "Sell Scotch",
+      "href": "/sell/scotch"
+    },
+    {
+      "label": "What We Need Guide",
+      "href": "/guides/what-we-need"
+    },
+    {
+      "label": "All Sell Pages",
+      "href": "/sell"
+    },
+    {
+      "label": "Photo Guide",
+      "href": "/resources/photos-for-quote"
+    },
+    {
+      "label": "Inventory Template",
+      "href": "/resources/inventory-template"
+    }
+  ]
 }

@@ -1,136 +1,144 @@
 {
-    "slug": "family-office-cellar-liquidation",
-    "title": "Family Office and Estate Staff: Liquidating a Cellar Discreetly",
-    "metaTitle": "Family Office Guide: Liquidating a Cellar Discreetly | Proof Cellars",
-    "metaDescription": "A guide for family office and estate staff liquidating wine and spirits cellars. Covers discretion, scheduling, inventory formats, and documentation requirements.",
-    "category": "scenario",
-    "publishedDate": "2025-01-15",
-    "summary": "Family offices and estate staff often manage cellar liquidations for principals who value privacy. This guide covers how to handle these transactions with appropriate discretion.",
-    "tableOfContents": [
-        "What to Do Next",
-        "What Information Matters for Pricing",
-        "Common Mistakes to Avoid",
-        "How the Process Works",
-        "Privacy and Safety Notes"
-    ],
-    "sections": [
-        {
-            "heading": "What to Do Next",
-            "content": [
-                "Confirm authorization from the appropriate decision-maker. For family offices, this may require approval from the principal, a family member, or a designated officer.",
-                "Determine what inventory documentation exists. Professional cellars often have detailed records. Export these if available."
-            ],
-            "list": [
-                "Confirm authorization from the principal or decision-maker",
-                "Export inventory from cellar management systems",
-                "Note any scheduling constraints or privacy requirements",
-                "Identify who will be the point of contact",
-                "Submit inventory and photos for an offer"
-            ]
-        },
-        {
-            "heading": "What Information Matters for Pricing",
-            "content": [
-                "Professional cellar inventories typically include the detail we need. If not, we can work with what you have."
-            ],
-            "list": [
-                "Complete inventory with producer, vintage, quantity, size",
-                "Storage location and conditions",
-                "Original packaging status",
-                "Any bottles requiring special handling",
-                "Preferred documentation formats for records"
-            ]
-        },
-        {
-            "heading": "Common Mistakes to Avoid",
-            "content": [
-                "Discretion matters but should not prevent thorough documentation. Proper records protect all parties."
-            ],
-            "list": [
-                "Proceeding without clear authorization",
-                "Insufficient documentation for financial records",
-                "Rushing without allowing time for proper valuation",
-                "Not specifying privacy requirements upfront",
-                "Coordinating logistics without appropriate staff involvement"
-            ]
-        },
-        {
-            "heading": "How the Process Works",
-            "content": [
-                "We adapt to your requirements and work within the constraints you specify."
-            ],
-            "list": [
-                "Submit inventory through email, our form, or text to 213-770-9463",
-                "We provide a written offer in your preferred format",
-                "Review with decision-makers",
-                "If accepted, schedule logistics around your constraints",
-                "Payment is issued to the designated recipient with appropriate documentation"
-            ]
-        },
-        {
-            "heading": "Privacy and Safety Notes",
-            "content": [
-                "We work with high profile families and understand confidentiality requirements. Principal names are never disclosed.",
-                "We can sign confidentiality agreements if required before beginning the process.",
-                "All pickup and logistics can be coordinated to minimize visibility and align with household schedules.",
-                "Documentation is provided in formats suitable for your accounting and record-keeping requirements."
-            ]
-        }
-    ],
-    "faqs": [
-        {
-            "question": "Can you sign an NDA before we share details?",
-            "answer": "Yes. If confidentiality agreements are required, we can execute those before receiving inventory information."
-        },
-        {
-            "question": "How do you ensure discretion?",
-            "answer": "We do not disclose principal names or transaction details. Pickups are scheduled to minimize visibility. All communications are confidential."
-        },
-        {
-            "question": "What documentation do you provide?",
-            "answer": "We provide detailed offers and receipts. Formats can be adapted for your accounting systems or record-keeping requirements."
-        },
-        {
-            "question": "Can you work with professional storage facilities?",
-            "answer": "Yes. We coordinate directly with storage facilities for inventory verification and transfer where permitted."
-        },
-        {
-            "question": "How long does the process take?",
-            "answer": "Initial offers typically take one to five business days depending on collection size. Full transactions take two to six weeks depending on logistics."
-        },
-        {
-            "question": "Can we do this in phases?",
-            "answer": "Yes. We can liquidate in batches if that works better for your situation."
-        },
-        {
-            "question": "Who should be the point of contact?",
-            "answer": "You designate the contact. We communicate with whoever you specify and do not contact others without permission."
-        }
-    ],
-    "relatedLinks": [
-        {
-            "label": "Get an Offer",
-            "href": "/get-offer"
-        },
-        {
-            "label": "Executive Assistant Guide",
-            "href": "/guides/executive-assistant-selling-bottles"
-        },
-        {
-            "label": "Privacy Guide",
-            "href": "/guides/privacy-and-safety"
-        },
-        {
-            "label": "Sell Wine Collection",
-            "href": "/sell/wine-collection"
-        },
-        {
-            "label": "Sell Macallan",
-            "href": "/sell/macallan"
-        },
-        {
-            "label": "All Sell Pages",
-            "href": "/sell"
-        }
-    ]
+  "slug": "family-office-cellar-liquidation",
+  "title": "Family Office and Estate Staff: Liquidating a Cellar Discreetly",
+  "metaTitle": "Family Office Guide: Liquidating a Cellar Discreetly | Proof Cellars",
+  "metaDescription": "A guide for family office and estate staff liquidating wine and spirits cellars. Covers discretion, scheduling, inventory formats, and documentation requirements.",
+  "category": "scenario",
+  "publishedDate": "2025-01-15",
+  "summary": "Family offices and estate staff often manage cellar liquidations for principals who value privacy. This guide covers how to handle these transactions with appropriate discretion.",
+  "tableOfContents": [
+    "What to Do Next",
+    "What Information Matters for Pricing",
+    "Common Mistakes to Avoid",
+    "How the Process Works",
+    "Privacy and Safety Notes"
+  ],
+  "sections": [
+    {
+      "heading": "What to Do Next",
+      "content": [
+        "Confirm authorization from the appropriate decision-maker. For family offices, this may require approval from the principal, a family member, or a designated officer.",
+        "Determine what inventory documentation exists. Professional cellars often have detailed records. Export these if available."
+      ],
+      "list": [
+        "Confirm authorization from the principal or decision-maker",
+        "Export inventory from cellar management systems",
+        "Note any scheduling constraints or privacy requirements",
+        "Identify who will be the point of contact",
+        "Submit inventory and photos for an offer"
+      ]
+    },
+    {
+      "heading": "What Information Matters for Pricing",
+      "content": [
+        "Professional cellar inventories typically include the detail we need. If not, we can work with what you have."
+      ],
+      "list": [
+        "Complete inventory with producer, vintage, quantity, size",
+        "Storage location and conditions",
+        "Original packaging status",
+        "Any bottles requiring special handling",
+        "Preferred documentation formats for records"
+      ]
+    },
+    {
+      "heading": "Common Mistakes to Avoid",
+      "content": [
+        "Discretion matters but should not prevent thorough documentation. Proper records protect all parties."
+      ],
+      "list": [
+        "Proceeding without clear authorization",
+        "Insufficient documentation for financial records",
+        "Rushing without allowing time for proper valuation",
+        "Not specifying privacy requirements upfront",
+        "Coordinating logistics without appropriate staff involvement"
+      ]
+    },
+    {
+      "heading": "How the Process Works",
+      "content": [
+        "We adapt to your requirements and work within the constraints you specify."
+      ],
+      "list": [
+        "Submit inventory through email, our form, or text to 213-770-9463",
+        "We provide a written offer in your preferred format",
+        "Review with decision-makers",
+        "If accepted, schedule logistics around your constraints",
+        "Payment is issued to the designated recipient with appropriate documentation"
+      ]
+    },
+    {
+      "heading": "Privacy and Safety Notes",
+      "content": [
+        "We work with high profile families and understand confidentiality requirements. Principal names are never disclosed.",
+        "We can sign confidentiality agreements if required before beginning the process.",
+        "All pickup and logistics can be coordinated to minimize visibility and align with household schedules.",
+        "Documentation is provided in formats suitable for your accounting and record-keeping requirements."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can you sign an NDA before we share details?",
+      "answer": "Yes. If confidentiality agreements are required, we can execute those before receiving inventory information."
+    },
+    {
+      "question": "How do you ensure discretion?",
+      "answer": "We do not disclose principal names or transaction details. Pickups are scheduled to minimize visibility. All communications are confidential."
+    },
+    {
+      "question": "What documentation do you provide?",
+      "answer": "We provide detailed offers and receipts. Formats can be adapted for your accounting systems or record-keeping requirements."
+    },
+    {
+      "question": "Can you work with professional storage facilities?",
+      "answer": "Yes. We coordinate directly with storage facilities for inventory verification and transfer where permitted."
+    },
+    {
+      "question": "How long does the process take?",
+      "answer": "Initial offers typically take one to five business days depending on collection size. Full transactions take two to six weeks depending on logistics."
+    },
+    {
+      "question": "Can we do this in phases?",
+      "answer": "Yes. We can liquidate in batches if that works better for your situation."
+    },
+    {
+      "question": "Who should be the point of contact?",
+      "answer": "You designate the contact. We communicate with whoever you specify and do not contact others without permission."
+    }
+  ],
+  "relatedLinks": [
+    {
+      "label": "Get an Offer",
+      "href": "/get-offer"
+    },
+    {
+      "label": "Executive Assistant Guide",
+      "href": "/guides/executive-assistant-selling-bottles"
+    },
+    {
+      "label": "Privacy Guide",
+      "href": "/guides/privacy-and-safety"
+    },
+    {
+      "label": "Sell Wine Collection",
+      "href": "/sell/wine-collection"
+    },
+    {
+      "label": "Sell Macallan",
+      "href": "/sell/macallan"
+    },
+    {
+      "label": "All Sell Pages",
+      "href": "/sell"
+    },
+    {
+      "label": "Photo Guide",
+      "href": "/resources/photos-for-quote"
+    },
+    {
+      "label": "Inventory Template",
+      "href": "/resources/inventory-template"
+    }
+  ]
 }

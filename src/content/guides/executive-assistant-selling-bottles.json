@@ -1,131 +1,139 @@
 {
-    "slug": "executive-assistant-selling-bottles",
-    "title": "Executive Assistant Guide: Selling Bottles for an Executive or Family Office",
-    "metaTitle": "Executive Assistant Guide: Selling Wine and Spirits | Proof Cellars",
-    "metaDescription": "A guide for executive assistants selling wine and spirits for an executive or family office. Covers authorization, quick information gathering, privacy, and communication preferences.",
-    "category": "scenario",
-    "publishedDate": "2025-01-15",
-    "summary": "Executive assistants and family office staff often coordinate complex transactions on behalf of principals. This guide covers how to handle wine and spirits sales efficiently.",
-    "tableOfContents": [
-        "What to Do Next",
-        "What Information Matters for Pricing",
-        "Common Mistakes to Avoid",
-        "How the Process Works",
-        "Privacy and Safety Notes"
-    ],
-    "sections": [
-        {
-            "heading": "What to Do Next",
-            "content": [
-                "Confirm authorization from the principal or appropriate family office representative. This ensures the sale can proceed without complications.",
-                "Gather information quickly. If the principal has cellar management software or inventory lists, export those. If not, photos work."
-            ],
-            "list": [
-                "Confirm authorization from the principal",
-                "Determine communication preferences (email, phone, text)",
-                "Gather inventory from cellar software or create a list",
-                "Photograph bottles if no inventory exists",
-                "Submit materials for an offer"
-            ]
-        },
-        {
-            "heading": "What Information Matters for Pricing",
-            "content": [
-                "The more information you provide upfront, the faster we can provide an accurate offer."
-            ],
-            "list": [
-                "Inventory export from cellar management software",
-                "Or a list with producer names, vintages, quantities",
-                "Storage location (home cellar, professional storage)",
-                "Any time constraints or deadlines",
-                "Communication preferences for the offer"
-            ]
-        },
-        {
-            "heading": "Common Mistakes to Avoid",
-            "content": [
-                "Incomplete information leads to back-and-forth that delays the process. Gather what you can before submitting."
-            ],
-            "list": [
-                "Submitting without clear authorization",
-                "Not specifying communication preferences",
-                "Missing storage location information",
-                "Underestimating time needed to gather inventory",
-                "Not clarifying who makes final decisions"
-            ]
-        },
-        {
-            "heading": "How the Process Works",
-            "content": [
-                "We adapt to your communication preferences and work with the constraints you have."
-            ],
-            "list": [
-                "Submit inventory and photos through our form, email, or text to 213-770-9463",
-                "We provide a written offer",
-                "Present the offer to the principal for decision",
-                "If accepted, coordinate logistics with appropriate staff",
-                "Payment is issued to the authorized recipient"
-            ]
-        },
-        {
-            "heading": "Privacy and Safety Notes",
-            "content": [
-                "We work with high profile individuals and understand confidentiality requirements. Names are not disclosed publicly.",
-                "We can communicate through you, directly with the principal, or with designated representatives as preferred.",
-                "All documentation is provided in formats suitable for your records."
-            ]
-        }
-    ],
-    "faqs": [
-        {
-            "question": "Can you work with our family office directly?",
-            "answer": "Yes. We can communicate with you, the principal, or other designated staff. Let us know preferred contacts and communication channels."
-        },
-        {
-            "question": "How quickly can you provide an offer?",
-            "answer": "Typically one to three business days after receiving complete information. If timing is critical, let us know and we prioritize accordingly."
-        },
-        {
-            "question": "Can offers be sent in specific formats?",
-            "answer": "Yes. We can provide offers via email, PDF, or other formats as needed for your records."
-        },
-        {
-            "question": "Who handles logistics?",
-            "answer": "We coordinate with whoever you designate. This might be you, house staff, or a storage facility manager."
-        },
-        {
-            "question": "How is privacy maintained?",
-            "answer": "We do not disclose seller names publicly. Communications are confidential. We can sign NDAs if required."
-        },
-        {
-            "question": "What if the collection is at multiple locations?",
-            "answer": "We can provide separate offers for different locations or a combined offer. Let us know the situation and we adapt."
-        }
-    ],
-    "relatedLinks": [
-        {
-            "label": "Get an Offer",
-            "href": "/get-offer"
-        },
-        {
-            "label": "Family Office Guide",
-            "href": "/guides/family-office-cellar-liquidation"
-        },
-        {
-            "label": "Privacy Guide",
-            "href": "/guides/privacy-and-safety"
-        },
-        {
-            "label": "Sell Wine Collection",
-            "href": "/sell/wine-collection"
-        },
-        {
-            "label": "Sell Macallan",
-            "href": "/sell/macallan"
-        },
-        {
-            "label": "All Sell Pages",
-            "href": "/sell"
-        }
-    ]
+  "slug": "executive-assistant-selling-bottles",
+  "title": "Executive Assistant Guide: Selling Bottles for an Executive or Family Office",
+  "metaTitle": "Executive Assistant Guide: Selling Wine and Spirits | Proof Cellars",
+  "metaDescription": "A guide for executive assistants selling wine and spirits for an executive or family office. Covers authorization, quick information gathering, privacy, and communication preferences.",
+  "category": "scenario",
+  "publishedDate": "2025-01-15",
+  "summary": "Executive assistants and family office staff often coordinate complex transactions on behalf of principals. This guide covers how to handle wine and spirits sales efficiently.",
+  "tableOfContents": [
+    "What to Do Next",
+    "What Information Matters for Pricing",
+    "Common Mistakes to Avoid",
+    "How the Process Works",
+    "Privacy and Safety Notes"
+  ],
+  "sections": [
+    {
+      "heading": "What to Do Next",
+      "content": [
+        "Confirm authorization from the principal or appropriate family office representative. This ensures the sale can proceed without complications.",
+        "Gather information quickly. If the principal has cellar management software or inventory lists, export those. If not, photos work."
+      ],
+      "list": [
+        "Confirm authorization from the principal",
+        "Determine communication preferences (email, phone, text)",
+        "Gather inventory from cellar software or create a list",
+        "Photograph bottles if no inventory exists",
+        "Submit materials for an offer"
+      ]
+    },
+    {
+      "heading": "What Information Matters for Pricing",
+      "content": [
+        "The more information you provide upfront, the faster we can provide an accurate offer."
+      ],
+      "list": [
+        "Inventory export from cellar management software",
+        "Or a list with producer names, vintages, quantities",
+        "Storage location (home cellar, professional storage)",
+        "Any time constraints or deadlines",
+        "Communication preferences for the offer"
+      ]
+    },
+    {
+      "heading": "Common Mistakes to Avoid",
+      "content": [
+        "Incomplete information leads to back-and-forth that delays the process. Gather what you can before submitting."
+      ],
+      "list": [
+        "Submitting without clear authorization",
+        "Not specifying communication preferences",
+        "Missing storage location information",
+        "Underestimating time needed to gather inventory",
+        "Not clarifying who makes final decisions"
+      ]
+    },
+    {
+      "heading": "How the Process Works",
+      "content": [
+        "We adapt to your communication preferences and work with the constraints you have."
+      ],
+      "list": [
+        "Submit inventory and photos through our form, email, or text to 213-770-9463",
+        "We provide a written offer",
+        "Present the offer to the principal for decision",
+        "If accepted, coordinate logistics with appropriate staff",
+        "Payment is issued to the authorized recipient"
+      ]
+    },
+    {
+      "heading": "Privacy and Safety Notes",
+      "content": [
+        "We work with high profile individuals and understand confidentiality requirements. Names are not disclosed publicly.",
+        "We can communicate through you, directly with the principal, or with designated representatives as preferred.",
+        "All documentation is provided in formats suitable for your records."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can you work with our family office directly?",
+      "answer": "Yes. We can communicate with you, the principal, or other designated staff. Let us know preferred contacts and communication channels."
+    },
+    {
+      "question": "How quickly can you provide an offer?",
+      "answer": "Typically one to three business days after receiving complete information. If timing is critical, let us know and we prioritize accordingly."
+    },
+    {
+      "question": "Can offers be sent in specific formats?",
+      "answer": "Yes. We can provide offers via email, PDF, or other formats as needed for your records."
+    },
+    {
+      "question": "Who handles logistics?",
+      "answer": "We coordinate with whoever you designate. This might be you, house staff, or a storage facility manager."
+    },
+    {
+      "question": "How is privacy maintained?",
+      "answer": "We do not disclose seller names publicly. Communications are confidential. We can sign NDAs if required."
+    },
+    {
+      "question": "What if the collection is at multiple locations?",
+      "answer": "We can provide separate offers for different locations or a combined offer. Let us know the situation and we adapt."
+    }
+  ],
+  "relatedLinks": [
+    {
+      "label": "Get an Offer",
+      "href": "/get-offer"
+    },
+    {
+      "label": "Family Office Guide",
+      "href": "/guides/family-office-cellar-liquidation"
+    },
+    {
+      "label": "Privacy Guide",
+      "href": "/guides/privacy-and-safety"
+    },
+    {
+      "label": "Sell Wine Collection",
+      "href": "/sell/wine-collection"
+    },
+    {
+      "label": "Sell Macallan",
+      "href": "/sell/macallan"
+    },
+    {
+      "label": "All Sell Pages",
+      "href": "/sell"
+    },
+    {
+      "label": "Photo Guide",
+      "href": "/resources/photos-for-quote"
+    },
+    {
+      "label": "Inventory Template",
+      "href": "/resources/inventory-template"
+    }
+  ]
 }

@@ -140,11 +140,37 @@
     }
   ],
   "relatedLinks": [
-    {"label": "Get an Offer", "href": "/get-offer"},
-    {"label": "Sell Wine Collection", "href": "/sell/wine-collection"},
-    {"label": "Sell Bordeaux", "href": "/sell/bordeaux"},
-    {"label": "Sell Burgundy", "href": "/sell/burgundy"},
-    {"label": "Executor Guide", "href": "/guides/estate-executor"},
-    {"label": "Condition Basics", "href": "/guides/condition-matters"}
+    {
+      "label": "Get an Offer",
+      "href": "/get-offer"
+    },
+    {
+      "label": "Sell Wine Collection",
+      "href": "/sell/wine-collection"
+    },
+    {
+      "label": "Sell Bordeaux",
+      "href": "/sell/bordeaux"
+    },
+    {
+      "label": "Sell Burgundy",
+      "href": "/sell/burgundy"
+    },
+    {
+      "label": "Executor Guide",
+      "href": "/guides/estate-executor"
+    },
+    {
+      "label": "Condition Basics",
+      "href": "/guides/condition-matters"
+    },
+    {
+      "label": "Photo Guide",
+      "href": "/resources/photos-for-quote"
+    },
+    {
+      "label": "Inventory Template",
+      "href": "/resources/inventory-template"
+    }
   ]
 }

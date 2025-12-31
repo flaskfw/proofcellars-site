@@ -81,9 +81,29 @@
     }
   ],
   "relatedLinks": [
-    {"label": "Get an Offer", "href": "/get-offer"},
-    {"label": "Sell Scotch", "href": "/sell/scotch"},
-    {"label": "Sell Ardbeg", "href": "/sell/ardbeg"},
-    {"label": "Sell Bowmore", "href": "/sell/bowmore"}
+    {
+      "label": "Get an Offer",
+      "href": "/get-offer"
+    },
+    {
+      "label": "Sell Scotch",
+      "href": "/sell/scotch"
+    },
+    {
+      "label": "Sell Ardbeg",
+      "href": "/sell/ardbeg"
+    },
+    {
+      "label": "Sell Bowmore",
+      "href": "/sell/bowmore"
+    },
+    {
+      "label": "Photo Guide",
+      "href": "/resources/photos-for-quote"
+    },
+    {
+      "label": "How Pricing Works",
+      "href": "/resources/how-pricing-works"
+    }
   ]
 }

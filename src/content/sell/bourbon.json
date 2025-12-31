@@ -85,9 +85,29 @@
     }
   ],
   "relatedLinks": [
-    {"label": "Get an Offer", "href": "/get-offer"},
-    {"label": "Sell Van Winkle", "href": "/sell/van-winkle"},
-    {"label": "Sell BTAC", "href": "/sell/btac"},
-    {"label": "Sell Blanton's", "href": "/sell/blantons"}
+    {
+      "label": "Get an Offer",
+      "href": "/get-offer"
+    },
+    {
+      "label": "Sell Van Winkle",
+      "href": "/sell/van-winkle"
+    },
+    {
+      "label": "Sell BTAC",
+      "href": "/sell/btac"
+    },
+    {
+      "label": "Sell Blanton's",
+      "href": "/sell/blantons"
+    },
+    {
+      "label": "Photo Guide",
+      "href": "/resources/photos-for-quote"
+    },
+    {
+      "label": "How Pricing Works",
+      "href": "/resources/how-pricing-works"
+    }
   ]
 }

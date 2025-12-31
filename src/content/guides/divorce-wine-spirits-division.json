@@ -1,136 +1,144 @@
 {
-    "slug": "divorce-wine-spirits-division",
-    "title": "Selling Wine and Spirits During a Divorce Settlement",
-    "metaTitle": "Selling Wine and Spirits During a Divorce Settlement | Proof Cellars",
-    "metaDescription": "How to sell wine and spirits during a divorce. Covers authority to sell, documentation requirements, privacy, and getting a fair offer without conflict.",
-    "category": "scenario",
-    "publishedDate": "2025-01-15",
-    "summary": "Dividing assets during a divorce can be complicated. If wine or spirits are part of the estate, this guide explains how to approach selling them with minimal conflict and proper documentation.",
-    "tableOfContents": [
-        "What to Do Next",
-        "What Information Matters for Pricing",
-        "Common Mistakes to Avoid",
-        "How the Process Works",
-        "Privacy and Safety Notes"
-    ],
-    "sections": [
-        {
-            "heading": "What to Do Next",
-            "content": [
-                "Before selling any bottles, confirm that both parties agree to the sale or that a court order authorizes it. This avoids disputes later.",
-                "Once authority is established, gather what you can about the collection. If one spouse maintained records or purchased the bottles, those records help with valuation."
-            ],
-            "list": [
-                "Confirm legal authority to sell (agreement between parties or court order)",
-                "Determine who will handle the submission and communication",
-                "Locate any purchase records, cellar logs, or inventory lists",
-                "Photograph representative bottles without moving them from storage",
-                "Submit photos and inventory for an offer"
-            ]
-        },
-        {
-            "heading": "What Information Matters for Pricing",
-            "content": [
-                "We base offers on current market value, condition, and provenance. The more information you provide, the more accurate the offer."
-            ],
-            "list": [
-                "Producer names and vintages",
-                "Bottle sizes and quantities",
-                "Storage history (temperature controlled, professional storage, home cellar)",
-                "Original packaging or wood cases",
-                "Any condition issues (damaged labels, low fills, seepage)",
-                "Purchase receipts or documentation if available"
-            ]
-        },
-        {
-            "heading": "Common Mistakes to Avoid",
-            "content": [
-                "Selling without clear authorization can create legal problems. Confirm authority before proceeding.",
-                "Rushing to sell to conclude the settlement may result in lower offers. If timing allows, take time to document the collection properly."
-            ],
-            "list": [
-                "Selling before both parties agree or court authorizes",
-                "Discarding original boxes or packaging",
-                "Moving bottles to improper storage while waiting",
-                "Accepting the first offer without understanding value",
-                "Using a public auction that discloses seller identity"
-            ]
-        },
-        {
-            "heading": "How the Process Works",
-            "content": [
-                "Our process is designed to be straightforward and private."
-            ],
-            "list": [
-                "Submit photos and an inventory through our form or text them to 213-770-9463",
-                "We review and provide a written offer within one to three business days",
-                "If you accept, we arrange pickup or shipping",
-                "Payment is issued after we receive and verify the bottles"
-            ]
-        },
-        {
-            "heading": "Privacy and Safety Notes",
-            "content": [
-                "We understand divorce situations require discretion. We do not share seller information publicly. All communications are confidential.",
-                "We provide written offers and receipts that can be used for legal documentation of the asset sale.",
-                "We never require in-person meetings at your home. Bottles can be shipped or picked up from a neutral location where permitted."
-            ]
-        }
-    ],
-    "faqs": [
-        {
-            "question": "Do both parties need to approve the sale?",
-            "answer": "We confirm authorization before proceeding. This may mean written agreement from both parties or documentation of a court order. We will discuss requirements after reviewing your submission."
-        },
-        {
-            "question": "Can I sell before the divorce is finalized?",
-            "answer": "It depends on your situation. Some couples agree to liquidate assets during proceedings. Consult with your attorney about what is permitted, then contact us with documentation of authorization."
-        },
-        {
-            "question": "How do you handle payment if proceeds are split?",
-            "answer": "We issue payment to the authorized seller. Division of proceeds between parties is handled separately according to your agreement or court order."
-        },
-        {
-            "question": "Will my name be public if I sell?",
-            "answer": "No. We are a direct buyer, not an auction house. Your identity is not disclosed publicly."
-        },
-        {
-            "question": "What if my spouse has the bottles but I have the records?",
-            "answer": "Coordinate to gather photos from where bottles are stored and records from whoever has them. We can work with partial information and follow up with questions."
-        },
-        {
-            "question": "How long does the process take?",
-            "answer": "Offers are typically provided within one to three business days. The full process from submission to payment usually takes one to three weeks depending on logistics."
-        },
-        {
-            "question": "Do you provide documentation for court?",
-            "answer": "Yes. We provide written offers and receipts that document the sale for legal purposes."
-        }
-    ],
-    "relatedLinks": [
-        {
-            "label": "Get an Offer",
-            "href": "/get-offer"
-        },
-        {
-            "label": "Sell Wine Collection",
-            "href": "/sell/wine-collection"
-        },
-        {
-            "label": "Sell Bourbon",
-            "href": "/sell/bourbon"
-        },
-        {
-            "label": "Sell Scotch",
-            "href": "/sell/scotch"
-        },
-        {
-            "label": "Sell Champagne",
-            "href": "/sell/champagne"
-        },
-        {
-            "label": "Privacy and Safety Guide",
-            "href": "/guides/privacy-and-safety"
-        }
-    ]
+  "slug": "divorce-wine-spirits-division",
+  "title": "Selling Wine and Spirits During a Divorce Settlement",
+  "metaTitle": "Selling Wine and Spirits During a Divorce Settlement | Proof Cellars",
+  "metaDescription": "How to sell wine and spirits during a divorce. Covers authority to sell, documentation requirements, privacy, and getting a fair offer without conflict.",
+  "category": "scenario",
+  "publishedDate": "2025-01-15",
+  "summary": "Dividing assets during a divorce can be complicated. If wine or spirits are part of the estate, this guide explains how to approach selling them with minimal conflict and proper documentation.",
+  "tableOfContents": [
+    "What to Do Next",
+    "What Information Matters for Pricing",
+    "Common Mistakes to Avoid",
+    "How the Process Works",
+    "Privacy and Safety Notes"
+  ],
+  "sections": [
+    {
+      "heading": "What to Do Next",
+      "content": [
+        "Before selling any bottles, confirm that both parties agree to the sale or that a court order authorizes it. This avoids disputes later.",
+        "Once authority is established, gather what you can about the collection. If one spouse maintained records or purchased the bottles, those records help with valuation."
+      ],
+      "list": [
+        "Confirm legal authority to sell (agreement between parties or court order)",
+        "Determine who will handle the submission and communication",
+        "Locate any purchase records, cellar logs, or inventory lists",
+        "Photograph representative bottles without moving them from storage",
+        "Submit photos and inventory for an offer"
+      ]
+    },
+    {
+      "heading": "What Information Matters for Pricing",
+      "content": [
+        "We base offers on current market value, condition, and provenance. The more information you provide, the more accurate the offer."
+      ],
+      "list": [
+        "Producer names and vintages",
+        "Bottle sizes and quantities",
+        "Storage history (temperature controlled, professional storage, home cellar)",
+        "Original packaging or wood cases",
+        "Any condition issues (damaged labels, low fills, seepage)",
+        "Purchase receipts or documentation if available"
+      ]
+    },
+    {
+      "heading": "Common Mistakes to Avoid",
+      "content": [
+        "Selling without clear authorization can create legal problems. Confirm authority before proceeding.",
+        "Rushing to sell to conclude the settlement may result in lower offers. If timing allows, take time to document the collection properly."
+      ],
+      "list": [
+        "Selling before both parties agree or court authorizes",
+        "Discarding original boxes or packaging",
+        "Moving bottles to improper storage while waiting",
+        "Accepting the first offer without understanding value",
+        "Using a public auction that discloses seller identity"
+      ]
+    },
+    {
+      "heading": "How the Process Works",
+      "content": [
+        "Our process is designed to be straightforward and private."
+      ],
+      "list": [
+        "Submit photos and an inventory through our form or text them to 213-770-9463",
+        "We review and provide a written offer within one to three business days",
+        "If you accept, we arrange pickup or shipping",
+        "Payment is issued after we receive and verify the bottles"
+      ]
+    },
+    {
+      "heading": "Privacy and Safety Notes",
+      "content": [
+        "We understand divorce situations require discretion. We do not share seller information publicly. All communications are confidential.",
+        "We provide written offers and receipts that can be used for legal documentation of the asset sale.",
+        "We never require in-person meetings at your home. Bottles can be shipped or picked up from a neutral location where permitted."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Do both parties need to approve the sale?",
+      "answer": "We confirm authorization before proceeding. This may mean written agreement from both parties or documentation of a court order. We will discuss requirements after reviewing your submission."
+    },
+    {
+      "question": "Can I sell before the divorce is finalized?",
+      "answer": "It depends on your situation. Some couples agree to liquidate assets during proceedings. Consult with your attorney about what is permitted, then contact us with documentation of authorization."
+    },
+    {
+      "question": "How do you handle payment if proceeds are split?",
+      "answer": "We issue payment to the authorized seller. Division of proceeds between parties is handled separately according to your agreement or court order."
+    },
+    {
+      "question": "Will my name be public if I sell?",
+      "answer": "No. We are a direct buyer, not an auction house. Your identity is not disclosed publicly."
+    },
+    {
+      "question": "What if my spouse has the bottles but I have the records?",
+      "answer": "Coordinate to gather photos from where bottles are stored and records from whoever has them. We can work with partial information and follow up with questions."
+    },
+    {
+      "question": "How long does the process take?",
+      "answer": "Offers are typically provided within one to three business days. The full process from submission to payment usually takes one to three weeks depending on logistics."
+    },
+    {
+      "question": "Do you provide documentation for court?",
+      "answer": "Yes. We provide written offers and receipts that document the sale for legal purposes."
+    }
+  ],
+  "relatedLinks": [
+    {
+      "label": "Get an Offer",
+      "href": "/get-offer"
+    },
+    {
+      "label": "Sell Wine Collection",
+      "href": "/sell/wine-collection"
+    },
+    {
+      "label": "Sell Bourbon",
+      "href": "/sell/bourbon"
+    },
+    {
+      "label": "Sell Scotch",
+      "href": "/sell/scotch"
+    },
+    {
+      "label": "Sell Champagne",
+      "href": "/sell/champagne"
+    },
+    {
+      "label": "Privacy and Safety Guide",
+      "href": "/guides/privacy-and-safety"
+    },
+    {
+      "label": "Photo Guide",
+      "href": "/resources/photos-for-quote"
+    },
+    {
+      "label": "Inventory Template",
+      "href": "/resources/inventory-template"
+    }
+  ]
 }

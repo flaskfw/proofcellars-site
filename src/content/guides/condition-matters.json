@@ -119,10 +119,33 @@
     }
   ],
   "relatedLinks": [
-    {"label": "Get an Offer", "href": "/get-offer"},
-    {"label": "Sell Wine Collection", "href": "/sell/wine-collection"},
-    {"label": "What We Need", "href": "/guides/what-we-need"},
-    {"label": "Counterfeit Red Flags", "href": "/guides/counterfeit-red-flags"},
-    {"label": "Inherited Cellar", "href": "/guides/inherited-cellar"}
+    {
+      "label": "Get an Offer",
+      "href": "/get-offer"
+    },
+    {
+      "label": "Sell Wine Collection",
+      "href": "/sell/wine-collection"
+    },
+    {
+      "label": "What We Need",
+      "href": "/guides/what-we-need"
+    },
+    {
+      "label": "Counterfeit Red Flags",
+      "href": "/guides/counterfeit-red-flags"
+    },
+    {
+      "label": "Inherited Cellar",
+      "href": "/guides/inherited-cellar"
+    },
+    {
+      "label": "Photo Guide",
+      "href": "/resources/photos-for-quote"
+    },
+    {
+      "label": "Inventory Template",
+      "href": "/resources/inventory-template"
+    }
   ]
 }

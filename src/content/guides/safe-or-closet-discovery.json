@@ -1,133 +1,141 @@
 {
-    "slug": "safe-or-closet-discovery",
-    "title": "Discovered Bottles in a Closet or Safe: How to Sell Safely",
-    "metaTitle": "Discovered Bottles in a Closet or Safe: How to Sell Safely | Proof Cellars",
-    "metaDescription": "What to do when you find wine or spirits in a closet or safe. How to handle bottles, preserve packaging, document condition, and sell for fair value.",
-    "category": "scenario",
-    "publishedDate": "2025-01-15",
-    "summary": "Finding bottles tucked away in a closet, safe, or forgotten corner happens more often than you might expect. This guide covers how to assess and sell these discoveries while preserving their value.",
-    "tableOfContents": [
-        "What to Do Next",
-        "What Information Matters for Pricing",
-        "Common Mistakes to Avoid",
-        "How the Process Works",
-        "Privacy and Safety Notes"
-    ],
-    "sections": [
-        {
-            "heading": "What to Do Next",
-            "content": [
-                "Handle bottles carefully. Wine and aged spirits can be sensitive to movement after sitting for years.",
-                "Photograph bottles before moving them. Keep any original boxes, tissue paper, or packaging materials."
-            ],
-            "list": [
-                "Photograph bottles in their current location first",
-                "Keep all original packaging, boxes, and materials",
-                "Handle bottles gently, especially older wines",
-                "Do not clean labels or remove capsule seals",
-                "Store in a cool, dark place while you decide what to do",
-                "Submit photos and information for an offer"
-            ]
-        },
-        {
-            "heading": "What Information Matters for Pricing",
-            "content": [
-                "We assess value based on what the bottle is, its condition, and any provenance information you can provide."
-            ],
-            "list": [
-                "Clear photos of labels (front and back)",
-                "Fill level visible through the glass",
-                "Capsule and cork condition",
-                "Any original boxes, tubes, or cases",
-                "What you know about how long bottles were stored",
-                "Any receipts, notes, or gift cards that came with the bottles"
-            ]
-        },
-        {
-            "heading": "Common Mistakes to Avoid",
-            "content": [
-                "Bottles found in closets and safes often have unknown storage history. This does not mean they have no value, but it does require careful assessment.",
-                "Cleaning or handling bottles roughly can damage labels and reduce value."
-            ],
-            "list": [
-                "Cleaning or wiping labels (dirt can actually help prove authenticity)",
-                "Discarding original packaging before photographing",
-                "Opening bottles to taste before checking value",
-                "Assuming bottles are worthless because they are old",
-                "Assuming bottles are valuable without verification"
-            ]
-        },
-        {
-            "heading": "How the Process Works",
-            "content": [
-                "We make the process simple. No need for in-person appraisals to get an offer."
-            ],
-            "list": [
-                "Submit photos and any information through our form or text to 213-770-9463",
-                "We review and provide a written offer within one to three business days",
-                "If you accept, we coordinate pickup or shipping",
-                "Payment is issued after we receive and verify the bottles"
-            ]
-        },
-        {
-            "heading": "Privacy and Safety Notes",
-            "content": [
-                "We handle all inquiries confidentially. Whether your bottles turn out to be worth a lot or a little, that information stays between us.",
-                "We never require you to meet anyone in person. Bottles can be shipped or picked up from a location you choose where permitted.",
-                "If you are unsure whether to sell, getting an offer is free and helps you make an informed decision."
-            ]
-        }
-    ],
-    "faqs": [
-        {
-            "question": "Are bottles stored in a closet still good?",
-            "answer": "It depends on conditions. Cool, dark closets can preserve bottles reasonably well. Hot closets or attics are problematic. Send photos and we will assess condition."
-        },
-        {
-            "question": "What if I do not know what I have?",
-            "answer": "Send photos. We identify bottles and explain what you have and whether they have value."
-        },
-        {
-            "question": "Should I open the boxes to photograph?",
-            "answer": "Yes, but carefully. Open boxes to photograph labels, then reseal. We need to see what is inside to provide an offer."
-        },
-        {
-            "question": "What if bottles were a gift and I never got details?",
-            "answer": "No problem. Photograph labels and packaging. We research and identify bottles based on what is visible."
-        },
-        {
-            "question": "How do I know if bottles are counterfeit?",
-            "answer": "We assess authenticity as part of our review. Signs include inconsistent labels, unusual capsules, and other indicators we check when reviewing photos."
-        },
-        {
-            "question": "What if the bottles are very old?",
-            "answer": "Age can add value for certain wines and spirits, but condition matters more. Very old bottles with good fill levels and intact labels can be quite valuable."
-        }
-    ],
-    "relatedLinks": [
-        {
-            "label": "Get an Offer",
-            "href": "/get-offer"
-        },
-        {
-            "label": "Condition Guide",
-            "href": "/guides/condition-matters"
-        },
-        {
-            "label": "Sell Wine",
-            "href": "/sell/wine"
-        },
-        {
-            "label": "Sell Scotch",
-            "href": "/sell/scotch"
-        },
-        {
-            "label": "Sell Bourbon",
-            "href": "/sell/bourbon"
-        },
-        {
-            "label": "Counterfeit Red Flags",
-            "href": "/guides/counterfeit-red-flags"
-        }
-    ]
+  "slug": "safe-or-closet-discovery",
+  "title": "Discovered Bottles in a Closet or Safe: How to Sell Safely",
+  "metaTitle": "Discovered Bottles in a Closet or Safe: How to Sell Safely | Proof Cellars",
+  "metaDescription": "What to do when you find wine or spirits in a closet or safe. How to handle bottles, preserve packaging, document condition, and sell for fair value.",
+  "category": "scenario",
+  "publishedDate": "2025-01-15",
+  "summary": "Finding bottles tucked away in a closet, safe, or forgotten corner happens more often than you might expect. This guide covers how to assess and sell these discoveries while preserving their value.",
+  "tableOfContents": [
+    "What to Do Next",
+    "What Information Matters for Pricing",
+    "Common Mistakes to Avoid",
+    "How the Process Works",
+    "Privacy and Safety Notes"
+  ],
+  "sections": [
+    {
+      "heading": "What to Do Next",
+      "content": [
+        "Handle bottles carefully. Wine and aged spirits can be sensitive to movement after sitting for years.",
+        "Photograph bottles before moving them. Keep any original boxes, tissue paper, or packaging materials."
+      ],
+      "list": [
+        "Photograph bottles in their current location first",
+        "Keep all original packaging, boxes, and materials",
+        "Handle bottles gently, especially older wines",
+        "Do not clean labels or remove capsule seals",
+        "Store in a cool, dark place while you decide what to do",
+        "Submit photos and information for an offer"
+      ]
+    },
+    {
+      "heading": "What Information Matters for Pricing",
+      "content": [
+        "We assess value based on what the bottle is, its condition, and any provenance information you can provide."
+      ],
+      "list": [
+        "Clear photos of labels (front and back)",
+        "Fill level visible through the glass",
+        "Capsule and cork condition",
+        "Any original boxes, tubes, or cases",
+        "What you know about how long bottles were stored",
+        "Any receipts, notes, or gift cards that came with the bottles"
+      ]
+    },
+    {
+      "heading": "Common Mistakes to Avoid",
+      "content": [
+        "Bottles found in closets and safes often have unknown storage history. This does not mean they have no value, but it does require careful assessment.",
+        "Cleaning or handling bottles roughly can damage labels and reduce value."
+      ],
+      "list": [
+        "Cleaning or wiping labels (dirt can actually help prove authenticity)",
+        "Discarding original packaging before photographing",
+        "Opening bottles to taste before checking value",
+        "Assuming bottles are worthless because they are old",
+        "Assuming bottles are valuable without verification"
+      ]
+    },
+    {
+      "heading": "How the Process Works",
+      "content": [
+        "We make the process simple. No need for in-person appraisals to get an offer."
+      ],
+      "list": [
+        "Submit photos and any information through our form or text to 213-770-9463",
+        "We review and provide a written offer within one to three business days",
+        "If you accept, we coordinate pickup or shipping",
+        "Payment is issued after we receive and verify the bottles"
+      ]
+    },
+    {
+      "heading": "Privacy and Safety Notes",
+      "content": [
+        "We handle all inquiries confidentially. Whether your bottles turn out to be worth a lot or a little, that information stays between us.",
+        "We never require you to meet anyone in person. Bottles can be shipped or picked up from a location you choose where permitted.",
+        "If you are unsure whether to sell, getting an offer is free and helps you make an informed decision."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Are bottles stored in a closet still good?",
+      "answer": "It depends on conditions. Cool, dark closets can preserve bottles reasonably well. Hot closets or attics are problematic. Send photos and we will assess condition."
+    },
+    {
+      "question": "What if I do not know what I have?",
+      "answer": "Send photos. We identify bottles and explain what you have and whether they have value."
+    },
+    {
+      "question": "Should I open the boxes to photograph?",
+      "answer": "Yes, but carefully. Open boxes to photograph labels, then reseal. We need to see what is inside to provide an offer."
+    },
+    {
+      "question": "What if bottles were a gift and I never got details?",
+      "answer": "No problem. Photograph labels and packaging. We research and identify bottles based on what is visible."
+    },
+    {
+      "question": "How do I know if bottles are counterfeit?",
+      "answer": "We assess authenticity as part of our review. Signs include inconsistent labels, unusual capsules, and other indicators we check when reviewing photos."
+    },
+    {
+      "question": "What if the bottles are very old?",
+      "answer": "Age can add value for certain wines and spirits, but condition matters more. Very old bottles with good fill levels and intact labels can be quite valuable."
+    }
+  ],
+  "relatedLinks": [
+    {
+      "label": "Get an Offer",
+      "href": "/get-offer"
+    },
+    {
+      "label": "Condition Guide",
+      "href": "/guides/condition-matters"
+    },
+    {
+      "label": "Sell Wine",
+      "href": "/sell/wine"
+    },
+    {
+      "label": "Sell Scotch",
+      "href": "/sell/scotch"
+    },
+    {
+      "label": "Sell Bourbon",
+      "href": "/sell/bourbon"
+    },
+    {
+      "label": "Counterfeit Red Flags",
+      "href": "/guides/counterfeit-red-flags"
+    },
+    {
+      "label": "Photo Guide",
+      "href": "/resources/photos-for-quote"
+    },
+    {
+      "label": "Inventory Template",
+      "href": "/resources/inventory-template"
+    }
+  ]
 }

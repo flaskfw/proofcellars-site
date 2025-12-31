@@ -83,9 +83,29 @@
     }
   ],
   "relatedLinks": [
-    {"label": "Get an Offer", "href": "/get-offer"},
-    {"label": "Sell Macallan", "href": "/sell/macallan"},
-    {"label": "Sell Japanese Whisky", "href": "/sell/japanese-whisky"},
-    {"label": "Sell Ardbeg", "href": "/sell/ardbeg"}
+    {
+      "label": "Get an Offer",
+      "href": "/get-offer"
+    },
+    {
+      "label": "Sell Macallan",
+      "href": "/sell/macallan"
+    },
+    {
+      "label": "Sell Japanese Whisky",
+      "href": "/sell/japanese-whisky"
+    },
+    {
+      "label": "Sell Ardbeg",
+      "href": "/sell/ardbeg"
+    },
+    {
+      "label": "Photo Guide",
+      "href": "/resources/photos-for-quote"
+    },
+    {
+      "label": "How Pricing Works",
+      "href": "/resources/how-pricing-works"
+    }
   ]
 }

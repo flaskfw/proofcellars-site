@@ -121,10 +121,33 @@
     }
   ],
   "relatedLinks": [
-    {"label": "Get an Offer", "href": "/get-offer"},
-    {"label": "Condition Basics", "href": "/guides/condition-matters"},
-    {"label": "What We Need", "href": "/guides/what-we-need"},
-    {"label": "Privacy and Safety", "href": "/guides/privacy-and-safety"},
-    {"label": "Sell DRC", "href": "/sell/drc"}
+    {
+      "label": "Get an Offer",
+      "href": "/get-offer"
+    },
+    {
+      "label": "Condition Basics",
+      "href": "/guides/condition-matters"
+    },
+    {
+      "label": "What We Need",
+      "href": "/guides/what-we-need"
+    },
+    {
+      "label": "Privacy and Safety",
+      "href": "/guides/privacy-and-safety"
+    },
+    {
+      "label": "Sell DRC",
+      "href": "/sell/drc"
+    },
+    {
+      "label": "Photo Guide",
+      "href": "/resources/photos-for-quote"
+    },
+    {
+      "label": "Inventory Template",
+      "href": "/resources/inventory-template"
+    }
   ]
 }

@@ -1,133 +1,141 @@
 {
-    "slug": "bar-closure-liquidation",
-    "title": "Bar Closure: Liquidating High Value Bottles and Back Bar Collectibles",
-    "metaTitle": "Bar Closure: Selling High Value Bottles and Back Bar Collectibles | Proof Cellars",
-    "metaDescription": "How to sell high value spirits and collectible bottles when closing a bar. Covers rare spirits, back bar collectibles, opened bottle policies, and getting fair value.",
-    "category": "scenario",
-    "publishedDate": "2025-01-15",
-    "summary": "Bars often accumulate rare and collectible spirits over years of operation. When closing, these bottles can represent significant value if handled properly.",
-    "tableOfContents": [
-        "What to Do Next",
-        "What Information Matters for Pricing",
-        "Common Mistakes to Avoid",
-        "How the Process Works",
-        "Privacy and Safety Notes"
-    ],
-    "sections": [
-        {
-            "heading": "What to Do Next",
-            "content": [
-                "Identify your high value bottles first. These are typically allocated bourbons, rare scotches, vintage spirits, and collectible bottles that sit on the back bar.",
-                "Separate sealed bottles from opened ones. We buy sealed bottles only."
-            ],
-            "list": [
-                "Identify allocated and collectible bottles",
-                "Separate sealed from opened inventory",
-                "Photograph each valuable bottle clearly",
-                "Note any original packaging, boxes, or tubes",
-                "Create a list with bottle names and sizes",
-                "Submit photos and list for an offer"
-            ]
-        },
-        {
-            "heading": "What Information Matters for Pricing",
-            "content": [
-                "We focus on collectible and rare bottles. Common mixing spirits typically do not have resale value, but rare bottles can be worth significant amounts."
-            ],
-            "list": [
-                "Producer names (distillery or bottler)",
-                "Age statements or batch numbers if visible",
-                "Bottle sizes",
-                "Fill level for each bottle",
-                "Original packaging (boxes, tubes, cases)",
-                "Storage conditions (back bar display versus cellar storage)"
-            ]
-        },
-        {
-            "heading": "Common Mistakes to Avoid",
-            "content": [
-                "Opened bottles are not eligible for purchase, regardless of how full they appear. Only sealed bottles have resale value.",
-                "Do not assume back bar display bottles are worthless. Some display bottles are sealed and valuable."
-            ],
-            "list": [
-                "Including opened bottles in submissions",
-                "Assuming all display bottles are opened",
-                "Discarding original boxes or tubes",
-                "Not checking back stock for sealed duplicates",
-                "Selling to the first buyer without checking value"
-            ]
-        },
-        {
-            "heading": "How the Process Works",
-            "content": [
-                "We focus on collectible spirits. Send photos of your valuable bottles and we will identify what has resale value."
-            ],
-            "list": [
-                "Text photos to 213-770-9463 or submit through our form",
-                "We identify which bottles have value and provide an offer",
-                "If accepted, we coordinate pickup",
-                "Payment is issued after we receive and verify the bottles"
-            ]
-        },
-        {
-            "heading": "Privacy and Safety Notes",
-            "content": [
-                "We handle bar closures discreetly. Your sale is not publicized.",
-                "We provide receipts and documentation suitable for business records.",
-                "We can coordinate pickup at times that work for your closure schedule."
-            ]
-        }
-    ],
-    "faqs": [
-        {
-            "question": "Do you buy opened bottles?",
-            "answer": "No. Only sealed bottles can be resold. Opened bottles, even if nearly full, are not eligible."
-        },
-        {
-            "question": "How do I know which bottles are valuable?",
-            "answer": "Send photos of your rare and allocated bottles. We identify what has value. Look for limited editions, allocated bourbons, single malts with age statements, and vintage or discontinued items."
-        },
-        {
-            "question": "What about bottles on the back bar for years?",
-            "answer": "Display does not hurt value if bottles are sealed and in good condition. Check that bottles are actually sealed and note any fill level or capsule issues."
-        },
-        {
-            "question": "Do you buy regular mixing spirits?",
-            "answer": "We focus on collectible and rare bottles. Standard mixing spirits typically do not have resale value above wholesale."
-        },
-        {
-            "question": "Can you help identify sealed versus opened bottles?",
-            "answer": "Check for intact capsules, unbroken wax seals, or intact tax stamps depending on the bottle type. If unsure, send photos and we can often tell from images."
-        },
-        {
-            "question": "What if I only have a few valuable bottles?",
-            "answer": "We buy single bottles or small lots. Even a few valuable bottles can be worth significant amounts."
-        }
-    ],
-    "relatedLinks": [
-        {
-            "label": "Get an Offer",
-            "href": "/get-offer"
-        },
-        {
-            "label": "Sell Bourbon",
-            "href": "/sell/bourbon"
-        },
-        {
-            "label": "Sell Scotch",
-            "href": "/sell/scotch"
-        },
-        {
-            "label": "Sell Japanese Whisky",
-            "href": "/sell/japanese-whisky"
-        },
-        {
-            "label": "Van Winkle",
-            "href": "/sell/van-winkle"
-        },
-        {
-            "label": "Macallan",
-            "href": "/sell/macallan"
-        }
-    ]
+  "slug": "bar-closure-liquidation",
+  "title": "Bar Closure: Liquidating High Value Bottles and Back Bar Collectibles",
+  "metaTitle": "Bar Closure: Selling High Value Bottles and Back Bar Collectibles | Proof Cellars",
+  "metaDescription": "How to sell high value spirits and collectible bottles when closing a bar. Covers rare spirits, back bar collectibles, opened bottle policies, and getting fair value.",
+  "category": "scenario",
+  "publishedDate": "2025-01-15",
+  "summary": "Bars often accumulate rare and collectible spirits over years of operation. When closing, these bottles can represent significant value if handled properly.",
+  "tableOfContents": [
+    "What to Do Next",
+    "What Information Matters for Pricing",
+    "Common Mistakes to Avoid",
+    "How the Process Works",
+    "Privacy and Safety Notes"
+  ],
+  "sections": [
+    {
+      "heading": "What to Do Next",
+      "content": [
+        "Identify your high value bottles first. These are typically allocated bourbons, rare scotches, vintage spirits, and collectible bottles that sit on the back bar.",
+        "Separate sealed bottles from opened ones. We buy sealed bottles only."
+      ],
+      "list": [
+        "Identify allocated and collectible bottles",
+        "Separate sealed from opened inventory",
+        "Photograph each valuable bottle clearly",
+        "Note any original packaging, boxes, or tubes",
+        "Create a list with bottle names and sizes",
+        "Submit photos and list for an offer"
+      ]
+    },
+    {
+      "heading": "What Information Matters for Pricing",
+      "content": [
+        "We focus on collectible and rare bottles. Common mixing spirits typically do not have resale value, but rare bottles can be worth significant amounts."
+      ],
+      "list": [
+        "Producer names (distillery or bottler)",
+        "Age statements or batch numbers if visible",
+        "Bottle sizes",
+        "Fill level for each bottle",
+        "Original packaging (boxes, tubes, cases)",
+        "Storage conditions (back bar display versus cellar storage)"
+      ]
+    },
+    {
+      "heading": "Common Mistakes to Avoid",
+      "content": [
+        "Opened bottles are not eligible for purchase, regardless of how full they appear. Only sealed bottles have resale value.",
+        "Do not assume back bar display bottles are worthless. Some display bottles are sealed and valuable."
+      ],
+      "list": [
+        "Including opened bottles in submissions",
+        "Assuming all display bottles are opened",
+        "Discarding original boxes or tubes",
+        "Not checking back stock for sealed duplicates",
+        "Selling to the first buyer without checking value"
+      ]
+    },
+    {
+      "heading": "How the Process Works",
+      "content": [
+        "We focus on collectible spirits. Send photos of your valuable bottles and we will identify what has resale value."
+      ],
+      "list": [
+        "Text photos to 213-770-9463 or submit through our form",
+        "We identify which bottles have value and provide an offer",
+        "If accepted, we coordinate pickup",
+        "Payment is issued after we receive and verify the bottles"
+      ]
+    },
+    {
+      "heading": "Privacy and Safety Notes",
+      "content": [
+        "We handle bar closures discreetly. Your sale is not publicized.",
+        "We provide receipts and documentation suitable for business records.",
+        "We can coordinate pickup at times that work for your closure schedule."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Do you buy opened bottles?",
+      "answer": "No. Only sealed bottles can be resold. Opened bottles, even if nearly full, are not eligible."
+    },
+    {
+      "question": "How do I know which bottles are valuable?",
+      "answer": "Send photos of your rare and allocated bottles. We identify what has value. Look for limited editions, allocated bourbons, single malts with age statements, and vintage or discontinued items."
+    },
+    {
+      "question": "What about bottles on the back bar for years?",
+      "answer": "Display does not hurt value if bottles are sealed and in good condition. Check that bottles are actually sealed and note any fill level or capsule issues."
+    },
+    {
+      "question": "Do you buy regular mixing spirits?",
+      "answer": "We focus on collectible and rare bottles. Standard mixing spirits typically do not have resale value above wholesale."
+    },
+    {
+      "question": "Can you help identify sealed versus opened bottles?",
+      "answer": "Check for intact capsules, unbroken wax seals, or intact tax stamps depending on the bottle type. If unsure, send photos and we can often tell from images."
+    },
+    {
+      "question": "What if I only have a few valuable bottles?",
+      "answer": "We buy single bottles or small lots. Even a few valuable bottles can be worth significant amounts."
+    }
+  ],
+  "relatedLinks": [
+    {
+      "label": "Get an Offer",
+      "href": "/get-offer"
+    },
+    {
+      "label": "Sell Bourbon",
+      "href": "/sell/bourbon"
+    },
+    {
+      "label": "Sell Scotch",
+      "href": "/sell/scotch"
+    },
+    {
+      "label": "Sell Japanese Whisky",
+      "href": "/sell/japanese-whisky"
+    },
+    {
+      "label": "Van Winkle",
+      "href": "/sell/van-winkle"
+    },
+    {
+      "label": "Macallan",
+      "href": "/sell/macallan"
+    },
+    {
+      "label": "Photo Guide",
+      "href": "/resources/photos-for-quote"
+    },
+    {
+      "label": "Inventory Template",
+      "href": "/resources/inventory-template"
+    }
+  ]
 }

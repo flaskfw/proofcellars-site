@@ -1,138 +1,146 @@
 {
-    "slug": "probate-dispute",
-    "title": "When Heirs Disagree: Handling a Wine or Whiskey Collection in Probate",
-    "metaTitle": "When Heirs Disagree: Selling Wine or Whiskey in Probate | Proof Cellars",
-    "metaDescription": "How to sell wine or whiskey when heirs disagree. Covers probate authority, building consensus, interim storage, and avoiding piecemeal sales that reduce value.",
-    "category": "scenario",
-    "publishedDate": "2025-01-15",
-    "summary": "When multiple heirs inherit a wine or whiskey collection, disagreements can arise. This guide covers how to handle these situations practically while protecting the collection's value.",
-    "tableOfContents": [
-        "What to Do Next",
-        "What Information Matters for Pricing",
-        "Common Mistakes to Avoid",
-        "How the Process Works",
-        "Privacy and Safety Notes"
-    ],
-    "sections": [
-        {
-            "heading": "What to Do Next",
-            "content": [
-                "First, determine who has authority to make decisions. The executor or administrator of the estate typically handles asset sales. If no executor is appointed yet, wait until the court appoints one.",
-                "If heirs disagree about whether to sell, the executor should work toward consensus or follow the will's instructions. Selling often makes sense when heirs cannot agree on who keeps what."
-            ],
-            "list": [
-                "Confirm the executor or administrator has authority to sell",
-                "Attempt to reach agreement among heirs if possible",
-                "Keep the collection in proper storage during discussions",
-                "Document the collection with photos and inventory",
-                "Get an offer so heirs understand the current value",
-                "Submit materials when ready to proceed"
-            ]
-        },
-        {
-            "heading": "What Information Matters for Pricing",
-            "content": [
-                "We provide offers based on what the collection is worth today. This gives all heirs a clear, neutral basis for decisions."
-            ],
-            "list": [
-                "Producer names and vintages",
-                "Quantities and bottle sizes",
-                "Storage history and current conditions",
-                "Original packaging or wood cases",
-                "Any documentation of provenance or purchase history",
-                "Condition notes for any damaged bottles"
-            ]
-        },
-        {
-            "heading": "Common Mistakes to Avoid",
-            "content": [
-                "Piecemeal sales often reduce total value. Selling individual bottles to different buyers is inefficient and may mean lower prices than selling as a collection.",
-                "Moving bottles from proper storage during disputes can damage value. Keep the collection stable while decisions are made."
-            ],
-            "list": [
-                "Letting heirs pick individual bottles before valuation",
-                "Selling piecemeal to multiple buyers",
-                "Moving bottles to improper storage during disputes",
-                "Waiting too long while paying storage fees",
-                "Making decisions without executor authorization"
-            ]
-        },
-        {
-            "heading": "How the Process Works",
-            "content": [
-                "Our process provides a neutral valuation that all parties can review."
-            ],
-            "list": [
-                "Submit photos and inventory through our form or text to 213-770-9463",
-                "We provide a written offer within one to three business days",
-                "Share the offer with all heirs for discussion",
-                "If accepted, the executor authorizes the sale and we coordinate logistics",
-                "Payment is issued to the estate after verification"
-            ]
-        },
-        {
-            "heading": "Privacy and Safety Notes",
-            "content": [
-                "The offer we provide is confidential and can be shared among heirs as needed for discussion.",
-                "We provide documentation suitable for estate accounting and probate records.",
-                "All communications go through the executor or their designated contact. We do not communicate with multiple parties unless directed."
-            ]
-        }
-    ],
-    "faqs": [
-        {
-            "question": "What if heirs want different things?",
-            "answer": "The executor has authority to make decisions for the estate. Getting a clear valuation often helps heirs agree on a path forward. Selling and dividing proceeds can be simpler than dividing bottles."
-        },
-        {
-            "question": "Can one heir buy out the others?",
-            "answer": "Yes. Our offer provides a fair market value that can be used as a basis for one heir to buy out others' shares if they prefer to keep the collection."
-        },
-        {
-            "question": "Should we wait until probate closes?",
-            "answer": "Not necessarily. Executors can often sell estate assets during administration with proper authorization. Consult with the estate attorney about timing."
-        },
-        {
-            "question": "What if some bottles are more valuable than others?",
-            "answer": "We evaluate each bottle individually and can break down our offer by wine or category if that helps with discussions among heirs."
-        },
-        {
-            "question": "How do we handle storage costs while deciding?",
-            "answer": "If the collection is in professional storage with ongoing fees, factor this into timing decisions. We can often complete purchases within two weeks of acceptance."
-        },
-        {
-            "question": "Can the executor sell without heir agreement?",
-            "answer": "Executor authority varies by jurisdiction and will terms. Consult with the estate attorney about the executor's powers and any required approvals."
-        },
-        {
-            "question": "Do you provide appraisals for estate purposes?",
-            "answer": "We provide offers representing what we will pay, which reflects current market value. For formal appraisals for tax or legal purposes, you may need a certified appraiser."
-        }
-    ],
-    "relatedLinks": [
-        {
-            "label": "Get an Offer",
-            "href": "/get-offer"
-        },
-        {
-            "label": "Executor Guide",
-            "href": "/guides/estate-executor"
-        },
-        {
-            "label": "Inherited Cellar Guide",
-            "href": "/guides/inherited-cellar"
-        },
-        {
-            "label": "Sell Wine Collection",
-            "href": "/sell/wine-collection"
-        },
-        {
-            "label": "Sell Bourbon",
-            "href": "/sell/bourbon"
-        },
-        {
-            "label": "All Sell Pages",
-            "href": "/sell"
-        }
-    ]
+  "slug": "probate-dispute",
+  "title": "When Heirs Disagree: Handling a Wine or Whiskey Collection in Probate",
+  "metaTitle": "When Heirs Disagree: Selling Wine or Whiskey in Probate | Proof Cellars",
+  "metaDescription": "How to sell wine or whiskey when heirs disagree. Covers probate authority, building consensus, interim storage, and avoiding piecemeal sales that reduce value.",
+  "category": "scenario",
+  "publishedDate": "2025-01-15",
+  "summary": "When multiple heirs inherit a wine or whiskey collection, disagreements can arise. This guide covers how to handle these situations practically while protecting the collection's value.",
+  "tableOfContents": [
+    "What to Do Next",
+    "What Information Matters for Pricing",
+    "Common Mistakes to Avoid",
+    "How the Process Works",
+    "Privacy and Safety Notes"
+  ],
+  "sections": [
+    {
+      "heading": "What to Do Next",
+      "content": [
+        "First, determine who has authority to make decisions. The executor or administrator of the estate typically handles asset sales. If no executor is appointed yet, wait until the court appoints one.",
+        "If heirs disagree about whether to sell, the executor should work toward consensus or follow the will's instructions. Selling often makes sense when heirs cannot agree on who keeps what."
+      ],
+      "list": [
+        "Confirm the executor or administrator has authority to sell",
+        "Attempt to reach agreement among heirs if possible",
+        "Keep the collection in proper storage during discussions",
+        "Document the collection with photos and inventory",
+        "Get an offer so heirs understand the current value",
+        "Submit materials when ready to proceed"
+      ]
+    },
+    {
+      "heading": "What Information Matters for Pricing",
+      "content": [
+        "We provide offers based on what the collection is worth today. This gives all heirs a clear, neutral basis for decisions."
+      ],
+      "list": [
+        "Producer names and vintages",
+        "Quantities and bottle sizes",
+        "Storage history and current conditions",
+        "Original packaging or wood cases",
+        "Any documentation of provenance or purchase history",
+        "Condition notes for any damaged bottles"
+      ]
+    },
+    {
+      "heading": "Common Mistakes to Avoid",
+      "content": [
+        "Piecemeal sales often reduce total value. Selling individual bottles to different buyers is inefficient and may mean lower prices than selling as a collection.",
+        "Moving bottles from proper storage during disputes can damage value. Keep the collection stable while decisions are made."
+      ],
+      "list": [
+        "Letting heirs pick individual bottles before valuation",
+        "Selling piecemeal to multiple buyers",
+        "Moving bottles to improper storage during disputes",
+        "Waiting too long while paying storage fees",
+        "Making decisions without executor authorization"
+      ]
+    },
+    {
+      "heading": "How the Process Works",
+      "content": [
+        "Our process provides a neutral valuation that all parties can review."
+      ],
+      "list": [
+        "Submit photos and inventory through our form or text to 213-770-9463",
+        "We provide a written offer within one to three business days",
+        "Share the offer with all heirs for discussion",
+        "If accepted, the executor authorizes the sale and we coordinate logistics",
+        "Payment is issued to the estate after verification"
+      ]
+    },
+    {
+      "heading": "Privacy and Safety Notes",
+      "content": [
+        "The offer we provide is confidential and can be shared among heirs as needed for discussion.",
+        "We provide documentation suitable for estate accounting and probate records.",
+        "All communications go through the executor or their designated contact. We do not communicate with multiple parties unless directed."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What if heirs want different things?",
+      "answer": "The executor has authority to make decisions for the estate. Getting a clear valuation often helps heirs agree on a path forward. Selling and dividing proceeds can be simpler than dividing bottles."
+    },
+    {
+      "question": "Can one heir buy out the others?",
+      "answer": "Yes. Our offer provides a fair market value that can be used as a basis for one heir to buy out others' shares if they prefer to keep the collection."
+    },
+    {
+      "question": "Should we wait until probate closes?",
+      "answer": "Not necessarily. Executors can often sell estate assets during administration with proper authorization. Consult with the estate attorney about timing."
+    },
+    {
+      "question": "What if some bottles are more valuable than others?",
+      "answer": "We evaluate each bottle individually and can break down our offer by wine or category if that helps with discussions among heirs."
+    },
+    {
+      "question": "How do we handle storage costs while deciding?",
+      "answer": "If the collection is in professional storage with ongoing fees, factor this into timing decisions. We can often complete purchases within two weeks of acceptance."
+    },
+    {
+      "question": "Can the executor sell without heir agreement?",
+      "answer": "Executor authority varies by jurisdiction and will terms. Consult with the estate attorney about the executor's powers and any required approvals."
+    },
+    {
+      "question": "Do you provide appraisals for estate purposes?",
+      "answer": "We provide offers representing what we will pay, which reflects current market value. For formal appraisals for tax or legal purposes, you may need a certified appraiser."
+    }
+  ],
+  "relatedLinks": [
+    {
+      "label": "Get an Offer",
+      "href": "/get-offer"
+    },
+    {
+      "label": "Executor Guide",
+      "href": "/guides/estate-executor"
+    },
+    {
+      "label": "Inherited Cellar Guide",
+      "href": "/guides/inherited-cellar"
+    },
+    {
+      "label": "Sell Wine Collection",
+      "href": "/sell/wine-collection"
+    },
+    {
+      "label": "Sell Bourbon",
+      "href": "/sell/bourbon"
+    },
+    {
+      "label": "All Sell Pages",
+      "href": "/sell"
+    },
+    {
+      "label": "Photo Guide",
+      "href": "/resources/photos-for-quote"
+    },
+    {
+      "label": "Inventory Template",
+      "href": "/resources/inventory-template"
+    }
+  ]
 }

@@ -113,10 +113,33 @@
     }
   ],
   "relatedLinks": [
-    {"label": "Get an Offer", "href": "/get-offer"},
-    {"label": "Shipping and Packing", "href": "/guides/shipping-and-packing"},
-    {"label": "Counterfeit Red Flags", "href": "/guides/counterfeit-red-flags"},
-    {"label": "Consignment vs Direct", "href": "/guides/consignment-vs-direct"},
-    {"label": "Inherited Cellar", "href": "/guides/inherited-cellar"}
+    {
+      "label": "Get an Offer",
+      "href": "/get-offer"
+    },
+    {
+      "label": "Shipping and Packing",
+      "href": "/guides/shipping-and-packing"
+    },
+    {
+      "label": "Counterfeit Red Flags",
+      "href": "/guides/counterfeit-red-flags"
+    },
+    {
+      "label": "Consignment vs Direct",
+      "href": "/guides/consignment-vs-direct"
+    },
+    {
+      "label": "Inherited Cellar",
+      "href": "/guides/inherited-cellar"
+    },
+    {
+      "label": "Photo Guide",
+      "href": "/resources/photos-for-quote"
+    },
+    {
+      "label": "Inventory Template",
+      "href": "/resources/inventory-template"
+    }
   ]
 }

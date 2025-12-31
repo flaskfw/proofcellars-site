@@ -82,9 +82,29 @@
     }
   ],
   "relatedLinks": [
-    {"label": "Get an Offer", "href": "/get-offer"},
-    {"label": "Sell Wine", "href": "/sell/wine"},
-    {"label": "Sell Bordeaux", "href": "/sell/bordeaux"},
-    {"label": "Sell Burgundy", "href": "/sell/burgundy"}
+    {
+      "label": "Get an Offer",
+      "href": "/get-offer"
+    },
+    {
+      "label": "Sell Wine",
+      "href": "/sell/wine"
+    },
+    {
+      "label": "Sell Bordeaux",
+      "href": "/sell/bordeaux"
+    },
+    {
+      "label": "Sell Burgundy",
+      "href": "/sell/burgundy"
+    },
+    {
+      "label": "Photo Guide",
+      "href": "/resources/photos-for-quote"
+    },
+    {
+      "label": "How Pricing Works",
+      "href": "/resources/how-pricing-works"
+    }
   ]
 }
