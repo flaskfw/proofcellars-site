@@ -63,6 +63,29 @@ export default async function SellPage({ params }: PageProps) {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
       />
 
+      {/* Breadcrumb */}
+      <section className="bg-surface pt-8 pb-0">
+        <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+          <nav>
+            <ol className="flex items-center gap-2 text-sm text-secondary">
+              <li>
+                <Link href="/" className="hover:text-primary transition-colors">
+                  Home
+                </Link>
+              </li>
+              <li>/</li>
+              <li>
+                <Link href="/sell" className="hover:text-primary transition-colors">
+                  What We Buy
+                </Link>
+              </li>
+              <li>/</li>
+              <li className="text-primary">{data.title}</li>
+            </ol>
+          </nav>
+        </div>
+      </section>
+
       {/* Hero Section */}
       <section className="bg-surface py-16 md:py-24">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
@@ -251,29 +274,42 @@ export default async function SellPage({ params }: PageProps) {
         </div>
       </section>
 
-      {/* Related Links */}
-      {data.relatedLinks && data.relatedLinks.length > 0 && (
-        <section className="py-16 md:py-24">
-          <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-            <div className="max-w-3xl">
-              <h2 className="text-xl font-medium text-primary mb-6">
-                Related Pages
-              </h2>
-              <div className="flex flex-wrap gap-3">
-                {data.relatedLinks.map((link) => (
-                  <Link
-                    key={link.href}
-                    href={link.href}
-                    className="inline-flex items-center rounded-md border border-border px-4 py-2 text-sm text-secondary hover:border-accent hover:text-accent transition-colors"
-                  >
-                    {link.label}
-                  </Link>
-                ))}
-              </div>
+      {/* Related */}
+      <section className="py-16 md:py-24">
+        <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+          <div className="max-w-3xl">
+            <h2 className="text-xl font-medium text-primary mb-6">
+              Related
+            </h2>
+            <div className="flex flex-wrap gap-3">
+              <Link
+                href="/sell"
+                className="inline-flex items-center rounded-md border border-border px-4 py-2 text-sm text-secondary hover:border-accent hover:text-accent transition-colors"
+              >
+                What We Buy
+              </Link>
+              <Link
+                href="/get-offer"
+                className="inline-flex items-center rounded-md border border-border px-4 py-2 text-sm text-secondary hover:border-accent hover:text-accent transition-colors"
+              >
+                Get an Offer
+              </Link>
+              <Link
+                href="/resources/photos-for-quote"
+                className="inline-flex items-center rounded-md border border-border px-4 py-2 text-sm text-secondary hover:border-accent hover:text-accent transition-colors"
+              >
+                Photos for Quote
+              </Link>
+              <Link
+                href="/resources/how-pricing-works"
+                className="inline-flex items-center rounded-md border border-border px-4 py-2 text-sm text-secondary hover:border-accent hover:text-accent transition-colors"
+              >
+                How Pricing Works
+              </Link>
             </div>
           </div>
-        </section>
-      )}
+        </div>
+      </section>
 
       {/* CTA Section */}
       <section className="bg-surface py-16 md:py-24">

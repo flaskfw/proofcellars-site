@@ -180,6 +180,48 @@ export default function GuidesIndexPage() {
         </section>
       )}
 
+      {/* Resources Section */}
+      <section className="bg-surface py-16 md:py-24">
+        <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+          <h2 className="text-2xl md:text-3xl font-semibold text-primary mb-4">
+            Seller Resources
+          </h2>
+          <p className="text-secondary mb-8 max-w-3xl">
+            Guides and templates to help you submit faster and get an accurate offer.
+          </p>
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
+            <Link
+              href="/resources/photos-for-quote"
+              className="block p-4 rounded-lg border border-border bg-background hover:border-accent transition-colors"
+            >
+              <h3 className="font-medium text-primary">Photos for Quote</h3>
+              <p className="mt-1 text-sm text-secondary">What photos to send for a fast, accurate offer.</p>
+            </Link>
+            <Link
+              href="/resources/inventory-template"
+              className="block p-4 rounded-lg border border-border bg-background hover:border-accent transition-colors"
+            >
+              <h3 className="font-medium text-primary">Inventory Template</h3>
+              <p className="mt-1 text-sm text-secondary">A simple format to list your bottles.</p>
+            </Link>
+            <Link
+              href="/resources/packing-guide"
+              className="block p-4 rounded-lg border border-border bg-background hover:border-accent transition-colors"
+            >
+              <h3 className="font-medium text-primary">Packing Guide</h3>
+              <p className="mt-1 text-sm text-secondary">How to pack bottles safely for shipping.</p>
+            </Link>
+            <Link
+              href="/resources/how-pricing-works"
+              className="block p-4 rounded-lg border border-border bg-background hover:border-accent transition-colors"
+            >
+              <h3 className="font-medium text-primary">How Pricing Works</h3>
+              <p className="mt-1 text-sm text-secondary">What factors affect value and offers.</p>
+            </Link>
+          </div>
+        </div>
+      </section>
+
       {/* CTA Section */}
       <section className="bg-surface py-16 md:py-24">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 text-center">
