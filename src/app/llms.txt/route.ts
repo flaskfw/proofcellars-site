@@ -29,6 +29,11 @@ ${baseUrl}/sell/macallan - Sell Macallan
 ${baseUrl}/sell/bordeaux - Sell Bordeaux wine
 ${baseUrl}/sell/burgundy - Sell Burgundy wine
 ${baseUrl}/sell/napa-cult - Sell Napa cult wines
+${baseUrl}/sell/eh-taylor - Sell E.H. Taylor
+${baseUrl}/sell/old-forester-birthday-bourbon - Sell Old Forester Birthday Bourbon
+${baseUrl}/sell/wild-turkey-masters-keep - Sell Master's Keep
+${baseUrl}/sell/laphroaig - Sell Laphroaig
+${baseUrl}/sell/balvenie - Sell Balvenie
 
 ## Resources
 ${baseUrl}/resources - Resources hub

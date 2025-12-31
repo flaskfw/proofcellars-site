@@ -1,0 +1,85 @@
+{
+    "slug": "knob-creek-limited",
+    "title": "Sell Knob Creek Limited Editions",
+    "metaTitle": "Sell Knob Creek Limited Editions | Proof Cellars",
+    "metaDescription": "Sell your Knob Creek 12 Year, 15 Year, 18 Year, and 2001 Limited Edition bottles. We buy rare Knob Creek bourbon and rye.",
+    "heroHeadline": "Sell Knob Creek Limited Editions",
+    "heroSubhead": "We buy aged and limited Knob Creek releases directly.",
+    "introParagraph": "While Knob Creek is a staple bourbon, its limited and age-statement releases are highly collectible. We purchase Knob Creek 15 Year, 18 Year, 2001 Limited Edition, and 25th Anniversary bottlings. We also buy older 12-year releases. Sell your limited Knob Creek bottles for a direct cash offer.",
+    "categoryType": "bourbon",
+    "whatWeBuy": [
+        "Knob Creek 15 Year",
+        "Knob Creek 18 Year",
+        "Knob Creek 2001 Limited Edition",
+        "Knob Creek 25th Anniversary",
+        "Knob Creek 12 Year (older labels)",
+        "Knob Creek Quarter Oak"
+    ],
+    "whatWeDoNotBuy": [
+        "Standard Knob Creek 9 Year",
+        "Knob Creek Smoked Maple/Flavored",
+        "Recent Knob Creek 12 Year (unless part of a collection)",
+        "Opened bottles"
+    ],
+    "photoChecklist": [
+        "Front label indicating age statement",
+        "Batch number on limited editions",
+        "Seal condition (wax on some, foil on others)",
+        "Fill level",
+        "Box condition (wooden boxes for 18/25 year)"
+    ],
+    "conditionFactors": [
+        "Wooden box condition is important for premium releases",
+        "Label condition",
+        "Wax seal integrity (older releases)"
+    ],
+    "pricingFactors": [
+        "Age statement (18 Year and 15 Year are higher value)",
+        "Edition (2001, Anniversary)",
+        "Batch and release date"
+    ],
+    "faqs": [
+        {
+            "question": "Do you buy Knob Creek 9 Year?",
+            "answer": "We generally do not buy standard Knob Creek 9 Year unless it is an older bottling (pre-2010)."
+        },
+        {
+            "question": "Is Knob Creek 18 Year valuable?",
+            "answer": "Yes, the 18 Year is a limited, highly-aged release that holds significant value compared to standard bottlings."
+        },
+        {
+            "question": "Do you buy Knob Creek Single Barrel picks?",
+            "answer": "We purchase select private barrel picks, especially those aged 14-15 years, which are becoming rarer."
+        },
+        {
+            "question": "What about the 25th Anniversary?",
+            "answer": "The 25th Anniversary single barrel is a key bottle we look for. Please include the box photo."
+        },
+        {
+            "question": "Do you buy Knob Creek Rye?",
+            "answer": "We buy limited Knob Creek Rye releases, such as Cask Strength or twice-barreled editions."
+        },
+        {
+            "question": "How do I sell my bottle?",
+            "answer": "Fill out our simple form or text us a photo. We'll give you a price and handle the rest."
+        }
+    ],
+    "relatedLinks": [
+        {
+            "label": "Get an Offer",
+            "href": "/get-offer"
+        },
+        {
+            "label": "Sell Booker's",
+            "href": "/sell/bookers"
+        },
+        {
+            "label": "Sell Little Book",
+            "href": "/sell/little-book"
+        },
+        {
+            "label": "Sell Bourbon",
+            "href": "/sell/bourbon"
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "slug": "octomore",
+    "title": "Sell Octomore Whisky",
+    "metaTitle": "Sell Octomore Whisky | Proof Cellars",
+    "metaDescription": "Sell your Octomore whisky. We buy the .1, .2, and .3 releases, 10 Year, and X.1 series. Direct offers.",
+    "heroHeadline": "Sell Octomore Whisky",
+    "heroSubhead": "We buy the world's most heavily peated whisky.",
+    "introParagraph": "Octomore, produced by Bruichladdich, is the super-heavily peated cult favorite. We purchase all releases, including the .1 (Scottish Barley), .2 (Travel Retail), .3 (Islay Barley), and .4 (Virgin Oak) editions, as well as the 10 Year Olds. Early releases (1.1, 2.1, etc.) command premium prices.",
+    "categoryType": "scotch",
+    "whatWeBuy": [
+        "Octomore Edition 01.1, 02.1, 03.1, 04.1",
+        "Octomore 10 Year Old (all dialogues)",
+        "Octomore x.2 (Travel Retail Exclusives)",
+        "Octomore x.3 (Islay Barley)",
+        "Octomore Orpheus, Comus, Ochdamh-mor",
+        "Octomore Event Horizon"
+    ],
+    "whatWeDoNotBuy": [
+        "Empty black tubes",
+        "Opened bottles",
+        "Bottles with leakage"
+    ],
+    "photoChecklist": [
+        "Front label (identifying the exact edition like 07.1)",
+        "Tube condition",
+        "Fill level",
+        "Seal condition",
+        "Tin/Tube lid presence"
+    ],
+    "conditionFactors": [
+        "Tube condition (matte black tubes show scuffs easily)",
+        "Seal condition",
+        "Fill level"
+    ],
+    "pricingFactors": [
+        "Edition Number (older releases like 01.1 and 02.1 are very rare)",
+        "PPM count (while interesting, the release number matters more for price)",
+        "Release type (.3 Islay Barley often commands a premium)"
+    ],
+    "faqs": [
+        {
+            "question": "Which Octomore is the most valuable?",
+            "answer": "The earliest releases (Edition 01.1, 02.1) and special editions like Event Horizon or Orpheus are the most valuable."
+        },
+        {
+            "question": "Do you buy the current .1 releases?",
+            "answer": "Yes, we buy all Octomore releases, even recent ones, though older bottles pay more."
+        },
+        {
+            "question": "Do I need the black tube?",
+            "answer": "Yes, Octomore always comes in a distinctive tin or tube. It is expected for a complete sale."
+        },
+        {
+            "question": "Do you buy Octomore 10 Year?",
+            "answer": "Yes, the limited 10 Year releases are highly desirable."
+        },
+        {
+            "question": "What is the 'x.4' series?",
+            "answer": "The .4 series typically involves virgin oak maturation and is very collectible."
+        },
+        {
+            "question": "How do I sell my collection?",
+            "answer": "Send us a list or photo of the tubes. We can usually identify them quickly."
+        }
+    ],
+    "relatedLinks": [
+        {
+            "label": "Get an Offer",
+            "href": "/get-offer"
+        },
+        {
+            "label": "Sell Bruichladdich",
+            "href": "/sell/bruichladdich"
+        },
+        {
+            "label": "Sell Ardbeg",
+            "href": "/sell/ardbeg"
+        },
+        {
+            "label": "Photos for Quote",
+            "href": "/resources/photos-for-quote"
+        }
+    ]
+}

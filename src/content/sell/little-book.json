@@ -1,0 +1,85 @@
+{
+    "slug": "little-book",
+    "title": "Sell Little Book Whiskey",
+    "metaTitle": "Sell Little Book Whiskey | Proof Cellars",
+    "metaDescription": "Sell your Little Book whiskey chapters. We buy Chapters 1-8 and other limited releases from Freddie Noe. Direct offers.",
+    "heroHeadline": "Sell Little Book Whiskey",
+    "heroSubhead": "We buy complete sets and single chapters of Little Book.",
+    "introParagraph": "Created by Freddie Noe, Little Book is an annual limited release series known for unique blends. We purchase all 'Chapters' in the series, from 'The Easy' to 'The Infinite'. Whether you have a full vertical or a single chapter to sell, we provide a fast, direct offer.",
+    "categoryType": "bourbon",
+    "whatWeBuy": [
+        "Little Book Chapter 1: The Easy",
+        "Little Book Chapter 2: Noe Simple Task",
+        "Little Book Chapter 3: The Road Home",
+        "Little Book Chapter 4: Lessons Honored",
+        "Little Book Chapter 5: The Invitation",
+        "Little Book Chapter 6: To The Finish",
+        "Little Book Chapter 7: In Retrospect",
+        "Little Book Chapter 8: Path Not Taken"
+    ],
+    "whatWeDoNotBuy": [
+        "Standard Booker's Bourbon (unless older batches)",
+        "Opened bottles",
+        "Bottles with damaged seals"
+    ],
+    "photoChecklist": [
+        "Front label showing the Chapter number",
+        "Neck tag (usually contains blend details)",
+        "Seal condition",
+        "Fill level"
+    ],
+    "conditionFactors": [
+        "Neck tag should be present for collectors",
+        "Label condition",
+        "Seal integrity (blue wax/foil depending on release)"
+    ],
+    "pricingFactors": [
+        "Chapter number (Chapter 1 and 2 are typically more valuable)",
+        "Completeness of packaging (tags)",
+        "Release year"
+    ],
+    "faqs": [
+        {
+            "question": "Which Little Book Chapter is worth the most?",
+            "answer": "Chapter 1 'The Easy' typically commands the highest value as the inaugural release."
+        },
+        {
+            "question": "Do you buy Booker's Bourbon too?",
+            "answer": "We generally only buy Booker's Bourbon if it is an older batch (pre-2015) or a special release like the 25th or 30th Anniversary."
+        },
+        {
+            "question": "Do I need the wooden box?",
+            "answer": "Little Book releases typically come in a wooden box. Having the original box helps maximize the value."
+        },
+        {
+            "question": "Do you buy multiple bottles?",
+            "answer": "Yes, we are happy to buy multiple bottles of the same chapter or a full vertical series."
+        },
+        {
+            "question": "Who makes Little Book?",
+            "answer": "It is produced by Jim Beam, created by 8th generation distiller Freddie Noe."
+        },
+        {
+            "question": "How quickly can I get paid?",
+            "answer": "Once we receive and verify your bottles, payment is sent within 1 business day via check, ACH, or Zelle."
+        }
+    ],
+    "relatedLinks": [
+        {
+            "label": "Get an Offer",
+            "href": "/get-offer"
+        },
+        {
+            "label": "Sell Booker's",
+            "href": "/sell/bookers"
+        },
+        {
+            "label": "Sell Bourbon",
+            "href": "/sell/bourbon"
+        },
+        {
+            "label": "How Pricing Works",
+            "href": "/resources/how-pricing-works"
+        }
+    ]
+}

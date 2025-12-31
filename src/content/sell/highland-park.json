@@ -1,0 +1,88 @@
+{
+    "slug": "highland-park",
+    "title": "Sell Highland Park Scotch",
+    "metaTitle": "Sell Highland Park Whisky | Proof Cellars",
+    "metaDescription": "Sell your Highland Park whisky. We buy 25 Year, 30 Year, 40 Year, Valhalla Collection, and single cask releases. Direct offers.",
+    "heroHeadline": "Sell Highland Park Whisky",
+    "heroSubhead": "We buy vintage and aged Highland Park from Orkney.",
+    "introParagraph": "Highland Park from Orkney balances smoke and honey notes. We are buyers for their premium core range (18, 25, 30, 40 Year), the Valhalla Collection (Thor, Odin, Loki, Freya), and single cask releases. Vintage bottlings from the 1960s and 70s are also highly sought after.",
+    "categoryType": "scotch",
+    "whatWeBuy": [
+        "Highland Park 25 Year Old",
+        "Highland Park 30 Year Old",
+        "Highland Park 40 Year Old",
+        "Highland Park 50 Year Old",
+        "Highland Park Valhalla Collection (Thor, Odin, Loki, Freya)",
+        "Highland Park Single Cask Series",
+        "Highland Park 18 Year (older labelling)",
+        "Highland Park Bicentenary"
+    ],
+    "whatWeDoNotBuy": [
+        "Standard Highland Park 12 Year (Viking Honour)",
+        "Highland Park Magnus",
+        "Recent NAS releases (unless limited)",
+        "Opened bottles"
+    ],
+    "photoChecklist": [
+        "Front label",
+        "Box/Frame condition (Valhalla collection frames are wood)",
+        "Fill level",
+        "Seal condition",
+        "Vintage date"
+    ],
+    "conditionFactors": [
+        "Wooden frame/plinth condition for Valhalla Collection",
+        "Box condition for aged statement bottles",
+        "Label condition",
+        "Fill level"
+    ],
+    "pricingFactors": [
+        "Age statement (older is better)",
+        "Collection completeness (Valhalla or Orcadian Vintage series)",
+        "Single Cask rarity"
+    ],
+    "faqs": [
+        {
+            "question": "Do you buy the Valhalla Collection?",
+            "answer": "Yes, we buy full sets or individual bottles of Thor, Odin, Loki, and Freya. The condition of the wooden frame is important."
+        },
+        {
+            "question": "Is older Highland Park 18 valuable?",
+            "answer": "Yes, older bottlings of Highland Park 18 (round tube, pre-Viking branding) are more desirable than the current release."
+        },
+        {
+            "question": "Do you buy Single Casks?",
+            "answer": "Yes, we purchase independent single casks and official distillery single cask releases."
+        },
+        {
+            "question": "Do you buy the Orcadian Vintage Series?",
+            "answer": "Yes, the vintage releases (1964, 1968, 1970, etc.) are extremely valuable and we are active buyers."
+        },
+        {
+            "question": "How do I ship the wooden frame?",
+            "answer": "The Valhalla frames are delicate. Pack the bottle and frame carefully with bubble wrap to ensure the wood does not crack or chip."
+        },
+        {
+            "question": "Do you buy Highland Park 21 Year?",
+            "answer": "Yes, we look for both the older 21 Year releases and the newer airport exclusives."
+        }
+    ],
+    "relatedLinks": [
+        {
+            "label": "Get an Offer",
+            "href": "/get-offer"
+        },
+        {
+            "label": "Sell Scotch",
+            "href": "/sell/scotch"
+        },
+        {
+            "label": "Sell Macallan",
+            "href": "/sell/macallan"
+        },
+        {
+            "label": "Packing Guide",
+            "href": "/resources/packing-guide"
+        }
+    ]
+}

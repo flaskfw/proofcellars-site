@@ -1,0 +1,89 @@
+{
+    "slug": "balvenie",
+    "title": "Sell Balvenie Scotch",
+    "metaTitle": "Sell Balvenie Whisky | Proof Cellars",
+    "metaDescription": "Sell your rare Balvenie whisky. We buy Balvenie Tun 1401, Tun 1509, 30 Year, 40 Year, and Single Barrel releases. Direct offers.",
+    "heroHeadline": "Sell Balvenie Whisky",
+    "heroSubhead": "We buy Balvenie Tun releases and high-age statement bottles.",
+    "introParagraph": "The Balvenie is known for its craftsmanship and range of cask finishes. We purchase collectible Balvenie bottles including the legendary Tun 1401 series, Tun 1509, DCS Compendium chapters, and ages 25, 30, 40, and 50. We also buy older Single Barrel releases. Get a direct offer for your Balvenie collection.",
+    "categoryType": "scotch",
+    "whatWeBuy": [
+        "Balvenie Tun 1401 (all batches)",
+        "Balvenie Tun 1509",
+        "Balvenie 30 Year Old",
+        "Balvenie 40 Year Old",
+        "Balvenie 50 Year Old",
+        "Balvenie DCS Compendium Releases",
+        "Balvenie 25 Year Single Barrel (and Triple Cask)",
+        "Balvenie 17 Year (DoubleWood, Sherry Oak, etc.)",
+        "Balvenie 21 Year PortWood (older bottlings)"
+    ],
+    "whatWeDoNotBuy": [
+        "Standard Balvenie 12 Year DoubleWood",
+        "Standard Balvenie 14 Year Caribbean Cask",
+        "Opened bottles",
+        "Empty tubes"
+    ],
+    "photoChecklist": [
+        "Front label",
+        "Tube/Box condition",
+        "Fill level",
+        "Seal condition",
+        "Batch number (for Tun releases)"
+    ],
+    "conditionFactors": [
+        "Tube condition is key; Balvenie tubes can show wear",
+        "Fill level",
+        "Label condition",
+        "Seal integrity"
+    ],
+    "pricingFactors": [
+        "Series (Tun 1401 is significantly more valuable than Tun 1509)",
+        "Age statement (30+ is premium)",
+        "Discontinued expressions (17 Year, 15 Year Single Barrel Sherry Cask)"
+    ],
+    "faqs": [
+        {
+            "question": "Is Balvenie Tun 1401 valuable?",
+            "answer": "Yes, Tun 1401 is considered one of the best whiskies Balvenie ever produced and is highly valuable, especially early batches."
+        },
+        {
+            "question": "Do you buy the 21 Year PortWood?",
+            "answer": "We buy older bottlings of the 21 Year PortWood. Current standard releases are purchased only as part of a collection."
+        },
+        {
+            "question": "Do you buy Balvenie 17 Year?",
+            "answer": "Yes, since the 17 Year range (DoubleWood, Peated Cask, Rum Cask) was discontinued, we actively buy these bottles."
+        },
+        {
+            "question": "Do you buy the 15 Year Single Barrel?",
+            "answer": "We buy the older Single Barrel releases (both the original Bourbon cask and the Sherry cask versions)."
+        },
+        {
+            "question": "What is the DCS Compendium?",
+            "answer": "This is a series of single cask releases honoring Malt Master David C. Stewart. They are highly collectible and valuable."
+        },
+        {
+            "question": "How do I ship a Balvenie 30/40?",
+            "answer": "These come in heavy presentation boxes. We recommend shipping the bottle and box separately in the same package if the fit is loose."
+        }
+    ],
+    "relatedLinks": [
+        {
+            "label": "Get an Offer",
+            "href": "/get-offer"
+        },
+        {
+            "label": "Sell Scotch",
+            "href": "/sell/scotch"
+        },
+        {
+            "label": "Sell Glenfiddich",
+            "href": "/sell/scotch"
+        },
+        {
+            "label": "How Pricing Works",
+            "href": "/resources/how-pricing-works"
+        }
+    ]
+}

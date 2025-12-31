@@ -1,0 +1,85 @@
+{
+    "slug": "talisker",
+    "title": "Sell Talisker Scotch",
+    "metaTitle": "Sell Talisker Whisky | Proof Cellars",
+    "metaDescription": "Sell your Talisker whisky. We buy 25 Year, 30 Year, 40+ Year, and older 10 Year releases. Direct offers.",
+    "heroHeadline": "Sell Talisker Whisky",
+    "heroSubhead": "We buy rare Talisker from the Isle of Skye.",
+    "introParagraph": "Talisker is the iconic distillery of the Isle of Skye. We purchase their premium age-statement whiskies, including Talisker 18, 25, 30, and 40+ year old releases. We also look for limited editions like the 8 Year Special Releases and older 'Map Label' 10 Year bottlings.",
+    "categoryType": "scotch",
+    "whatWeBuy": [
+        "Talisker 25 Year Old",
+        "Talisker 30 Year Old",
+        "Talisker 40 Year Series (Bodega, etc.)",
+        "Talisker 18 Year (older packaging)",
+        "Talisker Special Releases (8 Year Cask Strength)",
+        "Talisker Xenophon/Secret Stills"
+    ],
+    "whatWeDoNotBuy": [
+        "Standard Talisker 10 Year (current)",
+        "Talisker Storm",
+        "Talisker Skye",
+        "Opened bottles"
+    ],
+    "photoChecklist": [
+        "Front label",
+        "Box condition",
+        "Fill level",
+        "Seal condition",
+        "Bottling year"
+    ],
+    "conditionFactors": [
+        "Box condition is key for 25/30 year releases",
+        "Label condition",
+        "Fill level"
+    ],
+    "pricingFactors": [
+        "Age statement (30+ is premium)",
+        "Bottling year (older 25/30 year bottlings at cask strength are more valuable)",
+        "Edition (Bodega series)"
+    ],
+    "faqs": [
+        {
+            "question": "Is current Talisker 18 valuable?",
+            "answer": "It is a premium bottle, but older packaging versions of the 18 Year are more collectible."
+        },
+        {
+            "question": "Do you buy Talisker 10 Year?",
+            "answer": "Only if it is an older 'Map Label' bottling or earlier."
+        },
+        {
+            "question": "Do you buy the 8 Year Special Release?",
+            "answer": "Yes, we buy the cask strength annual 8 Year releases."
+        },
+        {
+            "question": "Do you buy Distillers Edition?",
+            "answer": "We buy older Distillers Editions (pre-2015) but generally pass on recent ones unless part of a group."
+        },
+        {
+            "question": "How do I ship the 30 Year box?",
+            "answer": "The box is valuable. Protect it well with bubble wrap to prevent corner damage."
+        },
+        {
+            "question": "Do you buy Talisker Xpedition Oak?",
+            "answer": "Yes, we purchase the 43 Year Xpedition Oak and similar high-end releases."
+        }
+    ],
+    "relatedLinks": [
+        {
+            "label": "Get an Offer",
+            "href": "/get-offer"
+        },
+        {
+            "label": "Sell Scotch",
+            "href": "/sell/scotch"
+        },
+        {
+            "label": "Sell Highland Park",
+            "href": "/sell/highland-park"
+        },
+        {
+            "label": "How Pricing Works",
+            "href": "/resources/how-pricing-works"
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "slug": "glendronach",
+    "title": "Sell Glendronach Scotch",
+    "metaTitle": "Sell Glendronach Whisky | Proof Cellars",
+    "metaDescription": "Sell your Glendronach whisky. We buy Single Casks, Grandeur, 15 Year Revival, 18 Year Allardice, and 21 Year Parliament. Direct offers.",
+    "heroHeadline": "Sell Glendronach Whisky",
+    "heroSubhead": "We buy Glendronach Single Casks and sherried masterpieces.",
+    "introParagraph": "Glendronach is renowned for its heavily sherried Highland single malt. Recent years have seen its popularity skyrocket. We purchase Glendronach Single Casks, the Grandeur series, and core range bottles like the 15, 18, and 21 year olds, especially older bottlings. We check bottling dates to offer premiums for pre-closure distillate.",
+    "categoryType": "scotch",
+    "whatWeBuy": [
+        "Glendronach Single Casks (all vintages 1970s-2000s)",
+        "Glendronach Grandeur (Batch 1-10+)",
+        "Glendronach 15 Year Revival (pre-2015 bottling)",
+        "Glendronach 18 Year Allardice (pre-2020 bottling)",
+        "Glendronach 21 Year Parliament (pre-2020 bottling)",
+        "Glendronach Kingsman Edition"
+    ],
+    "whatWeDoNotBuy": [
+        "Standard Glendronach 12 Year (recent)",
+        "Glendronach Traditionally Peated (unless part of collection)",
+        "Opened bottles"
+    ],
+    "photoChecklist": [
+        "Front label",
+        "Back label showing bottling date code (critical)",
+        "Tube condition",
+        "Fill level",
+        "Seal condition"
+    ],
+    "conditionFactors": [
+        "Bottling date code is crucial for value (determines if it is pre-mothball distillate)",
+        "Tube condition",
+        "Label condition",
+        "Fill level"
+    ],
+    "pricingFactors": [
+        "Single Cask vintage and age",
+        "Bottling date (bottles filled before 2016-2017 often contain much older whisky than stated)",
+        "Grandeur batch number",
+        "Limited edition releases"
+    ],
+    "faqs": [
+        {
+            "question": "Why does the bottling date matter?",
+            "answer": "Glendronach was closed from 1996-2002. Many 15, 18, and 21 year bottles released before 2015-2017 contain whisky much older than the age statement, making them more valuable."
+        },
+        {
+            "question": "Do you buy Single Cask bottles?",
+            "answer": "Yes, Glendronach Single Casks are among the most collectible bottles we buy. The vintage year and cask type affect the price."
+        },
+        {
+            "question": "Do you buy the 12 Year Original?",
+            "answer": "We generally only buy the 12 Year if it is an older bottling or part of a larger collection."
+        },
+        {
+            "question": "How do I find the date code?",
+            "answer": "The laser code is usually printed on the back of the bottle near the bottom edge. It format is typically YYYY/MM/DD."
+        },
+        {
+            "question": "Is Glendronach Grandeur valuable?",
+            "answer": "Yes, the Grandeur releases (24+ years old) are highly valuable and sought after."
+        },
+        {
+            "question": "Do you buy Billy Walker era bottles?",
+            "answer": "Yes, bottlings from the Billy Walker era are highly prized by collectors."
+        }
+    ],
+    "relatedLinks": [
+        {
+            "label": "Get an Offer",
+            "href": "/get-offer"
+        },
+        {
+            "label": "Sell Scotch",
+            "href": "/sell/scotch"
+        },
+        {
+            "label": "Sell Macallan",
+            "href": "/sell/macallan"
+        },
+        {
+            "label": "Photos for Quote",
+            "href": "/resources/photos-for-quote"
+        }
+    ]
+}

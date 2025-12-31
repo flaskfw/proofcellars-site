@@ -1,0 +1,87 @@
+{
+    "slug": "parker-s-heritage",
+    "title": "Sell Parker's Heritage Collection",
+    "metaTitle": "Sell Parker's Heritage Bourbon | Proof Cellars",
+    "metaDescription": "Sell your Parker's Heritage Collection bottles. We buy all releases including Promise of Hope, Cognac Finish, and Heavy Char. Direct offers.",
+    "heroHeadline": "Sell Parker's Heritage Collection",
+    "heroSubhead": "We buy the complete Parker's Heritage Collection from Heaven Hill.",
+    "introParagraph": "The Parker's Heritage Collection honors master distiller Parker Beam. Known for experimental mash bills and finishes, this annual release is highly collectible. We purchase every edition in the series, from the early cask strength releases to the recent heavy char editions. Sell your bottle or full vertical directly to us.",
+    "categoryType": "bourbon",
+    "whatWeBuy": [
+        "Parker's Heritage Cask Strength (1st Edition)",
+        "Parker's Heritage 27 Year",
+        "Parker's Heritage Golden Anniversary",
+        "Parker's Heritage Promise of Hope",
+        "Parker's Heritage Cognac Finish",
+        "Parker's Heritage Heavy Char",
+        "Parker's Heritage Double Barreled Blend"
+    ],
+    "whatWeDoNotBuy": [
+        "Standard Heaven Hill releases (unless part of a collection)",
+        "Opened bottles",
+        "Bottles with signs of leakage",
+        "Broken seals"
+    ],
+    "photoChecklist": [
+        "Front label identifying the specific edition",
+        "Proof/ABV statement",
+        "Fill level",
+        "Seal condition",
+        "Back label showing edition number (on newer releases)"
+    ],
+    "conditionFactors": [
+        "Edition number/year is the main value driver",
+        "Label condition",
+        "Seal integrity",
+        "Fill level"
+    ],
+    "pricingFactors": [
+        "Specific release (older editions like the 27 Year or Golden Anniversary are extremely valuable)",
+        "Market demand for the specific finish or age statement",
+        "Condition of the bottle and label"
+    ],
+    "faqs": [
+        {
+            "question": "Which Parker's Heritage release pays the most?",
+            "answer": "The 27 Year and the Golden Anniversary are typically the highest value bottles in the series."
+        },
+        {
+            "question": "Do you buy the Wheat Whiskey or Malt Whiskey editions?",
+            "answer": "Yes, we buy all editions in the Parker's Heritage Collection, regardless of the grain type (Bourbon, Rye, Wheat, or Malt)."
+        },
+        {
+            "question": "Do I need the original box?",
+            "answer": "Most Parker's Heritage releases do not come in a box, but if one was originally included (like with some export versions), having it adds value."
+        },
+        {
+            "question": "I have the Promise of Hope, are you interested?",
+            "answer": "Yes, the Promise of Hope single barrel is a very desirable release that we actively purchase."
+        },
+        {
+            "question": "Do you buy other Heaven Hill limited releases?",
+            "answer": "Yes, we also buy Heaven Hill Heritage Collection, William Heavenhill, and Old Fitzgerald Decanters."
+        },
+        {
+            "question": "How do I get a quote?",
+            "answer": "Simply take a photo of the front of the bottle and text it to us or use our online form. We will identify the edition and provide an offer."
+        }
+    ],
+    "relatedLinks": [
+        {
+            "label": "Get an Offer",
+            "href": "/get-offer"
+        },
+        {
+            "label": "Sell Heaven Hill Heritage",
+            "href": "/sell/heaven-hill-heritage"
+        },
+        {
+            "label": "Sell Bourbon",
+            "href": "/sell/bourbon"
+        },
+        {
+            "label": "Photos for Quote",
+            "href": "/resources/photos-for-quote"
+        }
+    ]
+}

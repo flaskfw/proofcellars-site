@@ -1,0 +1,84 @@
+{
+    "slug": "caol-ila",
+    "title": "Sell Caol Ila Scotch",
+    "metaTitle": "Sell Caol Ila Whisky | Proof Cellars",
+    "metaDescription": "Sell your Caol Ila whisky. We buy 25 Year, 35 Year, and limited unpeated releases. Direct offers.",
+    "heroHeadline": "Sell Caol Ila Whisky",
+    "heroSubhead": "We buy aged and rare Caol Ila single malts.",
+    "introParagraph": "Caol Ila is a giant of Islay, known for its consistent quality. While much goes into blends, its official age-statement releases are excellent. We purchase Caol Ila 25 Year, 30 Year, 35 Year, and the annual unpeated special releases. We also buy rare independent bottlings of Caol Ila.",
+    "categoryType": "scotch",
+    "whatWeBuy": [
+        "Caol Ila 25 Year Old",
+        "Caol Ila 30 Year Old",
+        "Caol Ila 35 Year Old",
+        "Caol Ila Unpeated Style (Highland Style) Special Releases",
+        "Caol Ila Feis Ile Releases",
+        "Rare Independent Bottlings (Signatory, G&M, etc.)"
+    ],
+    "whatWeDoNotBuy": [
+        "Standard Caol Ila 12 Year",
+        "Standard Caol Ila Moch",
+        "Opened bottles"
+    ],
+    "photoChecklist": [
+        "Front label",
+        "Box condition",
+        "Fill level",
+        "Seal condition",
+        "Vintage details"
+    ],
+    "conditionFactors": [
+        "Box condition",
+        "Label condition",
+        "Fill level"
+    ],
+    "pricingFactors": [
+        "Age statement (25+ years)",
+        "Release type (Diageo Special Release 'Unpeated' vs standard)",
+        "Vintage year for independent bottlings"
+    ],
+    "faqs": [
+        {
+            "question": "Do you buy Caol Ila 12 Year?",
+            "answer": "We generally do not buy single bottles of Caol Ila 12 Year. We focus on the older expressions."
+        },
+        {
+            "question": "What are the Unpeated releases?",
+            "answer": "These are annual limited releases from Diageo that are unpeated 'Highland Style' Caol Ila. They are collectible."
+        },
+        {
+            "question": "Do you buy Feis Ile bottles?",
+            "answer": "Yes, we buy the annual Feis Ile festival bottlings from Caol Ila."
+        },
+        {
+            "question": "Do you buy independent bottlings?",
+            "answer": "Yes, older independent bottlings (Gordon & MacPhail, Signatory) are often very valuable."
+        },
+        {
+            "question": "How do I ship?",
+            "answer": "We provide a label. Pack securely in a box with bubble wrap."
+        },
+        {
+            "question": "Is the 25 Year valuable?",
+            "answer": "Yes, the factory 25 Year Old is a core premium release we purchase."
+        }
+    ],
+    "relatedLinks": [
+        {
+            "label": "Get an Offer",
+            "href": "/get-offer"
+        },
+        {
+            "label": "Sell Scotch",
+            "href": "/sell/scotch"
+        },
+        {
+            "label": "Sell Lagavulin",
+            "href": "/sell/lagavulin"
+        },
+        {
+            "label": "Packing Guide",
+            "href": "/resources/packing-guide"
+        }
+    ]
+}

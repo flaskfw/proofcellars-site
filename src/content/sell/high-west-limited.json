@@ -1,0 +1,84 @@
+{
+    "slug": "high-west-limited",
+    "title": "Sell High West Limited Releases",
+    "metaTitle": "Sell High West Midwinter Night's Dram | Proof Cellars",
+    "metaDescription": "Sell your High West Midwinter Night's Dram, Yippee Ki-Yay, and Bourye. We buy rare High West whiskey. Direct offers.",
+    "heroHeadline": "Sell High West Limited Releases",
+    "heroSubhead": "We buy Midwinter Night's Dram and discontinued High West bottles.",
+    "introParagraph": "High West Distillery in Utah produces some of the most beloved limited release ryes and bourbons. We actively purchase A Midwinter Night's Dram (all Acts), as well as discontinued favorites like Yippee Ki-Yay and older batches of Bourye. Sell your collection directly for a fair price.",
+    "categoryType": "bourbon",
+    "whatWeBuy": [
+        "A Midwinter Night's Dram (all Acts)",
+        "High West Yippee Ki-Yay",
+        "High West Bourye (older batches)",
+        "High West Rocky Mountain Rye (16 or 21 Year)",
+        "High West Midwinter Night's Dram The Encore",
+        "High West Prisoner's Share"
+    ],
+    "whatWeDoNotBuy": [
+        "Standard High West Double Rye",
+        "Standard High West American Prairie Bourbon",
+        "Standard High West Rendezvous Rye (recent batches)",
+        "Opened bottles"
+    ],
+    "photoChecklist": [
+        "Front label showing the Act and Scene (for MWND)",
+        "Fill level",
+        "Label condition",
+        "Hang tag (if applicable)"
+    ],
+    "conditionFactors": [
+        "Act number is the primary value driver for Midwinter Night's Dram",
+        "Label condition (High West labels can peel)",
+        "Fill level"
+    ],
+    "pricingFactors": [
+        "Act number (Act 1, 2, and 3 are significantly more valuable)",
+        "Discontinued status (Yippee Ki-Yay is no longer produced)",
+        "Market demand for specific finishes"
+    ],
+    "faqs": [
+        {
+            "question": "Which Act of Midwinter Night's Dram is most valuable?",
+            "answer": "Act 1 and Act 2 are the most valuable due to their age and scarcity. Act 3 is also highly sought after."
+        },
+        {
+            "question": "Do you buy Yippee Ki-Yay?",
+            "answer": "Yes, since it was discontinued, Yippee Ki-Yay has become a collectible bottle we actively purchase."
+        },
+        {
+            "question": "Do you buy Campfire?",
+            "answer": "We generally do not buy standard Campfire unless it is an older batch or part of a larger collection."
+        },
+        {
+            "question": "Do you buy the Rocky Mountain Rye?",
+            "answer": "Yes, the 16 Year and 21 Year Rocky Mountain Rye releases are extremely rare and valuable. We are very interested in these."
+        },
+        {
+            "question": "Does the Scene number matter?",
+            "answer": "Generally, the Act number determines the value. The Scene number (indicating the bottling day) rarely affects the price unless it's a specific collector's preference."
+        },
+        {
+            "question": "How do I ship multiples?",
+            "answer": "We can provide multiple shipping labels for larger collections. Just let us know how many bottles you have."
+        }
+    ],
+    "relatedLinks": [
+        {
+            "label": "Get an Offer",
+            "href": "/get-offer"
+        },
+        {
+            "label": "Sell WhistlePig",
+            "href": "/sell/whistle-pig-limited"
+        },
+        {
+            "label": "Sell Bourbon",
+            "href": "/sell/bourbon"
+        },
+        {
+            "label": "Photos for Quote",
+            "href": "/resources/photos-for-quote"
+        }
+    ]
+}

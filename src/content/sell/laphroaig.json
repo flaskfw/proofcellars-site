@@ -1,0 +1,88 @@
+{
+    "slug": "laphroaig",
+    "title": "Sell Laphroaig Scotch",
+    "metaTitle": "Sell Laphroaig Whisky | Proof Cellars",
+    "metaDescription": "Sell your Laphroaig whisky. We buy 19 Year, 25 Year, 30 Year, Cairdeas, and vintage releases. Direct offers.",
+    "heroHeadline": "Sell Laphroaig Whisky",
+    "heroSubhead": "We buy rare Laphroaig single malts from Islay.",
+    "introParagraph": "Laphroaig is Islay's most distinctive single malt, famous for its peat smoke and medicinal character. We purchase aged expressions like the 25 Year and 30 Year, annual Cairdeas releases, and vintage bottlings. Sell your Laphroaig collection directly to us for a competitive offer.",
+    "categoryType": "scotch",
+    "whatWeBuy": [
+        "Laphroaig 25 Year Old",
+        "Laphroaig 27 Year Old",
+        "Laphroaig 28 Year Old",
+        "Laphroaig 30 Year Old",
+        "Laphroaig 32 Year Old 200th Anniversary",
+        "Laphroaig 19 Year Old (Amazon/FoL exclusives)",
+        "Laphroaig Cairdeas (older limited releases)",
+        "Laphroaig 10 Year Cask Strength (older batches)"
+    ],
+    "whatWeDoNotBuy": [
+        "Standard Laphroaig 10 Year",
+        "Standard Laphroaig Select",
+        "Recent Laphroaig Quarter Cask",
+        "Opened bottles"
+    ],
+    "photoChecklist": [
+        "Front label",
+        "Vintage or age statement details",
+        "Box or tube condition",
+        "Fill level",
+        "Seal condition"
+    ],
+    "conditionFactors": [
+        "White tube/box cleanliness (Laphroaig packaging shows dirt easily)",
+        "Fill level",
+        "Label condition",
+        "Seal integrity"
+    ],
+    "pricingFactors": [
+        "Age statement (25+ year bottles are highly valuable)",
+        "Anniversary editions (e.g., 2015 Bicentenary)",
+        "Cairdeas release year (older Feis Ile bottlings are more valuable)"
+    ],
+    "faqs": [
+        {
+            "question": "Which Laphroaig bottles are most valuable?",
+            "answer": "The highly aged 25, 27, 30, and 32-year expressions are the most valuable, along with vintage bottlings from the 1980s."
+        },
+        {
+            "question": "Do you buy Laphroaig Cairdeas?",
+            "answer": "Yes, we look for older Cairdeas releases, especially the 2013 Port Wood and other fan favorites."
+        },
+        {
+            "question": "Do you buy Cask Strength 10 Year?",
+            "answer": "We buy older batches (Batch 1-10) of Laphroaig 10 Year Cask Strength."
+        },
+        {
+            "question": "Does the tube condition matter?",
+            "answer": "Yes, Laphroaig's white tubes can yellow or stain. A pristine tube commands a higher offer."
+        },
+        {
+            "question": "Do you buy independent bottlings?",
+            "answer": "Yes, we buy Laphroaig released by independent bottlers like SMWS, Signatory Vintage, and Hunter Laing."
+        },
+        {
+            "question": "Do you buy Duty Free exclusives?",
+            "answer": "Yes, we buy select travel retail exclusives like the PX Cask or An Cuan Mor if they are limited."
+        }
+    ],
+    "relatedLinks": [
+        {
+            "label": "Get an Offer",
+            "href": "/get-offer"
+        },
+        {
+            "label": "Sell Scotch",
+            "href": "/sell/scotch"
+        },
+        {
+            "label": "Sell Ardbeg",
+            "href": "/sell/ardbeg"
+        },
+        {
+            "label": "Sell Lagavulin",
+            "href": "/sell/lagavulin"
+        }
+    ]
+}

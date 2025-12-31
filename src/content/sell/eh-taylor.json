@@ -1,0 +1,96 @@
+{
+    "slug": "eh-taylor",
+    "title": "Sell E.H. Taylor Bourbon",
+    "metaTitle": "Sell E.H. Taylor Bourbon | Proof Cellars",
+    "metaDescription": "Sell your E.H. Taylor bourbon collection. We buy Warehouse C, Four Grain, Amaranth, Barrel Proof, and other limited releases. Direct offers.",
+    "heroHeadline": "Sell Your E.H. Taylor Bourbon",
+    "heroSubhead": "We buy E.H. Taylor bottles directly - from Barrel Proof to rare limited editions.",
+    "introParagraph": "E.H. Taylor is one of the most sought-after brands from Buffalo Trace Distillery. We buy E.H. Taylor bottles directly, focusing on limited releases like Warehouse C Tornado Surviving, Four Grain, Amaranth, and older Barrel Proof batches. Submit photos and details to get a direct offer without auction fees.",
+    "categoryType": "bourbon",
+    "whatWeBuy": [
+        "E.H. Taylor Warehouse C Tornado Surviving",
+        "E.H. Taylor Four Grain",
+        "E.H. Taylor Amaranth",
+        "E.H. Taylor 18 Year Marriage",
+        "E.H. Taylor Barrel Proof (all batches)",
+        "E.H. Taylor Cured Oak",
+        "E.H. Taylor Seasoned Wood",
+        "E.H. Taylor Single Barrel"
+    ],
+    "whatWeDoNotBuy": [
+        "E.H. Taylor Small Batch (unless part of a larger collection)",
+        "Opened bottles",
+        "Bottles with broken seals",
+        "Empty tubes without the bottle"
+    ],
+    "photoChecklist": [
+        "Front label showing the specific expression",
+        "Laser code (usually on the bottle under the label or near the bottom)",
+        "Tube condition (if available)",
+        "Capsule / strip stamp condition",
+        "Fill level visible in the neck",
+        "Any damage to the tube or label"
+    ],
+    "conditionFactors": [
+        "Original tube is highly preferred and affects value",
+        "Strip stamp should be intact (no cracks or tears)",
+        "Laser codes help verify specific batches for Barrel Proof releases",
+        "Label condition should be pristine",
+        "Fill level should be high (into the neck)"
+    ],
+    "pricingFactors": [
+        "Specific expression (Four Grain vs Small Batch commands very different prices)",
+        "Batch number (for Barrel Proof releases)",
+        "Presence and condition of the original tube",
+        "Current secondary market demand",
+        "Condition of the tax strip or capsule"
+    ],
+    "faqs": [
+        {
+            "question": "Which E.H. Taylor bottles are most valuable?",
+            "answer": "Limited releases like Warehouse C Tornado Surviving, Cured Oak, and Four Grain are among the most valuable. Older batches of Barrel Proof also command a premium."
+        },
+        {
+            "question": "Do I need the tube to sell my E.H. Taylor?",
+            "answer": "While not strictly required, the tube is a standard part of E.H. Taylor packaging. Missing tubes will reduce the offer price."
+        },
+        {
+            "question": "Do you buy E.H. Taylor Small Batch?",
+            "answer": "We generally only buy Small Batch as part of a larger collection. We focus primarily on the limited releases and Single Barrel expressions."
+        },
+        {
+            "question": "How do I check the batch on my Barrel Proof?",
+            "answer": "The batch can often be identified by the proof and the laser code on the bottle. Include a clear photo of the laser code and we can identify it for you."
+        },
+        {
+            "question": "Do you buy E.H. Taylor rye?",
+            "answer": "Yes, we buy E.H. Taylor Straight Rye, especially older bottlings or as part of a collection."
+        },
+        {
+            "question": "What if my tube is damaged?",
+            "answer": "We still buy bottles with damaged tubes, but the offer will be adjusted to reflect the cosmetic condition. Please include photos of the damage."
+        }
+    ],
+    "relatedLinks": [
+        {
+            "label": "Get an Offer",
+            "href": "/get-offer"
+        },
+        {
+            "label": "Sell Bourbon",
+            "href": "/sell/bourbon"
+        },
+        {
+            "label": "Sell Van Winkle",
+            "href": "/sell/van-winkle"
+        },
+        {
+            "label": "Sell Stagg",
+            "href": "/sell/stagg"
+        },
+        {
+            "label": "Photos for Quote",
+            "href": "/resources/photos-for-quote"
+        }
+    ]
+}

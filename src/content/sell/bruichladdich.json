@@ -1,0 +1,85 @@
+{
+    "slug": "bruichladdich",
+    "title": "Sell Bruichladdich Scotch",
+    "metaTitle": "Sell Bruichladdich Whisky | Proof Cellars",
+    "metaDescription": "Sell your Bruichladdich whisky. We buy Black Art, Octomore, and older vintages. Direct offers.",
+    "heroHeadline": "Sell Bruichladdich Whisky",
+    "heroSubhead": "We buy Bruichladdich Black Art and limited releases.",
+    "introParagraph": "Bruichladdich is known for its wide variety of experimental and artisanal whiskies. We purchase the Black Art series, older vintages (20+ years), and the first editions of their unpeated, Port Charlotte, and Octomore lines. Sell your rare Bruichladdich collection directly to us.",
+    "categoryType": "scotch",
+    "whatWeBuy": [
+        "Bruichladdich Black Art (Editions 1-9+)",
+        "Bruichladdich 1984, 1985, 1986 Rare Cask Series",
+        "Bruichladdich McEwan Legacy releases",
+        "Bruichladdich DNA Series",
+        "Bruichladdich Micro-Provenance Series",
+        "Bruichladdich Valinch bottlings"
+    ],
+    "whatWeDoNotBuy": [
+        "Standard Bruichladdich Classic Laddie (unless older batch)",
+        "Recent Bruichladdich Islay Barley releases",
+        "Opened bottles",
+        "Empty tins"
+    ],
+    "photoChecklist": [
+        "Front label",
+        "Tin/Tube condition",
+        "Fill level",
+        "Seal condition",
+        "Edition/Batch info"
+    ],
+    "conditionFactors": [
+        "Tin condition is important (Laddie tins bruise easily)",
+        "Fill level",
+        "Seal integrity"
+    ],
+    "pricingFactors": [
+        "Black Art Edition (Edition 01.1 through 04.1 are prized)",
+        "Jim McEwan signature bottlings",
+        "Age statement"
+    ],
+    "faqs": [
+        {
+            "question": "Which Black Art is most valuable?",
+            "answer": "The early editions created by Jim McEwan (01.1, 02.1, 03.1, 04.1) are typically the most valuable."
+        },
+        {
+            "question": "Do you buy Port Charlotte?",
+            "answer": "Yes, we buy older and limited Port Charlotte releases (like PC5, PC6, PC7, PC8) and cask exploration series."
+        },
+        {
+            "question": "Do you buy the Valinch releases?",
+            "answer": "Yes, these distillery-exclusive hand-filled bottles are very collectible."
+        },
+        {
+            "question": "Do you buy Yellow Submarine?",
+            "answer": "Yes, the Yellow Submarine (Worm Tub) releases are highly sought after."
+        },
+        {
+            "question": "Does the tin matter?",
+            "answer": "Yes, Bruichladdich packaging is distinct. A dented tin can slightly reduce the offer."
+        },
+        {
+            "question": "Do you buy the Octomore futures?",
+            "answer": "Yes, we look for the original Octomore futures and early releases."
+        }
+    ],
+    "relatedLinks": [
+        {
+            "label": "Get an Offer",
+            "href": "/get-offer"
+        },
+        {
+            "label": "Sell Octomore",
+            "href": "/sell/octomore"
+        },
+        {
+            "label": "Sell Scotch",
+            "href": "/sell/scotch"
+        },
+        {
+            "label": "Photos for Quote",
+            "href": "/resources/photos-for-quote"
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "slug": "glenfarclas-vintage",
+    "title": "Sell Glenfarclas Family Casks & Vintages",
+    "metaTitle": "Sell Glenfarclas Family Casks | Proof Cellars",
+    "metaDescription": "Sell your Glenfarclas Family Casks and vintage bottles. We buy the entire Family Cask range 1950s-2000s. Direct offers.",
+    "heroHeadline": "Sell Glenfarclas Family Casks",
+    "heroSubhead": "We buy the Glenfarclas Family Casks and rare vintages.",
+    "introParagraph": "Glenfarclas is unique for its extensive library of vintage casks. The Family Casks series allows collectors to own single years from the 1950s to today. We purchase the entire Family Casks range, as well as the 30, 40, and 50 Year Old core releases. Sell your vintage Glenfarclas directly.",
+    "categoryType": "scotch",
+    "whatWeBuy": [
+        "Glenfarclas Family Casks (all vintages 1952-2004+)",
+        "Glenfarclas 30 Year Old",
+        "Glenfarclas 40 Year Old",
+        "Glenfarclas 50 Year Old",
+        "Glenfarclas 105 (20 Year or 40 Year versions)",
+        "Glenfarclas Coronation/Pagoda Reserve"
+    ],
+    "whatWeDoNotBuy": [
+        "Standard Glenfarclas 10, 12, 17 Year",
+        "Standard Glenfarclas 105 (recent)",
+        "Opened bottles"
+    ],
+    "photoChecklist": [
+        "Front label showing vintage year",
+        "Wooden box condition",
+        "Fill level",
+        "Seal condition",
+        "Booklet/certificate presence"
+    ],
+    "conditionFactors": [
+        "Wooden box condition is critical",
+        "Label condition",
+        "Seal integrity",
+        "Presence of the mini brochure in the box (for Family Casks)"
+    ],
+    "pricingFactors": [
+        "Vintage year (1950s and 60s are premium)",
+        "Release date (Family Casks have multiple releases for same vintage)",
+        "Cask type (Sherry vs Plain Oak)"
+    ],
+    "faqs": [
+        {
+            "question": "Do you buy any vintage of Family Casks?",
+            "answer": "Yes, we are interested in every vintage of the Family Casks series."
+        },
+        {
+            "question": "Is the 25 Year Old valuable?",
+            "answer": "We buy the 25 Year, but it is a core range product. The 30 and 40 Year are significantly more valuable."
+        },
+        {
+            "question": "Do you buy the 105 Cask Strength?",
+            "answer": "We generally only buy the aged 20 Year or 40 Year versions of the 105."
+        },
+        {
+            "question": "Do I need the wooden box?",
+            "answer": "Yes, the Family Casks wooden box is essential."
+        },
+        {
+            "question": "Do you buy 15 Year?",
+            "answer": "Typically no, unless it is an older bottling."
+        },
+        {
+            "question": "How do I ship the heavy wooden box?",
+            "answer": "We recommend wrapping the bottle and box separately to avoid damage during shipping."
+        }
+    ],
+    "relatedLinks": [
+        {
+            "label": "Get an Offer",
+            "href": "/get-offer"
+        },
+        {
+            "label": "Sell Scotch",
+            "href": "/sell/scotch"
+        },
+        {
+            "label": "Sell Macallan",
+            "href": "/sell/macallan"
+        },
+        {
+            "label": "Photos for Quote",
+            "href": "/resources/photos-for-quote"
+        }
+    ]
+}

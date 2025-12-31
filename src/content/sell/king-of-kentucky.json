@@ -1,0 +1,85 @@
+{
+    "slug": "king-of-kentucky",
+    "title": "Sell King of Kentucky Bourbon",
+    "metaTitle": "Sell King of Kentucky Bourbon | Proof Cellars",
+    "metaDescription": "Sell your King of Kentucky bourbon. We buy all single barrel releases from this ultra-premium Brown-Forman brand. Direct offers.",
+    "heroHeadline": "Sell King of Kentucky Bourbon",
+    "heroSubhead": "We buy the ultra-premium King of Kentucky single barrels directly.",
+    "introParagraph": "King of Kentucky from Brown-Forman is one of the most exclusive annual bourbon releases. These cask strength single barrels are highly allocated and prized by collectors. We purchase all vintages and barrels of King of Kentucky. Submit your bottle details for a confidential and competitive direct offer.",
+    "categoryType": "bourbon",
+    "whatWeBuy": [
+        "King of Kentucky Single Barrels (all years)",
+        "King of Kentucky 14 Year",
+        "King of Kentucky 15 Year",
+        "King of Kentucky 16 Year",
+        "King of Kentucky 18 Year"
+    ],
+    "whatWeDoNotBuy": [
+        "Empty bottles or tubes",
+        "Refilled bottles",
+        "Bottles with broken wax seals",
+        "Early 20th century blends (we focus on the modern single barrel release)"
+    ],
+    "photoChecklist": [
+        "Front label showing the barrel number and proof",
+        "Age statement clearly visible",
+        "Condition of the wax seal",
+        "Fill level",
+        "Side labels with yield information"
+    ],
+    "conditionFactors": [
+        "Wax seal condition is critical; cracks are common but significant damage affects value",
+        "Label condition",
+        "Fill level"
+    ],
+    "pricingFactors": [
+        "Age statement (older releases often command a premium)",
+        "Specific barrel yield and proof",
+        "Release year",
+        "Cosmetic condition of the unique packaging"
+    ],
+    "faqs": [
+        {
+            "question": "Which King of Kentucky years do you buy?",
+            "answer": "We buy all Release years from the modern relaunch (2018-Present)."
+        },
+        {
+            "question": "Does the barrel number matter?",
+            "answer": "Yes, certain 'honey barrels' or high-proof barrels may command a slight premium given their reputation in the community."
+        },
+        {
+            "question": "My wax is cracked, will you buy it?",
+            "answer": "King of Kentucky wax is known to be fragile. We buy bottles with hairline cracks, but significant chunks missing may reduce the offer."
+        },
+        {
+            "question": "Do I need the tube?",
+            "answer": "Yes, King of Kentucky is presented in a distinct tube. Its presence is expected for a full market offer."
+        },
+        {
+            "question": "How do you determine the price?",
+            "answer": "We look at recent secondary market sales and auction results for the specific release year to formulate our offer."
+        },
+        {
+            "question": "Is this the same as Old Forester?",
+            "answer": "It is produced by Brown-Forman (who makes Old Forester) but is a distinct, ultra-premium single barrel brand."
+        }
+    ],
+    "relatedLinks": [
+        {
+            "label": "Get an Offer",
+            "href": "/get-offer"
+        },
+        {
+            "label": "Sell Old Forester",
+            "href": "/sell/old-forester-birthday-bourbon"
+        },
+        {
+            "label": "Sell Bourbon",
+            "href": "/sell/bourbon"
+        },
+        {
+            "label": "Photos for Quote",
+            "href": "/resources/photos-for-quote"
+        }
+    ]
+}

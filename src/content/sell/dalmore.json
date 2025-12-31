@@ -1,0 +1,88 @@
+{
+    "slug": "dalmore",
+    "title": "Sell The Dalmore Scotch",
+    "metaTitle": "Sell The Dalmore Whisky | Proof Cellars",
+    "metaDescription": "Sell your rare Dalmore whisky. We buy 25 Year, Constellation Collection, King Alexander III, and older vintages. Direct offers.",
+    "heroHeadline": "Sell The Dalmore Whisky",
+    "heroSubhead": "We buy The Dalmore limited releases and high-age statement bottles.",
+    "introParagraph": "The Dalmore is synonymous with luxury single malt scotch. We acquire premium releases including the 25 Year, 35 Year, 40 Year, and the prestigious Constellation Collection. We also purchase King Alexander III and older discontinued age statements. Sell your Dalmore collection for a premium price directly.",
+    "categoryType": "scotch",
+    "whatWeBuy": [
+        "Dalmore 25 Year Old",
+        "Dalmore 30 Year Old",
+        "Dalmore 40 Year Old",
+        "Dalmore Constellation Collection",
+        "Dalmore King Alexander III (older bottlings)",
+        "Dalmore Cigar Malt (older tall bottle)",
+        "Dalmore Quintessence",
+        "Dalmore Sirius"
+    ],
+    "whatWeDoNotBuy": [
+        "Standard Dalmore 12 Year",
+        "Standard Dalmore 15 Year",
+        "Opened bottles",
+        "Bottles with damaged stag emblems"
+    ],
+    "photoChecklist": [
+        "Front label and metal stag emblem",
+        "Box condition (Dalmore boxes are often elaborate)",
+        "Fill level",
+        "Seal condition",
+        "Bottling code"
+    ],
+    "conditionFactors": [
+        "Metal stag emblem must be intact on the bottle",
+        "Presentation box condition is critical for high-end releases",
+        "Fill level",
+        "Seal integrity"
+    ],
+    "pricingFactors": [
+        "Age statement (the older, the more valuable)",
+        "Collection (Constellation and Sirius are investment grade)",
+        "Packaging condition"
+    ],
+    "faqs": [
+        {
+            "question": "Is the Dalmore King Alexander III valuable?",
+            "answer": "It holds value, especially older bottlings. Recent bottlings are purchased as part of larger collections."
+        },
+        {
+            "question": "Do you buy the Cigar Malt?",
+            "answer": "We actively buy the discontinued Cigar Malt (tall bottle) and older versions of the Cigar Malt Reserve."
+        },
+        {
+            "question": "Do you buy the Constellation Collection?",
+            "answer": "Yes, we are very interested in any bottles from the 21-bottle Constellation Collection."
+        },
+        {
+            "question": "Does the box matter?",
+            "answer": "Yes, Dalmore packaging is often elaborate and heavy. Missing boxes significantly impact the offer."
+        },
+        {
+            "question": "What if the metal stag is loose?",
+            "answer": "The stag emblem is iconic. If it is loose or missing, the value is reduced."
+        },
+        {
+            "question": "Do you buy Dalmore 18 Year?",
+            "answer": "Yes, we buy the Dalmore 18 Year Old."
+        }
+    ],
+    "relatedLinks": [
+        {
+            "label": "Get an Offer",
+            "href": "/get-offer"
+        },
+        {
+            "label": "Sell Scotch",
+            "href": "/sell/scotch"
+        },
+        {
+            "label": "Sell Macallan",
+            "href": "/sell/macallan"
+        },
+        {
+            "label": "Packing Guide",
+            "href": "/resources/packing-guide"
+        }
+    ]
+}

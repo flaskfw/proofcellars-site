@@ -1,0 +1,83 @@
+{
+    "slug": "bardstown-limited",
+    "title": "Sell Bardstown Bourbon Company",
+    "metaTitle": "Sell Bardstown Bourbon Company | Proof Cellars",
+    "metaDescription": "Sell your Bardstown Bourbon Company Discovery, Collaborative, and Ferrand releases. We buy rare Bardstown bottles. Direct offers.",
+    "heroHeadline": "Sell Bardstown Bourbon Company",
+    "heroSubhead": "We buy Bardstown Discovery Series and Collaborative Series releases.",
+    "introParagraph": "Bardstown Bourbon Company is known for blending high-quality vintage stocks and unique collaborative finishes. We purchase the Discovery Series (especially early batches like #1 and #2), the Collaborative Series (Ferrand, Prisoner, etc.), and other limited runs. Get a direct offer for your bottles today.",
+    "categoryType": "bourbon",
+    "whatWeBuy": [
+        "Bardstown Discovery Series (Batches #1 - #11+)",
+        "Bardstown Collaborative Series (Ferrand, Prisoner, Founders KBS, etc.)",
+        "Bardstown Chateau de Laubade",
+        "Bardstown Fusion Series (older batches)",
+        "Bardstown Origin Series (select limited releases)"
+    ],
+    "whatWeDoNotBuy": [
+        "Recent Fusion Series (unless part of collection)",
+        "Standard Origin Series",
+        "Opened bottles",
+        "Empty bottles"
+    ],
+    "photoChecklist": [
+        "Front label showing Series and Batch number",
+        "Fill level",
+        "Seal condition (synthetic cork)",
+        "Label condition"
+    ],
+    "conditionFactors": [
+        "Batch number is critical for Discovery Series value",
+        "Label condition",
+        "Fill level"
+    ],
+    "pricingFactors": [
+        "Batch number (Discovery Series #1 and #2 are most valuable)",
+        "Collaborative partner (highly rated finishes like Chateau de Laubade command premiums)",
+        "Discontinued series numbers"
+    ],
+    "faqs": [
+        {
+            "question": "Which Discovery Series batch is worth the most?",
+            "answer": "Discovery Series #1 and #2 rely on older sourced KY bourbon and typically command the highest prices."
+        },
+        {
+            "question": "Do you buy the Fusion Series?",
+            "answer": "We buy early Fusion Series batches (like #1), but recent batches are generally not purchased individually."
+        },
+        {
+            "question": "Do you buy the Collaborative Series finished in wine casks?",
+            "answer": "Yes, we buy the Prisoner, Phifer Pavitt, and Ferrand finishes, among others."
+        },
+        {
+            "question": "Do I need the box?",
+            "answer": "Most Bardstown releases do not come in boxes, so the bottle condition is the main factor."
+        },
+        {
+            "question": "Do you buy Bardstown Origin Series?",
+            "answer": "Generally, we do not buy the standard Origin Series bottles unless they are special limited releases."
+        },
+        {
+            "question": "How quickly do you pay?",
+            "answer": "Payment is issued within 24 hours of receiving and verifying your shipment."
+        }
+    ],
+    "relatedLinks": [
+        {
+            "label": "Get an Offer",
+            "href": "/get-offer"
+        },
+        {
+            "label": "Sell Bourbon",
+            "href": "/sell/bourbon"
+        },
+        {
+            "label": "Sell High West",
+            "href": "/sell/high-west-limited"
+        },
+        {
+            "label": "Photos for Quote",
+            "href": "/resources/photos-for-quote"
+        }
+    ]
+}

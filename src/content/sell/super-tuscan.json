@@ -1,0 +1,89 @@
+{
+    "slug": "super-tuscan",
+    "title": "Sell Super Tuscan Wine",
+    "metaTitle": "Sell Super Tuscan Wine | Sassicaia, Tignanello, Masseto | Proof Cellars",
+    "metaDescription": "Sell your Super Tuscan wines. We buy Sassicaia, Tignanello, Masseto, Ornellaia, and Solaia. Direct offers for Italian wine collections.",
+    "heroHeadline": "Sell Super Tuscan Wine",
+    "heroSubhead": "We buy Sassicaia, Masseto, Tignanello, and other top Italian wines.",
+    "introParagraph": "Super Tuscans represent the pinnacle of modern Italian winemaking. We purchase investment-grade bottles from Bolgheri and beyond, including Sassicaia, Masseto, Ornellaia, and Tignanello. Whether you have recent releases or mature vintages from the 1980s and 90s, we provide competitive direct offers.",
+    "categoryType": "wine",
+    "whatWeBuy": [
+        "Tenuta San Guido Sassicaia",
+        "Masseto",
+        "Ornellaia (and Archivio Storico)",
+        "Marchesi Antinori Tignanello",
+        "Marchesi Antinori Solaia",
+        "Tenuta di Biserno",
+        "Tua Rita Redigaffi",
+        "Le Macchiole Messorio and Paleo"
+    ],
+    "whatWeDoNotBuy": [
+        "Standard Chianti Classico (unless part of a large collection)",
+        "Wines with signs of seepage",
+        "Bottles with torn or illegible labels",
+        "Non-collectible IGT Toscana wines"
+    ],
+    "photoChecklist": [
+        "Front label showing vintage",
+        "Neck label or DOC/DOCG strip (if applicable to the specific wine, though many are IGT)",
+        "Fill level",
+        "Capsule condition",
+        "Importer strip (on back)"
+    ],
+    "conditionFactors": [
+        "Fill level is critical for older vintages (top shoulder or better)",
+        "Label condition (staining or tears reduce value)",
+        "Capsule integrity (signs of corrosion or seepage)",
+        "Cork protrusion (sign of heat damage)"
+    ],
+    "pricingFactors": [
+        "Vintage score (e.g., 1985 Sassicaia is legendary)",
+        "Producer prestige (Masseto and Sassicaia command top tier prices)",
+        "Provenance and storage history",
+        "Original Wood Case (OWC) adds value"
+    ],
+    "faqs": [
+        {
+            "question": "Do you buy Tignanello?",
+            "answer": "Yes, Tignanello is one of the most consistent wines we buy. Older vintages are particularly desirable."
+        },
+        {
+            "question": "Is Sassicaia valuable?",
+            "answer": "Sassicaia is the original Super Tuscan and highly valuable, especially strong vintages like 1985, 2015, and 2016."
+        },
+        {
+            "question": "Do you buy Ornellaia artist labels?",
+            "answer": "Yes, the Vendemmia d'Artista bottles are collectible and we pay a premium for them."
+        },
+        {
+            "question": "What is a Super Tuscan?",
+            "answer": "These are Tuscan wines that often use international grape varieties like Cabernet Sauvignon and Merlot, operating outside traditional DOC regulations."
+        },
+        {
+            "question": "Do you buy large formats?",
+            "answer": "Yes, we actively buy magnums, double magnums, and larger formats of Super Tuscans."
+        },
+        {
+            "question": "How do I ship my wine?",
+            "answer": "We provide specialized wine shipping kits with foam inserts to safely transport your bottles."
+        }
+    ],
+    "relatedLinks": [
+        {
+            "label": "Get an Offer",
+            "href": "/get-offer"
+        },
+        {
+            "label": "Sell Wine",
+            "href": "/sell/wine"
+        },
+        {
+            "label": "Sell Brunello",
+            "href": "/sell/brunello"
+        },
+        {
+            "label": "Sell Barolo",
+            "href": "/sell/barolo"
+        }
+    ]
+}

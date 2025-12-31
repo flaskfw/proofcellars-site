@@ -1,0 +1,88 @@
+{
+    "slug": "german-riesling",
+    "title": "Sell German Riesling",
+    "metaTitle": "Sell German Riesling | Egon Muller, JJ Prum, Keller | Proof Cellars",
+    "metaDescription": "Sell your rare German Riesling. We buy Egon Muller, Keller, JJ Prum, and other top producers. Direct offers for sweet and dry styles.",
+    "heroHeadline": "Sell German Riesling",
+    "heroSubhead": "We buy collectible Riesling from the Mosel, Rheingau, and Rheinhessen.",
+    "introParagraph": "German Riesling is among the most age-worthy and complex white wines in the world. We purchase top-tier bottles from legendary producers like Egon Müller, Keller, and J.J. Prüm. Whether you have Trockenbeerenauslese (TBA), Eiswein, or Grosses Gewächs (GG), we offer a direct selling solution.",
+    "categoryType": "wine",
+    "whatWeBuy": [
+        "Egon Müller Scharzhofberger (Kabinett to TBA)",
+        "Weingut Keller (G-Max, Abtserde, Kirchspiel)",
+        "Joh. Jos. Prüm Wehlener Sonnenuhr (Auslese Goldkapsel and above)",
+        "Dönnhoff",
+        "Dr. Loosen (limited releases)",
+        "Robert Weil Kiedrich Grafenberg",
+        "Fritz Haag Brauneberger Juffer"
+    ],
+    "whatWeDoNotBuy": [
+        "Entry-level QbA wines (unless older/collectible)",
+        "Liebfraumilch or bulk wine brands",
+        "Leaking bottles",
+        "Wines with signs of heat damage (seepage)"
+    ],
+    "photoChecklist": [
+        "Front label showing Prädikat level (Kabinett, Spätlese, etc.)",
+        "Vintage clearly visible",
+        "Capsule condition (Goldkapsel vs standard is important)",
+        "Fill level",
+        "AP Number (on label)"
+    ],
+    "conditionFactors": [
+        "Capsule condition (Lange Goldkapsel signifies a special bottling)",
+        "Fill level (even old Riesling should have good fills)",
+        "Label clarity",
+        "Color of the wine (darkening in Riesling is natural with age but excessive browning may indicate oxidation)"
+    ],
+    "pricingFactors": [
+        "Producer (Egon Müller and Keller are in a league of their own)",
+        "Prädikat level (TBA and Eiswein are the most valuable)",
+        "Vintage reputation",
+        "Rarity (Keller G-Max is extremely rare)"
+    ],
+    "faqs": [
+        {
+            "question": "Do you buy dry (Trocken) Riesling?",
+            "answer": "Yes, specifically Grosses Gewächs (GG) from top producers like Keller, Wittmann, and Dönnhoff."
+        },
+        {
+            "question": "Is Egon Müller valuable?",
+            "answer": "Yes, Egon Müller Scharzhofberger TBA is one of the most expensive and sought-after white wines in the world."
+        },
+        {
+            "question": "What is a Goldkapsel?",
+            "answer": "A gold capsule usually indicates a higher sweetness or selection tier within the Prädikat level. These are more valuable."
+        },
+        {
+            "question": "Do you buy older vintages?",
+            "answer": "Yes, Riesling ages exceptionally well. We buy well-stored bottles from the 70s, 80s, 90s, and beyond."
+        },
+        {
+            "question": "What is the AP Number?",
+            "answer": "The Amtliche Prüfungsnummer identifies the specific bottling. For producers like J.J. Prüm, different AP numbers for the same wine can mean different auction lots and values."
+        },
+        {
+            "question": "Do you buy Eiswein?",
+            "answer": "Yes, true German Eiswein is rare and collectible."
+        }
+    ],
+    "relatedLinks": [
+        {
+            "label": "Get an Offer",
+            "href": "/get-offer"
+        },
+        {
+            "label": "Sell Wine",
+            "href": "/sell/wine"
+        },
+        {
+            "label": "Sell Burgundy",
+            "href": "/sell/burgundy"
+        },
+        {
+            "label": "How Pricing Works",
+            "href": "/resources/how-pricing-works"
+        }
+    ]
+}
