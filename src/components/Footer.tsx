@@ -84,10 +84,24 @@ export default function Footer() {
           </div>
         </div>
 
-        <div className="mt-12 border-t border-border pt-8">
+        <div className="mt-12 border-t border-border pt-8 flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4">
           <p className="text-sm text-secondary">
             &copy; 2025 Proof Cellars
           </p>
+          <div className="flex gap-6">
+            <Link
+              href="/privacy"
+              className="text-sm text-secondary hover:text-primary transition-colors"
+            >
+              Privacy Policy
+            </Link>
+            <Link
+              href="/terms"
+              className="text-sm text-secondary hover:text-primary transition-colors"
+            >
+              Terms of Use
+            </Link>
+          </div>
         </div>
       </div>
     </footer>
