@@ -1,0 +1,90 @@
+{
+    "slug": "domaine-de-la-romanee-conti",
+    "title": "Sell Domaine de la Romanée-Conti (DRC)",
+    "metaTitle": "Sell DRC Wine | Romanée-Conti, La Tâche | Proof Cellars",
+    "metaDescription": "Sell your Domaine de la Romanée-Conti wine. We buy Romanée-Conti, La Tâche, Richebourg, and Montrachet. Direct offers for DRC collections.",
+    "heroHeadline": "Sell Domaine de la Romanée-Conti",
+    "heroSubhead": "We buy DRC Romanée-Conti, La Tâche, and all Grand Crus.",
+    "introParagraph": "Domaine de la Romanée-Conti is the most prestigious wine estate in Burgundy and the world. We offer a secure, private, and professional service for selling your DRC collection. We purchase all Grand Cru bottlings, including the monopoles Romanée-Conti and La Tâche, as well as Richebourg, Romanee-St-Vivant, Grands Echezeaux, Echezeaux, Corton, and Montrachet.",
+    "categoryType": "wine",
+    "whatWeBuy": [
+        "Romanée-Conti Grand Cru",
+        "La Tâche Grand Cru",
+        "Richebourg Grand Cru",
+        "Romanée-St-Vivant Grand Cru",
+        "Grands Echezeaux Grand Cru",
+        "Echezeaux Grand Cru",
+        "Montrachet Grand Cru",
+        "Corton Grand Cru"
+    ],
+    "whatWeDoNotBuy": [
+        "Compromised bottles (heat damage, severe leakage)",
+        "Bottles with illegible serial numbers",
+        "Counterfeit bottles (rigorous inspection applies)"
+    ],
+    "photoChecklist": [
+        "Front label",
+        "Vintage",
+        "Bottle number (Serial Number)",
+        "Fill level (measure in cm from cork for Burgundy)",
+        "Capsule",
+        "Importer strip"
+    ],
+    "conditionFactors": [
+        "Fill level (very important for Burgundy)",
+        "Label condition",
+        "Capsule integrity",
+        "Start of cork/seepage check",
+        "Clarity/Color (for older vintages)"
+    ],
+    "pricingFactors": [
+        "Vintage (1990, 1999, 2005, 2010, 2015)",
+        "Vineyard (Romanée-Conti is in a league of its own)",
+        "Provenance (Crucial due to fraud risk)",
+        "Original Wooden Case (Banded OWC is best)"
+    ],
+    "faqs": [
+        {
+            "question": "How do you verify authenticity?",
+            "answer": "We examine paper stock, printing methods, glass codes, capsule details, and cross-reference bottle numbers where possible."
+        },
+        {
+            "question": "Do you buy single bottles?",
+            "answer": "Yes, even a single bottle of DRC is highly valuable and we will purchase it."
+        },
+        {
+            "question": "Is La Tâche valuable?",
+            "answer": "Yes, La Tâche is a monopole of the domaine and is one of the most sought-after wines in the world."
+        },
+        {
+            "question": "Do you buy the Corton?",
+            "answer": "Yes, we buy the Corton Grand Cru which was first released in the 2009 vintage."
+        },
+        {
+            "question": "What is the most expensive DRC?",
+            "answer": "The Romanée-Conti bottling is the rarest and most expensive, followed by Montrachet and La Tâche."
+        },
+        {
+            "question": "Do you buy assortment cases?",
+            "answer": "Yes, complete 12-bottle assortment cases are very desirable."
+        }
+    ],
+    "relatedLinks": [
+        {
+            "label": "Get an Offer",
+            "href": "/get-offer"
+        },
+        {
+            "label": "Sell Wine",
+            "href": "/sell/wine"
+        },
+        {
+            "label": "Sell Leroy",
+            "href": "/sell/leroy"
+        },
+        {
+            "label": "Sell Burgundy",
+            "href": "/sell/burgundy"
+        }
+    ]
+}

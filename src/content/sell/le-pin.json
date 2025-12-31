@@ -1,0 +1,79 @@
+{
+    "slug": "le-pin",
+    "title": "Sell Le Pin",
+    "metaTitle": "Sell Le Pin Wine | Pomerol | Proof Cellars",
+    "metaDescription": "Sell your Le Pin wine. We buy this ultra-rare Pomerol cult wine. Direct offers.",
+    "heroHeadline": "Sell Le Pin",
+    "heroSubhead": "We buy the ultra-rare Le Pin from Pomerol.",
+    "introParagraph": "Le Pin is the original 'garage wine' of Bordeaux, produced in tiny quantities from 100% Merlot. Its rarity drives prices that often exceed the First Growths. If you are looking to sell Le Pin, we have the expertise to value and purchase this scarce collectible.",
+    "categoryType": "wine",
+    "whatWeBuy": [
+        "Le Pin (Pomerol)",
+        "Trilogie de Le Pin (Multi-vintage blend)"
+    ],
+    "whatWeDoNotBuy": [
+        "Generic Pomerol",
+        "Counterfeits"
+    ],
+    "photoChecklist": [
+        "Front label",
+        "Vintage",
+        "Fill level",
+        "Capsule",
+        "Back label"
+    ],
+    "conditionFactors": [
+        "Fill level",
+        "Label condition",
+        "Capsule integrity"
+    ],
+    "pricingFactors": [
+        "Scarcity (only ~600 cases made per year)",
+        "Vintage score",
+        "Provenance"
+    ],
+    "faqs": [
+        {
+            "question": "Why is Le Pin so rare?",
+            "answer": "The vineyard is very small (around 2.7 hectares) and yields are kept low, resulting in tiny production."
+        },
+        {
+            "question": "Do you buy Trilogie?",
+            "answer": "Yes, Trilogie is a multi-vintage blend from the estate's younger vines or declassified lots, and is collectible."
+        },
+        {
+            "question": "How does it compare to Petrus?",
+            "answer": "Both are top Pomerols. Le Pin is often more exotic and modern in style, and even rarer than Petrus."
+        },
+        {
+            "question": "Do you buy other Thienpont wines?",
+            "answer": "Yes, we look for Vieux Chateau Certan and L'If which are also managed by the Thienpont family."
+        },
+        {
+            "question": "Is 1982 Le Pin valuable?",
+            "answer": "Yes, 1982 is a legendary vintage that helped put Le Pin on the map."
+        },
+        {
+            "question": "How do I ship it?",
+            "answer": "Given the value, use our provided insurance and shipping labels. We guide you through safe packing."
+        }
+    ],
+    "relatedLinks": [
+        {
+            "label": "Get an Offer",
+            "href": "/get-offer"
+        },
+        {
+            "label": "Sell Bordeaux",
+            "href": "/sell/bordeaux"
+        },
+        {
+            "label": "Sell Petrus",
+            "href": "/sell/petrus"
+        },
+        {
+            "label": "Sell Cheval Blanc",
+            "href": "/sell/cheval-blanc"
+        }
+    ]
+}

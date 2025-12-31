@@ -1,0 +1,87 @@
+{
+    "slug": "dom-perignon",
+    "title": "Sell Dom Pérignon",
+    "metaTitle": "Sell Dom Perignon Champagne | P2, P3, Luminous | Proof Cellars",
+    "metaDescription": "Sell your Dom Pérignon Champagne. We buy Vintage, Rosé, P2 (Plénitude 2), P3, and Luminous editions. Direct offers.",
+    "heroHeadline": "Sell Dom Pérignon",
+    "heroSubhead": "We buy Dom Pérignon Vintage, Rosé, and Plénitude releases.",
+    "introParagraph": "Dom Pérignon is the most famous prestige cuvée in the world, produced by Moët & Chandon only in vintage years. We are active buyers of all Dom Pérignon releases, including the standard Vintage, Rosé, the late-disgorged Plénitude series (P2 and P3), and the Luminous editions popular in nightlife.",
+    "categoryType": "champagne",
+    "whatWeBuy": [
+        "Dom Pérignon Vintage (Blanc)",
+        "Dom Pérignon Rosé",
+        "Dom Pérignon P2 (Plénitude 2)",
+        "Dom Pérignon P3 (Plénitude 3)",
+        "Dom Pérignon Oenothèque (older designation for P2/P3)",
+        "Dom Pérignon Luminous (Light-Up Label)",
+        "Dom Pérignon Lady Gaga / Lenny Kravitz Editions"
+    ],
+    "whatWeDoNotBuy": [
+        "Empty bottles",
+        "Bottles with missing foil",
+        "Standard Moët & Chandon Imperial"
+    ],
+    "photoChecklist": [
+        "Front label (Vintage year is key)",
+        "Foil condition",
+        "Fill level (upright)",
+        "Box condition (Coffret)",
+        "Back label for P2/P3 verification"
+    ],
+    "conditionFactors": [
+        "Foil integrity (foil damage is common and reduces value)",
+        "Label condition",
+        "Fill level",
+        "Box presence"
+    ],
+    "pricingFactors": [
+        "Edition (P3 > P2 > Rosé > Vintage)",
+        "Vintage quality (2002, 2008)",
+        "Luminous feature (working light adds small premium)",
+        "Special collaborations (Lady Gaga, Jeff Koons etc.)"
+    ],
+    "faqs": [
+        {
+            "question": "What is P2 and P3?",
+            "answer": "These are 'Plénitude' releases aged longer on the lees. P2 is aged ~15 years, P3 ~25 years. They are significantly more valuable than the standard vintage."
+        },
+        {
+            "question": "Do you buy Luminous bottles?",
+            "answer": "Yes, we buy Luminous bottles. Ideally the light should still work, but we buy them regardless."
+        },
+        {
+            "question": "Is the 2008 vintage special?",
+            "answer": "Yes, 2008 is considered one of the greatest Champagne vintages in history."
+        },
+        {
+            "question": "Do you buy the Rosé?",
+            "answer": "Yes, Dom Pérignon Rosé is highly collectible and more expensive than the Blanc."
+        },
+        {
+            "question": "Do I need the box?",
+            "answer": "For standard vintages, the box is helpful but not mandatory. For P2, P3, and special editions, the box is very important for value."
+        },
+        {
+            "question": "Do you buy older vintages?",
+            "answer": "Yes, we look for well-stored bottles from the 60s, 70s, 80s, and 90s."
+        }
+    ],
+    "relatedLinks": [
+        {
+            "label": "Get an Offer",
+            "href": "/get-offer"
+        },
+        {
+            "label": "Sell Champagne",
+            "href": "/sell/champagne"
+        },
+        {
+            "label": "Sell Krug",
+            "href": "/sell/krug"
+        },
+        {
+            "label": "Sell Cristal",
+            "href": "/sell/cristal-champagne"
+        }
+    ]
+}

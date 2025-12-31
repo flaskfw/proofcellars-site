@@ -1,0 +1,83 @@
+{
+    "slug": "petrus",
+    "title": "Sell Petrus",
+    "metaTitle": "Sell Petrus Wine | Pomerol | Proof Cellars",
+    "metaDescription": "Sell your Petrus wine. We buy all vintages of this iconic Pomerol estate. Direct offers for single bottles and cases.",
+    "heroHeadline": "Sell Petrus",
+    "heroSubhead": "We buy Petrus directly from collectors.",
+    "introParagraph": "Petrus is one of the most celebrated and valuable wines in the world. Produced from Merlot grapes in Pomerol, it has no official classification but stands at the very top of Bordeaux hierarchy. We purchase all vintages of Petrus. Authenticity verification is part of our standard process for this high-value wine.",
+    "categoryType": "wine",
+    "whatWeBuy": [
+        "Petrus (Pomerol)",
+        "Old vintages (1940s-1990s)",
+        "Recent releases"
+    ],
+    "whatWeDoNotBuy": [
+        "La Fleur-Petrus (we buy it, but it is a different wine)",
+        "Chateau Petrus Gaia (different wine)",
+        "Counterfeit bottles",
+        "Empty bottles"
+    ],
+    "photoChecklist": [
+        "Front label",
+        "Vintage",
+        "Fill level",
+        "Capsule",
+        "Glass codes/Bottom markings"
+    ],
+    "conditionFactors": [
+        "Label condition (Petrus labels are simple but iconic)",
+        "Fill level",
+        "Capsule integrity",
+        "Cork markings (if visible through glass)"
+    ],
+    "pricingFactors": [
+        "Vintage quality (1989, 1990, 1998, 2000, 2005, 2009, 2010)",
+        "Provenance (Crucial for Petrus)",
+        "Authentication (We inspect for anti-fraud measures on newer bottles)"
+    ],
+    "faqs": [
+        {
+            "question": "Is it 'Chateau Petrus'?",
+            "answer": "The label simply says 'Petrus'. There is no 'Chateau' on the label, though it is often called that."
+        },
+        {
+            "question": "How do you verify authenticity?",
+            "answer": "We check label printing, glass molds, capsule details, and corks. Newer vintages have specific security features."
+        },
+        {
+            "question": "Is 1989 or 1990 better?",
+            "answer": "Both are legendary. 1989 and 1990 are considered a perfect pair of vintages for Petrus."
+        },
+        {
+            "question": "Do you buy La Fleur-Petrus?",
+            "answer": "Yes, we buy La Fleur-Petrus, but it is a separate estate owned by Moueix."
+        },
+        {
+            "question": "How do I sell a single bottle?",
+            "answer": "Take photos of the label, fill level, and capsule. Submit them via our form for a quote."
+        },
+        {
+            "question": "Do you buy Petrus magnums?",
+            "answer": "Yes, large formats of Petrus are incredibly rare and valuable."
+        }
+    ],
+    "relatedLinks": [
+        {
+            "label": "Get an Offer",
+            "href": "/get-offer"
+        },
+        {
+            "label": "Sell Bordeaux",
+            "href": "/sell/bordeaux"
+        },
+        {
+            "label": "Sell Le Pin",
+            "href": "/sell/le-pin"
+        },
+        {
+            "label": "Sell Lafite",
+            "href": "/sell/lafite-rothschild"
+        }
+    ]
+}

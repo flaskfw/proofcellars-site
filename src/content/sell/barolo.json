@@ -1,0 +1,89 @@
+{
+    "slug": "barolo",
+    "title": "Sell Barolo & Barbaresco",
+    "metaTitle": "Sell Barolo and Barbaresco | Monfortino, Gaja, Mascarello | Proof Cellars",
+    "metaDescription": "Sell your Barolo and Barbaresco wines. We buy Giacomo Conterno, Gaja, Bartolo Mascarello, Rinaldi, and Giacosa. Direct offers.",
+    "heroHeadline": "Sell Barolo & Barbaresco",
+    "heroSubhead": "We buy Piedmont's finest Nebbiolo wines directly.",
+    "introParagraph": "Known as the King and Queen of Italian wines, Barolo and Barbaresco are highly prized by collectors. We purchase traditional and modern styles from legendary producers like Giacomo Conterno, Gaja, Bartolo Mascarello, and Bruno Giacosa. Sell your single vineyard (Cru) bottles or entire collection.",
+    "categoryType": "wine",
+    "whatWeBuy": [
+        "Giacomo Conterno Monfortino Riserva",
+        "Giacomo Conterno Barolo Francia",
+        "Bartolo Mascarello Barolo",
+        "Giuseppe Rinaldi Barolo (Tre Tine, Brunate)",
+        "Bruno Giacosa Barolo and Barbaresco (Red Label Riservas)",
+        "Gaja Barbaresco and Single Vineyards (Sori San Lorenzo, etc.)",
+        "Cappellano Barolo Piè Franco",
+        "Vietti Barolo Villero/Rocche"
+    ],
+    "whatWeDoNotBuy": [
+        "Generic Barolo/Barbaresco bottlings (unless older/collectible)",
+        "Wines with low fill levels",
+        "Leaking bottles",
+        "Broken seals"
+    ],
+    "photoChecklist": [
+        "Front label showing the Cru (vineyard)",
+        "Vintage year",
+        "Capsule condition",
+        "Fill level",
+        "Neck label (DOCG strip)"
+    ],
+    "conditionFactors": [
+        "Fill level (Nebbiolo is sensitive to heat)",
+        "Label condition (traditional labels can be delicate)",
+        "Capsule integrity",
+        "Red Label (for Giacosa) vs White Label"
+    ],
+    "pricingFactors": [
+        "Producer prestige (Conterno and Mascarello are market leaders)",
+        "Cru designation (e.g., Francia, Cannubi, Brunate)",
+        "Vintage quality",
+        "Riserva status (Red Label Giacosa)"
+    ],
+    "faqs": [
+        {
+            "question": "Do you buy Gaja wines?",
+            "answer": "Yes, we buy Gaja Barbaresco, Barolo (Dagromis, Sperss), and their single vineyard bottlings."
+        },
+        {
+            "question": "Is Monfortino valuable?",
+            "answer": "Yes, Conterno's Monfortino Riserva is often considered the greatest wine of Italy and commands very high prices."
+        },
+        {
+            "question": "Do you buy traditional producers?",
+            "answer": "Yes, we specialize in traditionalists like Bartolo Mascarello, Rinaldi, and Cappellano."
+        },
+        {
+            "question": "What is a Red Label Giacosa?",
+            "answer": "Bruno Giacosa released his Riserva wines with a dark red label. These are significantly more valuable than the white label bottlings."
+        },
+        {
+            "question": "Do you buy older vintages?",
+            "answer": "Yes, Nebbiolo ages beautifully. We buy well-stored bottles from the 60s, 70s, 80s, and 90s."
+        },
+        {
+            "question": "How do I ship wines from Italy?",
+            "answer": "We currently only purchase wines already located within the United States due to import regulations."
+        }
+    ],
+    "relatedLinks": [
+        {
+            "label": "Get an Offer",
+            "href": "/get-offer"
+        },
+        {
+            "label": "Sell Wine",
+            "href": "/sell/wine"
+        },
+        {
+            "label": "Sell Super Tuscans",
+            "href": "/sell/super-tuscan"
+        },
+        {
+            "label": "Sell Brunello",
+            "href": "/sell/brunello"
+        }
+    ]
+}

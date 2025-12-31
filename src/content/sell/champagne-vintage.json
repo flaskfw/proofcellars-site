@@ -1,0 +1,89 @@
+{
+    "slug": "champagne-vintage",
+    "title": "Sell Vintage Champagne",
+    "metaTitle": "Sell Vintage Champagne | Dom Perignon, Krug, Salon | Proof Cellars",
+    "metaDescription": "Sell your vintage Champagne. We buy Dom Perignon, Krug, Cristal, Salon, and other prestige cuvees. Direct offers for single bottles and cases.",
+    "heroHeadline": "Sell Vintage Champagne",
+    "heroSubhead": "We buy prestige cuvées and vintage Champagne directly.",
+    "introParagraph": "Vintage Champagne is the ultimate expression of a single harvest. We purchase prestige cuvées from top houses like Dom Pérignon, Krug, Louis Roederer, and Salon. Whether you have recent released vintages or aged library releases, we offer a secure and direct way to sell your Champagne.",
+    "categoryType": "champagne",
+    "whatWeBuy": [
+        "Dom Pérignon (Vintage, P2, P3)",
+        "Krug Vintage and Clos du Mesnil/Ambonnay",
+        "Louis Roederer Cristal (and Rosé)",
+        "Salon Le Mesnil",
+        "Pol Roger Sir Winston Churchill",
+        "Bollinger R.D. and Vieilles Vignes Françaises",
+        "Taittinger Comtes de Champagne",
+        "Jacques Selosse (Substance, Initial, Vintages)"
+    ],
+    "whatWeDoNotBuy": [
+        "Non-Vintage (NV) Champagne (unless Krug Grand Cuvee older editions)",
+        "Standard NV Moet, Veuve Clicquot",
+        "Champagne stored in warm conditions",
+        "Bottles with low fill/ullage"
+    ],
+    "photoChecklist": [
+        "Front label showing vintage year",
+        "Foil/Capsule condition",
+        "Fill level (inverted test is risky, just check upright level relative to neck)",
+        "Box condition (Coffret)",
+        "Disgorgement date on back (if applicable)"
+    ],
+    "conditionFactors": [
+        "Fill level",
+        "Clarity (wines should not be cloudy)",
+        "Foil condition",
+        "Box presence (adds value for gifts/collectors)"
+    ],
+    "pricingFactors": [
+        "Producer prestige (Salon and Krug are top tier)",
+        "Vintage quality (1996, 2002, 2008 are benchmarks)",
+        "Late disgorgement releases (P2, R.D., Late Disgorged)",
+        "Format (Magnums and Jeroboams often carry a premium)"
+    ],
+    "faqs": [
+        {
+            "question": "Do you buy Non-Vintage Champagne?",
+            "answer": "Generally no, with the exception of premium multi-vintage blends like Krug Grand Cullée (older IDs) or Jacques Selosse."
+        },
+        {
+            "question": "Does the gift box add value?",
+            "answer": "Yes, especially for Champagne. The original coffret helps protect the bottle and is desirable for buyers."
+        },
+        {
+            "question": "Is Dom Perignon Luminous valuable?",
+            "answer": "Yes, the Luminous (light-up label) editions are popular in the nightlife sector and we do buy them."
+        },
+        {
+            "question": "Do you buy Grower Champagne?",
+            "answer": "Yes, we look for top growers like Selosse, Egly-Ouriet, Cedric Bouchard, and Ulysse Collin."
+        },
+        {
+            "question": "What is P2 or Oenotheque?",
+            "answer": "These are Dom Pérignon bottles aged longer on the lees. They are significantly more valuable than the standard vintage release."
+        },
+        {
+            "question": "Do you buy Rosé Champagne?",
+            "answer": "Yes, vintage Rosé from top producers (Dom Perignon, Cristal, Krug) is highly sought after."
+        }
+    ],
+    "relatedLinks": [
+        {
+            "label": "Get an Offer",
+            "href": "/get-offer"
+        },
+        {
+            "label": "Sell Champagne",
+            "href": "/sell/champagne"
+        },
+        {
+            "label": "Sell Dom Pérignon",
+            "href": "/sell/dom-perignon"
+        },
+        {
+            "label": "Sell Krug",
+            "href": "/sell/krug"
+        }
+    ]
+}

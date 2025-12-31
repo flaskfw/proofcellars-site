@@ -1,0 +1,82 @@
+{
+    "slug": "opus-one",
+    "title": "Sell Opus One",
+    "metaTitle": "Sell Opus One Wine | Proof Cellars",
+    "metaDescription": "Sell your Opus One wine. We buy all vintages and formats. Direct offers for this Napa Valley icon.",
+    "heroHeadline": "Sell Opus One",
+    "heroSubhead": "We buy Opus One and Overture.",
+    "introParagraph": "Opus One, the historic partnership between Robert Mondavi and Baron Philippe de Rothschild, is the most globally recognized Napa Valley red wine. We are always buying Opus One from all decades, as well as the multi-vintage Overture. Sell your cases or single bottles directly to us for a competitive price.",
+    "categoryType": "wine",
+    "whatWeBuy": [
+        "Opus One",
+        "Overture (Multi-Vintage)",
+        "Large formats (Magnums, Double Magnums)"
+    ],
+    "whatWeDoNotBuy": [
+        "Mondavi Reserve (unless older/collectible)",
+        "Mouton Cadet",
+        "Bottles with low fills"
+    ],
+    "photoChecklist": [
+        "Front label",
+        "Vintage",
+        "Fill level",
+        "Capsule",
+        "Tissue wrap condition"
+    ],
+    "conditionFactors": [
+        "Fill level",
+        "Label condition",
+        "Tissue paper status (wrapped bottles often have pristine labels)",
+        "Capsule integrity"
+    ],
+    "pricingFactors": [
+        "Vintage quality (2010, 2013, 2016)",
+        "Condition of paper wrap (nice to have but not mandatory)",
+        "Provenance"
+    ],
+    "faqs": [
+        {
+            "question": "Do you buy Overture?",
+            "answer": "Yes, Overture is the multi-vintage second wine of Opus One and is very popular."
+        },
+        {
+            "question": "Do you buy single bottles of Opus One?",
+            "answer": "Yes, Opus One is in high demand, so we buy single bottles, 3-packs, and 6-packs."
+        },
+        {
+            "question": "Is older Opus One valuable?",
+            "answer": "While Opus One is made in larger quantities, well-stored vintages from the 80s and 90s are sought after by collectors for vertical tastings."
+        },
+        {
+            "question": "Do I need the wooden box?",
+            "answer": "Opus One 6-packs come in wood. Having the original box is a plus for value."
+        },
+        {
+            "question": "How do I check the vintage on Overture?",
+            "answer": "Overture is non-vintage (MV), but newer releases list the bottling date or release code on the back label."
+        },
+        {
+            "question": "What if the tissue paper is torn?",
+            "answer": "That is common and acceptable. The condition of the bottle/label underneath is what matters."
+        }
+    ],
+    "relatedLinks": [
+        {
+            "label": "Get an Offer",
+            "href": "/get-offer"
+        },
+        {
+            "label": "Sell Wine",
+            "href": "/sell/wine"
+        },
+        {
+            "label": "Sell Dominus",
+            "href": "/sell/dominus"
+        },
+        {
+            "label": "Sell Napa Cult",
+            "href": "/sell/napa-cult"
+        }
+    ]
+}

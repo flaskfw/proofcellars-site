@@ -1,0 +1,82 @@
+{
+    "slug": "harlan-estate",
+    "title": "Sell Harlan Estate",
+    "metaTitle": "Sell Harlan Estate Wine | Proof Cellars",
+    "metaDescription": "Sell your Harlan Estate wine. We buy this Napa Valley First Growth. We also buy The Maiden, Bond, and Promontory. Direct offers.",
+    "heroHeadline": "Sell Harlan Estate",
+    "heroSubhead": "We buy Harlan Estate and bill brands like Bond and Promontory.",
+    "introParagraph": "Bill Harlan created Harlan Estate to be a 'First Growth' of California. Its consistent 100-point scores have cemented its status as a top collectible. We purchase Harlan Estate, its second wine The Maiden, and associated brands like Bond Estates and Promontory. Sell your Napa cult wines directly to us.",
+    "categoryType": "wine",
+    "whatWeBuy": [
+        "Harlan Estate",
+        "The Maiden",
+        "Bond Estates (St. Eden, Vecina, Melbury, Quella, Pluribus)",
+        "Promontory",
+        "Mascot (older vintages)"
+    ],
+    "whatWeDoNotBuy": [
+        "Matriarch (Bond second wine, unless part of collection)",
+        "Bottles with heat creep"
+    ],
+    "photoChecklist": [
+        "Front label (intricate banknote style art)",
+        "Vintage",
+        "Fill level",
+        "Capsule",
+        "RFID/Bubble code tag (on newer bottles)"
+    ],
+    "conditionFactors": [
+        "Label condition (Harlan labels are elaborate)",
+        "Fill level",
+        "Capsule integrity"
+    ],
+    "pricingFactors": [
+        "Vintage (1994, 1997, 2001, 2002, 2007)",
+        "Brand (Flagship Harlan is worth more than Bond)",
+        "Provenance"
+    ],
+    "faqs": [
+        {
+            "question": "Do you buy Bond Estates?",
+            "answer": "Yes, we buy all the single vineyard wines from Bond: St. Eden, Vecina, Melbury, Quella, and Pluribus."
+        },
+        {
+            "question": "What is Promontory?",
+            "answer": "Promontory is another estate founded by the Harlan family. It has quickly become a highly valued collectible."
+        },
+        {
+            "question": "Do you buy The Maiden?",
+            "answer": "Yes, The Maiden is the second wine of Harlan Estate and is purchased regularly."
+        },
+        {
+            "question": "Are older vintages valuable?",
+            "answer": "Yes, early vintages from the 1990s are becoming rarer and are very desirable."
+        },
+        {
+            "question": "How do I ship large bottles?",
+            "answer": "Harlan bottles are heavy. We recommend using our specific molded pulp or foam shipping kits to ensure safety."
+        },
+        {
+            "question": "Do you buy 100-point vintages?",
+            "answer": "Yes, perfect scoring vintages like 1994, 1997, 2001, 2002, 2007, 2013 etc. are top priorities."
+        }
+    ],
+    "relatedLinks": [
+        {
+            "label": "Get an Offer",
+            "href": "/get-offer"
+        },
+        {
+            "label": "Sell Wine",
+            "href": "/sell/wine"
+        },
+        {
+            "label": "Sell Screaming Eagle",
+            "href": "/sell/screaming-eagle"
+        },
+        {
+            "label": "Sell Napa Cult",
+            "href": "/sell/napa-cult"
+        }
+    ]
+}

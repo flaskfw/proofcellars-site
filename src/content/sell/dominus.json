@@ -1,0 +1,80 @@
+{
+    "slug": "dominus",
+    "title": "Sell Dominus Estate",
+    "metaTitle": "Sell Dominus Wine | Christian Moueix | Proof Cellars",
+    "metaDescription": "Sell your Dominus Estate wine. We buy Napanook and Dominus from Christian Moueix. Direct offers for Napa Valley collectibles.",
+    "heroHeadline": "Sell Dominus Estate",
+    "heroSubhead": "We buy Dominus and Napanook.",
+    "introParagraph": "Produced by Christian Moueix of Chateau Petrus fame, Dominus is a Bordeaux-styled masterpiece from the historic Napanook vineyard in Yountville. We purchase all vintages of Dominus, especially high-scoring years like 1991, 1994, 2010, and 2013.",
+    "categoryType": "wine",
+    "whatWeBuy": [
+        "Dominus Estate",
+        "Napanook",
+        "Othello (occasionally)"
+    ],
+    "whatWeDoNotBuy": [
+        "Ulysses (distinct estate, though we may buy collection)",
+        "Poorly stored bottles"
+    ],
+    "photoChecklist": [
+        "Front label",
+        "Vintage",
+        "Fill level",
+        "Capsule",
+        "Back label"
+    ],
+    "conditionFactors": [
+        "Fill level",
+        "Label condition",
+        "Capsule integrity"
+    ],
+    "pricingFactors": [
+        "Vintage score (2013 was Wine Spectator #1 Wine of the Year)",
+        "Age (Early 90s vintages are scarce)",
+        "Provenance"
+    ],
+    "faqs": [
+        {
+            "question": "Do you buy Napanook?",
+            "answer": "Yes, Napanook is the second wine of the estate and is a solid value we purchase."
+        },
+        {
+            "question": "Is the 2013 vintage special?",
+            "answer": "Yes, 2013 was awarded 100 points and named Wine of the Year, making it highly collectible."
+        },
+        {
+            "question": "Do you buy Othello?",
+            "answer": "We buy Othello if it is part of a larger Dominus collection."
+        },
+        {
+            "question": "How does Dominus age?",
+            "answer": "Dominus is built for the long haul. We buy vintages from the 1980s and 90s that are drinking perfectly now."
+        },
+        {
+            "question": "Who owns Dominus?",
+            "answer": "It is owned by Christian Moueix, who also managed Petrus in Pomerol."
+        },
+        {
+            "question": "Do you buy 6-pack wood cases?",
+            "answer": "Yes, Dominus often ships in 6-bottle wood cases, which are desirable for collectors."
+        }
+    ],
+    "relatedLinks": [
+        {
+            "label": "Get an Offer",
+            "href": "/get-offer"
+        },
+        {
+            "label": "Sell Wine",
+            "href": "/sell/wine"
+        },
+        {
+            "label": "Sell Opus One",
+            "href": "/sell/opus-one"
+        },
+        {
+            "label": "Sell Napa Cult",
+            "href": "/sell/napa-cult"
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "slug": "leroy",
+    "title": "Sell Domaine Leroy",
+    "metaTitle": "Sell Domaine Leroy Wine | Musigny, Chambertin | Proof Cellars",
+    "metaDescription": "Sell your Domaine Leroy and Maison Leroy wines. We buy Musigny, Chambertin, Richebourg, and rare red caps. Direct offers.",
+    "heroHeadline": "Sell Domaine Leroy",
+    "heroSubhead": "We buy Domaine Leroy and Maison Leroy Collection.",
+    "introParagraph": "Lalou Bize-Leroy is a Burgundy legend, producing wines of incredible intensity and rarity. We purchase bottles from Domaine Leroy (Red Capsules), which are among the most expensive wines in existence, as well as the Maison Leroy (White Capsules) collection. If you own Leroy Musigny, Chambertin, or Richebourg, contact us.",
+    "categoryType": "wine",
+    "whatWeBuy": [
+        "Domaine Leroy Musigny",
+        "Domaine Leroy Chambertin",
+        "Domaine Leroy Richebourg",
+        "Domaine Leroy Romanée-St-Vivant",
+        "Domaine Leroy Corton-Charlemagne",
+        "Domaine d'Auvenay (all bottlings)",
+        "Maison Leroy (Grand Crus and Premier Crus)"
+    ],
+    "whatWeDoNotBuy": [
+        "Loose labels",
+        "Severe leakage",
+        "Maison Leroy regional wines (unless old/collectible)"
+    ],
+    "photoChecklist": [
+        "Front label",
+        "Capsule color (Red vs White is a huge value difference)",
+        "Vintage",
+        "Fill level",
+        "Importer strip"
+    ],
+    "conditionFactors": [
+        "Fill level (Domaine Leroy fills are usually very high due to overfilling, drops are concerning)",
+        "Label condition (Leroy paper is prone to staining)",
+        "Capsule wax condition (if applicable)"
+    ],
+    "pricingFactors": [
+        "Domaine vs Maison (Domaine wines are exponentially more valuable)",
+        "Vineyard rarity (Musigny is the holy grail)",
+        "Vintage score"
+    ],
+    "faqs": [
+        {
+            "question": "What is the difference between Red and White caps?",
+            "answer": "Red capsules indicate 'Domaine Leroy' (estate grown), which are much rarer and more valuable. White capsules are 'Maison Leroy' (negociant)."
+        },
+        {
+            "question": "Do you buy Domaine d'Auvenay?",
+            "answer": "Yes, wines from Lalou's personal estate, Domaine d'Auvenay, are extremely valuable and we buy all of them."
+        },
+        {
+            "question": "Do you buy Maison Leroy?",
+            "answer": "Yes, we buy Maison Leroy, especially older vintages and Grand Crus."
+        },
+        {
+            "question": "Is Leroy Musigny the most expensive wine?",
+            "answer": "It is often more expensive than DRC Romanée-Conti due to its microscopic production."
+        },
+        {
+            "question": "Do you buy 2004 Leroy?",
+            "answer": "Yes, while 2004 was a difficult vintage, Leroy declassified all Grand Crus into village wines or lower tiers, making them unique collectibles."
+        },
+        {
+            "question": "How do I ship fragile Burgundy?",
+            "answer": "We provide specialized shippers that support the neck and punt to prevent cork movement."
+        }
+    ],
+    "relatedLinks": [
+        {
+            "label": "Get an Offer",
+            "href": "/get-offer"
+        },
+        {
+            "label": "Sell Wine",
+            "href": "/sell/wine"
+        },
+        {
+            "label": "Sell DRC",
+            "href": "/sell/domaine-de-la-romanee-conti"
+        },
+        {
+            "label": "Sell Burgundy",
+            "href": "/sell/burgundy"
+        }
+    ]
+}

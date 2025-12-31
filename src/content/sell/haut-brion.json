@@ -1,0 +1,82 @@
+{
+    "slug": "haut-brion",
+    "title": "Sell Chateau Haut-Brion",
+    "metaTitle": "Sell Chateau Haut-Brion | Proof Cellars",
+    "metaDescription": "Sell your Chateau Haut-Brion. We buy the Grand Vin Rouge, Blanc, and Le Clarence de Haut-Brion. Direct offers.",
+    "heroHeadline": "Sell Chateau Haut-Brion",
+    "heroSubhead": "We buy Haut-Brion Red and White directly.",
+    "introParagraph": "Chateau Haut-Brion is the only First Growth located in the Graves region (Pessac-Leognan). We purchase the Grand Vin Rouge, the incredibly rare Haut-Brion Blanc, and the second wines. Whether you have the legendary 1989 or recent vintages, selling directly to us is simple and secure.",
+    "categoryType": "wine",
+    "whatWeBuy": [
+        "Chateau Haut-Brion Rouge",
+        "Chateau Haut-Brion Blanc",
+        "Le Clarence de Haut-Brion (formerly Bahans Haut-Brion)",
+        "La Clarte de Haut-Brion"
+    ],
+    "whatWeDoNotBuy": [
+        "Clarendelle (generic branded wine)",
+        "Leaking bottles",
+        "Empty bottles"
+    ],
+    "photoChecklist": [
+        "Front label",
+        "Vintage",
+        "Fill level (unique bottle shape makes fill look different)",
+        "Capsule",
+        "Condition of the embossed bottle"
+    ],
+    "conditionFactors": [
+        "Fill level (assess carefully due to slope)",
+        "Label condition",
+        "Capsule integrity"
+    ],
+    "pricingFactors": [
+        "Vintage (1989 Haut-Brion is a 100-point legend)",
+        "Type (Haut-Brion Blanc is extremely rare and valuable)",
+        "Provenance"
+    ],
+    "faqs": [
+        {
+            "question": "Is Haut-Brion Blanc valuable?",
+            "answer": "Yes, it is one of the most expensive and rarest white wines in Bordeaux. We pay premium prices for it."
+        },
+        {
+            "question": "What is Bahans Haut-Brion?",
+            "answer": "It was the second wine of the estate until 2007, when it was renamed Le Clarence de Haut-Brion. We buy both."
+        },
+        {
+            "question": "Why is the bottle shape different?",
+            "answer": "Haut-Brion uses a proprietary squat bottle shape. This is traditional for the estate."
+        },
+        {
+            "question": "Which red vintage is best?",
+            "answer": "1989 is widely considered the greatest Haut-Brion ever made. Other top years include 1961, 2000, 2005, 2009, 2010."
+        },
+        {
+            "question": "Do you buy La Mission Haut-Brion?",
+            "answer": "Yes, we also buy wines from the sister estate, Chateau La Mission Haut-Brion."
+        },
+        {
+            "question": "How do I ship the wider bottles?",
+            "answer": "Standard styrofoam shippers usually fit, but sometimes a larger diameter insert is needed. Our shipping kits accommodate these bottles."
+        }
+    ],
+    "relatedLinks": [
+        {
+            "label": "Get an Offer",
+            "href": "/get-offer"
+        },
+        {
+            "label": "Sell Bordeaux",
+            "href": "/sell/bordeaux"
+        },
+        {
+            "label": "Sell Margaux",
+            "href": "/sell/margaux"
+        },
+        {
+            "label": "Sell Latour",
+            "href": "/sell/latour"
+        }
+    ]
+}

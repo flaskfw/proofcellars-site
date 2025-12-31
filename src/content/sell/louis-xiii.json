@@ -1,0 +1,84 @@
+{
+    "slug": "louis-xiii",
+    "title": "Sell Louis XIII Cognac",
+    "metaTitle": "Sell Louis XIII Cognac | Rémy Martin | Proof Cellars",
+    "metaDescription": "Sell your Louis XIII Cognac. We buy classic, Black Pearl, Rare Cask, and Time Collection editions. Direct offers.",
+    "heroHeadline": "Sell Louis XIII Cognac",
+    "heroSubhead": "We buy Rémy Martin Louis XIII.",
+    "introParagraph": "Rémy Martin Louis XIII is the king of Cognac, a blend of up to 1,200 eaux-de-vie aged up to 100 years. We purchase all editions of this iconic decanter, including the Classic, Black Pearl, Rare Cask, and Time Collection. Sell your Louis XIII securely and directly.",
+    "categoryType": "cognac",
+    "whatWeBuy": [
+        "Rémy Martin Louis XIII Classic (Red Box, older White Box)",
+        "Louis XIII Black Pearl",
+        "Louis XIII Rare Cask (43.8, 42.6)",
+        "Louis XIII Time Collection (Origin, City of Lights)",
+        "Louis XIII Le Mathusalem (6L)"
+    ],
+    "whatWeDoNotBuy": [
+        "Empty decanters (we strictly buy full, sealed bottles)",
+        "Decanters with broken crystal stoppers",
+        "Standard Rémy Martin XO or VSOP"
+    ],
+    "photoChecklist": [
+        "Front of decanter",
+        "Matching serial numbers (Stopper, Bottle, Booklet)",
+        "Box condition",
+        "Fill level",
+        "Pointed spikes/fins condition (prone to breakage)"
+    ],
+    "conditionFactors": [
+        "Completeness (Outer box, display case, stopper, booklet)",
+        "Serial number match (Stopper + Decanter + Book)",
+        "Crystal condition (chips on fins reduce value)",
+        "Fill level"
+    ],
+    "pricingFactors": [
+        "Edition (Black Pearl and Rare Cask are worth multiples of the standard)",
+        "Age (Older 'White Box' era vs 'Red Box')",
+        "Completeness of the set"
+    ],
+    "faqs": [
+        {
+            "question": "Do I need the box and stopper?",
+            "answer": "Yes, Louis XIII is a presentation piece. A missing box or stopper dramatically reduces value, though we may still make an offer."
+        },
+        {
+            "question": "Do serial numbers need to match?",
+            "answer": "Yes, for full value, the number on the stopper, the bottom of the decanter, and the booklet should match."
+        },
+        {
+            "question": "Do you buy empty bottles?",
+            "answer": "No, we do not buy empty Louis XIII decanters."
+        },
+        {
+            "question": "Is the Black Pearl valuable?",
+            "answer": "Yes, the Black Pearl and Rare Cask editions are some of the most expensive spirits in the world."
+        },
+        {
+            "question": "What if the crystal is chipped?",
+            "answer": "Chips, especially on the side fins, will lower the offer price as it affects the aesthetic value."
+        },
+        {
+            "question": "Do you buy older 1970s bottlings?",
+            "answer": "Yes, we look for older bottlings from the 70s and 80s."
+        }
+    ],
+    "relatedLinks": [
+        {
+            "label": "Get an Offer",
+            "href": "/get-offer"
+        },
+        {
+            "label": "Sell Hennessy Paradis",
+            "href": "/sell/hennessy-paradis"
+        },
+        {
+            "label": "Sell Macallan",
+            "href": "/sell/macallan"
+        },
+        {
+            "label": "Packing Guide",
+            "href": "/resources/packing-guide"
+        }
+    ]
+}

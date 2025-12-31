@@ -1,0 +1,87 @@
+{
+    "slug": "clase-azul-limited",
+    "title": "Sell Clase Azul Limited Editions",
+    "metaTitle": "Sell Clase Azul Ultra & Dia de Muertos | Proof Cellars",
+    "metaDescription": "Sell your rare Clase Azul. We buy Clase Azul Ultra, Dia de Muertos, and Master Artisans editions. Direct offers.",
+    "heroHeadline": "Sell Clase Azul Limited Editions",
+    "heroSubhead": "We buy Clase Azul Ultra and Dia de Muertos.",
+    "introParagraph": "Clase Azul is famous for its beautiful ceramic decanters. While the Reposado is common, their limited editions are highly valuable works of art. We purchase Clase Azul Ultra (Extra Añejo), the annual Dia de Muertos releases, and the Master Artisans series. Sell your limited Clase Azul collection directly.",
+    "categoryType": "spirits",
+    "whatWeBuy": [
+        "Clase Azul Ultra (Extra Añejo)",
+        "Clase Azul Dia de Muertos (all years)",
+        "Clase Azul Master Artisans",
+        "Clase Azul 25th Anniversary",
+        "Clase Azul Puebla",
+        "Clase Azul Pink (Breast Cancer Awareness)",
+        "Clase Azul Amber"
+    ],
+    "whatWeDoNotBuy": [
+        "Standard Clase Azul Reposado (White/Blue)",
+        "Standard Clase Azul Plata",
+        "Empty bottles",
+        "Broken ceramic decanters"
+    ],
+    "photoChecklist": [
+        "Front of decanter",
+        "Back label",
+        "Seal condition",
+        "Box condition (Ultra and Dia de Muertos have specific boxes)",
+        "Agave/Top condition"
+    ],
+    "conditionFactors": [
+        "Ceramic integrity (no chips or cracks)",
+        "Paint condition",
+        "Seal integrity",
+        "Box presence"
+    ],
+    "pricingFactors": [
+        "Edition rarity (Dia de Muertos releases often double/triple in value)",
+        "Ultra status (The $2k+ retail bottle)",
+        "Completeness (Box and inserts)"
+    ],
+    "faqs": [
+        {
+            "question": "Do you buy the white and blue bottle?",
+            "answer": "Generally no, the standard Reposado is not a bottle we purchase individually. We focus on the limited editions."
+        },
+        {
+            "question": "Do you buy Clase Azul Ultra?",
+            "answer": "Yes, the Ultra (black bottle with platinum/silver/gold paint) is a top priority for us."
+        },
+        {
+            "question": "Do you buy the Pink bottle?",
+            "answer": "Yes, the limited pink Reposado is collectible."
+        },
+        {
+            "question": "What if the ceramic is chipped?",
+            "answer": "Chips significantly reduce value as these are collected for their art."
+        },
+        {
+            "question": "Do you buy Dia de Muertos?",
+            "answer": "Yes, we look for all annual Dia de Muertos releases (e.g., Colores, Sabores)."
+        },
+        {
+            "question": "How do I ship ceramic bottles?",
+            "answer": "Ceramic is heavy and fragile. Bubble wrap is essential, and the bottle should be boxed tightly to prevent internal movement."
+        }
+    ],
+    "relatedLinks": [
+        {
+            "label": "Get an Offer",
+            "href": "/get-offer"
+        },
+        {
+            "label": "Sell Tequila",
+            "href": "/sell/tequila-extra-anejo"
+        },
+        {
+            "label": "Sell Louis XIII",
+            "href": "/sell/louis-xiii"
+        },
+        {
+            "label": "Sell Don Julio 1942",
+            "href": "/sell/tequila-extra-anejo"
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "slug": "margaux",
+    "title": "Sell Chateau Margaux",
+    "metaTitle": "Sell Chateau Margaux | Proof Cellars",
+    "metaDescription": "Sell your Chateau Margaux. We buy the Grand Vin, Pavillon Rouge, and Pavillon Blanc. Direct offers.",
+    "heroHeadline": "Sell Chateau Margaux",
+    "heroSubhead": "We buy Chateau Margaux and Pavillon Rouge directly.",
+    "introParagraph": "Chateau Margaux is known for its perfumed elegance and silkiness. We are active buyers of the Grand Vin, the second wine Pavillon Rouge, and the white wine Pavillon Blanc. From the benchmark 1990 vintage to the modern 2015 Bicentenary bottle, we offer competitive pricing for your collection.",
+    "categoryType": "wine",
+    "whatWeBuy": [
+        "Chateau Margaux (Grand Vin)",
+        "Pavillon Rouge du Chateau Margaux",
+        "Pavillon Blanc du Chateau Margaux",
+        "Margaux du Chateau Margaux (Third Wine)"
+    ],
+    "whatWeDoNotBuy": [
+        "Generic Margaux appellation wines (unless classified growth)",
+        "Bottles with low fills"
+    ],
+    "photoChecklist": [
+        "Front label",
+        "Vintage",
+        "Fill level",
+        "Capsule",
+        "Back label info"
+    ],
+    "conditionFactors": [
+        "Fill level",
+        "Label condition (Margaux labels are elegant and show stains easily)",
+        "Capsule integrity"
+    ],
+    "pricingFactors": [
+        "Vintage (1990, 2000, 2015)",
+        "Special editions (2015 black bottle)",
+        "Provenance"
+    ],
+    "faqs": [
+        {
+            "question": "Is the 2015 vintage special?",
+            "answer": "Yes, the 2015 vintage features a special black and gold silk-screened bottle honoring Paul Pontallier and the estate's bicentenary."
+        },
+        {
+            "question": "Do you buy Pavillon Blanc?",
+            "answer": "Yes, Pavillon Blanc is a 100% Sauvignon Blanc from the estate and is highly collectible."
+        },
+        {
+            "question": "Do you buy Pavillon Rouge?",
+            "answer": "Yes, the second wine is a staple purchase for us."
+        },
+        {
+            "question": "Do you buy other Margaux estates?",
+            "answer": "Yes, we buy Palmer, Rauzan-Segla, and other classified growths from the Margaux appellation."
+        },
+        {
+            "question": "What is the best vintage?",
+            "answer": "1900 is legendary, but in modern times, 1990, 2000, 2005, 2009, 2010, and 2015 are pinnacles."
+        },
+        {
+            "question": "How do I get paid?",
+            "answer": "After we receive and inspect your shipment, we issue payment within 1 business day."
+        }
+    ],
+    "relatedLinks": [
+        {
+            "label": "Get an Offer",
+            "href": "/get-offer"
+        },
+        {
+            "label": "Sell Bordeaux",
+            "href": "/sell/bordeaux"
+        },
+        {
+            "label": "Sell Palmer",
+            "href": "/sell/bordeaux"
+        },
+        {
+            "label": "Sell Lafite",
+            "href": "/sell/lafite-rothschild"
+        }
+    ]
+}

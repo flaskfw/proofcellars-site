@@ -1,0 +1,84 @@
+{
+    "slug": "fortaleza",
+    "title": "Sell Fortaleza Tequila",
+    "metaTitle": "Sell Fortaleza Tequila | Winter Blend, Limited Releases | Proof Cellars",
+    "metaDescription": "Sell your Fortaleza Tequila. We buy Winter Blends, Lote 42-A, Lote 43-A, and older hand-blown bottles. Direct offers.",
+    "heroHeadline": "Sell Fortaleza Tequila",
+    "heroSubhead": "We buy Fortaleza Winter Blends and rare lots.",
+    "introParagraph": "Fortaleza has become the darling of tequila aficionados for its traditional production methods. We purchase limited releases like the annual Winter Blend, as well as highly sought-after batches like Lote 42-A and 43-A. If you have rare or older Fortaleza bottles, we are interested.",
+    "categoryType": "spirits",
+    "whatWeBuy": [
+        "Fortaleza Winter Blend (all years)",
+        "Fortaleza Lote 42-A (Añejo)",
+        "Fortaleza Lote 43-A (Añejo)",
+        "Fortaleza Blanco Lote 100",
+        "Fortaleza Reposado Winter Blend",
+        "Older hand-blown bottles"
+    ],
+    "whatWeDoNotBuy": [
+        "Current standard Blanco/Reposado (unless part of collection)",
+        "Empty bottles",
+        "Broken corks inside bottle"
+    ],
+    "photoChecklist": [
+        "Front label",
+        "Back label showing LOTE number (handwritten)",
+        "Fill level",
+        "Stopper condition (agave pina topper)",
+        "Seal condition"
+    ],
+    "conditionFactors": [
+        "Lote number verification (handwritten on back)",
+        "Stopper condition (painted agave topper)",
+        "Seal integrity"
+    ],
+    "pricingFactors": [
+        "Lote Number (42-A and 43-A are legendary)",
+        "Winter Blend year (2019 [First Release] is most valuable)",
+        "ABV (Still strength variations)"
+    ],
+    "faqs": [
+        {
+            "question": "Why is Lote 42-A/43-A valuable?",
+            "answer": "These lots were accidentally composed of Extra Añejo tequila but bottled as Añejo, making them unique and delicious."
+        },
+        {
+            "question": "Do you buy Winter Blend?",
+            "answer": "Yes, we buy every vintage of Winter Blend."
+        },
+        {
+            "question": "Do you buy standard Añejo?",
+            "answer": "We buy standard Fortaleza Añejo, though the limited releases command higher prices."
+        },
+        {
+            "question": "Does the stopper matter?",
+            "answer": "Yes, the hand-painted agave piña stopper is part of the brand identity. Broken toppers reduce value."
+        },
+        {
+            "question": "Do you buy Still Strength?",
+            "answer": "Yes, especially older lots of Still Strength Blanco."
+        },
+        {
+            "question": "How do I ship safely?",
+            "answer": "Tape the stopper down securely so it doesn't pop out during transit."
+        }
+    ],
+    "relatedLinks": [
+        {
+            "label": "Get an Offer",
+            "href": "/get-offer"
+        },
+        {
+            "label": "Sell Tequila",
+            "href": "/sell/tequila-extra-anejo"
+        },
+        {
+            "label": "Sell Bourbon",
+            "href": "/sell/bourbon"
+        },
+        {
+            "label": "Sell Scotch",
+            "href": "/sell/scotch"
+        }
+    ]
+}

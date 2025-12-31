@@ -1,0 +1,82 @@
+{
+    "slug": "cheval-blanc",
+    "title": "Sell Chateau Cheval Blanc",
+    "metaTitle": "Sell Chateau Cheval Blanc | Proof Cellars",
+    "metaDescription": "Sell your Chateau Cheval Blanc. We buy all vintages of this Saint-Emilion Premier Grand Cru Classe A. Direct offers.",
+    "heroHeadline": "Sell Chateau Cheval Blanc",
+    "heroSubhead": "We buy Chateau Cheval Blanc and Le Petit Cheval.",
+    "introParagraph": "Chateau Cheval Blanc is the premier estate of Saint-Emilion, famous for its Cabernet Franc dominant blend. We buy all vintages, including the mythical 1947, as well as the second wine Le Petit Cheval. Sell your Right Bank icon wines directly to us for immediate payment.",
+    "categoryType": "wine",
+    "whatWeBuy": [
+        "Chateau Cheval Blanc",
+        "Le Petit Cheval",
+        "Le Petit Cheval Blanc"
+    ],
+    "whatWeDoNotBuy": [
+        "Generic Saint-Emilion",
+        "Bottles with signs of oxidation",
+        "Leaking bottles"
+    ],
+    "photoChecklist": [
+        "Front label",
+        "Vintage",
+        "Fill level",
+        "Capsule",
+        "Back label"
+    ],
+    "conditionFactors": [
+        "Fill level",
+        "Label condition",
+        "Capsule integrity",
+        "Color (for older vintages)"
+    ],
+    "pricingFactors": [
+        "Vintage (1947 is one of the most expensive wines ever)",
+        "Provenance",
+        "Classification status (Premier Grand Cru Classé A)"
+    ],
+    "faqs": [
+        {
+            "question": "Is 1947 Cheval Blanc real?",
+            "answer": "It is heavily counterfeited. We require extreme provenance verification and physical inspection for 1947 bottles."
+        },
+        {
+            "question": "Do you buy Le Petit Cheval?",
+            "answer": "Yes, we actively buy the second wine."
+        },
+        {
+            "question": "Do you buy the white wine?",
+            "answer": "Yes, Le Petit Cheval Blanc is a rare dry white we purchase."
+        },
+        {
+            "question": "Is Cheval Blanc 100% Merlot?",
+            "answer": "No, it is unique for having a high percentage of Cabernet Franc (often 50%+) alongside Merlot."
+        },
+        {
+            "question": "Do you buy Ausone?",
+            "answer": "Yes, we buy Ausone and other top Right Bank wines."
+        },
+        {
+            "question": "How do I sell my collection?",
+            "answer": "Submit your list via our form. We can handle entire cellar buyouts."
+        }
+    ],
+    "relatedLinks": [
+        {
+            "label": "Get an Offer",
+            "href": "/get-offer"
+        },
+        {
+            "label": "Sell Bordeaux",
+            "href": "/sell/bordeaux"
+        },
+        {
+            "label": "Sell Petrus",
+            "href": "/sell/petrus"
+        },
+        {
+            "label": "Sell Ausone",
+            "href": "/sell/ausone"
+        }
+    ]
+}

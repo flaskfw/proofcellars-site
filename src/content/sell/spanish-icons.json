@@ -1,0 +1,87 @@
+{
+    "slug": "spanish-icons",
+    "title": "Sell Iconic Spanish Wine",
+    "metaTitle": "Sell Vega Sicilia & Pingus | Iconic Spanish Wine | Proof Cellars",
+    "metaDescription": "Sell your Vega Sicilia Unico, Pingus, and L'Ermita wines. We buy Spain's most iconic collectible bottles. Direct offers.",
+    "heroHeadline": "Sell Iconic Spanish Wine",
+    "heroSubhead": "We buy Vega Sicilia, Pingus, and other Spanish legends.",
+    "introParagraph": "Spain produces some of the world's most intense and long-lived red wines. We specialize in purchasing iconic bottles from Ribera del Duero, Rioja, and Priorat. If you have Vega Sicilia Unico, Dominio de Pingus, or Alvaro Palacios L'Ermita, we offer a direct route to sell your collection for top value.",
+    "categoryType": "wine",
+    "whatWeBuy": [
+        "Vega Sicilia Unico",
+        "Vega Sicilia Unico Reserva Especial",
+        "Dominio de Pingus (Pingus)",
+        "Alvaro Palacios L'Ermita",
+        "Descendientes de J. Palacios La Faraona",
+        "Lopez de Heredia Vina Tondonia Gran Reserva",
+        "Marques de Murrieta Castillo Ygay Gran Reserva Especial"
+    ],
+    "whatWeDoNotBuy": [
+        "Standard Rioja Crianza/Reserva",
+        "Entry-level Spanish wines",
+        "Flor de Pingus (unless part of collection)",
+        "Vega Sicilia Valbuena (unless older/part of collection)"
+    ],
+    "photoChecklist": [
+        "Front label",
+        "Vintage details",
+        "Bottle number (often on Unico and Pingus)",
+        "Fill level",
+        "Capsule condition"
+    ],
+    "conditionFactors": [
+        "Fill level",
+        "Label condition",
+        "Capsule integrity",
+        "Cork condition (for older Gran Reservas)"
+    ],
+    "pricingFactors": [
+        "Producer prestige (Pingus and Vega Sicilia lead the market)",
+        "Vintage (older Unico vintages are very valuable)",
+        "Ratings (100-point scores drive value)"
+    ],
+    "faqs": [
+        {
+            "question": "Is Vega Sicilia Unico valuable?",
+            "answer": "Yes, Unico is Spain's most famous wine and consistently holds high value."
+        },
+        {
+            "question": "Do you buy Flor de Pingus?",
+            "answer": "We primarily focus on the flagship 'Pingus', but will purchase Flor de Pingus as part of a larger cellar."
+        },
+        {
+            "question": "Do you buy old Rioja?",
+            "answer": "Yes, classic producers like Lopez de Heredia and CVNE produce Gran Reservas that age for decades. We buy these vintage bottles."
+        },
+        {
+            "question": "What is L'Ermita?",
+            "answer": "L'Ermita is a Garnacha-based wine from Priorat by Alvaro Palacios, considered one of Spain's 'Grand Crus'."
+        },
+        {
+            "question": "Do you buy Castillo Ygay?",
+            "answer": "Yes, specifically the Gran Reserva Especial bottlings."
+        },
+        {
+            "question": "Do you buy large formats?",
+            "answer": "Yes, we buy Magnums and larger formats of all iconic Spanish wines."
+        }
+    ],
+    "relatedLinks": [
+        {
+            "label": "Get an Offer",
+            "href": "/get-offer"
+        },
+        {
+            "label": "Sell Wine",
+            "href": "/sell/wine"
+        },
+        {
+            "label": "Sell Bordeaux",
+            "href": "/sell/bordeaux"
+        },
+        {
+            "label": "Sell Rhone",
+            "href": "/sell/rhone"
+        }
+    ]
+}

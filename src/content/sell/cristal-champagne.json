@@ -1,0 +1,83 @@
+{
+    "slug": "cristal-champagne",
+    "title": "Sell Louis Roederer Cristal",
+    "metaTitle": "Sell Cristal Champagne | Louis Roederer | Proof Cellars",
+    "metaDescription": "Sell your Cristal Champagne. We buy Louis Roederer Cristal, Cristal Rosé, and Vinothèque releases. Direct offers.",
+    "heroHeadline": "Sell Louis Roederer Cristal",
+    "heroSubhead": "We buy Cristal, Cristal Rosé, and Vinothèque.",
+    "introParagraph": "Created for Tsar Alexander II, Cristal is the flagship cuvée of Louis Roederer. Recognizable by its clear bottle and gold label, it is a symbol of luxury. We purchase all vintages of Cristal and the even rarer Cristal Rosé, as well as the late-released Vinothèque bottlings.",
+    "categoryType": "champagne",
+    "whatWeBuy": [
+        "Louis Roederer Cristal",
+        "Louis Roederer Cristal Rosé",
+        "Louis Roederer Cristal Vinothèque (Late Disgorged)",
+        "Large formats (Magnum, Jeroboam, Methuselah)"
+    ],
+    "whatWeDoNotBuy": [
+        "Louis Roederer Brut Premier",
+        "Louis Roederer Vintage Brut (unless old)",
+        "Cristal with removed UV wrapper (lightstrike risk, though we still buy, verify carefully)"
+    ],
+    "photoChecklist": [
+        "Front label",
+        "Vintage",
+        "Wrapper condition (Orange UV cellophane)",
+        "Foil condition",
+        "Fill level"
+    ],
+    "conditionFactors": [
+        "UV Wrapper presence (Clear bottles are susceptible to light damage; wrapper protects value)",
+        "Foil integrity",
+        "Fill level"
+    ],
+    "pricingFactors": [
+        "Vintage (2002, 2008, 1996)",
+        "Type (Rosé is significantly more expensive than Blanc)",
+        "Vinothèque status",
+        "Medallion editions (2002 Gold Medalion)"
+    ],
+    "faqs": [
+        {
+            "question": "Does the orange wrapper matter?",
+            "answer": "Yes. Cristal is bottled in clear glass, making it vulnerable to lightstrike ('skunking'). The orange wrapper protects it. Bottles with the wrapper intact are more valuable."
+        },
+        {
+            "question": "Is Cristal Rosé valuable?",
+            "answer": "Yes, it is produced in much smaller quantities than the Blanc and commands a much higher price."
+        },
+        {
+            "question": "What is Vinothèque?",
+            "answer": "These are bottles aged longer on the lees and released later by the house. They are very collectible."
+        },
+        {
+            "question": "Do you buy large formats?",
+            "answer": "Yes, Cristal Magnums and Jeroboams are highly prized."
+        },
+        {
+            "question": "Is 2008 a good vintage?",
+            "answer": "2008 is widely considered a legend and is one of the most expensive recent vintages."
+        },
+        {
+            "question": "Do you buy older vintages?",
+            "answer": "Yes, we look for vintages from the 80s, 90s, and 2000s."
+        }
+    ],
+    "relatedLinks": [
+        {
+            "label": "Get an Offer",
+            "href": "/get-offer"
+        },
+        {
+            "label": "Sell Champagne",
+            "href": "/sell/champagne"
+        },
+        {
+            "label": "Sell Dom Pérignon",
+            "href": "/sell/dom-perignon"
+        },
+        {
+            "label": "Sell Salon",
+            "href": "/sell/salon"
+        }
+    ]
+}

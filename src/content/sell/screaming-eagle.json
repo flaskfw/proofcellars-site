@@ -1,0 +1,82 @@
+{
+    "slug": "screaming-eagle",
+    "title": "Sell Screaming Eagle",
+    "metaTitle": "Sell Screaming Eagle Wine | Proof Cellars",
+    "metaDescription": "Sell your Screaming Eagle wine. We buy the Cabernet Sauvignon and Sauvignon Blanc from this Napa Valley cult icon. Direct offers.",
+    "heroHeadline": "Sell Screaming Eagle",
+    "heroSubhead": "We buy Screaming Eagle Cabernet Sauvignon and Sauvignon Blanc.",
+    "introParagraph": "Screaming Eagle is the quintessential Napa Valley cult wine. With tiny production and a massive waitlist, it is one of the most liquid assets in the wine world. We purchase all vintages of the flagship Cabernet Sauvignon, the Second Flight (now The Flight), and the incredibly rare Sauvignon Blanc.",
+    "categoryType": "wine",
+    "whatWeBuy": [
+        "Screaming Eagle Cabernet Sauvignon",
+        "Screaming Eagle Sauvignon Blanc",
+        "Screaming Eagle 'The Flight' (formerly Second Flight)"
+    ],
+    "whatWeDoNotBuy": [
+        "Empty bottles",
+        "Counterfeit bottles (we verify against known anti-fraud markers)",
+        "Leaking bottles"
+    ],
+    "photoChecklist": [
+        "Front label",
+        "Vintage",
+        "Fill level",
+        "Capsule/Paper wrap",
+        "Bubble code (if present on newer vintages)"
+    ],
+    "conditionFactors": [
+        "Original paper wrap adds value",
+        "Fill level",
+        "Capsule integrity",
+        "Bubble code verification"
+    ],
+    "pricingFactors": [
+        "Vintage (1992, 1997, 2007, 2010)",
+        "Sauvignon Blanc rarity (prices are extremely high)",
+        "Provenance (OWC and original paper wrap)"
+    ],
+    "faqs": [
+        {
+            "question": "Is Screaming Eagle Sauvignon Blanc valuable?",
+            "answer": "Yes, it is often the most expensive Sauvignon Blanc in the world due to its scarcity."
+        },
+        {
+            "question": "What is The Flight?",
+            "answer": "It is the second wine of the estate, focusing more on Merlot. It is also highly valuable."
+        },
+        {
+            "question": "Do I need the original wooden box?",
+            "answer": "While not strictly required, the OWC (Original Wood Case) significantly helps value and provenance."
+        },
+        {
+            "question": "Do you buy single bottles?",
+            "answer": "Yes, we buy single bottles."
+        },
+        {
+            "question": "What is the 1992 vintage worth?",
+            "answer": "The inaugural 1992 vintage is a perfect 100-point wine and commands a massive premium."
+        },
+        {
+            "question": "How do you verify authenticity?",
+            "answer": "We check the unique bubble codes on newer bottles and specific glass/label markers on older ones."
+        }
+    ],
+    "relatedLinks": [
+        {
+            "label": "Get an Offer",
+            "href": "/get-offer"
+        },
+        {
+            "label": "Sell Wine",
+            "href": "/sell/wine"
+        },
+        {
+            "label": "Sell Harlan Estate",
+            "href": "/sell/harlan-estate"
+        },
+        {
+            "label": "Sell Napa Cult",
+            "href": "/sell/napa-cult"
+        }
+    ]
+}

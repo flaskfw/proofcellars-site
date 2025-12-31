@@ -1,0 +1,87 @@
+{
+    "slug": "brunello",
+    "title": "Sell Brunello di Montalcino",
+    "metaTitle": "Sell Brunello Wine | Soldera, Biondi-Santi, Salvioni | Proof Cellars",
+    "metaDescription": "Sell your Brunello di Montalcino wines. We buy Case Basse Soldera, Biondi-Santi Riserva, Salvioni, and Poggio di Sotto. Direct offers.",
+    "heroHeadline": "Sell Brunello di Montalcino",
+    "heroSubhead": "We buy top-tier Sangiovese from Montalcino.",
+    "introParagraph": "Brunello di Montalcino offers some of Italy's most elegant and long-lived wines. We are active buyers for iconic producers such as Case Basse (Soldera), Biondi-Santi, and Poggio di Sotto. Whether you have the latest Riserva or a vintage bottle from the 1900s, sell directly to us for a fair market price.",
+    "categoryType": "wine",
+    "whatWeBuy": [
+        "Case Basse di Gianfranco Soldera (Brunello and IGT)",
+        "Biondi-Santi Brunello di Montalcino Riserva",
+        "Poggio di Sotto Brunello di Montalcino",
+        "Salvioni (La Cerbaiola) Brunello",
+        "Il Marroneto Madonna delle Grazie",
+        "Cerbaiona Brunello di Montalcino",
+        "Valdicava Madonna del Piano"
+    ],
+    "whatWeDoNotBuy": [
+        "Entry-level Brunello (unless part of a collection)",
+        "Rosso di Montalcino (typically)",
+        "Leaking bottles",
+        "Wines with heat damage"
+    ],
+    "photoChecklist": [
+        "Front label",
+        "Neck label (DOCG strip)",
+        "Vintage",
+        "Fill level",
+        "Capsule condition"
+    ],
+    "conditionFactors": [
+        "Fill level is critical",
+        "Label condition",
+        "Capsule integrity"
+    ],
+    "pricingFactors": [
+        "Producer (Soldera and Biondi-Santi are the benchmarks)",
+        "Riserva vs Annata (Riservas are worth more)",
+        "Vintage quality (e.g., 2010, 2015, 2016)",
+        "Rare bottlings (Soldera's small production makes it highly valuable)"
+    ],
+    "faqs": [
+        {
+            "question": "Do you buy Biondi-Santi?",
+            "answer": "Yes, especially the Riserva bottlings which define the region's history."
+        },
+        {
+            "question": "Is Soldera classified as Brunello?",
+            "answer": "Older vintages are labels as Brunello. Recent vintages are labeled IGT Toscana due to disputes with the consortium. We buy both."
+        },
+        {
+            "question": "Do you buy Rosso di Montalcino?",
+            "answer": "Generally, we focus on the Brunello bottlings, but we will buy Rosso from top producers like Poggio di Sotto or Soldera."
+        },
+        {
+            "question": "Do you buy Valdicava?",
+            "answer": "Yes, specifically the Madonna del Piano Riserva."
+        },
+        {
+            "question": "Do you buy large formats?",
+            "answer": "Yes, magnums and double magnums of Brunello are highly desirable."
+        },
+        {
+            "question": "How do I check the fill level?",
+            "answer": "Hold the bottle upright against a light background. For Bordeaux-shaped bottles, the fill should be into the neck."
+        }
+    ],
+    "relatedLinks": [
+        {
+            "label": "Get an Offer",
+            "href": "/get-offer"
+        },
+        {
+            "label": "Sell Wine",
+            "href": "/sell/wine"
+        },
+        {
+            "label": "Sell Super Tuscans",
+            "href": "/sell/super-tuscan"
+        },
+        {
+            "label": "Sell Barolo",
+            "href": "/sell/barolo"
+        }
+    ]
+}

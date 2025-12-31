@@ -1,0 +1,81 @@
+{
+    "slug": "chinaco",
+    "title": "Sell Chinaco Tequila",
+    "metaTitle": "Sell Chinaco Tequila | Negro, Imperio | Proof Cellars",
+    "metaDescription": "Sell your Chinaco Tequila. We buy the rare Chinaco Negro Extra Añejo and Imperio. Direct offers for vintage tequila.",
+    "heroHeadline": "Sell Chinaco Tequila",
+    "heroSubhead": "We buy rare Chinaco Negro and Imperio.",
+    "introParagraph": "Chinaco was the first premium tequila to reach the US market in the 1980s. We are searching for the legendary Chinaco Negro Extra Añejo—a cult classic among collectors. We also purchase older bottlings of Chinaco Imperio and vintage releases. Sell your rare Chinaco directly to us.",
+    "categoryType": "spirits",
+    "whatWeBuy": [
+        "Chinaco Negro Extra Añejo (Lote 1-17)",
+        "Chinaco Imperio Extra Añejo (older colored glass)",
+        "Chinaco 30th Anniversary",
+        "Chinaco Blanco/Reposado/Añejo (older 'tear drop' bottles)"
+    ],
+    "whatWeDoNotBuy": [
+        "Current standard releases (round bottles)",
+        "Opened bottles"
+    ],
+    "photoChecklist": [
+        "Front label",
+        "Bottle shape (verify if it is the old faceted or teardrop style)",
+        "Lot number",
+        "Fill level",
+        "Box/Tube condition"
+    ],
+    "conditionFactors": [
+        "Bottle shape (indicates era)",
+        "Fill level",
+        "Seal condition"
+    ],
+    "pricingFactors": [
+        "Lote number for Negro (Early lots are prized)",
+        "Bottle style (Old faceted bottles are collectibles)",
+        "Color (Chinaco Negro is famous for its natural dark color)"
+    ],
+    "faqs": [
+        {
+            "question": "What is Chinaco Negro?",
+            "answer": "It is a legendary Extra Añejo known for its deep color and complexity, often compared to fine cognac."
+        },
+        {
+            "question": "Do you buy the new Negro?",
+            "answer": "Yes, but the older lots in the faceted bottles are significantly more valuable."
+        },
+        {
+            "question": "What is the 'Tear Drop' bottle?",
+            "answer": "This refers to the older bottle shape used in the 80s and 90s. We actively buy these vintage bottles."
+        },
+        {
+            "question": "Do you buy Imperio?",
+            "answer": "Yes, Chinaco Imperio is their top-tier Extra Añejo."
+        },
+        {
+            "question": "Is Chinaco Negro really tequila?",
+            "answer": "Yes, but its unique production and aging give it a profile unlike any other tequila."
+        },
+        {
+            "question": "How do I sell my collection?",
+            "answer": "Take photos of the bottles and lot numbers. We can evaluate them quickly."
+        }
+    ],
+    "relatedLinks": [
+        {
+            "label": "Get an Offer",
+            "href": "/get-offer"
+        },
+        {
+            "label": "Sell Tequila",
+            "href": "/sell/tequila-extra-anejo"
+        },
+        {
+            "label": "Sell El Tesoro",
+            "href": "/sell/el-tesoro"
+        },
+        {
+            "label": "Sell Porfidio",
+            "href": "/sell/porfidio"
+        }
+    ]
+}

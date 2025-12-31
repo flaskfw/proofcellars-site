@@ -1,0 +1,79 @@
+{
+    "slug": "ausone",
+    "title": "Sell Chateau Ausone",
+    "metaTitle": "Sell Chateau Ausone | Proof Cellars",
+    "metaDescription": "Sell your Chateau Ausone. We buy this rare Saint-Emilion Premier Grand Cru Classe A wine. Direct offers.",
+    "heroHeadline": "Sell Chateau Ausone",
+    "heroSubhead": "We buy the rare production of Chateau Ausone.",
+    "introParagraph": "Chateau Ausone produces fewer than 2,000 cases a year, making it one of the rarest Bordeaux wines. We purchase Ausone and its second wine, Chapelle d'Ausone. If you possess this gem of Saint-Emilion, we offer a discreet and secure way to sell.",
+    "categoryType": "wine",
+    "whatWeBuy": [
+        "Chateau Ausone",
+        "Chapelle d'Ausone"
+    ],
+    "whatWeDoNotBuy": [
+        "Bottles with illegible labels (unless provenance is perfect)",
+        "Significant ullage"
+    ],
+    "photoChecklist": [
+        "Front label",
+        "Vintage",
+        "Fill level",
+        "Capsule",
+        "Back label"
+    ],
+    "conditionFactors": [
+        "Fill level",
+        "Label condition",
+        "Capsule integrity"
+    ],
+    "pricingFactors": [
+        "Scarcity (production is tiny compared to other First Growths)",
+        "Vintage scores (2000, 2005, 2009)",
+        "Provenance"
+    ],
+    "faqs": [
+        {
+            "question": "Why is Ausone so expensive?",
+            "answer": "It combines exceptional quality with extremely low production—roughly 1/10th the volume of Lafite."
+        },
+        {
+            "question": "Do you buy Chapelle d'Ausone?",
+            "answer": "Yes, the second wine is also highly collectible."
+        },
+        {
+            "question": "Do you buy Angelus or Pavie?",
+            "answer": "Yes, we buy other Premier Grand Cru Classé A wines from Saint-Emilion."
+        },
+        {
+            "question": "How do I ship valuable bottles?",
+            "answer": "We provide prepaid labels and, for high-value collections, can arrange specialized temperature-controlled transport."
+        },
+        {
+            "question": "Do you buy vintage Ausone?",
+            "answer": "Yes, we buy vintage Ausone from the 20th century."
+        },
+        {
+            "question": "How quickly do I get a quote?",
+            "answer": "We typically respond within 24 hours."
+        }
+    ],
+    "relatedLinks": [
+        {
+            "label": "Get an Offer",
+            "href": "/get-offer"
+        },
+        {
+            "label": "Sell Bordeaux",
+            "href": "/sell/bordeaux"
+        },
+        {
+            "label": "Sell Cheval Blanc",
+            "href": "/sell/cheval-blanc"
+        },
+        {
+            "label": "Sell Petrus",
+            "href": "/sell/petrus"
+        }
+    ]
+}

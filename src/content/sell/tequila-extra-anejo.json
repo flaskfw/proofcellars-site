@@ -1,0 +1,87 @@
+{
+    "slug": "tequila-extra-anejo",
+    "title": "Sell Extra Añejo Tequila",
+    "metaTitle": "Sell Extra Añejo Tequila | Tears of Llorona, Fuenteseca, Patron | Proof Cellars",
+    "metaDescription": "Sell your Extra Añejo Tequila. We buy Tears of Llorona, Fuenteseca, Patron 7 Anos, and limited edition high-end tequila. Direct offers.",
+    "heroHeadline": "Sell Extra Añejo Tequila",
+    "heroSubhead": "We buy premium Extra Añejo and high-end Tequila.",
+    "introParagraph": "Extra Añejo tequila represents the pinnacle of agave aging, often rivaling the complexity of fine cognac or whiskey. We purchase premium Extra Añejo bottles from producers like Tears of Llorona, Fuenteseca, Patron, and Don Julio. If you have a collection of high-end tequila, sell directly to us for a competitive offer.",
+    "categoryType": "spirits",
+    "whatWeBuy": [
+        "Tears of Llorona Extra Añejo",
+        "Fuenteseca Reserva (7, 9, 12, 18, 21 Year)",
+        "Patron En Lalique",
+        "Don Julio Real",
+        "Jose Cuervo Reserva de la Familia (older wooden boxes)",
+        "Herradura Seleccion Suprema",
+        "G4 Extra Añejo (55 Meses)",
+        "El Tesoro Paradiso"
+    ],
+    "whatWeDoNotBuy": [
+        "Standard Blanco/Reposado Tequila",
+        "Celebrity brands without collection value",
+        "Opened bottles",
+        "Bottles with broken wax seals"
+    ],
+    "photoChecklist": [
+        "Front label",
+        "Box condition (Extra Añejos often have elaborate boxes)",
+        "Fill level",
+        "Seal condition",
+        "Batch number"
+    ],
+    "conditionFactors": [
+        "Box condition",
+        "Fill level",
+        "Seal integrity"
+    ],
+    "pricingFactors": [
+        "Brand prestige (Tears of Llorona is top tier)",
+        "Age statement (Fuenteseca 18 or 21 year is extremely valuable)",
+        "Limited edition packaging"
+    ],
+    "faqs": [
+        {
+            "question": "Do you buy Tears of Llorona?",
+            "answer": "Yes, we actively buy Tears of Llorona, one of the most respected Extra Añejos on the market."
+        },
+        {
+            "question": "Is Jose Cuervo Reserva valuable?",
+            "answer": "Older vintages (often in wooden boxes with artist designs) are valuable. Recent releases are common."
+        },
+        {
+            "question": "Do you buy Don Julio 1942?",
+            "answer": "We generally do not buy single bottles of 1942 as it is widely available, unless it is an older bottling or part of a larger lot."
+        },
+        {
+            "question": "Do you buy Clase Azul Ultra?",
+            "answer": "Yes, we buy the high-end Clase Azul releases like Ultra and Dia de Muertos."
+        },
+        {
+            "question": "What is Fuenteseca?",
+            "answer": "Fuenteseca releases some of the oldest aged tequilas ever bottled. These are highly collectible."
+        },
+        {
+            "question": "How do I ship the heavy box?",
+            "answer": "Extra Añejo boxes can be heavy and fragile. Pack carefully with plenty of cushioning."
+        }
+    ],
+    "relatedLinks": [
+        {
+            "label": "Get an Offer",
+            "href": "/get-offer"
+        },
+        {
+            "label": "Sell Fortaleza",
+            "href": "/sell/fortaleza"
+        },
+        {
+            "label": "Sell Bourbon",
+            "href": "/sell/bourbon"
+        },
+        {
+            "label": "Sell Scotch",
+            "href": "/sell/scotch"
+        }
+    ]
+}

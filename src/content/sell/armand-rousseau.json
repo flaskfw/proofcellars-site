@@ -1,0 +1,84 @@
+{
+    "slug": "armand-rousseau",
+    "title": "Sell Armand Rousseau",
+    "metaTitle": "Sell Domaine Armand Rousseau | Chambertin, Clos de Beze | Proof Cellars",
+    "metaDescription": "Sell your Domaine Armand Rousseau wine. We buy Chambertin, Clos de Beze, and Clos St Jacques. Direct offers for Gevrey-Chambertin icons.",
+    "heroHeadline": "Sell Armand Rousseau",
+    "heroSubhead": "We buy Rousseau Chambertin and Clos de Bèze.",
+    "introParagraph": "Domaine Armand Rousseau is the undisputed king of Gevrey-Chambertin. We actively purchase their top Grand Crus, specifically Chambertin and Chambertin-Clos de Bèze, as well as the Premier Cru Clos Saint-Jacques which rivals the Grand Crus in quality and price. Sell your Rousseau collection directly to us.",
+    "categoryType": "wine",
+    "whatWeBuy": [
+        "Armand Rousseau Chambertin",
+        "Armand Rousseau Chambertin-Clos de Bèze",
+        "Armand Rousseau Gevrey-Chambertin Clos St-Jacques (1er Cru)",
+        "Armand Rousseau Ruchottes-Chambertin",
+        "Armand Rousseau Clos de la Roche",
+        "Armand Rousseau Mazy-Chambertin"
+    ],
+    "whatWeDoNotBuy": [
+        "Recent village-level Gevrey-Chambertin (unless part of a parcel)",
+        "Bottles with severe ullage"
+    ],
+    "photoChecklist": [
+        "Front label",
+        "Vintage",
+        "Fill level",
+        "Capsule",
+        "Importer strip"
+    ],
+    "conditionFactors": [
+        "Fill level",
+        "Label condition",
+        "Capsule integrity",
+        "Color opacity"
+    ],
+    "pricingFactors": [
+        "Vineyard hierarchy (Chambertin > Bèze > CSJ > others)",
+        "Vintage quality (1990, 1999, 2005, 2010)",
+        "Provenance"
+    ],
+    "faqs": [
+        {
+            "question": "Is Clos St-Jacques a Grand Cru?",
+            "answer": "Technically it is a Premier Cru, but Rousseau's bottling is considered Grand Cru quality and is priced accordingly."
+        },
+        {
+            "question": "Which is more valuable, Chambertin or Bèze?",
+            "answer": "Traditionally, the Chambertin commands a slightly higher price, but both are pinnacle wines."
+        },
+        {
+            "question": "Do you buy the village Gevrey?",
+            "answer": "We generally focus on the 1er Cru and Grand Cru bottlings, but will buy village wine in older vintages or large collections."
+        },
+        {
+            "question": "Do you buy Ruchottes-Chambertin?",
+            "answer": "Yes, Rousseau's Clos des Ruchottes (a monopole within Ruchottes) is highly desirable."
+        },
+        {
+            "question": "Do you buy older vintages?",
+            "answer": "Yes, Rousseau from the 80s and 90s is extremely valuable if provenance is good."
+        },
+        {
+            "question": "How do you handle shipping?",
+            "answer": "We send prepaid shipping labels. For large collections, we can arrange temperature-controlled pickup."
+        }
+    ],
+    "relatedLinks": [
+        {
+            "label": "Get an Offer",
+            "href": "/get-offer"
+        },
+        {
+            "label": "Sell Wine",
+            "href": "/sell/wine"
+        },
+        {
+            "label": "Sell DRC",
+            "href": "/sell/domaine-de-la-romanee-conti"
+        },
+        {
+            "label": "Sell Burgundy",
+            "href": "/sell/burgundy"
+        }
+    ]
+}

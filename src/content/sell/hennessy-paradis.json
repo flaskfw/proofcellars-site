@@ -1,0 +1,85 @@
+{
+    "slug": "hennessy-paradis",
+    "title": "Sell Hennessy Paradis",
+    "metaTitle": "Sell Hennessy Paradis & Richard Hennessy | Proof Cellars",
+    "metaDescription": "Sell your Hennessy Paradis and Richard Hennessy Cognac. We buy Imperial, Rare, and limited editions. Direct offers.",
+    "heroHeadline": "Sell Hennessy Paradis",
+    "heroSubhead": "We buy Hennessy Paradis and Richard Hennessy.",
+    "introParagraph": "Hennessy is the world's largest Cognac producer, and its top-tier releases are luxury icons. We purchase Hennessy Paradis, Paradis Imperial, and the flagship Richard Hennessy. Whether you have a modern bottling or an older release, we provide competitive offers.",
+    "categoryType": "cognac",
+    "whatWeBuy": [
+        "Hennessy Paradis",
+        "Hennessy Paradis Imperial",
+        "Richard Hennessy",
+        "Hennessy Ellipse",
+        "Hennessy Timeless",
+        "Hennessy 250 Collector Blend"
+    ],
+    "whatWeDoNotBuy": [
+        "Standard Hennessy XO, VSOP, VS",
+        "Opened bottles",
+        "Empty bottles"
+    ],
+    "photoChecklist": [
+        "Front label/Decanter",
+        "Box condition",
+        "Fill level",
+        "Seal condition",
+        "Stopper presence"
+    ],
+    "conditionFactors": [
+        "Box condition",
+        "Fill level",
+        "Crystal condition",
+        "Seal integrity"
+    ],
+    "pricingFactors": [
+        "Edition (Richard Hennessy > Paradis Imperial > Paradis)",
+        "Old vs New bottling (Paradis Extra vs Paradis Rare)",
+        "Packaging completeness"
+    ],
+    "faqs": [
+        {
+            "question": "Do you buy Richard Hennessy?",
+            "answer": "Yes, Richard Hennessy is the top of the range and highly valuable."
+        },
+        {
+            "question": "What is Paradis Imperial?",
+            "answer": "It is a more exclusive version of Paradis, selected from the finest eaux-de-vie. It commands a higher price."
+        },
+        {
+            "question": "Do you buy Hennessy XO?",
+            "answer": "Refular Hennessy XO is generally not something we buy unless it is an older collectable bottling or limited edition."
+        },
+        {
+            "question": "Do I need the box?",
+            "answer": "Yes, the presentation box is important for resale value, especially for Richard Hennessy."
+        },
+        {
+            "question": "Do you buy old Hennessy?",
+            "answer": "Yes, we look for older 'JAS Hennessy' bottlings from the mid-20th century."
+        },
+        {
+            "question": "How do I ship a decanter?",
+            "answer": "Secure the stopper so it doesn't move and crack the neck. Wrap the decanter heavily in bubble wrap before boxing."
+        }
+    ],
+    "relatedLinks": [
+        {
+            "label": "Get an Offer",
+            "href": "/get-offer"
+        },
+        {
+            "label": "Sell Louis XIII",
+            "href": "/sell/louis-xiii"
+        },
+        {
+            "label": "Sell Macallan",
+            "href": "/sell/macallan"
+        },
+        {
+            "label": "How Pricing Works",
+            "href": "/resources/how-pricing-works"
+        }
+    ]
+}

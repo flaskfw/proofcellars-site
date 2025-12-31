@@ -34,6 +34,14 @@ ${baseUrl}/sell/old-forester-birthday-bourbon - Sell Old Forester Birthday Bourb
 ${baseUrl}/sell/wild-turkey-masters-keep - Sell Master's Keep
 ${baseUrl}/sell/laphroaig - Sell Laphroaig
 ${baseUrl}/sell/balvenie - Sell Balvenie
+${baseUrl}/sell/lafite-rothschild - Sell Chateau Lafite Rothschild
+${baseUrl}/sell/petrus - Sell Petrus
+${baseUrl}/sell/domaine-de-la-romanee-conti - Sell DRC (Romanée-Conti)
+${baseUrl}/sell/screaming-eagle - Sell Screaming Eagle
+${baseUrl}/sell/dom-perignon - Sell Dom Pérignon
+${baseUrl}/sell/louis-xiii - Sell Louis XIII Cognac
+${baseUrl}/sell/tears-of-llorona - Sell Tears of Llorona
+${baseUrl}/sell/fortaleza - Sell Fortaleza
 
 ## Resources
 ${baseUrl}/resources - Resources hub

@@ -1,0 +1,83 @@
+{
+    "slug": "el-tesoro",
+    "title": "Sell El Tesoro Tequila",
+    "metaTitle": "Sell El Tesoro Tequila | Paradiso, 70th, 75th | Proof Cellars",
+    "metaDescription": "Sell your El Tesoro de Don Felipe. We buy Paradiso, Aniversario releases (70th, 75th, 80th), and 'White Label' vintage bottles. Direct offers.",
+    "heroHeadline": "Sell El Tesoro Tequila",
+    "heroSubhead": "We buy El Tesoro Paradiso and Aniversario bottles.",
+    "introParagraph": "El Tesoro de Don Felipe is a benchmark for traditional tequila. We purchase the acclaimed Paradiso Extra Añejo, created in partnership with Alain Royer of A. de Fussigny Cognac. We also buy the limited Aniversario bottlings (70th, 75th, 80th) and vintage 'White Label' bottles from the 1990s.",
+    "categoryType": "spirits",
+    "whatWeBuy": [
+        "El Tesoro Paradiso (older 'A' bottles and box)",
+        "El Tesoro 70th Aniversario",
+        "El Tesoro 75th Aniversario",
+        "El Tesoro 80th Aniversario",
+        "El Tesoro Mundial Collection (Laphroaig finish, etc.)",
+        "Vintage 'White Label' El Tesoro (Blanco, Reposado, Añejo)"
+    ],
+    "whatWeDoNotBuy": [
+        "Current standard Blanco/Reposado/Añejo",
+        "Opened bottles"
+    ],
+    "photoChecklist": [
+        "Front label",
+        "Box condition (for Paradiso and Aniversario)",
+        "Fill level",
+        "Capsule/cork condition",
+        "Vintage date (if applicable)"
+    ],
+    "conditionFactors": [
+        "Box presence",
+        "Label condition (White Labels can stain)",
+        "Fill level"
+    ],
+    "pricingFactors": [
+        "Edition (70th and 75th are extremely rare)",
+        "Paradiso batch (older batches are more valuable)",
+        "Bottle style (Olive oil shape vs current round)"
+    ],
+    "faqs": [
+        {
+            "question": "Is Paradiso valuable?",
+            "answer": "Yes, especially the older bottlings designated as Class A."
+        },
+        {
+            "question": "What is the 70th Aniversario?",
+            "answer": "The 70th Aniversario is a legendary Extra Añejo aged for 7 years. It is highly collectible."
+        },
+        {
+            "question": "Do you buy the 'White Label' bottles?",
+            "answer": "Yes, the old paper label bottles (often called 'White Label') from the 90s are very desirable to collectors."
+        },
+        {
+            "question": "Do you buy the Laphroaig finish?",
+            "answer": "Yes, the Mundial collection, including the Laphroaig finish, is something we purchase."
+        },
+        {
+            "question": "Do you buy standard El Tesoro?",
+            "answer": "Typically only if it is an older bottling. Current store-shelf bottles are not bought individually."
+        },
+        {
+            "question": "How do I sell my collection?",
+            "answer": "Submit a list of your bottles via our secure form for a quick quote."
+        }
+    ],
+    "relatedLinks": [
+        {
+            "label": "Get an Offer",
+            "href": "/get-offer"
+        },
+        {
+            "label": "Sell Tequila",
+            "href": "/sell/tequila-extra-anejo"
+        },
+        {
+            "label": "Sell Fortaleza",
+            "href": "/sell/fortaleza"
+        },
+        {
+            "label": "Sell Chinaco",
+            "href": "/sell/chinaco"
+        }
+    ]
+}

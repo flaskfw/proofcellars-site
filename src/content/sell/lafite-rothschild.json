@@ -1,0 +1,83 @@
+{
+    "slug": "lafite-rothschild",
+    "title": "Sell Chateau Lafite Rothschild",
+    "metaTitle": "Sell Chateau Lafite Rothschild | Proof Cellars",
+    "metaDescription": "Sell your Chateau Lafite Rothschild. We buy all vintages of this First Growth Bordeaux, plus Carruades de Lafite. Direct offers.",
+    "heroHeadline": "Sell Chateau Lafite Rothschild",
+    "heroSubhead": "We buy Chateau Lafite Rothschild directly from collectors.",
+    "introParagraph": "Chateau Lafite Rothschild is arguably the most famous wine in the world. Known for its elegance and longevity, it commands top prices in the secondary market. We purchase all vintages of Lafite, from recent futures releases to 19th-century antiques, as well as the second wine, Carruades de Lafite.",
+    "categoryType": "wine",
+    "whatWeBuy": [
+        "Chateau Lafite Rothschild (Grand Vin)",
+        "Carruades de Lafite (Second Wine)",
+        "Rothschild Collection sets (e.g., Duclot)",
+        "Large formats (Magnums, Double Magnums, Imperials)"
+    ],
+    "whatWeDoNotBuy": [
+        "Barons de Rothschild (generic Bordeaux branding, unless part of collection)",
+        "Legende or Saget ranges",
+        "Bottles with severe leakage"
+    ],
+    "photoChecklist": [
+        "Front label",
+        "Vintage year",
+        "Capsule condition",
+        "Fill level",
+        "Importer details (if applicable)"
+    ],
+    "conditionFactors": [
+        "Fill level (into neck is ideal)",
+        "Label condition (Lafite labels can tear easily)",
+        "Capsule condition (signs of corrosion)",
+        "Provenance (OWC is preferred)"
+    ],
+    "pricingFactors": [
+        "Vintage reputation (1982, 1959, 2000, 2009, 2010)",
+        "Provenance (Original Wood Case adds significant value)",
+        "Asian market demand (influences Lafite prices heavily)"
+    ],
+    "faqs": [
+        {
+            "question": "Which Lafite vintage is worth the most?",
+            "answer": "Legendary vintages like 1869, 1959, and 1982 command the highest prices. 2000, 2009, and 2010 are also premium."
+        },
+        {
+            "question": "Do you buy Carruades de Lafite?",
+            "answer": "Yes, the second wine of Lafite has seen immense appreciation and we actively purchase it."
+        },
+        {
+            "question": "Do you buy single bottles?",
+            "answer": "Yes, we buy single bottles of Lafite, provided they are in good condition."
+        },
+        {
+            "question": "Effect of the 2008 Chinese character symbol?",
+            "answer": "The 2008 vintage features a Chinese character on the bottle and often commands a premium due to market demand."
+        },
+        {
+            "question": "How do I check provenance?",
+            "answer": "Receipts from reputable merchants, photos of storage conditions, and original cases help prove provenance."
+        },
+        {
+            "question": "Do you buy Duhart-Milon?",
+            "answer": "Yes, we buy other Rothschild properties like Duhart-Milon and Rieussec."
+        }
+    ],
+    "relatedLinks": [
+        {
+            "label": "Get an Offer",
+            "href": "/get-offer"
+        },
+        {
+            "label": "Sell Bordeaux",
+            "href": "/sell/bordeaux"
+        },
+        {
+            "label": "Sell Latour",
+            "href": "/sell/latour"
+        },
+        {
+            "label": "Sell Mouton Rothschild",
+            "href": "/sell/mouton-rothschild"
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "slug": "rhone",
+    "title": "Sell Rhone Valley Wine",
+    "metaTitle": "Sell Rhone Wine | Chateauneuf-du-Pape, Hermitage, Cote Rotie | Proof Cellars",
+    "metaDescription": "Sell your Rhone Valley wines. We buy Chateau Rayas, Guigal La Las, Chave Hermitage, and Beaucastel. Direct offers.",
+    "heroHeadline": "Sell Rhone Valley Wine",
+    "heroSubhead": "We buy collectible wines from the Northern and Southern Rhone.",
+    "introParagraph": "The Rhone Valley produces some of France's most powerful and age-worthy wines. We purchase top cuvées from Châteauneuf-du-Pape, Côte Rôtie, and Hermitage. Producers like Chateau Rayas, E. Guigal, and Jean-Louis Chave are always in demand. Sell your single bottles or full cellar directly to us.",
+    "categoryType": "wine",
+    "whatWeBuy": [
+        "Chateau Rayas Châteauneuf-du-Pape",
+        "E. Guigal 'La Munque', 'La Turque', 'La Landonne' (La Las)",
+        "Jean-Louis Chave Hermitage",
+        "Paul Jaboulet Aîné Hermitage La Chapelle",
+        "Chateau de Beaucastel Hommage à Jacques Perrin",
+        "Henri Bonneau Réserve des Célestins",
+        "Clos des Papes",
+        "M. Chapoutier Sélections Parcellaires"
+    ],
+    "whatWeDoNotBuy": [
+        "Entry-level Cotes du Rhone (unless older/collectible)",
+        "Standard Crozes-Hermitage (typically)",
+        "Wines with significant ullage (low fill)",
+        "Leaking bottles"
+    ],
+    "photoChecklist": [
+        "Front label",
+        "Vintage details",
+        "Capsule condition",
+        "Fill level",
+        "Importer strip"
+    ],
+    "conditionFactors": [
+        "Fill level (ullage)",
+        "Label condition (Rhone labels can be fragile)",
+        "Capsule integrity",
+        "Embossed bottle logo condition (for Châteauneuf-du-Pape)"
+    ],
+    "pricingFactors": [
+        "Producer (Rayas and Chave are top tier)",
+        "Vintage score (1978, 1990, 2010 etc. are premium)",
+        "Cuvee rarity (Hommage à Jacques Perrin is made only in top years)"
+    ],
+    "faqs": [
+        {
+            "question": "Do you buy Châteauneuf-du-Pape?",
+            "answer": "Yes, especially from top estates like Rayas, Beaucastel, and Bonneau."
+        },
+        {
+            "question": "What are the 'La Las'?",
+            "answer": "These are Guigal's single vineyard Côte Rôties: La Mouline, La Turque, and La Landonne. They are highly collectible."
+        },
+        {
+            "question": "Is Hermitage valuable?",
+            "answer": "Yes, Hermitage from producers like Chave and Jaboulet (especially older La Chapelle) is investment grade."
+        },
+        {
+            "question": "Do you buy white Rhone wine?",
+            "answer": "Yes, we buy top white Rhones like Chave Hermitage Blanc and Beaucastel Roussanne Vielles Vignes."
+        },
+        {
+            "question": "Do you buy Cornas?",
+            "answer": "Yes, we look for producers like Auguste Clape and Thierry Allemand."
+        },
+        {
+            "question": "How do aging labels affect value?",
+            "answer": "Clean, legible labels are best. Stained or torn labels can reduce the value, but the wine inside is the priority."
+        }
+    ],
+    "relatedLinks": [
+        {
+            "label": "Get an Offer",
+            "href": "/get-offer"
+        },
+        {
+            "label": "Sell Wine",
+            "href": "/sell/wine"
+        },
+        {
+            "label": "Sell Burgundy",
+            "href": "/sell/burgundy"
+        },
+        {
+            "label": "Sell Bordeaux",
+            "href": "/sell/bordeaux"
+        }
+    ]
+}

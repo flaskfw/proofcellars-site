@@ -1,0 +1,78 @@
+{
+    "slug": "salon",
+    "title": "Sell Salon Champagne",
+    "metaTitle": "Sell Salon Le Mesnil | Blanc de Blancs | Proof Cellars",
+    "metaDescription": "Sell your Salon Champagne. We buy all vintages of Salon Le Mesnil Blanc de Blancs. Direct offers for this rare Chardonnay.",
+    "heroHeadline": "Sell Salon Champagne",
+    "heroSubhead": "We buy Salon Le Mesnil Blanc de Blancs.",
+    "introParagraph": "Salon is one of the rarest Champagnes, produced from a single grape (Chardonnay), a single village (Le Mesnil-sur-Oger), and only in exceptional vintages (roughly 4 times a decade). We purchase every vintage of Salon produced. If you have a single bottle or a wooden case, we offer top market value.",
+    "categoryType": "champagne",
+    "whatWeBuy": [
+        "Salon Le Mesnil Blanc de Blancs (all vintages)",
+        "Salon Oenothèque Cases (e.g., 2008 Magnum edition)"
+    ],
+    "whatWeDoNotBuy": [
+        "Delamotte (sister house, unless part of collection)",
+        "Bottles with severe label damage"
+    ],
+    "photoChecklist": [
+        "Front label (Vintage)",
+        "Foil condition",
+        "Fill level",
+        "Back label"
+    ],
+    "conditionFactors": [
+        "Label condition (Green Salon labels can scuff)",
+        "Foil integrity",
+        "Fill level"
+    ],
+    "pricingFactors": [
+        "Vintage rarity (e.g., 2008 was only released in Magnums in the special box set)",
+        "Age (older vintages like 1996, 1982)",
+        "Provenance"
+    ],
+    "faqs": [
+        {
+            "question": "Why is Salon so expensive?",
+            "answer": "It is produced only in great years and held back for an average of 10 years before release. Production is tiny."
+        },
+        {
+            "question": "Do you buy the 2008 Magnum?",
+            "answer": "Yes, the 2008 was released uniquely only in magnums as part of a special case. It is extremely valuable."
+        },
+        {
+            "question": "Do you buy Delamotte?",
+            "answer": "We buy Delamotte if it is part of a larger cellar, but our primary focus is Salon."
+        },
+        {
+            "question": "Do you buy empty bottles?",
+            "answer": "No, we only buy full, sealed bottles."
+        },
+        {
+            "question": "Is 1996 a good year?",
+            "answer": "1996 is considered one of the greatest vintages for Salon due to high acidity and longevity."
+        },
+        {
+            "question": "How do I sell my case?",
+            "answer": "If you have a full wooden case (OWC), do not open it. Take photos of the case stamps and seals."
+        }
+    ],
+    "relatedLinks": [
+        {
+            "label": "Get an Offer",
+            "href": "/get-offer"
+        },
+        {
+            "label": "Sell Champagne",
+            "href": "/sell/champagne"
+        },
+        {
+            "label": "Sell Krug",
+            "href": "/sell/krug"
+        },
+        {
+            "label": "Sell Cristal",
+            "href": "/sell/cristal-champagne"
+        }
+    ]
+}

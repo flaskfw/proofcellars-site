@@ -1,0 +1,84 @@
+{
+    "slug": "krug",
+    "title": "Sell Krug Champagne",
+    "metaTitle": "Sell Krug Champagne | Vintage, Clos du Mesnil | Proof Cellars",
+    "metaDescription": "Sell your Krug Champagne. We buy Krug Grande Cuvée, Vintage, Rosé, Clos du Mesnil, and Clos d'Ambonnay. Direct offers.",
+    "heroHeadline": "Sell Krug Champagne",
+    "heroSubhead": "We buy Krug Vintage, Grande Cuvée, and Single Vineyard releases.",
+    "introParagraph": "Krug is unique among Champagne houses for its dedication to barrel fermentation and rich, complex style. We purchase the entire range: the multi-vintage Grande Cuvée (especially older editions), Krug Vintage, Krug Rosé, and the ultra-rare single vineyard bottlings Clos du Mesnil and Clos d'Ambonnay.",
+    "categoryType": "champagne",
+    "whatWeBuy": [
+        "Krug Vintage",
+        "Krug Grande Cuvée (Older 'Private Cuvee' or specific Editions)",
+        "Krug Rosé",
+        "Krug Clos du Mesnil (Blanc de Blancs)",
+        "Krug Clos d'Ambonnay (Blanc de Noirs)",
+        "Krug Collection (Late Disgorged)"
+    ],
+    "whatWeDoNotBuy": [
+        "Recent Grande Cuvée (unless part of collection)",
+        "Bottles with severe label damage",
+        "Heat damaged bottles"
+    ],
+    "photoChecklist": [
+        "Front label",
+        "Vintage",
+        "ID Code (on back label)",
+        "Foil condition",
+        "Fill level"
+    ],
+    "conditionFactors": [
+        "Foil condition",
+        "Label clarity",
+        "Fill level"
+    ],
+    "pricingFactors": [
+        "Single Vineyard (Clos d'Ambonnay is one of the world's most expensive Champagnes)",
+        "Vintage quality (1988, 1996, 2002, 2008)",
+        "Collection series (late disgorged)"
+    ],
+    "faqs": [
+        {
+            "question": "Is Krug Grande Cuvée valuable?",
+            "answer": "While it is a multi-vintage blend, older bottles (labeled Private Cuvée) or specific Editions hold value."
+        },
+        {
+            "question": "What is the Krug ID?",
+            "answer": "It is a code on the back label that tells you the disgorgement date and base vintage. This helps us value the bottle accurately."
+        },
+        {
+            "question": "What is Clos d'Ambonnay?",
+            "answer": "It is a tiny production Blanc de Noirs (100% Pinot Noir) from a small walled vineyard. It is extremely rare and valuable."
+        },
+        {
+            "question": "Do you buy Krug Collection?",
+            "answer": "Yes, these are late-disgorged vintage wines that have been kept in Krug's cellars. They command a premium."
+        },
+        {
+            "question": "How do I ship Champagne safely?",
+            "answer": "Champagne bottles are under pressure and heavy. Use our provided shipping kits with molded inserts for maximum safety."
+        },
+        {
+            "question": "Do you buy Krug Rosé?",
+            "answer": "Yes, we buy all bottlings of Krug Rosé."
+        }
+    ],
+    "relatedLinks": [
+        {
+            "label": "Get an Offer",
+            "href": "/get-offer"
+        },
+        {
+            "label": "Sell Champagne",
+            "href": "/sell/champagne"
+        },
+        {
+            "label": "Sell Dom Pérignon",
+            "href": "/sell/dom-perignon"
+        },
+        {
+            "label": "Sell Salon",
+            "href": "/sell/salon"
+        }
+    ]
+}

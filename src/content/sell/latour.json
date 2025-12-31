@@ -1,0 +1,84 @@
+{
+    "slug": "latour",
+    "title": "Sell Chateau Latour",
+    "metaTitle": "Sell Chateau Latour | Proof Cellars",
+    "metaDescription": "Sell your Chateau Latour. We buy Grand Vin, Les Forts de Latour, and Pauillac de Latour. Direct offers for First Growth Bordeaux.",
+    "heroHeadline": "Sell Chateau Latour",
+    "heroSubhead": "We buy Chateau Latour and Les Forts de Latour.",
+    "introParagraph": "Chateau Latour is known for its consistency and power. As a First Growth Bordeaux, it is a staple of any serious collection. We purchase the Grand Vin, the second wine Les Forts de Latour, and the third wine Pauillac de Latour. Sell your ex-chateau releases or aged cellar treasures directly.",
+    "categoryType": "wine",
+    "whatWeBuy": [
+        "Chateau Latour (Grand Vin)",
+        "Les Forts de Latour",
+        "Pauillac de Latour",
+        "Large formats"
+    ],
+    "whatWeDoNotBuy": [
+        "Empty bottles",
+        "Bottles with signs of heat damage (seepage)",
+        "Counterfeit suspect bottles (we check authenticity)"
+    ],
+    "photoChecklist": [
+        "Front label",
+        "Vintage",
+        "Capsule",
+        "Fill level",
+        "Proof tag (on newer releases)"
+    ],
+    "conditionFactors": [
+        "Fill level (Latour ages very slowly, good fills expected)",
+        "Label condition",
+        "Original Wood Case (OWC)",
+        "Proof tag validation (features since 2007ish)"
+    ],
+    "pricingFactors": [
+        "Vintage score (1961 is legendary)",
+        "Provenance",
+        "Ex-Chateau release (recent library releases command a premium)",
+        "Condition"
+    ],
+    "faqs": [
+        {
+            "question": "What is Les Forts de Latour?",
+            "answer": "It is the second wine of the estate. It is highly regarded and often outperforms other classified growths."
+        },
+        {
+            "question": "Do you buy recent releases?",
+            "answer": "Latour left the En Primeur system in 2012 and releases wines only when ready to drink. We buy these new releases."
+        },
+        {
+            "question": "Is the 1961 vintage valuable?",
+            "answer": "Yes, Latour 1961 is considered a perfect wine and is extremely valuable."
+        },
+        {
+            "question": "Do you buy Pauillac de Latour?",
+            "answer": "Yes, we buy the third wine of the estate as well."
+        },
+        {
+            "question": "How do I verify authenticity?",
+            "answer": "Newer bottles have a Prooftag seal on the capsule. Do not remove or damage this seal."
+        },
+        {
+            "question": "How do I ship wood cases?",
+            "answer": "Strap or tape the wood case securely, but place it inside a cardboard shipping box with padding. Do not ship the wood case naked."
+        }
+    ],
+    "relatedLinks": [
+        {
+            "label": "Get an Offer",
+            "href": "/get-offer"
+        },
+        {
+            "label": "Sell Bordeaux",
+            "href": "/sell/bordeaux"
+        },
+        {
+            "label": "Sell Lafite",
+            "href": "/sell/lafite-rothschild"
+        },
+        {
+            "label": "Sell Margaux",
+            "href": "/sell/margaux"
+        }
+    ]
+}

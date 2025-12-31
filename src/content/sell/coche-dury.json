@@ -1,0 +1,86 @@
+{
+    "slug": "coche-dury",
+    "title": "Sell Coche-Dury",
+    "metaTitle": "Sell Coche-Dury Wine | Corton-Charlemagne, Meursault | Proof Cellars",
+    "metaDescription": "Sell your Coche-Dury wines. We buy Corton-Charlemagne, Meursault Perrieres, and Rouge. Direct offers for rare White Burgundy.",
+    "heroHeadline": "Sell Coche-Dury",
+    "heroSubhead": "We buy Coche-Dury Corton-Charlemagne and Meursault.",
+    "introParagraph": "Jean-François Coche-Dury is a cult figure in Burgundy, producing white wines of extraordinary longevity and demand. We purchase the rare Corton-Charlemagne, the premier cru Meursault Perrières, and even the village-level Meursaults which often outperform Grand Crus from other estates.",
+    "categoryType": "wine",
+    "whatWeBuy": [
+        "Coche-Dury Corton-Charlemagne",
+        "Coche-Dury Meursault Perrières",
+        "Coche-Dury Meursault Genevrières",
+        "Coche-Dury Meursault Caillerets",
+        "Coche-Dury Meursault (Village)",
+        "Coche-Dury Puligny-Montrachet Enseigneres",
+        "Coche-Dury Rouge (Auxey-Duresses, Volnay)"
+    ],
+    "whatWeDoNotBuy": [
+        "Bourgogne Aligoté (unless part of larger lot)",
+        "Prematurely oxidized bottles (rare for Coche, but checked)",
+        "Signs of heat damage"
+    ],
+    "photoChecklist": [
+        "Front label",
+        "Vintage",
+        "Fill level",
+        "Capsule (Coche capsules are distinctive)",
+        "Bottle shape/glass color"
+    ],
+    "conditionFactors": [
+        "Fill level",
+        "Label condition",
+        "Capsule integrity",
+        "Color (Golden color is normal for old Coche, but brown suggests oxidation)"
+    ],
+    "pricingFactors": [
+        "Vineyard (Corton-Charlemagne is the top)",
+        "Vintage quality",
+        "Scarcity (Perrières is extremely rare)"
+    ],
+    "faqs": [
+        {
+            "question": "Is Coche-Dury Meursault valuable?",
+            "answer": "Yes, even the 'Village' Meursault from Coche-Dury is more valuable than most Grand Crus from other producers."
+        },
+        {
+            "question": "Do you buy Coche-Dury Rouge?",
+            "answer": "Yes, while famous for whites, his reds from Volnay and Auxey-Duresses are also collectible."
+        },
+        {
+            "question": "Do you buy the Aligoté?",
+            "answer": "We buy the Aligoté if it is part of a larger collection of Coche wines."
+        },
+        {
+            "question": "Is premox an issue?",
+            "answer": "Coche-Dury is famously resistant to premature oxidation, making older vintages highly reliable and valuable."
+        },
+        {
+            "question": "Do you buy Roulot or Lafon?",
+            "answer": "Yes, we also buy wines from Domaine Roulot and Comtes Lafon."
+        },
+        {
+            "question": "How do I sell my cellar?",
+            "answer": "Send us a list using our 'Get an Offer' page or simply email us photos."
+        }
+    ],
+    "relatedLinks": [
+        {
+            "label": "Get an Offer",
+            "href": "/get-offer"
+        },
+        {
+            "label": "Sell Burgundy",
+            "href": "/sell/burgundy"
+        },
+        {
+            "label": "Sell DRC",
+            "href": "/sell/domaine-de-la-romanee-conti"
+        },
+        {
+            "label": "Sell Leroy",
+            "href": "/sell/leroy"
+        }
+    ]
+}

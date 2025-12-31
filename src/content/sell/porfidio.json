@@ -1,0 +1,83 @@
+{
+    "slug": "porfidio",
+    "title": "Sell Porfidio Tequila",
+    "metaTitle": "Sell Porfidio Tequila | Cactus Bottle | Proof Cellars",
+    "metaDescription": "Sell your vintage Porfidio Tequila. We buy older 'cactus' bottles, Barrique de Ponciano, and Single Barrel. Direct offers.",
+    "heroHeadline": "Sell Porfidio Tequila",
+    "heroSubhead": "We buy vintage Porfidio 'Cactus' bottles.",
+    "introParagraph": "Porfidio is famous for its hand-blown glass cactus inside the bottle. In the 1990s, it was the ultimate luxury tequila. We purchase vintage Porfidio bottles, especially the Extra Añejo and the Barrique de Ponciano. If you have older Porfidio releases, we offer a direct market for these collectibles.",
+    "categoryType": "spirits",
+    "whatWeBuy": [
+        "Porfidio Extra Añejo (Cactus Bottle)",
+        "Porfidio Barrique de Ponciano",
+        "Porfidio Single Barrel",
+        "Porfidio Plata (older releases)",
+        "Porfidio Reposado (older releases)"
+    ],
+    "whatWeDoNotBuy": [
+        "Recent 'P' by Porfidio releases (unless limited)",
+        "Broken inner cactus (rare, but happens)",
+        "Leaking bottles"
+    ],
+    "photoChecklist": [
+        "Front label",
+        "Inner Cactus condition",
+        "Seal condition (wax or synthetic)",
+        "Fill level",
+        "Bottom of bottle markings"
+    ],
+    "conditionFactors": [
+        "Seal integrity",
+        "Fill level",
+        "Label condition"
+    ],
+    "pricingFactors": [
+        "Vintage era (90s pre-NOM change bottles are most valuable)",
+        "Bottle type (Barrique is rare)",
+        "NOM number (identifies the distillery, affects value)"
+    ],
+    "faqs": [
+        {
+            "question": "Do you buy the cactus bottle?",
+            "answer": "Yes, the distinctive cactus bottle is the main collectible we look for."
+        },
+        {
+            "question": "What is Barrique de Ponciano?",
+            "answer": "It is a rare Extra Añejo release from Porfidio that is highly sought after."
+        },
+        {
+            "question": "Does the NOM matter?",
+            "answer": "Yes, Porfidio moved production between several distilleries. The NOM number on the bottle helps us date and value it."
+        },
+        {
+            "question": "Do you buy Rumble?",
+            "answer": "We generally do not buy the Rumble spirit, focusing on the Tequila releases."
+        },
+        {
+            "question": "How do I ship glass bottles?",
+            "answer": "Wrap heavily in bubble wrap. The inner glass sculpture makes the bottle slightly more fragile."
+        },
+        {
+            "question": "Is Porfidio still made?",
+            "answer": "Yes, but the vintage bottles from the 1990s are the ones that hold significant collector value."
+        }
+    ],
+    "relatedLinks": [
+        {
+            "label": "Get an Offer",
+            "href": "/get-offer"
+        },
+        {
+            "label": "Sell Tequila",
+            "href": "/sell/tequila-extra-anejo"
+        },
+        {
+            "label": "Sell Chinaco",
+            "href": "/sell/chinaco"
+        },
+        {
+            "label": "Sell Clase Azul",
+            "href": "/sell/clase-azul-limited"
+        }
+    ]
+}
