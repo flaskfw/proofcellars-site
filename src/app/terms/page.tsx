@@ -215,11 +215,15 @@ export default function TermsPage() {
               </li>
               <li className="flex items-start gap-3">
                 <span className="text-accent font-medium flex-shrink-0">-</span>
-                <span className="text-secondary">Google Analytics for website analytics</span>
+                <span className="text-secondary">Vercel for website hosting</span>
               </li>
               <li className="flex items-start gap-3">
                 <span className="text-accent font-medium flex-shrink-0">-</span>
-                <span className="text-secondary">Cloudflare for website hosting and security</span>
+                <span className="text-secondary">Cloudflare for domain, email and DNS services</span>
+              </li>
+              <li className="flex items-start gap-3">
+                <span className="text-accent font-medium flex-shrink-0">-</span>
+                <span className="text-secondary">Google for analytics, email, and data storage services</span>
               </li>
             </ul>
             <p className="text-secondary leading-relaxed mt-4">
