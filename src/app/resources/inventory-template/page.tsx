@@ -2,6 +2,7 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 import CTAButton from '@/components/CTAButton';
 import TrackedLink from '@/components/TrackedLink';
+import CopyToClipboardButton from '@/components/CopyToClipboardButton';
 import { AnalyticsEvents } from '@/lib/analytics';
 
 export const metadata: Metadata = {
@@ -62,6 +63,12 @@ Scotch,Macallan,18 Year Sherry Oak,NV,750,2,One with minor label scuff,Original 
 Wine,Chateau Margaux,Premier Grand Cru Classe,2010,750,6,OWC,Original wood case,Wine cellar,Yes
 Wine,Domaine de la Romanee-Conti,Romanee-Conti,2015,750,1,Perfect condition,None,Wine fridge,Yes
 Bourbon,Blanton's,Single Barrel,NV,750,3,All sealed,None,Home bar,No`;
+
+const simpleListTemplate = `Pappy Van Winkle 15 Year - 1 bottle, tube
+Macallan 18 - 2 bottles, boxes
+2010 Chateau Margaux - 6 bottles, OWC
+2015 DRC Romanee-Conti - 1 bottle
+Blanton's - 3 bottles`;
 
 export default function InventoryTemplatePage() {
   return (
@@ -139,6 +146,30 @@ export default function InventoryTemplatePage() {
             </ul>
           </section>
 
+          {/* How to Create Your Inventory */}
+          <section className="mb-12">
+            <h2 className="text-2xl font-semibold text-primary mb-4">
+              How to Create Your Inventory
+            </h2>
+            <ol className="space-y-3 list-decimal list-inside">
+              <li className="text-secondary">
+                <span className="font-medium text-primary">Set up your columns</span> - Create columns for category, producer or brand, product name, vintage or age, size, quantity, notes, packaging, location, and photos available.
+              </li>
+              <li className="text-secondary">
+                <span className="font-medium text-primary">List each bottle or case</span> - Go through your collection and add one row per unique item. Group identical bottles together and note the quantity.
+              </li>
+              <li className="text-secondary">
+                <span className="font-medium text-primary">Note condition and packaging</span> - For each item, note any condition issues and whether you have original packaging like wood cases, boxes, or tubes.
+              </li>
+              <li className="text-secondary">
+                <span className="font-medium text-primary">Indicate photo availability</span> - Mark which items you have photographed or can photograph. Photos help us provide accurate quotes.
+              </li>
+              <li className="text-secondary">
+                <span className="font-medium text-primary">Submit your inventory</span> - Send your inventory via our form or as a text message. A screenshot or copy-paste works fine.
+              </li>
+            </ol>
+          </section>
+
           {/* Content */}
           <div className="prose prose-lg max-w-none space-y-12">
             {/* Columns */}
@@ -172,6 +203,9 @@ export default function InventoryTemplatePage() {
                   </li>
                 ))}
               </ul>
+              <p className="mt-4 text-sm text-secondary">
+                Common spirits sizes include 750 ml, 700 ml, and 1 liter.
+              </p>
             </section>
 
             {/* CSV Template */}
@@ -184,8 +218,31 @@ export default function InventoryTemplatePage() {
                 needed for your collection.
               </p>
               <pre className="p-4 bg-surface rounded-lg border border-border text-xs text-secondary overflow-x-auto whitespace-pre">
-{csvTemplate}
+                {csvTemplate}
               </pre>
+              <div className="mt-4 flex flex-wrap gap-3">
+                <CopyToClipboardButton text={csvTemplate} label="Copy CSV Template" />
+                <a
+                  href="/resources/proofcellars_inventory_template.csv"
+                  download
+                  className="inline-flex items-center gap-2 rounded-md border border-border px-4 py-2 text-sm text-secondary hover:border-accent hover:text-accent transition-colors"
+                >
+                  <svg
+                    className="h-4 w-4"
+                    fill="none"
+                    viewBox="0 0 24 24"
+                    strokeWidth="2"
+                    stroke="currentColor"
+                  >
+                    <path
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
+                      d="M3 16.5v2.25A2.25 2.25 0 005.25 21h13.5A2.25 2.25 0 0021 18.75V16.5M16.5 12L12 16.5m0 0L7.5 12m4.5 4.5V3"
+                    />
+                  </svg>
+                  Download CSV template
+                </a>
+              </div>
               <p className="mt-4 text-sm text-secondary">
                 You can also export from cellar management software like
                 CellarTracker, Vivino, or InVintory.
@@ -236,12 +293,11 @@ export default function InventoryTemplatePage() {
                 works fine:
               </p>
               <pre className="p-4 bg-surface rounded-lg border border-border text-sm text-secondary overflow-x-auto">
-{`Pappy Van Winkle 15 Year - 1 bottle, tube
-Macallan 18 - 2 bottles, boxes
-2010 Chateau Margaux - 6 bottles, OWC
-2015 DRC Romanee-Conti - 1 bottle
-Blanton's - 3 bottles`}
+                {simpleListTemplate}
               </pre>
+              <div className="mt-4">
+                <CopyToClipboardButton text={simpleListTemplate} label="Copy Simple List" />
+              </div>
             </section>
 
             {/* Tips */}
