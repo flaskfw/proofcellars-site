@@ -12,10 +12,21 @@ export default function Header() {
       <nav className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <div className="flex h-16 items-center justify-between">
           {/* Logo */}
-          <div className="flex-shrink-0">
+          <div className="flex-shrink-0 flex items-center gap-3">
             <Link href="/" className="text-xl font-semibold text-primary">
               Proof Cellars
             </Link>
+            <div className="hidden border-l border-gray-300 pl-3 md:block">
+              <span className="text-xs text-secondary block max-w-[200px] leading-tight">
+                Direct buyer of collectible wine and spirits.
+              </span>
+            </div>
+            {/* Mobile Tagline */}
+            <div className="md:hidden">
+              <span className="text-[10px] text-secondary block leading-snug">
+                Direct buyer<br /> of collectible wine & spirits.
+              </span>
+            </div>
           </div>
 
           {/* Desktop Navigation */}

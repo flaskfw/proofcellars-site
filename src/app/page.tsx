@@ -6,6 +6,12 @@ import PhotoChecklist from '@/components/PhotoChecklist';
 import FAQItem from '@/components/FAQItem';
 import { getFirstNFAQs } from '@/lib/getFAQData';
 import { AnalyticsEvents } from '@/lib/analytics';
+import type { Metadata } from 'next';
+
+export const metadata: Metadata = {
+  description:
+    'Direct buyer of collectible wine and spirits. Sell Bourbon, Scotch, and Fine Wine. No fees. Just text us photos and get an offer.',
+};
 
 export default function Home() {
   const previewFaqs = getFirstNFAQs(6);
@@ -34,10 +40,10 @@ export default function Home() {
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
           <div className="max-w-3xl">
             <h1 className="text-4xl md:text-5xl font-semibold tracking-tight text-primary">
-              We buy collectible wine and spirits directly.
+              Direct buyer of collectible wine and spirits.
             </h1>
             <p className="mt-6 text-lg text-secondary">
-              Bourbon, scotch, and fine wine. No consignment. No auctions. Just a direct offer.
+              Sell Bourbon, Scotch, and Fine Wine. No consignment. No auctions. Just a direct offer.
             </p>
             <div className="mt-8 flex flex-col sm:flex-row gap-4">
               <CTAButton

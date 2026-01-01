@@ -52,6 +52,25 @@ export default async function SellPage({ params }: PageProps) {
   const breadcrumbSchema = generateBreadcrumbSchema(data.title, slug);
   const faqSchema = generateFAQSchemaFromPage(data.faqs);
 
+  const serviceSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: `${data.title} - Direct Buying Service`,
+    description:
+      'Direct buyer of collectible wine and spirits. Sell Bourbon, Scotch, and Fine Wine. No fees. Just text us photos and get an offer.',
+    provider: {
+      '@type': 'Organization',
+      name: 'Proof Cellars',
+    },
+    serviceType: 'Acquisition and Appraisal',
+    areaServed: 'US',
+    isSimilarTo: {
+      '@type': 'Service',
+      name: 'Collectible Wine & Spirits Purchasing',
+      url: 'https://proofcellars.com/sell',
+    },
+  };
+
   return (
     <>
       <script
@@ -61,6 +80,10 @@ export default async function SellPage({ params }: PageProps) {
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(serviceSchema) }}
       />
 
       {/* Breadcrumb */}

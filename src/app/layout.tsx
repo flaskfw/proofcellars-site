@@ -4,6 +4,7 @@ import Script from "next/script";
 import "./globals.css";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
+import StickyMobileOffer from "@/components/StickyMobileOffer";
 
 const inter = Inter({
   variable: "--font-inter",
@@ -19,12 +20,12 @@ export const metadata: Metadata = {
     template: "%s | Proof Cellars",
   },
   description:
-    "Sell your bourbon, scotch, and fine wine directly. No consignment, no auctions. Get a direct offer from Proof Cellars.",
+    "Direct buyer of collectible wine and spirits. Sell your bourbon, scotch, and fine wine directly. No consignment, no auctions. Get a direct offer from Proof Cellars.",
   metadataBase: new URL("https://proofcellars.com"),
   openGraph: {
     title: "Proof Cellars | We Buy Collectible Wine and Spirits",
     description:
-      "Sell your bourbon, scotch, and fine wine directly. No consignment, no auctions. Get a direct offer from Proof Cellars.",
+      "Direct buyer of collectible wine and spirits. Sell your bourbon, scotch, and fine wine directly. No consignment, no auctions. Get a direct offer from Proof Cellars.",
     url: "https://proofcellars.com",
     siteName: "Proof Cellars",
     images: [
@@ -42,7 +43,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Proof Cellars | We Buy Collectible Wine and Spirits",
     description:
-      "Sell your bourbon, scotch, and fine wine directly. No consignment, no auctions. Get a direct offer from Proof Cellars.",
+      "Direct buyer of collectible wine and spirits. Sell your bourbon, scotch, and fine wine directly. No consignment, no auctions. Get a direct offer from Proof Cellars.",
     images: ["/og-image.png"],
   },
   robots: {
@@ -72,10 +73,11 @@ export default function RootLayout({
           `}
         </Script>
       </head>
-      <body className={`${inter.variable} antialiased min-h-screen flex flex-col`}>
+      <body className={`${inter.variable} antialiased min-h-screen flex flex-col pb-20 md:pb-0`}>
         <Header />
         <main className="flex-grow">{children}</main>
         <Footer />
+        <StickyMobileOffer />
       </body>
     </html>
   );

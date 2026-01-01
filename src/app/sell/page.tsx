@@ -46,8 +46,26 @@ export default function SellIndexPage() {
   const allPages = getAllSellPages();
   const { bourbonPages, scotchPages, winePages, japanesePages } = groupPagesByCategory(allPages);
 
+  const serviceSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: 'Collectible Wine & Spirits Purchasing',
+    description:
+      'Direct buyer of collectible wine and spirits. Sell Bourbon, Scotch, and Fine Wine. No fees. Just text us photos and get an offer.',
+    provider: {
+      '@type': 'Organization',
+      name: 'Proof Cellars',
+    },
+    serviceType: 'Acquisition and Appraisal',
+    areaServed: 'US',
+  };
+
   return (
     <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(serviceSchema) }}
+      />
       {/* Hero Section */}
       <section className="bg-surface py-16 md:py-24">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">

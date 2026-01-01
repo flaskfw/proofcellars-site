@@ -14,7 +14,7 @@ export default function Footer() {
               Proof Cellars
             </Link>
             <p className="mt-4 text-sm text-secondary max-w-md">
-              We buy collectible wine and spirits directly. No consignment, no auctions - just a direct offer.
+              Direct buyer of collectible wine and spirits. No fees.
             </p>
           </div>
 
