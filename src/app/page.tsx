@@ -2,6 +2,7 @@ import Link from 'next/link';
 import CTAButton from '@/components/CTAButton';
 import TrackedLink from '@/components/TrackedLink';
 import ProcessSteps from '@/components/ProcessSteps';
+import PaymentMethods from '@/components/PaymentMethods';
 import PhotoChecklist from '@/components/PhotoChecklist';
 import FAQItem from '@/components/FAQItem';
 import { getFirstNFAQs } from '@/lib/getFAQData';
@@ -73,6 +74,7 @@ export default function Home() {
             How It Works
           </h2>
           <ProcessSteps />
+          <PaymentMethods />
         </div>
       </section>
 

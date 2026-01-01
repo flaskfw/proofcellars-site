@@ -10,6 +10,7 @@ import {
   generateFAQSchemaFromPage,
 } from '@/lib/getSellPageData';
 import { AnalyticsEvents } from '@/lib/analytics';
+import { BRAND_OVERRIDES } from '@/lib/brand-overrides';
 
 interface PageProps {
   params: Promise<{ slug: string }>;
@@ -48,6 +49,10 @@ export default async function SellPage({ params }: PageProps) {
   if (!data) {
     notFound();
   }
+
+  const overrides = BRAND_OVERRIDES[slug];
+  const conditionFactors = overrides?.condition_factors || data.conditionFactors;
+  const authenticityTips = overrides?.authenticity_tips;
 
   const breadcrumbSchema = generateBreadcrumbSchema(data.title, slug);
   const faqSchema = generateFAQSchemaFromPage(data.faqs);
@@ -249,7 +254,7 @@ export default async function SellPage({ params }: PageProps) {
               Condition Factors
             </h2>
             <ul className="space-y-3">
-              {data.conditionFactors.map((item) => (
+              {conditionFactors.map((item) => (
                 <li key={item} className="flex items-start gap-3">
                   <span className="text-accent font-medium flex-shrink-0">-</span>
                   <span className="text-secondary">{item}</span>
@@ -258,7 +263,44 @@ export default async function SellPage({ params }: PageProps) {
             </ul>
           </div>
         </div>
+
+
       </section>
+
+      {/* Authenticity Tips (Conditional) */}
+      {
+        authenticityTips && authenticityTips.length > 0 && (
+          <section className="py-16 md:py-24 border-b border-border">
+            <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+              <div className="max-w-3xl">
+                <h2 className="text-2xl md:text-3xl font-semibold text-primary mb-6">
+                  Authenticity & Inspection
+                </h2>
+                <ul className="space-y-3">
+                  {authenticityTips.map((item) => (
+                    <li key={item} className="flex items-start gap-3">
+                      <svg
+                        className="h-5 w-5 text-accent flex-shrink-0 mt-0.5"
+                        fill="none"
+                        viewBox="0 0 24 24"
+                        strokeWidth="2"
+                        stroke="currentColor"
+                      >
+                        <path
+                          strokeLinecap="round"
+                          strokeLinejoin="round"
+                          d="M9 12.75L11.25 15 15 9.75M21 12a9 9 0 11-18 0 9 9 0 0118 0Z"
+                        />
+                      </svg>
+                      <span className="text-secondary">{item}</span>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            </div>
+          </section>
+        )
+      }
 
       {/* Pricing Factors */}
       <section className="py-16 md:py-24">
