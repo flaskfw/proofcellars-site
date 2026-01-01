@@ -23,7 +23,9 @@ function groupPagesByCategory(pages: SellPageConfig[]) {
   const scotchPages = pages.filter((p) => p.categoryType === 'scotch');
   const winePages = pages.filter((p) => p.categoryType === 'wine' || p.categoryType === 'champagne');
 
-  return { bourbonPages, scotchPages, winePages };
+  const japanesePages = pages.filter((p) => p.categoryType === 'japanese-whisky');
+
+  return { bourbonPages, scotchPages, winePages, japanesePages };
 }
 
 function PageCard({ page }: { page: SellPageConfig }) {
@@ -42,7 +44,7 @@ function PageCard({ page }: { page: SellPageConfig }) {
 
 export default function SellIndexPage() {
   const allPages = getAllSellPages();
-  const { bourbonPages, scotchPages, winePages } = groupPagesByCategory(allPages);
+  const { bourbonPages, scotchPages, winePages, japanesePages } = groupPagesByCategory(allPages);
 
   return (
     <>
@@ -98,13 +100,30 @@ export default function SellIndexPage() {
       <section className="bg-surface py-16 md:py-24">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
           <h2 className="text-2xl md:text-3xl font-semibold text-primary mb-4">
-            Scotch and Japanese Whisky
+            Scotch Whisky
           </h2>
           <p className="text-secondary mb-8 max-w-3xl">
-            We buy rare single malts, limited editions, and aged expressions from distilleries including Macallan, Springbank, Ardbeg, and Lagavulin. We also purchase collectible Japanese whisky from Yamazaki, Hibiki, and other producers.
+            We buy rare single malts, limited editions, and aged expressions from distilleries including Macallan, Springbank, Ardbeg, and Lagavulin.
           </p>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
             {scotchPages.map((page) => (
+              <PageCard key={page.slug} page={page} />
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* Japanese Whisky Section */}
+      <section className="py-16 md:py-24">
+        <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+          <h2 className="text-2xl md:text-3xl font-semibold text-primary mb-4">
+            Japanese Whisky
+          </h2>
+          <p className="text-secondary mb-8 max-w-3xl">
+            We purchase collectible Japanese whisky from Yamazaki, Hibiki, Hakushu, Karuizawa, and other legendary producers.
+          </p>
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+            {japanesePages.map((page) => (
               <PageCard key={page.slug} page={page} />
             ))}
           </div>

@@ -1,0 +1,115 @@
+{
+    "slug": "authorization-checklist-household-staff",
+    "title": "Authorization Checklist for House Managers and Staff",
+    "metaTitle": "House Manager Guide: Selling Wine and Spirits | Proof Cellars",
+    "metaDescription": "A checklist for House Managers, PAs, and Estate Staff to authorize, document, and sell wine collections for their principals.",
+    "category": "scenario",
+    "publishedDate": "2024-03-20",
+    "summary": "A checklist to confirm approval, documentation, and privacy before submitting bottles for sale.",
+    "tableOfContents": [
+        "Quick Answer",
+        "Verification Checklist",
+        "Privacy Protocols",
+        "Common Mistakes",
+        "What to Do Next"
+    ],
+    "sections": [
+        {
+            "heading": "Quick Answer",
+            "content": [
+                "House Managers (`HMs`) and Personal Assistants (`PAs`) often handle sales for High Net Worth individuals. We are accustomed to this workflow."
+            ],
+            "list": [
+                "You can initiate the quote process.",
+                "You will need written authorization to finalize the sale.",
+                "Payments are issued to the Principal unless a legal directive says otherwise.",
+                "Privacy is our default setting."
+            ]
+        },
+        {
+            "heading": "Verification Checklist",
+            "content": [
+                "Before you schedule a pickup, ensure you have these internal approvals to protect yourself and the Principal."
+            ],
+            "list": [
+                "Asset List: Approved list of exactly which bottles go and which stay.",
+                "Written Approval: Email or text from Principal authorizing the sale (keep for your records).",
+                "Bank Details: Correct wiring instructions for the account where funds should land."
+            ]
+        },
+        {
+            "heading": "Privacy Protocols",
+            "content": [
+                "We understand the need for discretion."
+            ],
+            "list": [
+                "NDAs: We can sign your Principal's standard NDA if required.",
+                "Unmarked Vehicles: Pickups can be arranged with discreet vehicles.",
+                "Data Security: Client names are stored securely and never shared for marketing."
+            ]
+        },
+        {
+            "heading": "Common Mistakes",
+            "content": [
+                "Avoid friction in the process."
+            ],
+            "list": [
+                "Selling items the Principal 'might' want later (always double check the list).",
+                "Mixing personal bottles with the Principal's collection.",
+                "Not knowing if the cellar was temperature controlled (find the records)."
+            ]
+        },
+        {
+            "heading": "What to Do Next",
+            "content": [
+                "Start the process seamlessly."
+            ],
+            "list": [
+                "Use our Inventory Template to list the assets.",
+                "Upload photos via our secure portal.",
+                "Mention 'Representation' in your notes so we know you are staff.",
+                "We will provide a formal quote for you to present to the Principal."
+            ]
+        }
+    ],
+    "faqs": [
+        {
+            "question": "Can I sign the Bill of Sale?",
+            "answer": "Yes, if you have Power of Attorney (POA) or specific written authorization. Otherwise, the Principal must sign digitally."
+        },
+        {
+            "question": "Do you pay commissions to staff?",
+            "answer": "No. We pay the seller (owner) the full amount. Any staff compensation is between you and your employer."
+        },
+        {
+            "question": "Can we remove the wine today?",
+            "answer": "We need to agree on a price and verify items first. Expedited service is available for established clients."
+        },
+        {
+            "question": "Do you handle insurance?",
+            "answer": "Yes, our shipping labels include insurance coverage once the carrier scans the packages."
+        },
+        {
+            "question": "What if asking the Principal is difficult?",
+            "answer": "We can provide a 'preliminary value' estimated range so you can present a compelling case (e.g., 'This clutter is worth $10,000') to get approval."
+        }
+    ],
+    "relatedLinks": [
+        {
+            "label": "Get an Offer",
+            "href": "/get-offer"
+        },
+        {
+            "label": "Privacy Playbook",
+            "href": "/guides/privacy-playbook-for-high-profile-clients"
+        },
+        {
+            "label": "Inventory Template",
+            "href": "/resources/inventory-template"
+        },
+        {
+            "label": "Photos for Quote",
+            "href": "/resources/photos-for-quote"
+        }
+    ]
+}

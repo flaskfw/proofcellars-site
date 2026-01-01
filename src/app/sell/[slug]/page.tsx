@@ -132,8 +132,11 @@ export default async function SellPage({ params }: PageProps) {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-12">
             <div>
               <h2 className="text-2xl md:text-3xl font-semibold text-primary mb-6">
-                What We Buy
+                What We Buy (Examples)
               </h2>
+              <p className="text-base text-secondary mb-4">
+                These are examples, not a full list. If you have anything else from this producer, including older bottles and odd releases, submit it and we will review it.
+              </p>
               <ul className="space-y-3">
                 {data.whatWeBuy.map((item) => (
                   <li key={item} className="flex items-start gap-3">
@@ -319,6 +322,9 @@ export default async function SellPage({ params }: PageProps) {
           </h2>
           <p className="mt-4 text-lg text-secondary">
             Get a direct offer with no consignment fees.
+          </p>
+          <p className="mt-2 text-base text-secondary">
+            Not sure what you have or do not see it listed? Submit it through the form, or text photos to 213-770-9463.
           </p>
           <div className="mt-8 flex flex-col sm:flex-row gap-4 justify-center items-center">
             <CTAButton

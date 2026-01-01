@@ -22,7 +22,7 @@ export interface SellPageConfig {
   heroHeadline: string;
   heroSubhead: string;
   introParagraph: string;
-  categoryType: 'bourbon' | 'scotch' | 'wine' | 'champagne' | 'cognac' | 'spirits';
+  categoryType: 'bourbon' | 'scotch' | 'wine' | 'champagne' | 'cognac' | 'spirits' | 'japanese-whisky';
   whatWeBuy: string[];
   whatWeDoNotBuy: string[];
   photoChecklist: string[];

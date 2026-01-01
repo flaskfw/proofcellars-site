@@ -1,0 +1,98 @@
+{
+    "slug": "blackadder",
+    "title": "Sell Blackadder Whisky",
+    "metaTitle": "Sell Blackadder Whisky | Raw Cask & Snake Label | Proof Cellars",
+    "metaDescription": "Sell your Blackadder whisky. We buy the Raw Cask series (with barrel sediment) and legendary snake label releases.",
+    "heroHeadline": "Sell Your Blackadder Whisky",
+    "heroSubhead": "Direct buyer for Blackadder Raw Cask and Chimera.",
+    "introParagraph": "Blackadder Raw Cask is famous for bottling whisky 'straight from the cask'\u2014complete with charcoal and barrel sediment floating in the bottle. This authenticity makes them a cult favorite.",
+    "categoryType": "scotch",
+    "whatWeBuy": [
+        "Blackadder Raw Cask (All Distilleries)",
+        "Blackadder Smoking Islay",
+        "Blackadder Chimera",
+        "Blackadder Drop of the Irish",
+        "Blackadder Red Snake / Black Snake",
+        "Blackadder Blairfindy"
+    ],
+    "whatWeDoNotBuy": [
+        "Open bottles",
+        "Empty bottles",
+        "Leaking bottles (common with Raw Cask)"
+    ],
+    "photoChecklist": [
+        "Front label showing Series ('Raw Cask')",
+        "Close up of sediment (to prove it's Raw Cask)",
+        "Box condition",
+        "Fill level",
+        "Seal condition"
+    ],
+    "conditionFactors": [
+        "Sediment: 'Charcoal' in the bottle is a FEATURE of Raw Cask, not a defect. Do not shake it.",
+        "Cork: Raw Cask bottles are notoriously filled to the brim. Leaks are common in shipping. Pack upright.",
+        "Label: Simple paper labels.",
+        "Box: Standard cardboard."
+    ],
+    "pricingFactors": [
+        "Distillery: Islay Raw Casks (Laphroaig, Bowmore) are top tier.",
+        "ABV: Often extreme (60%+), which collectors love.",
+        "Amrut: Blackadder often bottles Amrut (Indian Whisky); we buy these too.",
+        "Series: 'The Old Man of Hoy' and other rare labels."
+    ],
+    "faqs": [
+        {
+            "question": "Why is there dirt in my bottle?",
+            "answer": "That is 'cask sediment' (charcoal). Blackadder Raw Cask filters only through a coarse sieve. It is safe to drink."
+        },
+        {
+            "question": "Do you buy Red Snake?",
+            "answer": "Yes, Red Snake and Black Snake are solera vatting series. We buy them."
+        },
+        {
+            "question": "What is Blairfindy?",
+            "answer": "It is usually Glenfarclas teaspooned or undisclosed family cask stock. Very good sherry whisky."
+        },
+        {
+            "question": "Do you buy 'Peat Reek'?",
+            "answer": "Yes, Blackadder Peat Reek is a staple purchase."
+        },
+        {
+            "question": "Is Drop of the Irish valuable?",
+            "answer": "Yes, Irish single casks are hot right now."
+        },
+        {
+            "question": "How do I ship a Raw Cask?",
+            "answer": "Wrap the neck tightly with electrical tape (over the capsule) to prevent the cork from popping, and ship upright if possible."
+        }
+    ],
+    "relatedLinks": [
+        {
+            "label": "Get an Offer",
+            "href": "/get-offer"
+        },
+        {
+            "label": "Photos for Quote",
+            "href": "/resources/photos-for-quote"
+        },
+        {
+            "label": "How Pricing Works",
+            "href": "/resources/how-pricing-works"
+        },
+        {
+            "label": "Sell Scotch",
+            "href": "/sell/scotch"
+        },
+        {
+            "label": "Sell Macallan",
+            "href": "/sell/macallan"
+        },
+        {
+            "label": "Sell Springbank",
+            "href": "/sell/springbank"
+        },
+        {
+            "label": "Sell Ardbeg",
+            "href": "/sell/ardbeg"
+        }
+    ]
+}

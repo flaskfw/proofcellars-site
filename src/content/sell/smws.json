@@ -1,0 +1,100 @@
+{
+    "slug": "smws",
+    "title": "Sell Scotch Malt Whisky Society (SMWS)",
+    "metaTitle": "Sell SMWS Whisky | The Scotch Malt Whisky Society | Proof Cellars",
+    "metaDescription": "Sell your SMWS bottles. We buy rare Scotch Malt Whisky Society codes including 29 (Laphroaig), 33 (Ardbeg), and 24 (Macallan).",
+    "heroHeadline": "Sell Your SMWS Whisky",
+    "heroSubhead": "Direct buyer for SMWS Rare Releases and Vaults Collection.",
+    "introParagraph": "The Scotch Malt Whisky Society bottles single casks identified by numeric codes (e.g., 29.123). We decipher the codes and pay top dollar for the most desirable distilleries.",
+    "categoryType": "scotch",
+    "whatWeBuy": [
+        "SMWS 24 (Macallan)",
+        "SMWS 29 (Laphroaig)",
+        "SMWS 33 (Ardbeg)",
+        "SMWS 27 (Springbank)",
+        "SMWS 1 (Glenfarclas)",
+        "SMWS Vaults Collection",
+        "SMWS Rare Release (Black/Gold Label)"
+    ],
+    "whatWeDoNotBuy": [
+        "SMWS Standard Green Bottles (Low value distilleries) - unless bulk",
+        "Open bottles",
+        "Membership kits",
+        "Empty bottles"
+    ],
+    "photoChecklist": [
+        "Front label clearly showing the CODE (e.g. 29.200)",
+        "Color bar (Flavor profile)",
+        "Fill level",
+        "Seal condition",
+        "Box/Tube (if applicable)"
+    ],
+    "conditionFactors": [
+        "Code Visibility: The number is everything. 33.xxx is Ardbeg (Gold). 4.xxx is Highland Park (Silver).",
+        "Label: Check for staining.",
+        "Fill: Older SMWS bottles (dumpy style) can have cork issues.",
+        "Box: Most SMWS bottles don't have boxes, but premium ones do."
+    ],
+    "pricingFactors": [
+        "Distillery Code: We pay premiums for codes 24, 27, 29, 33, 53 (Caol Ila), 119 (Yamazaki), 132 (Karuizawa).",
+        "ABV: Cask strength is standard.",
+        "Age: 25+ year old bottles in the Vaults Collection are top tier.",
+        "Era: 1990s bottlings (standard typography) are collectible."
+    ],
+    "faqs": [
+        {
+            "question": "How do I know what distillery it is?",
+            "answer": "Google the code (e.g., 'SMWS 29') or send us a photo. 29 is Laphroaig, 33 is Ardbeg."
+        },
+        {
+            "question": "Do you buy the green bottles?",
+            "answer": "Yes, but value depends heavily on the code."
+        },
+        {
+            "question": "Do you buy membership allocations?",
+            "answer": "Yes, looking to offload your monthly outturn? We buy lots."
+        },
+        {
+            "question": "What is the Vaults Collection?",
+            "answer": "The premium range (black/gold boxes) usually high age or rare intensity."
+        },
+        {
+            "question": "Do you buy SMWS Rum/Gin?",
+            "answer": "Yes, specifically Rum (R codes) and Cognac (C codes)."
+        },
+        {
+            "question": "Do you buy Japanese SMWS?",
+            "answer": "YES. Codes 119, 120, 124, 130, 132 are Japanese. We pay extremely well for these."
+        }
+    ],
+    "relatedLinks": [
+        {
+            "label": "Get an Offer",
+            "href": "/get-offer"
+        },
+        {
+            "label": "Photos for Quote",
+            "href": "/resources/photos-for-quote"
+        },
+        {
+            "label": "How Pricing Works",
+            "href": "/resources/how-pricing-works"
+        },
+        {
+            "label": "Sell Scotch",
+            "href": "/sell/scotch"
+        },
+        {
+            "label": "Sell Macallan",
+            "href": "/sell/macallan"
+        },
+        {
+            "label": "Sell Springbank",
+            "href": "/sell/springbank"
+        },
+        {
+            "label": "Sell Ardbeg",
+            "href": "/sell/ardbeg"
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "slug": "ad-rattray",
+    "title": "Sell A.D. Rattray Whisky",
+    "metaTitle": "Sell A.D. Rattray Whisky | Cask Collection & Vintage | Proof Cellars",
+    "metaDescription": "Sell your A.D. Rattray whisky. We buy the Cask Collection and Vintage Cask Collection releases.",
+    "heroHeadline": "Sell Your A.D. Rattray Whisky",
+    "heroSubhead": "Direct buyer for A.D. Rattray Cask Collection.",
+    "introParagraph": "A.D. Rattray, led by Tim Morrison (formerly of Morrison Bowmore), bottles excellent single casks. Their 'Cask Collection' (green box) offers great value and some hidden gems.",
+    "categoryType": "scotch",
+    "whatWeBuy": [
+        "A.D. Rattray Cask Collection (Single Casks)",
+        "A.D. Rattray Vintage Cask Collection",
+        "A.D. Rattray Stronachie (older batches)",
+        "A.D. Rattray Cask Islay (older batches)"
+    ],
+    "whatWeDoNotBuy": [
+        "Cask Islay (Standard NAS)",
+        "Stronachie 10 (Standard)",
+        "Bank Note (Blend)",
+        "Empty bottles"
+    ],
+    "photoChecklist": [
+        "Front label showing Cask # and Vintage",
+        "Tube/Box condition (Green box)",
+        "Fill level",
+        "Seal condition",
+        "Bottle code"
+    ],
+    "conditionFactors": [
+        "Box: The green Cask Collection box is distinctive. Absence reduces offer.",
+        "Label: Verify cask number matches box.",
+        "Fill: Standard check.",
+        "Vintage: Older vintages (80s/90s) are key."
+    ],
+    "pricingFactors": [
+        "Distillery: A.D. Rattray Bowmore and Laphroaig are highly sought after due to the family connection.",
+        "Age: 20+ year releases are the main target.",
+        "Alcohol: Cask strength (~50%+) bottles.",
+        "Series: Vintage Cask Collection is the premium line."
+    ],
+    "faqs": [
+        {
+            "question": "What is Stronachie?",
+            "answer": "A 'lost distillery' brand recreated by A.D. Rattray using Benrinnes malt. Older bottlings are collectible."
+        },
+        {
+            "question": "Do you buy Cask Islay?",
+            "answer": "Only the older batch releases or specific single cask versions."
+        },
+        {
+            "question": "Do you buy Bank Note?",
+            "answer": "No, that is a mixing blend."
+        },
+        {
+            "question": "Is A.D. Rattray independent?",
+            "answer": "Yes, based in Glasgow/Ayrshire."
+        },
+        {
+            "question": "How do I ship?",
+            "answer": "We send you a prepaid UPS label. Just pack it well."
+        },
+        {
+            "question": "Do you buy the rum?",
+            "answer": "Yes, A.D. Rattray Rums are of interest."
+        }
+    ],
+    "relatedLinks": [
+        {
+            "label": "Get an Offer",
+            "href": "/get-offer"
+        },
+        {
+            "label": "Photos for Quote",
+            "href": "/resources/photos-for-quote"
+        },
+        {
+            "label": "How Pricing Works",
+            "href": "/resources/how-pricing-works"
+        },
+        {
+            "label": "Sell Scotch",
+            "href": "/sell/scotch"
+        },
+        {
+            "label": "Sell Macallan",
+            "href": "/sell/macallan"
+        },
+        {
+            "label": "Sell Springbank",
+            "href": "/sell/springbank"
+        },
+        {
+            "label": "Sell Ardbeg",
+            "href": "/sell/ardbeg"
+        }
+    ]
+}

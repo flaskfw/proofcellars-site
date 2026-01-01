@@ -1,0 +1,98 @@
+{
+    "slug": "thompson-bros",
+    "title": "Sell Thompson Bros Whisky",
+    "metaTitle": "Sell Thompson Bros / Dornoch Whisky | Artistic Labels | Proof Cellars",
+    "metaDescription": "Sell your Thompson Bros (Dornoch) whisky. We buy the artistic label releases, Dornoch Distillery inaugural releases, and single casks.",
+    "heroHeadline": "Sell Your Thompson Bros Whisky",
+    "heroSubhead": "Direct buyer for Thompson Bros / Dornoch Distillery releases.",
+    "introParagraph": "Phil and Simon Thompson (Thompson Bros) operate out of the Dornoch Castle Hotel. Their indie bottlings are famous for whimsical, artistic labels and exceptional cask selection.",
+    "categoryType": "scotch",
+    "whatWeBuy": [
+        "Thompson Bros Single Casks (Art Labels)",
+        "Thompson Bros SRV5 (Older Batches)",
+        "Dornoch Distillery Inaugural Release",
+        "Thompson Bros Rum",
+        "Thompson Bros Cognac"
+    ],
+    "whatWeDoNotBuy": [
+        "Standard SRV5 (Current Batch) - unless bulk",
+        "Dornoch Gin",
+        "Empty bottles",
+        "Open bottles"
+    ],
+    "photoChecklist": [
+        "Front label (Artistic cartoon style)",
+        "Back label showing Bottle #",
+        "Fill level",
+        "Seal condition (wax vs foil)",
+        "Box/Tube (if applicable)"
+    ],
+    "conditionFactors": [
+        "Label Art: The labels are key. Check for scuffs.",
+        "Wax Seals: Many releases use wax dips. Check for cracks.",
+        "Batch: Early batches of blends like SRV5 are more desirable.",
+        "Provenance: Authenticity check."
+    ],
+    "pricingFactors": [
+        "Distillery: Secret Islay/Speyside releases are popular.",
+        "Inaugural: The first release from their own Dornoch Distillery is a major collector item.",
+        "Label Artist: Specific labels (e.g. KT) have fans.",
+        "Rum: Their heavy Jamaican rum bottlings are cult hits."
+    ],
+    "faqs": [
+        {
+            "question": "Do you buy Dornoch Distillery whisky?",
+            "answer": "Yes, we are very keen on the Inaugural Release and Cask 1 bottles (if they exist in the wild)."
+        },
+        {
+            "question": "Do you buy the blends?",
+            "answer": "Yes, TB/BSW and SRV5 blends are bought in volume or early batches."
+        },
+        {
+            "question": "What about the 1980s vintages?",
+            "answer": "They bottle some incredible old stock. We buy it all."
+        },
+        {
+            "question": "Do you buy the Cognac?",
+            "answer": "Yes, Thompson Bros Cognac selections are top tier."
+        },
+        {
+            "question": "How do I ship?",
+            "answer": "Standard secure packing. Wax seals need extra padding."
+        },
+        {
+            "question": "Is TG Thompson the same?",
+            "answer": "Yes, TG Thompson is the company name."
+        }
+    ],
+    "relatedLinks": [
+        {
+            "label": "Get an Offer",
+            "href": "/get-offer"
+        },
+        {
+            "label": "Photos for Quote",
+            "href": "/resources/photos-for-quote"
+        },
+        {
+            "label": "How Pricing Works",
+            "href": "/resources/how-pricing-works"
+        },
+        {
+            "label": "Sell Scotch",
+            "href": "/sell/scotch"
+        },
+        {
+            "label": "Sell Macallan",
+            "href": "/sell/macallan"
+        },
+        {
+            "label": "Sell Springbank",
+            "href": "/sell/springbank"
+        },
+        {
+            "label": "Sell Ardbeg",
+            "href": "/sell/ardbeg"
+        }
+    ]
+}

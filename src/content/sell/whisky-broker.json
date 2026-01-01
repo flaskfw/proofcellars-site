@@ -1,0 +1,95 @@
+{
+    "slug": "whisky-broker",
+    "title": "Sell Whisky Broker Whisky",
+    "metaTitle": "Sell Whisky Broker Casks & Bottles | Proof Cellars",
+    "metaDescription": "Sell your Whisky Broker bottles. We buy the single cask releases from this cult favorite independent bottler.",
+    "heroHeadline": "Sell Your Whisky Broker Bottles",
+    "heroSubhead": "Direct buyer for Whisky Broker single casks.",
+    "introParagraph": "Whisky Broker (Martin Armstrong) is known for no-nonsense packaging and incredible value liquid. Often minimal labels, these bottles conceal some amazing single casks.",
+    "categoryType": "scotch",
+    "whatWeBuy": [
+        "Whisky Broker Single Casks (All Distilleries)",
+        "Whisky Broker 30+ Year Old Grains",
+        "Whisky Broker 20+ Year Old Malts",
+        "Whisky Broker Littlemill / Imperial / Caperdonich"
+    ],
+    "whatWeDoNotBuy": [
+        "Whisky Broker 'Blended Scotch' (Standard)",
+        "Open bottles",
+        "Empty bottles",
+        "Leaking bottles"
+    ],
+    "photoChecklist": [
+        "Front label (often plain white text)",
+        "Cask Details (Distillery, Date)",
+        "Fill level",
+        "Seal condition"
+    ],
+    "conditionFactors": [
+        "Label: Very basic paper labels. Dents/tears are common but less critical than big brands.",
+        "Fill: Generally good.",
+        "Provenance: Since labels are easily replicated, we check provenance carefully.",
+        "Seal: Standard foil."
+    ],
+    "pricingFactors": [
+        "Distillery: Whisky Broker bottled a lot of Littlemill and Caperdonich before prices skyrocketed. These are gems.",
+        "Age: High age grains (Invergordon, Port Dundas) are common and desirable.",
+        "Value: These were cheap at retail, so offers reflect the secondary market growth."
+    ],
+    "faqs": [
+        {
+            "question": "Why is the label so plain?",
+            "answer": "To keep costs down. It is all about the liquid."
+        },
+        {
+            "question": "Do you buy casks held at Whisky Broker?",
+            "answer": "Yes, we can arrange cask transfers. Contact us directly."
+        },
+        {
+            "question": "Do you buy the 'Zoo' series?",
+            "answer": "Yes, the ones with animal labels."
+        },
+        {
+            "question": "Is this brand valuable?",
+            "answer": "Collectors love it because it is unpretentious and tasty. Specific distilleries trade well."
+        },
+        {
+            "question": "Do you buy bulk lots?",
+            "answer": "Yes, varied cases of Whisky Broker are welcome."
+        },
+        {
+            "question": "How do I ship?",
+            "answer": "Standard box. No tube usually."
+        }
+    ],
+    "relatedLinks": [
+        {
+            "label": "Get an Offer",
+            "href": "/get-offer"
+        },
+        {
+            "label": "Photos for Quote",
+            "href": "/resources/photos-for-quote"
+        },
+        {
+            "label": "How Pricing Works",
+            "href": "/resources/how-pricing-works"
+        },
+        {
+            "label": "Sell Scotch",
+            "href": "/sell/scotch"
+        },
+        {
+            "label": "Sell Macallan",
+            "href": "/sell/macallan"
+        },
+        {
+            "label": "Sell Springbank",
+            "href": "/sell/springbank"
+        },
+        {
+            "label": "Sell Ardbeg",
+            "href": "/sell/ardbeg"
+        }
+    ]
+}

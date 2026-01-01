@@ -1,0 +1,100 @@
+{
+    "slug": "douglas-laing",
+    "title": "Sell Douglas Laing Whisky",
+    "metaTitle": "Sell Douglas Laing Whisky | XOP & Director's Cut | Proof Cellars",
+    "metaDescription": "Sell your Douglas Laing whisky. We buy XOP (Xtra Old Particular), Old Particular, and Director's Cut releases.",
+    "heroHeadline": "Sell Your Douglas Laing Whisky",
+    "heroSubhead": "Direct buyer for XOP, Director's Cut, and Old Particular.",
+    "introParagraph": "Douglas Laing & Co. focuses on artisan, small-batch Scotch. Their XOP (Xtra Old Particular) range represents the crown jewels of their inventory.",
+    "categoryType": "scotch",
+    "whatWeBuy": [
+        "Douglas Laing XOP (Xtra Old Particular)",
+        "Douglas Laing Director's Cut",
+        "Douglas Laing Old Particular (Single Casks)",
+        "Douglas Laing Provenance (Older Vintages)",
+        "Douglas Laing Double Barrel (Vintage)",
+        "Douglas Laing Clan Denny (Aged Grain)"
+    ],
+    "whatWeDoNotBuy": [
+        "Big Peat (Standard) - unless Christmas Edition/Vintage",
+        "Scallywag (Standard)",
+        "Timorous Beastie (Standard)",
+        "Rock Oyster (Standard)",
+        "Empty bottles"
+    ],
+    "photoChecklist": [
+        "Front label showing 'XOP' or 'Old Particular'",
+        "Wooden box condition (for XOP)",
+        "Certificate of Authenticity",
+        "Fill level",
+        "Seal condition"
+    ],
+    "conditionFactors": [
+        "XOP Box: Comes in a premium wooden box with a certificate. Must be complete.",
+        "Label: Old Particular labels distinguish by color (Green for grain, Red for malt).",
+        "Seal: Wax dipped XOP bottles need crack inspection.",
+        "Director's Cut: An older series, highly prized."
+    ],
+    "pricingFactors": [
+        "Series: XOP is the top tier. Director's Cut is the legacy top tier.",
+        "Distillery: Islay distilleries (Laphroaig, Caol Ila) in XOP format trade highest.",
+        "Age: 30+ year old single grains in Clan Denny or Old Particular are good value.",
+        "Vintage: Specific birth-year vintages carry premiums."
+    ],
+    "faqs": [
+        {
+            "question": "What is XOP?",
+            "answer": "Xtra Old Particular. It replaced the 'Old & Rare' series for Douglas Laing after the company split."
+        },
+        {
+            "question": "Do you buy Big Peat?",
+            "answer": "We buy the 'Christmas Edition' (Cask Strength) and aged limited releases (e.g., 33 Year Old)."
+        },
+        {
+            "question": "What happened to Old Malt Cask?",
+            "answer": "That brand went to Hunter Laing. Douglas Laing created 'Old Particular' to replace it."
+        },
+        {
+            "question": "Do you buy Provenance?",
+            "answer": "Only older vintages or specific closed distilleries. Current releases are too common."
+        },
+        {
+            "question": "Is Clan Denny valuable?",
+            "answer": "Aged single grains (40+ years) are definitely collectible."
+        },
+        {
+            "question": "How do you pay?",
+            "answer": "Wire transfer or Check."
+        }
+    ],
+    "relatedLinks": [
+        {
+            "label": "Get an Offer",
+            "href": "/get-offer"
+        },
+        {
+            "label": "Photos for Quote",
+            "href": "/resources/photos-for-quote"
+        },
+        {
+            "label": "How Pricing Works",
+            "href": "/resources/how-pricing-works"
+        },
+        {
+            "label": "Sell Scotch",
+            "href": "/sell/scotch"
+        },
+        {
+            "label": "Sell Macallan",
+            "href": "/sell/macallan"
+        },
+        {
+            "label": "Sell Springbank",
+            "href": "/sell/springbank"
+        },
+        {
+            "label": "Sell Ardbeg",
+            "href": "/sell/ardbeg"
+        }
+    ]
+}

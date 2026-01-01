@@ -56,6 +56,11 @@ export default function Footer() {
                   Resources
                 </Link>
               </li>
+              <li>
+                <Link href="/partners" className="text-sm text-secondary hover:text-primary transition-colors">
+                  Partners
+                </Link>
+              </li>
             </ul>
           </div>
 

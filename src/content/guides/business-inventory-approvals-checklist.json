@@ -1,0 +1,128 @@
+{
+    "slug": "business-inventory-approvals-checklist",
+    "title": "Business Inventory Approvals Checklist",
+    "metaTitle": "Business Inventory Sale Approvals Checklist | Proof Cellars",
+    "metaDescription": "Selling business assets (liquor inventory) requires proper authorization. Use this checklist to ensure your sale is compliant and approved.",
+    "category": "scenario",
+    "publishedDate": "2024-03-21",
+    "summary": "Who should approve a sale and what documentation to keep for internal controls and clean records.",
+    "tableOfContents": [
+        "Quick Answer",
+        "Who Must Sign Off",
+        "Required Documentation",
+        "Proceeds and Payments",
+        "Common Mistakes",
+        "What to Do Next"
+    ],
+    "sections": [
+        {
+            "heading": "Quick Answer",
+            "content": [
+                "Selling company assets without a paper trail is a recipe for an audit disaster (or theft accusation)."
+            ],
+            "list": [
+                "Get written authorization from an Officer of the company.",
+                "Ensure the Bill of Sale lists the Company as the seller.",
+                "Direct the payment to the Company bank account.",
+                "Keep the Purchase Order for tax filing."
+            ]
+        },
+        {
+            "heading": "Who Must Sign Off",
+            "content": [
+                "Ideally, two people."
+            ],
+            "list": [
+                "The Operational Lead (e.g., F&B Director or Office Manager) initiates the sale.",
+                "The Financial Lead (e.g., CFO or Controller) approves the asset disposal.",
+                "If you are the owner, simply sign as 'Owner' or 'President'."
+            ]
+        },
+        {
+            "heading": "Required Documentation",
+            "content": [
+                "We provide standard commercial docs."
+            ],
+            "list": [
+                "Inventory List (Asset Schedule).",
+                "Purchase Agreement (Contract).",
+                "Bill of Sale (Transfer of Title).",
+                "Final Invoice (Proof of Payment)."
+            ]
+        },
+        {
+            "heading": "Proceeds and Payments",
+            "content": [
+                "Follow the money."
+            ],
+            "list": [
+                "We strongly prefer paying via Wire or Check to the entity name.",
+                "Sending cash/personal checks to an employee for company assets is a huge red flag.",
+                "We can reference a PO number on the payment for your accounting software."
+            ]
+        },
+        {
+            "heading": "Common Mistakes",
+            "content": [
+                "Informal deals."
+            ],
+            "list": [
+                "Selling assets for cash 'under the table' (tax fraud).",
+                "Not removing asset tags or inventory stickers.",
+                "Failing to update the balance sheet (assets should be written down)."
+            ]
+        },
+        {
+            "heading": "What to Do Next",
+            "content": [
+                "Prepare the file."
+            ],
+            "list": [
+                "Draft an internal email: 'Request to liquidate obsolete inventory valued at approx $X'.",
+                "Get a 'Yes' reply.",
+                "Submit the list to us.",
+                "We handle the external paperwork."
+            ]
+        }
+    ],
+    "faqs": [
+        {
+            "question": "Do I need a lawyer?",
+            "answer": "Usually no, unless the company is in bankruptcy or complex litigation."
+        },
+        {
+            "question": "Can you pay a third party?",
+            "answer": "Only with a written Direction of Payment signed by the company officer."
+        },
+        {
+            "question": "Is sales tax involved?",
+            "answer": "As a licensed wholesaler/retailer, our purchase is usually for 'Resale', so sales tax is often not applicable (we provide a Resale Certificate)."
+        },
+        {
+            "question": "What if the business is closed?",
+            "answer": "We can buy from the winding-up entity or the owner personally if assets were distributed."
+        },
+        {
+            "question": "Do you buy furniture?",
+            "answer": "No. Just the bottles."
+        }
+    ],
+    "relatedLinks": [
+        {
+            "label": "Get an Offer",
+            "href": "/get-offer"
+        },
+        {
+            "label": "Staff Checklist",
+            "href": "/guides/authorization-checklist-household-staff"
+        },
+        {
+            "label": "Family Office Guide",
+            "href": "/guides/family-office-cellar-liquidation"
+        },
+        {
+            "label": "Inventory Template",
+            "href": "/resources/inventory-template"
+        }
+    ]
+}

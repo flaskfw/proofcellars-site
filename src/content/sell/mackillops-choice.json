@@ -1,0 +1,96 @@
+{
+    "slug": "mackillops-choice",
+    "title": "Sell MacKillop's Choice Whisky",
+    "metaTitle": "Sell MacKillop's Choice Whisky | Single Cask Scotch | Proof Cellars",
+    "metaDescription": "Sell your MacKillop's Choice whisky. We buy the single cask releases selected by Lorne MacKillop, Master of Wine.",
+    "heroHeadline": "Sell Your MacKillop's Choice Whisky",
+    "heroSubhead": "Direct buyer for MacKillop's Choice single casks.",
+    "introParagraph": "Selected by Lorne MacKillop (MW), these single casks are known for high ABVs and rigorous quality standards. The packaging is simple, but the liquid is serious.",
+    "categoryType": "scotch",
+    "whatWeBuy": [
+        "MacKillop's Choice Single Casks",
+        "MacKillop's Choice Cask Strength",
+        "MacKillop's Choice 1960s-1980s Vintages",
+        "MacKillop's Choice Closed Distilleries"
+    ],
+    "whatWeDoNotBuy": [
+        "MacKillop's Choice 43% (Standard) - unless rare distillery",
+        "Open bottles",
+        "Empty bottles"
+    ],
+    "photoChecklist": [
+        "Front label showing Vintage and Cask #",
+        "Back label",
+        "Tube condition (Grey/Black tubes)",
+        "Fill level",
+        "Seal condition"
+    ],
+    "conditionFactors": [
+        "Label: Simple white labels can yellow with age.",
+        "Tube: Often comes in a basic cardboard tube. Missing tube is minor deduction.",
+        "Fill: Check levels on 1980s bottlings.",
+        "Seal: Standard foil."
+    ],
+    "pricingFactors": [
+        "Distillery: MacKillop bottled legendary Ardbeg, Bowmore, and Linlithgow. These are the money bottles.",
+        "ABV: Cask strength releases are the target.",
+        "Vintage: Vintages from the 60s/70s are prime.",
+        "Rarity: Single casks have low outturns (200-300 bottles)."
+    ],
+    "faqs": [
+        {
+            "question": "Who is MacKillop?",
+            "answer": "Lorne MacKillop is a Master of Wine (MW). His palate is legendary."
+        },
+        {
+            "question": "Is the 43% series valuable?",
+            "answer": "It is less valuable than the specific Cask Strength series, but rare distilleries still sell."
+        },
+        {
+            "question": "Do you buy the Grain whisky?",
+            "answer": "Yes, MacKillop's single grains are excellent."
+        },
+        {
+            "question": "How do I date the bottle?",
+            "answer": "The vintage and bottling date are usually on the label."
+        },
+        {
+            "question": "Do you buy 1990s releases?",
+            "answer": "Yes, we buy MacKillop's releases from all eras."
+        },
+        {
+            "question": "How do you pay?",
+            "answer": "Direct bank transfer."
+        }
+    ],
+    "relatedLinks": [
+        {
+            "label": "Get an Offer",
+            "href": "/get-offer"
+        },
+        {
+            "label": "Photos for Quote",
+            "href": "/resources/photos-for-quote"
+        },
+        {
+            "label": "How Pricing Works",
+            "href": "/resources/how-pricing-works"
+        },
+        {
+            "label": "Sell Scotch",
+            "href": "/sell/scotch"
+        },
+        {
+            "label": "Sell Macallan",
+            "href": "/sell/macallan"
+        },
+        {
+            "label": "Sell Springbank",
+            "href": "/sell/springbank"
+        },
+        {
+            "label": "Sell Ardbeg",
+            "href": "/sell/ardbeg"
+        }
+    ]
+}

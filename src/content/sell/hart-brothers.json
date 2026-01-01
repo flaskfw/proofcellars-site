@@ -1,0 +1,96 @@
+{
+    "slug": "hart-brothers",
+    "title": "Sell Hart Brothers Whisky",
+    "metaTitle": "Sell Hart Brothers Whisky | Finest Collection | Proof Cellars",
+    "metaDescription": "Sell your Hart Brothers whisky. We buy the Finest Collection (Black Label), Littlemill, and aged single casks.",
+    "heroHeadline": "Sell Your Hart Brothers Whisky",
+    "heroSubhead": "Direct buyer for Hart Brothers Finest Collection.",
+    "introParagraph": "Hart Brothers, with origins as licensed victuallers, bottle superb single malts. Their 'Finest Collection' (often black labels or tubes) includes legendary Littlemill exclusives.",
+    "categoryType": "scotch",
+    "whatWeBuy": [
+        "Hart Brothers Littlemill",
+        "Hart Brothers Finest Collection (Single Casks)",
+        "Hart Brothers 17 / 21 Year Old Releases",
+        "Hart Brothers Legends"
+    ],
+    "whatWeDoNotBuy": [
+        "Hart Brothers Blends (Standard)",
+        "Open bottles",
+        "Empty bottles"
+    ],
+    "photoChecklist": [
+        "Front label (Distillery Name prominent)",
+        "Vintage and Age",
+        "Tube condition",
+        "Fill level",
+        "Seal condition"
+    ],
+    "conditionFactors": [
+        "Tube: The silver/black tubes are prone to denting.",
+        "Littlemill: Any Hart Brothers Littlemill is a gold mine. Check label condition carefully.",
+        "Fill: Older bottlings (80s/90s) check neck level.",
+        "Capsule: Standard."
+    ],
+    "pricingFactors": [
+        "Distillery: Hart Brothers is synonymous with Littlemill (closed distillery). These trade highest.",
+        "Age: 20+ year old releases.",
+        "Vintage: 1960s and 1970s distillations.",
+        "Series: The older 'Finest Collection' label is preferred over modern ones."
+    ],
+    "faqs": [
+        {
+            "question": "Why is Littlemill so valuable?",
+            "answer": "It is a closed distillery (demolished). Hart Bros had incredible access to their casks."
+        },
+        {
+            "question": "Do you buy the 17 Year Old range?",
+            "answer": "Yes, especially the sherry finished ones."
+        },
+        {
+            "question": "Do you buy 'Legends'?",
+            "answer": "Yes, the Legends series (e.g. 1965 Glenfarclas) is high value."
+        },
+        {
+            "question": "Is Hart Brothers independent?",
+            "answer": "Yes, family owned."
+        },
+        {
+            "question": "How do you pay?",
+            "answer": "Wire or Check."
+        },
+        {
+            "question": "How do I date the bottle?",
+            "answer": "Look for the distillation month/year on the label."
+        }
+    ],
+    "relatedLinks": [
+        {
+            "label": "Get an Offer",
+            "href": "/get-offer"
+        },
+        {
+            "label": "Photos for Quote",
+            "href": "/resources/photos-for-quote"
+        },
+        {
+            "label": "How Pricing Works",
+            "href": "/resources/how-pricing-works"
+        },
+        {
+            "label": "Sell Scotch",
+            "href": "/sell/scotch"
+        },
+        {
+            "label": "Sell Macallan",
+            "href": "/sell/macallan"
+        },
+        {
+            "label": "Sell Springbank",
+            "href": "/sell/springbank"
+        },
+        {
+            "label": "Sell Ardbeg",
+            "href": "/sell/ardbeg"
+        }
+    ]
+}

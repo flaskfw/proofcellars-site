@@ -1,0 +1,88 @@
+{
+    "slug": "suntory-aged",
+    "title": "Sell Aged Suntory Whisky",
+    "metaTitle": "Sell Suntory Royal, Crest, & Reserve | Aged Japanese Whisky | Proof Cellars",
+    "metaDescription": "Sell your back-vintage Suntory whisky. We buy Suntory Royal 12/15, Crest 12, Special Reserve, and older limited blends.",
+    "heroHeadline": "Sell Your Aged Suntory Whisky",
+    "heroSubhead": "Buying Suntory Royal, Crest 12, and Special Reserve back-vintages.",
+    "introParagraph": "Beyond Yamazaki and Hibiki, Suntory has a deep catalog of historic blends. We purchase 'dusty' bottles of Royal, Crest, and Reserve from the 80s and 90s.",
+    "categoryType": "japanese-whisky",
+    "whatWeBuy": [
+        "Suntory Crest 12 Year Old",
+        "Suntory Royal 12 Year Old",
+        "Suntory Royal 15 Year Old",
+        "Suntory Royal 'SR' (Vintage)",
+        "Suntory Special Reserve 10 Year / 12 Year",
+        "Suntory Excellence",
+        "Suntory 'The Whisky'"
+    ],
+    "whatWeDoNotBuy": [
+        "Suntory Toki (Current Release)",
+        "Suntory Old (standard NAS) - unless bulk",
+        "Open decanters",
+        "Empty bottles"
+    ],
+    "photoChecklist": [
+        "Front label showing age statement (if any)",
+        "Top of cap (tax strips on old bottles)",
+        "Box condition",
+        "Glass code or bottom stamp",
+        "Fill level"
+    ],
+    "conditionFactors": [
+        "Tax Strips: US Tax strips or Japanese tax seals date the bottle",
+        "Evaporation: Older screw caps on 'Royal' bottles can loosen, check fill",
+        "Labels: Foxing (brown spots) on old paper labels is common",
+        "Box: Original gift boxes add value"
+    ],
+    "pricingFactors": [
+        "Age Statement: Crest 12 is the leader here.",
+        "SR vs 12/15: 'SR' Royal is common; 12 and 15 year versions are rarer.",
+        "Decanters: Fancy ceramic shapes (Instruments, Animals) have specific collector value.",
+        "Era: Pre-1989 (tax reform) bottles are historically interesting."
+    ],
+    "faqs": [
+        {
+            "question": "Is Suntory Royal valuable?",
+            "answer": "It was the premium standard in the 80s. While not priced like Yamazaki, vintage Royal has solid value."
+        },
+        {
+            "question": "Do you buy the animal bottles?",
+            "answer": "Yes, the Zodiac ceramic series is collectible. We check for weight (fill level)."
+        },
+        {
+            "question": "What is 'Suntory Crest'?",
+            "answer": "Crest 12 was a premium blend positioned above Royal. It was discontinued and is now sought after."
+        },
+        {
+            "question": "Do you buy Suntory Old?",
+            "answer": "Only older versions (70s/80s) or mostly in bulk lots."
+        },
+        {
+            "question": "What about 'The Whisky'?",
+            "answer": "Yes, Suntory 'The Whisky' is a very high-end discontinued porcelain release. We buy it."
+        },
+        {
+            "question": "Is Toki worth selling?",
+            "answer": "No, Toki is a current mixing whisky readily available for $30."
+        }
+    ],
+    "relatedLinks": [
+        {
+            "label": "Get an Offer",
+            "href": "/get-offer"
+        },
+        {
+            "label": "Sell Hibiki",
+            "href": "/sell/hibiki"
+        },
+        {
+            "label": "Sell Yamazaki",
+            "href": "/sell/yamazaki"
+        },
+        {
+            "label": "How Pricing Works",
+            "href": "/resources/how-pricing-works"
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "slug": "miyagikyo",
+    "title": "Sell Miyagikyo Whisky",
+    "metaTitle": "Sell Nikka Miyagikyo Whisky | Age Statements & Single Casks | Proof Cellars",
+    "metaDescription": "Have Miyagikyo 10, 12, or 15 Year Old? We buy discontinued Nikka Miyagikyo whisky and limited single cask releases.",
+    "heroHeadline": "Sell Your Miyagikyo Whisky",
+    "heroSubhead": "Buying discontinued Miyagikyo age statements and rare single casks.",
+    "introParagraph": "Miyagikyo creates a softer, more floral profile than its brother Yoichi. The discontinued age statements are now highly prized by collectors.",
+    "categoryType": "japanese-whisky",
+    "whatWeBuy": [
+        "Miyagikyo 10 Year Old",
+        "Miyagikyo 12 Year Old",
+        "Miyagikyo 15 Year Old",
+        "Miyagikyo Single Cask releases",
+        "Miyagikyo Sherry & Sweet",
+        "Miyagikyo Malty & Soft",
+        "Miyagikyo Fruity & Rich"
+    ],
+    "whatWeDoNotBuy": [
+        "Open bottles",
+        "Broken seals",
+        "Standard 'Single Malt Miyagikyo' NAS (unless in volume)",
+        "Bottles with severe label damage"
+    ],
+    "photoChecklist": [
+        "Front label distinct age statement",
+        "Capsule/Screw cap condition",
+        "Box availability",
+        "Import stickers (if any)",
+        "Glass code"
+    ],
+    "conditionFactors": [
+        "Discontinued Verification: Confirming it is the old label style",
+        "Box: Presence of original carton",
+        "Fill Level: Into neck or better",
+        "Label: Cleanliness of white labels"
+    ],
+    "pricingFactors": [
+        "Age Statement: 15 and 12 year are the key value drivers",
+        "Flavor Profile Series: The 'Key Malt' series (Sherry & Sweet etc) is collectible",
+        "Single Cask: Vintage dated single casks are the highest value tier",
+        "Volume: 500ml vs 700ml variants"
+    ],
+    "faqs": [
+        {
+            "question": "Do you buy the 'Key Malt' series?",
+            "answer": "Yes, we buy Sherry & Sweet, Fruity & Rich, and Malty & Soft bottlings."
+        },
+        {
+            "question": "Is the new NAS Miyagikyo valuable?",
+            "answer": "It is readily available in stores, so secondary market value is lower."
+        },
+        {
+            "question": "What is a 'Single Cask'?",
+            "answer": "It means the whisky came from one specific barrel. The label will list a Cask # and Bottle #."
+        },
+        {
+            "question": "Do you buy the 500ml bottles?",
+            "answer": "Yes, common for older Japanese releases. We purchase them."
+        },
+        {
+            "question": "How do I ship it?",
+            "answer": "We provide prepaid shipping labels and insurance. See our Packing Guide."
+        },
+        {
+            "question": "Do you buy Nikka Coffey Grain?",
+            "answer": "Only in bulk (case lots)."
+        }
+    ],
+    "relatedLinks": [
+        {
+            "label": "Get an Offer",
+            "href": "/get-offer"
+        },
+        {
+            "label": "Sell Japanese Whisky",
+            "href": "/sell/japanese-whisky"
+        },
+        {
+            "label": "Photos for Quote",
+            "href": "/resources/photos-for-quote"
+        },
+        {
+            "label": "How Pricing Works",
+            "href": "/resources/how-pricing-works"
+        }
+    ]
+}

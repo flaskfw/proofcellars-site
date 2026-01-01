@@ -1,0 +1,86 @@
+{
+    "slug": "rosebank",
+    "title": "Sell Rosebank Whisky",
+    "metaTitle": "Sell Rosebank Whisky | Flora & Fauna & Rare Malts | Proof Cellars",
+    "metaDescription": "Sell your Rosebank whisky. We buy the Flora & Fauna 12 Year, Rare Malts, and the new 30/31 Year releases from the 'King of the Lowlands'.",
+    "heroHeadline": "Sell Your Rosebank Whisky",
+    "heroSubhead": "Direct buyer for Rosebank Flora & Fauna, Rare Malts, and aged releases.",
+    "introParagraph": "Rosebank, the 'King of the Lowlands', is famous for its floral, triple-distilled character. Closed in 1993 and recently revived, original stock is highly collectible.",
+    "categoryType": "scotch",
+    "whatWeBuy": [
+        "Rosebank 12 Year Old Flora & Fauna",
+        "Rosebank Rare Malts Selection (20yo, 22yo)",
+        "Rosebank 25 Year Old (Special Release)",
+        "Rosebank 30 Year Old (Release 1)",
+        "Rosebank 31 Year Old (Release 2)",
+        "Rosebank Zenith (Italian Import)"
+    ],
+    "whatWeDoNotBuy": [
+        "Fake bottles",
+        "Empty bottles",
+        "Low fill bottles"
+    ],
+    "photoChecklist": [
+        "Front label",
+        "Foil/Capsule condition",
+        "Fill level (Neck/Shoulder)",
+        "Box condition (wood vs paper)",
+        "Import sticker (if any)"
+    ],
+    "conditionFactors": [
+        "Flora & Fauna: The wooden crate for the F&F 12 is rare; usually it is just the bottle.",
+        "Fill Level: Crucial for Rare Malts bottlings.",
+        "Label: Flora & Fauna labels can scuff easily.",
+        "Seal: Cork condition on 90s bottlings."
+    ],
+    "pricingFactors": [
+        "Series: Flora & Fauna is the iconic standard; Rare Malts is the collector grade.",
+        "Release: The new 30 and 31 year old releases from Ian Macleod are high value.",
+        "Bottler: Official bottlings usually win, but Cadenhead/Signatory Rosebanks are good.",
+        "Vintage: 1981 and 1990 are common vintage years."
+    ],
+    "faqs": [
+        {
+            "question": "Is the Flora & Fauna 12 valuable?",
+            "answer": "Yes, while it was once a standard bottle, it is now a pricey collector item."
+        },
+        {
+            "question": "What about the new Rosebank?",
+            "answer": "Ian Macleod Distillers released 'Release 1' (30 Year). We buy these new releases."
+        },
+        {
+            "question": "Do you buy St. Magdalene or Littlemill?",
+            "answer": "Yes, we buy other closed Lowland distilleries like St. Magdalene/Linlithgow and Littlemill."
+        },
+        {
+            "question": "What is the Rare Malts Selection?",
+            "answer": "A classic series. Rosebank appeared several times. We buy them all."
+        },
+        {
+            "question": "Do I need the tube?",
+            "answer": "For Rare Malts and F&F, the box/tube is less critical than the bottle condition, but nice to have."
+        },
+        {
+            "question": "Is Triple Distilled better?",
+            "answer": "It is Rosebank's signature style (lighter, floral). Collectors love it."
+        }
+    ],
+    "relatedLinks": [
+        {
+            "label": "Get an Offer",
+            "href": "/get-offer"
+        },
+        {
+            "label": "Sell Brora",
+            "href": "/sell/brora"
+        },
+        {
+            "label": "Sell Scotch",
+            "href": "/sell/scotch"
+        },
+        {
+            "label": "How Pricing Works",
+            "href": "/resources/how-pricing-works"
+        }
+    ]
+}

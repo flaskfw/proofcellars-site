@@ -1,0 +1,89 @@
+{
+    "slug": "nikka-aged",
+    "title": "Sell Aged Nikka Whisky",
+    "metaTitle": "Sell Nikka Taketsuru & Aged Blends | 17, 21, 25 Year | Proof Cellars",
+    "metaDescription": "Sell your aged Nikka whisky including Taketsuru 17, 21, 25, and The Nikka 12. We buy discontinued and current age-statement releases.",
+    "heroHeadline": "Sell Your Aged Nikka Whisky",
+    "heroSubhead": "Buying Taketsuru 17, 21, 25 and The Nikka 12 Year Old.",
+    "introParagraph": "Nikka's pure malts and blends are masterpieces of balance. The discontinued 17, 21, and 25 year Taketsuru bottlings are highly coveted.",
+    "categoryType": "japanese-whisky",
+    "whatWeBuy": [
+        "Taketsuru 17 Year Old",
+        "Taketsuru 21 Year Old",
+        "Taketsuru 25 Year Old",
+        "The Nikka 12 Year Old (Premium Blend)",
+        "The Nikka 40 Year Old",
+        "Nikka Gold & Gold (Samurai)",
+        "Nikka Tsuru 17 Year Old (Ceramic)"
+    ],
+    "whatWeDoNotBuy": [
+        "Nikka Days",
+        "Nikka From the Barrel (singles)",
+        "Open bottles",
+        "Broken ceramic decanters",
+        "Empty bottles"
+    ],
+    "photoChecklist": [
+        "Front label showing age statement large and clear",
+        "Neck label (if applicable)",
+        "Box condition (wooden vs paper)",
+        "Glass vs Ceramic check (for Tsuru)",
+        "Fill level/Weight (for ceramics)"
+    ],
+    "conditionFactors": [
+        "Label Design: New vs Old label style affects value (Old Label is often preferred)",
+        "Box: 21 and 25 year boxes are substantial and valuable",
+        "Ceramic Weight: For Tsuru ceramics, we may ask for a weight check to verify fill",
+        "Seal: Plastic integrity on screw caps"
+    ],
+    "pricingFactors": [
+        "Age: 25 Year is the unicorn, 21 Year is the standard gold, 17 Year is the entry collector",
+        "Discontinued Lines: The Nikka 12 was replaced by 'The Nikka Tailored', making the 12 valuable",
+        "Packaging: Gift sets with glasses or special stoppers",
+        "Market Availability: Global shortages of aged stock drive price"
+    ],
+    "faqs": [
+        {
+            "question": "Is the new Taketsuru valuable?",
+            "answer": "Nikka re-released the NAS Taketsuru (white label). It is good whisky but holds less value than the age statements."
+        },
+        {
+            "question": "How much for the Samurai bottle?",
+            "answer": "Nikka Gold & Gold Samurai is a cool display piece, but the whisky inside is standard blend. Value is moderate."
+        },
+        {
+            "question": "Do you buy ceramic bottles?",
+            "answer": "Yes, specifically the Nikka Tsuru 17 ceramic decanters."
+        },
+        {
+            "question": "What about Nikka Coffey Malt?",
+            "answer": "We buy it, but usually as part of a larger collection or in bulk."
+        },
+        {
+            "question": "Do you buy Fortune '80?",
+            "answer": "Yes, older discontinued blends like Fortune '80 have a niche market."
+        },
+        {
+            "question": "Is 'The Nikka 12' rare?",
+            "answer": "It was discontinued after a short run, so it has become a minor collector item."
+        }
+    ],
+    "relatedLinks": [
+        {
+            "label": "Get an Offer",
+            "href": "/get-offer"
+        },
+        {
+            "label": "Sell Japanese Whisky",
+            "href": "/sell/japanese-whisky"
+        },
+        {
+            "label": "Photos for Quote",
+            "href": "/resources/photos-for-quote"
+        },
+        {
+            "label": "How Pricing Works",
+            "href": "/resources/how-pricing-works"
+        }
+    ]
+}

@@ -1,0 +1,99 @@
+{
+    "slug": "hunter-laing",
+    "title": "Sell Hunter Laing Whisky",
+    "metaTitle": "Sell Hunter Laing Whisky | Old Malt Cask & Old & Rare | Proof Cellars",
+    "metaDescription": "Sell your Hunter Laing whisky. We buy the Old & Rare Platinum selection, Old Malt Cask, and First Editions bottlings.",
+    "heroHeadline": "Sell Your Hunter Laing Whisky",
+    "heroSubhead": "Direct buyer for Old & Rare Platinum and Old Malt Cask.",
+    "introParagraph": "Hunter Laing, split from Douglas Laing in 2013, holds massive stocks of aged whisky. Their flagship 'Old & Rare' Platinum series contains some of the best single casks ever bottled.",
+    "categoryType": "scotch",
+    "whatWeBuy": [
+        "Hunter Laing Old & Rare (Platinum Series)",
+        "Hunter Laing Old Malt Cask (OMC)",
+        "Hunter Laing First Editions",
+        "Hunter Laing Sovereign (Single Grain)",
+        "Hunter Laing Kinship Series",
+        "Hunter Laing Eidolon (Port Ellen)"
+    ],
+    "whatWeDoNotBuy": [
+        "Hepburn's Choice (Standard) - unless bulk",
+        "Open bottles",
+        "Empty bottles",
+        "Bottles with severe leakage"
+    ],
+    "photoChecklist": [
+        "Front label showing Vintage and Cask strength",
+        "Presentation box (Old & Rare wooden box)",
+        "Fill level",
+        "Seal condition",
+        "Distillation date"
+    ],
+    "conditionFactors": [
+        "Box: The 'Old & Rare' wooden hinged box is substantial. Damage hurts resale.",
+        "Label: Verify 'Hunter Laing' vs 'Douglas Laing' (split happened in 2013).",
+        "Fill: Generally good, but check older vintages.",
+        "Wax: Some Platinum releases have wax dips."
+    ],
+    "pricingFactors": [
+        "Series: Old & Rare Platinum > Old Malt Cask > First Editions.",
+        "Distillery: A Platinum Ardbeg is worth significantly more than a Platinum Teaninich.",
+        "Kinship: The Feis Ile 'Kinship' series is highly collectible.",
+        "Vintage: 30+ year old single grains in the Sovereign series are good value."
+    ],
+    "faqs": [
+        {
+            "question": "What is the difference between Hunter and Douglas Laing?",
+            "answer": "Brothers Fred and Stewart split the company assets in 2013. Hunter Laing took the Old Malt Cask and Old & Rare brands."
+        },
+        {
+            "question": "Do you buy Old Malt Cask?",
+            "answer": "Yes, specifically the 50% ABV releases. The gold label is iconic."
+        },
+        {
+            "question": "What is the Kinship series?",
+            "answer": "A luxury series launched for the Ardnahoe distillery opening. Very high value."
+        },
+        {
+            "question": "Do you buy Sovereign?",
+            "answer": "Yes, we are fans of aged single grain whisky (Cameronbridge, Port Dundas)."
+        },
+        {
+            "question": "How do I ship the wooden box?",
+            "answer": "Pad the bottle INSIDE the box, then bubble wrap the box."
+        },
+        {
+            "question": "Do you buy Scarabus?",
+            "answer": "No, Scarabus is a core range malt, not a collector item."
+        }
+    ],
+    "relatedLinks": [
+        {
+            "label": "Get an Offer",
+            "href": "/get-offer"
+        },
+        {
+            "label": "Photos for Quote",
+            "href": "/resources/photos-for-quote"
+        },
+        {
+            "label": "How Pricing Works",
+            "href": "/resources/how-pricing-works"
+        },
+        {
+            "label": "Sell Scotch",
+            "href": "/sell/scotch"
+        },
+        {
+            "label": "Sell Macallan",
+            "href": "/sell/macallan"
+        },
+        {
+            "label": "Sell Springbank",
+            "href": "/sell/springbank"
+        },
+        {
+            "label": "Sell Ardbeg",
+            "href": "/sell/ardbeg"
+        }
+    ]
+}

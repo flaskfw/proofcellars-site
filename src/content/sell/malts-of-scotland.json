@@ -1,0 +1,97 @@
+{
+    "slug": "malts-of-scotland",
+    "title": "Sell Malts of Scotland Whisky",
+    "metaTitle": "Sell Malts of Scotland (MoS) Whisky | Proof Cellars",
+    "metaDescription": "Sell your Malts of Scotland (MoS) whisky. We buy the 'Warehouse Diamonds', 'Angel's Choice', and 'Dark Side of Islay' series.",
+    "heroHeadline": "Sell Your Malts of Scotland Whisky",
+    "heroSubhead": "Direct buyer for MoS Warehouse Diamonds and Angel's Choice.",
+    "introParagraph": "Based in Germany, Malts of Scotland (MoS) selects incredible sherry-heavy and peat-heavy casks. Their 'Warehouse Diamonds' are spectacular.",
+    "categoryType": "scotch",
+    "whatWeBuy": [
+        "Malts of Scotland Warehouse Diamonds",
+        "Malts of Scotland Angel's Choice (350ml)",
+        "Malts of Scotland Dark Side of Islay",
+        "Malts of Scotland Amazing Casks",
+        "Malts of Scotland Images of Islay"
+    ],
+    "whatWeDoNotBuy": [
+        "Standard releases (unless bulk)",
+        "Open bottles",
+        "Empty bottles"
+    ],
+    "photoChecklist": [
+        "Front label showing MoS logo",
+        "Cask # and Bottle #",
+        "Fill level",
+        "Seal condition",
+        "Box condition"
+    ],
+    "conditionFactors": [
+        "Series: Warehouse Diamonds have metal badges and premium boxes.",
+        "Size: Angel's Choice are small 350ml bottles. Value reflects size but rarity is high.",
+        "Glengoyne: MoS bottled some legendary Glengoyne casks.",
+        "Dark Side: Mystery Islay blends. Collectible."
+    ],
+    "pricingFactors": [
+        "Sherry: MoS is famous for 'sherry bombs'. Dark color = high value.",
+        "Isley: Laphroaig and Bunnahabhain MoS bottlings are top tier.",
+        "Series: Warehouse Diamonds are the gold standard.",
+        "Vintage: 1970s fruit bombs."
+    ],
+    "faqs": [
+        {
+            "question": "What is Angel's Choice?",
+            "answer": "The creme de la creme of casks, but often yielded low volumes, so bottled in 350ml."
+        },
+        {
+            "question": "Do you buy 'Images of Islay'?",
+            "answer": "Yes, the landmark series (Port Ellen lighthouse etc)."
+        },
+        {
+            "question": "What is 'Dark Side of Islay'?",
+            "answer": "A blended malt series, usually young and sherry/peat heavy. Solid value."
+        },
+        {
+            "question": "Do you buy Glengoyne?",
+            "answer": "Yes, MoS Glengoyne 1972/1973 casks are legendary."
+        },
+        {
+            "question": "Is it German?",
+            "answer": "Yes, an independent German bottler."
+        },
+        {
+            "question": "How do you handle international bottles?",
+            "answer": "We buy MoS bottles in the US."
+        }
+    ],
+    "relatedLinks": [
+        {
+            "label": "Get an Offer",
+            "href": "/get-offer"
+        },
+        {
+            "label": "Photos for Quote",
+            "href": "/resources/photos-for-quote"
+        },
+        {
+            "label": "How Pricing Works",
+            "href": "/resources/how-pricing-works"
+        },
+        {
+            "label": "Sell Scotch",
+            "href": "/sell/scotch"
+        },
+        {
+            "label": "Sell Macallan",
+            "href": "/sell/macallan"
+        },
+        {
+            "label": "Sell Springbank",
+            "href": "/sell/springbank"
+        },
+        {
+            "label": "Sell Ardbeg",
+            "href": "/sell/ardbeg"
+        }
+    ]
+}

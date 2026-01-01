@@ -1,0 +1,99 @@
+{
+    "slug": "that-boutique-y-whisky-company",
+    "title": "Sell That Boutique-y Whisky Company",
+    "metaTitle": "Sell That Boutique-y Whisky Company | Rare Batches | Proof Cellars",
+    "metaDescription": "Sell your Boutique-y Whisky bottles. We buy the rare age statements, Japanese releases (Karuizawa), and high-value single malts.",
+    "heroHeadline": "Sell Your Boutique-y Whisky Bottles",
+    "heroSubhead": "Direct buyer for That Boutique-y Whisky Company Rare Batches.",
+    "introParagraph": "That Boutique-y Whisky Company (TBWC) bottles single malts, grains, and bourbons with distinctive graphic novel style labels. Their access to rare stock\u2014including Karuizawa and Hanyu\u2014makes them serious contenders.",
+    "categoryType": "scotch",
+    "whatWeBuy": [
+        "TBWC Karuizawa",
+        "TBWC Hanyu",
+        "TBWC Japanese Blended Whisky #1 (Adelphi)",
+        "TBWC Port Ellen",
+        "TBWC Springbank",
+        "TBWC 25+ Year Old Batches"
+    ],
+    "whatWeDoNotBuy": [
+        "TBWC Core Ranges (Standard batches)",
+        "TBWC 50cl bottles (low value releases)",
+        "Open bottles",
+        "Empty bottles"
+    ],
+    "photoChecklist": [
+        "Front label (Comic strip art)",
+        "Batch Number and Age Statement",
+        "Fill level",
+        "Seal condition",
+        "Varying bottle size (50cl vs 70cl)"
+    ],
+    "conditionFactors": [
+        "Label Art: The labels are fun but fragile paper. Check for damage.",
+        "Bottle Size: TBWC typically uses 500ml bottles. This confuses some sellers. Verify volume.",
+        "Batch: Early batches (Batch 1, 2) are significantly more valuable.",
+        "Seal: Wax dipped or foil."
+    ],
+    "pricingFactors": [
+        "Distillery: A TBWC Karuizawa 19 year is a $2,000+ bottle. A TBWC Glen Elo is closer to $50.",
+        "Age: 30, 40, 50 year old releases.",
+        "Series: The 'Cinema' or special artist series.",
+        "Type: Japanese whisky from TBWC is the sweet spot."
+    ],
+    "faqs": [
+        {
+            "question": "Why is the bottle small?",
+            "answer": "TBWC bottles most releases in 500ml (50cl) bottles. We still buy them."
+        },
+        {
+            "question": "Do you buy Boutique-y Rum?",
+            "answer": "Yes, their Rum company releases (e.g. Caroni) are excellent."
+        },
+        {
+            "question": "Is the batch number important?",
+            "answer": "Yes. Batch 1 is always the collector's target."
+        },
+        {
+            "question": "Do you buy the Advent Calendars?",
+            "answer": "Only if sealed. Once opened, the samples are hard to verify."
+        },
+        {
+            "question": "What about 'Blended Whisky #1'?",
+            "answer": "The famous 50-year-old blend? Yes, we buy that."
+        },
+        {
+            "question": "How do you price 500ml bottles?",
+            "answer": "We adjust slightly for volume, but rarity is the main driver."
+        }
+    ],
+    "relatedLinks": [
+        {
+            "label": "Get an Offer",
+            "href": "/get-offer"
+        },
+        {
+            "label": "Photos for Quote",
+            "href": "/resources/photos-for-quote"
+        },
+        {
+            "label": "How Pricing Works",
+            "href": "/resources/how-pricing-works"
+        },
+        {
+            "label": "Sell Scotch",
+            "href": "/sell/scotch"
+        },
+        {
+            "label": "Sell Macallan",
+            "href": "/sell/macallan"
+        },
+        {
+            "label": "Sell Springbank",
+            "href": "/sell/springbank"
+        },
+        {
+            "label": "Sell Ardbeg",
+            "href": "/sell/ardbeg"
+        }
+    ]
+}

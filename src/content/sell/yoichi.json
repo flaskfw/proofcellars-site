@@ -1,0 +1,88 @@
+{
+    "slug": "yoichi",
+    "title": "Sell Yoichi Whisky",
+    "metaTitle": "Sell Nikka Yoichi Whisky | 10, 12, 15, 20 Year Old | Proof Cellars",
+    "metaDescription": "Sell your rare Nikka Yoichi whisky. We buy discontinued age statements (10, 12, 15, 20) and single cask releases.",
+    "heroHeadline": "Sell Your Yoichi Whisky",
+    "heroSubhead": "Buying discontinued Yoichi age statements and single casks.",
+    "introParagraph": "Nikka's Yoichi distillery produces bold, peat-influenced whisky in the style of Scotch. The discontinued age-statement bottles are some of the fastest-appreciating assets in the market.",
+    "categoryType": "japanese-whisky",
+    "whatWeBuy": [
+        "Yoichi 10 Year Old",
+        "Yoichi 12 Year Old",
+        "Yoichi 15 Year Old",
+        "Yoichi 20 Year Old",
+        "Yoichi Single Cask (all vintages)",
+        "Yoichi Limited Editions (Manzanilla, Moscatel, Rum Wood)",
+        "Yoichi 1980s/1990s Vintages"
+    ],
+    "whatWeDoNotBuy": [
+        "Open bottles",
+        "Common 'Single Malt Yoichi' NAS (No Age Statement) unless in bulk",
+        "Bottles with damaged screw caps",
+        "Empty bottles"
+    ],
+    "photoChecklist": [
+        "Front label clearly showing '10', '12', '15', or '20'",
+        "Back label for volume (700ml vs 750ml)",
+        "Box condition (wooden vs cardboard)",
+        "Capsule/Screw cap seal",
+        "Fill level"
+    ],
+    "conditionFactors": [
+        "Discontinued Status: Age statements were discontinued in 2015, making condition vital",
+        "Box: 15 and 20 year often came in presentation boxes which add value",
+        "Label Stains: The white labels are prone to staining",
+        "Cap Seal: Check for cracks in the plastic wrapper"
+    ],
+    "pricingFactors": [
+        "Age Statement: The 15 and 20 Year are high-value collector items",
+        "Single Cask: Cask strength single casks command premium prices based on vintage",
+        "Wood Finish: Limited wood finishes (Rum, Sherry etc) are niche but valuable",
+        "Volume: 500ml variants (common in Japan) trade lower than 700/750ml"
+    ],
+    "faqs": [
+        {
+            "question": "Is my Yoichi 'NAS' valuable?",
+            "answer": "The standard No Age Statement Yoichi available today is common. We buy it, but for a lower price."
+        },
+        {
+            "question": "What about the 500ml bottles?",
+            "answer": "We buy them, but the offer is adjusted for the smaller volume."
+        },
+        {
+            "question": "Do you buy 'Wood Finish' editions?",
+            "answer": "Yes, we look for Yoichi Rum Wood, Sherry Wood, and Bourbon Wood finishes."
+        },
+        {
+            "question": "Why is the 20 Year so expensive?",
+            "answer": "It was discontinued years ago and stocks are extremely low globally."
+        },
+        {
+            "question": "Do I need the original box?",
+            "answer": "For vintage and age-statement bottles, yes, the box adds significant value."
+        },
+        {
+            "question": "Do you buy 'Nikka From the Barrel'?",
+            "answer": "Generally only in bulk cases, as individual bottles are lower value."
+        }
+    ],
+    "relatedLinks": [
+        {
+            "label": "Get an Offer",
+            "href": "/get-offer"
+        },
+        {
+            "label": "Sell Japanese Whisky",
+            "href": "/sell/japanese-whisky"
+        },
+        {
+            "label": "Photos for Quote",
+            "href": "/resources/photos-for-quote"
+        },
+        {
+            "label": "How Pricing Works",
+            "href": "/resources/how-pricing-works"
+        }
+    ]
+}

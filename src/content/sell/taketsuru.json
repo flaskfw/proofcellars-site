@@ -1,0 +1,86 @@
+{
+    "slug": "taketsuru",
+    "title": "Sell Taketsuru Pure Malt",
+    "metaTitle": "Sell Taketsuru Pure Malt | 17, 21, 25 Year | Proof Cellars",
+    "metaDescription": "Sell your Taketsuru whisky. We buy the discontinued 17, 21, and 25 Year Old Pure Malts. Get a direct quote.",
+    "heroHeadline": "Sell Your Taketsuru Whisky",
+    "heroSubhead": "Direct purchase of Taketsuru 17, 21, and 25 Year Old Pure Malts.",
+    "introParagraph": "Named after the father of Japanese whisky, Masataka Taketsuru, this pure malt series is iconic. The age-statement bottles are famously scarce.",
+    "categoryType": "japanese-whisky",
+    "whatWeBuy": [
+        "Taketsuru 17 Year Old",
+        "Taketsuru 21 Year Old",
+        "Taketsuru 25 Year Old",
+        "Taketsuru 35 Year Old",
+        "Taketsuru Fortune '80"
+    ],
+    "whatWeDoNotBuy": [
+        "Taketsuru NAS (White Label) - Current Release (unless bulk)",
+        "Open bottles",
+        "Bottles with damaged caps",
+        "Empty bottles"
+    ],
+    "photoChecklist": [
+        "Front label age statement large 17/21/25",
+        "Back label for volume (700ml/750ml)",
+        "Box condition",
+        "Seal integrity",
+        "Glass code"
+    ],
+    "conditionFactors": [
+        "Label Style: Differentiating between the old 'Black Label' NAS and the new 'White Label' NAS",
+        "Box: 21 and 25 year presentation boxes are heavy and specific",
+        "Seal: Check for cracks in the black plastic seal",
+        "Fill Level: Into neck is standard"
+    ],
+    "pricingFactors": [
+        "Age: 25 Year is the peak, followed by 21. 17 is the entry-level investment grade.",
+        "Awards: Taketsuru 21 won 'World's Best Blended Malt' multiple times, driving price.",
+        "Label Version: Older bottlings (pre-2015) may carry a slight premium.",
+        "Volume: 700ml (EU/Japan) vs 750ml (US) impacts offer slightly."
+    ],
+    "faqs": [
+        {
+            "question": "Why did they discontinue the 17/21?",
+            "answer": "Shortage of aged stock. They simply ran out of old whisky."
+        },
+        {
+            "question": "Is my NAS bottle worth anything?",
+            "answer": "The black label NAS (old style) is worth slightly more than the current white label, but far less than the 17yr."
+        },
+        {
+            "question": "Do you buy the 35 Year Old?",
+            "answer": "Yes, this is an ultra-premium bottle. We require inspection."
+        },
+        {
+            "question": "Do I need the box?",
+            "answer": "For 21 and 25 year, yes. For 17 year, it is preferred but not mandatory."
+        },
+        {
+            "question": "What is 'Pure Malt'?",
+            "answer": "It means a blend of single malts (no grain whisky) from Nikka's two distilleries: Yoichi and Miyagikyo."
+        },
+        {
+            "question": "How do I ship it?",
+            "answer": "Securely in a strong box. We provide the label."
+        }
+    ],
+    "relatedLinks": [
+        {
+            "label": "Get an Offer",
+            "href": "/get-offer"
+        },
+        {
+            "label": "Sell Nikka Aged",
+            "href": "/sell/nikka-aged"
+        },
+        {
+            "label": "Photos for Quote",
+            "href": "/resources/photos-for-quote"
+        },
+        {
+            "label": "How Pricing Works",
+            "href": "/resources/how-pricing-works"
+        }
+    ]
+}

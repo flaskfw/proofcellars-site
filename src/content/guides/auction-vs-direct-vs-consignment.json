@@ -1,0 +1,127 @@
+{
+    "slug": "auction-vs-direct-vs-consignment",
+    "title": "Auction vs Direct Purchase vs Consignment",
+    "metaTitle": "Auction vs Direct Sale vs Consignment | Wine Selling Options | Proof Cellars",
+    "metaDescription": "Deep dive into the three main ways to sell wine. Understand the fee structures, risks, and timelines of Auctions vs Direct Buyers.",
+    "category": "practical",
+    "publishedDate": "2024-03-21",
+    "summary": "How to choose a path based on speed, certainty, and the types of bottles you have.",
+    "tableOfContents": [
+        "Quick Answer",
+        "Detailed Breakdown: Auctions",
+        "Detailed Breakdown: Direct Purchase",
+        "Detailed Breakdown: Consignment",
+        "Hidden Fees Checklist",
+        "What to Do Next"
+    ],
+    "sections": [
+        {
+            "heading": "Quick Answer",
+            "content": [
+                "Choose based on risk tolerance."
+            ],
+            "list": [
+                "Auction: High Risk / High Reward / Slow.",
+                "Direct Purchase: Zero Risk / Fixed Reward / Fast.",
+                "Consignment: Medium Risk / Medium Reward / Slow."
+            ]
+        },
+        {
+            "heading": "Detailed Breakdown: Auctions",
+            "content": [
+                "Auctions are theater. They rely on two bidders getting into a fight to drive up price."
+            ],
+            "list": [
+                "Buyer's Premium: The buyer pays ~25% on top of the hammer price. This limits what they bid.",
+                "Seller's Commission: You pay ~15% to 0% depending on value.",
+                "Listing Fees: Insurance, photography, cataloging fees add up.",
+                "Timeline: Submission -> Catalog (1 month) -> Auction (1 month) -> Collection (1 month) -> Payout (1 month)."
+            ]
+        },
+        {
+            "heading": "Detailed Breakdown: Direct Purchase",
+            "content": [
+                "A simple transaction. We agree on a number, we pay, we take it."
+            ],
+            "list": [
+                "Fees: None (net to you).",
+                "Timeline: Submission -> Quote (2 days) -> Payment -> Pickup (1 week).",
+                "Certainty: 100%. No 'unsold' lots."
+            ]
+        },
+        {
+            "heading": "Detailed Breakdown: Consignment",
+            "content": [
+                "You place wine in a retailer's shop. When it sells, you get paid."
+            ],
+            "list": [
+                "Split: Typically 75/25 or 80/20 (You get the larger share).",
+                "Control: You often set the price.",
+                "Speed: Glacial. It sells when a customer walks in and wants it."
+            ]
+        },
+        {
+            "heading": "Hidden Fees Checklist",
+            "content": [
+                "Ask before you sign."
+            ],
+            "list": [
+                "Insurance Fee (usually 1%).",
+                "Pickup/Logistics Fee.",
+                "Buy-back Fee (cost to get your own wine back if it doesn't sell).",
+                "Photography Fee."
+            ]
+        },
+        {
+            "heading": "What to Do Next",
+            "content": [
+                "Evaluate your bottle."
+            ],
+            "list": [
+                "Is it a $10,000 bottle? Maybe try auction.",
+                "Is it a $200 bottle? Direct sale is far more efficient.",
+                "Get a Direct Offer from us first to set a baseline."
+            ]
+        }
+    ],
+    "faqs": [
+        {
+            "question": "Why do auctions take so long?",
+            "answer": "They usually run quarterly or monthly schedules and need time to print catalogs and market the sale."
+        },
+        {
+            "question": "Can I set a reserve price?",
+            "answer": "Yes, but if the reserve isn't met, the wine doesn't sell and you often still pay fees."
+        },
+        {
+            "question": "Do you offer consignment?",
+            "answer": "Sometimes, for exceptional collections where the seller wants to wait for a specific price."
+        },
+        {
+            "question": "Who buys at auction?",
+            "answer": "Collectors, investors, and sometimes restaurants."
+        },
+        {
+            "question": "Is direct sale fairer?",
+            "answer": "It is more transparent. You know exactly what you get."
+        }
+    ],
+    "relatedLinks": [
+        {
+            "label": "Get an Offer",
+            "href": "/get-offer"
+        },
+        {
+            "label": "Best Way to Sell",
+            "href": "/guides/best-way-to-sell-wine-collection"
+        },
+        {
+            "label": "How Pricing Works",
+            "href": "/resources/how-pricing-works"
+        },
+        {
+            "label": "Sell Wine",
+            "href": "/sell/wine"
+        }
+    ]
+}

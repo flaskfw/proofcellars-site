@@ -1,0 +1,86 @@
+{
+    "slug": "hanyo",
+    "title": "Sell Hanyu Whisky",
+    "metaTitle": "Sell Hanyu Whisky | Card Series & Ichiro's Malt | Proof Cellars",
+    "metaDescription": "Sell your Hanyu whisky. We buy the Ichiro's Malt Card Series and other rare Hanyu releases from this closed distillery.",
+    "heroHeadline": "Sell Your Hanyu Whisky",
+    "heroSubhead": "Buying the Card Series and rare Hanyu single casks.",
+    "introParagraph": "Hanyu, the closed distillery behind the legendary 'Card Series', is a cornerstone of Japanese whisky collecting. We purchase verified Hanyu bottles.",
+    "categoryType": "japanese-whisky",
+    "whatWeBuy": [
+        "Ichiro's Malt Card Series (Ace of Spades, Joker, etc.)",
+        "Hanyu Nice Butt",
+        "Hanyu The Joker (Monochrome/Color)",
+        "Hanyu Final Vintage 2000",
+        "Hanyu Single Casks",
+        "Golden Horse (Hanyu Era)"
+    ],
+    "whatWeDoNotBuy": [
+        "Fake bottles (Authentication required)",
+        "Empty bottles",
+        "Modern 'Golden Horse' blends (non-Hanyu stock)"
+    ],
+    "photoChecklist": [
+        "Front label identifying the 'Card' or Release",
+        "Back label with Cask # and Bottle #",
+        "Capsule condition",
+        "Box availability",
+        "Provenance info"
+    ],
+    "conditionFactors": [
+        "Label condition: Card Series labels are iconic; damage hurts value.",
+        "Capsule: Check for integrity.",
+        "Fill level: Standard check.",
+        "Authenticity: Hanyu is a target for fakes. We verify carefully."
+    ],
+    "pricingFactors": [
+        "The Card: 'Poker Hands' (Royal Flush) are worth more than random cards. 'Joker' is the peak.",
+        "Series Completeness: If you have a full suit, let us know.",
+        "Vintage: Early 90s vs late 2000s stock.",
+        "Rarity: Total outturn of the cask."
+    ],
+    "faqs": [
+        {
+            "question": "What is the Card Series?",
+            "answer": "A series of 54 bottles (deck of cards + jokers) released by Ichiro Akuto using Hanyu stock. A full set sold for nearly $1M."
+        },
+        {
+            "question": "Do you buy single Cards?",
+            "answer": "Yes, absolutely. We buy individual Clubs, Hearts, Spades, and Diamonds."
+        },
+        {
+            "question": "What is 'Nice Butt'?",
+            "answer": "A pun on the 'Butt' cask size. It's a collectible Hanyu release."
+        },
+        {
+            "question": "Do you buy Golden Horse?",
+            "answer": "Only if it is vintage era Hanyu stock, not the modern supermarket blend."
+        },
+        {
+            "question": "How do you pay for high value items?",
+            "answer": "Wire transfer."
+        },
+        {
+            "question": "Is Hanyu better than Karuizawa?",
+            "answer": "Different. Karuizawa is sherry-heavy/peaty. Hanyu is often wood-driven and complex."
+        }
+    ],
+    "relatedLinks": [
+        {
+            "label": "Get an Offer",
+            "href": "/get-offer"
+        },
+        {
+            "label": "Sell Chichibu",
+            "href": "/sell/chichibu"
+        },
+        {
+            "label": "Sell Karuizawa",
+            "href": "/sell/karuizawa"
+        },
+        {
+            "label": "How Pricing Works",
+            "href": "/resources/how-pricing-works"
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "slug": "ullage-fill-level-guide",
+    "title": "Ullage and Fill Levels Explained: Quick Guide for Sellers",
+    "metaTitle": "Ullage and Fill Level Guide | Wine Valuation | Proof Cellars",
+    "metaDescription": "Understanding ullage (fill level) is critical for selling wine. Learn terms like 'Into Neck', 'Top Shoulder', and how they affect price.",
+    "category": "condition",
+    "publishedDate": "2024-03-20",
+    "summary": "A simple visual and terminology guide for fill levels and how they impact value.",
+    "tableOfContents": [
+        "Quick Answer",
+        "Bordeaux Terms (Shoulder)",
+        "Burgundy Terms (CM)",
+        "Why Levels Drop",
+        "Common Mistakes",
+        "What to Do Next"
+    ],
+    "sections": [
+        {
+            "heading": "Quick Answer",
+            "content": [
+                "Ullage is the empty space between the cork and the wine. As wine ages, it slowly evaporates, lowering the level. Lower level = Higher oxidation risk = Lower value."
+            ],
+            "list": [
+                "Into Neck: Perfect/Like New.",
+                "Base Neck: Acceptable for any age.",
+                "Top Shoulder: Good for wines >20 years old.",
+                "Mid Shoulder: Risky, major value drop.",
+                "Low Shoulder: Drinkability unlikely, value is minimal."
+            ]
+        },
+        {
+            "heading": "Bordeaux Terms (Shoulder)",
+            "content": [
+                "For Bordeaux-shaped bottles (high shoulders), we describe where the line hits the curve."
+            ],
+            "list": [
+                "Into Neck (IN): Wine is up in the narrow neck. Standard for young wines.",
+                "Base of Neck (BN): At the wider base of the neck. Normal for 10-15 year old wines.",
+                "Top Shoulder (TS): Level has dropped to the start of the curve. Acceptable for 1980s era.",
+                "Very Top Shoulder (VTS): Between BN and TS.",
+                "Mid Shoulder (MS): Level is halfway down the curve. The cork is drying out. Saleable only if rare."
+            ]
+        },
+        {
+            "heading": "Burgundy Terms (CM)",
+            "content": [
+                "For Burgundy/Rhone bottles (sloping shoulders), there is no 'shoulder' to measure. We measure the gap in centimeters (cm) from the cork."
+            ],
+            "list": [
+                "<2cm: Excellent.",
+                "2-3cm: Normal for age.",
+                "3-5cm: Warning sign.",
+                "5cm+: High risk."
+            ]
+        },
+        {
+            "heading": "Why Levels Drop",
+            "content": [
+                "Every cork breathes. Over decades, tiny amounts of water and alcohol vapor escape."
+            ],
+            "list": [
+                "Good Ullage: Slow, natural evaporation over 40 years (Top Shoulder on a 1961 is great).",
+                "Bad Ullage: Fast drop due to heat or loose cork (Mid Shoulder on a 2010 is ruined)."
+            ]
+        },
+        {
+            "heading": "Common Mistakes",
+            "content": [
+                "Failing to check fill levels before buying or selling."
+            ],
+            "list": [
+                "Buying a 'bargain' bottle with Low Shoulder fill (it's vinegar).",
+                "Photographing bottles lying down (we can't see the fill level!). Stand them up for photos.",
+                "Confusing sediment for fill level (shine a light to see the liquid line)."
+            ]
+        },
+        {
+            "heading": "What to Do Next",
+            "content": [
+                "Assess your bottles."
+            ],
+            "list": [
+                "Stand old bottles up for 24 hours.",
+                "Use a flashlight to see the line clearly.",
+                "Compare against our chart descriptions.",
+                "Submit photos so we can classify the ullage accurately."
+            ]
+        }
+    ],
+    "faqs": [
+        {
+            "question": "Is Low Shoulder ever okay?",
+            "answer": "Only for extremely old antiques (e.g., 1800s-1940s) where any surviving liquid is historical."
+        },
+        {
+            "question": "Do spirits suffer ullage?",
+            "answer": "Yes, but spirits don't oxidize like wine. Lower fill in whiskey means less quantity, but flavor might still be fine. We still deduct for 'angels share' loss."
+        },
+        {
+            "question": "How do you measure blind?",
+            "answer": "We use bright LED lights to see through dark glass. If we can't see, we weigh the bottle."
+        },
+        {
+            "question": "Does ullage affect price?",
+            "answer": "Yes. A 'Base Neck' bottle might sell for $1000, while a 'Mid Shoulder' of the same wine might be $300."
+        },
+        {
+            "question": "What is 'High Fill'?",
+            "answer": "A synonym for Into Neck or very high level, indicating excellent storage."
+        }
+    ],
+    "relatedLinks": [
+        {
+            "label": "Get an Offer",
+            "href": "/get-offer"
+        },
+        {
+            "label": "Condition Guide",
+            "href": "/guides/condition-matters"
+        },
+        {
+            "label": "Photos for Quote",
+            "href": "/resources/photos-for-quote"
+        },
+        {
+            "label": "Sell Wine",
+            "href": "/sell/wine"
+        }
+    ]
+}

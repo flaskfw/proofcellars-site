@@ -1,0 +1,87 @@
+{
+    "slug": "brora",
+    "title": "Sell Brora Whisky",
+    "metaTitle": "Sell Brora Whisky | Annual Releases & Rare Malts | Proof Cellars",
+    "metaDescription": "Sell your Brora whisky. We buy Brora 30 Year Old Annual Releases, Rare Malts Selections, and independent bottlings from this Highlanders legend.",
+    "heroHeadline": "Sell Your Brora Whisky",
+    "heroSubhead": "Direct buyer for Brora Annual Releases and rare 1972/1976 vintages.",
+    "introParagraph": "Brora closed in 1983 alongside Port Ellen. Known for its waxy, farmyard, lightly peated profile, it is a cult favorite among connoisseurs.",
+    "categoryType": "scotch",
+    "whatWeBuy": [
+        "Brora 30 Year Old (Annual Releases 1st-9th)",
+        "Brora 35 Year Old",
+        "Brora 40 Year Old",
+        "Brora Rare Malts Selection (20yo, 22yo, 24yo)",
+        "Brora Douglas Laing / Old Particular",
+        "Brora Signatory Vintage"
+    ],
+    "whatWeDoNotBuy": [
+        "Fake bottles",
+        "Low fill bottles",
+        "Empty bottles",
+        "New Make Spirit (from the reopening)"
+    ],
+    "photoChecklist": [
+        "Front label showing Vintage and Age",
+        "Back label showing Bottle % ABV",
+        "Neck level verification",
+        "Tube/Box condition",
+        "Closure condition"
+    ],
+    "conditionFactors": [
+        "Rare Malts Fill: The Rare Malts series often has fill level issues. Neck is best.",
+        "Box: Annual releases have specific stoppers and boxes. Completeness matters.",
+        "Labels: Brora labels are generally robust, but check for scuffs.",
+        "Capsule: Verify the foil is tight and unspun."
+    ],
+    "pricingFactors": [
+        "Vintage: 1972 is the legendary Brora vintage. 1976 is also prized.",
+        "Release: The 1st Annual Release (2002) commands a premium.",
+        "Series: Rare Malts Selection bottles (cask strength) are highly liquid assets.",
+        "Bottler: Official bottlings are safest, but top-tier Indies sell well."
+    ],
+    "faqs": [
+        {
+            "question": "What is the 'Rare Malts Selection'?",
+            "answer": "A defining series in the 90s/00s. Brora released in this series (white label, map of Scotland) is excellent."
+        },
+        {
+            "question": "Is Brora peated?",
+            "answer": "Yes, older Brora (early 70s) is quite peaty. Later Brora is more waxy. Both are valuable."
+        },
+        {
+            "question": "Do you buy Brora 30 Year?",
+            "answer": "Yes, all releases of the 30 Year Old."
+        },
+        {
+            "question": "What if I lost the box?",
+            "answer": "We deduct a small percentage (usually 5-10%) for missing packaging on high-end bottles."
+        },
+        {
+            "question": "Do you buy Clynelish?",
+            "answer": "Yes, Clynelish is Brora's sister distillery. We buy older Clynelish bottlings."
+        },
+        {
+            "question": "How fast can I get paid?",
+            "answer": "We typically pay within 24 hours of verifying the bottle."
+        }
+    ],
+    "relatedLinks": [
+        {
+            "label": "Get an Offer",
+            "href": "/get-offer"
+        },
+        {
+            "label": "Sell Port Ellen",
+            "href": "/sell/port-ellen"
+        },
+        {
+            "label": "Sell Scotch",
+            "href": "/sell/scotch"
+        },
+        {
+            "label": "How Pricing Works",
+            "href": "/resources/how-pricing-works"
+        }
+    ]
+}

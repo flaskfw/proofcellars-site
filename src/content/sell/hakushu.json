@@ -1,0 +1,90 @@
+{
+    "slug": "hakushu",
+    "title": "Sell Hakushu Whisky",
+    "metaTitle": "Sell Hakushu Whisky | 12, 18, 25 Year & Limited Editions | Proof Cellars",
+    "metaDescription": "Sell your Hakushu whisky for a direct cash offer. We buy Hakushu 12, 18, 25, and limited releases like the Peated Malt series.",
+    "heroHeadline": "Sell Your Hakushu Whisky",
+    "heroSubhead": "Direct purchase of Hakushu 12, 18, 25, and rare limited editions.",
+    "introParagraph": "Hakushu, known as the 'forest distillery', produces some of the most sought-after peated Japanese whiskies. We purchase all age statements and limited releases.",
+    "categoryType": "japanese-whisky",
+    "whatWeBuy": [
+        "Hakushu 12 Year Old",
+        "Hakushu 18 Year Old",
+        "Hakushu 25 Year Old",
+        "Hakushu Distiller's Reserve",
+        "Hakushu Peated Malt Editions",
+        "Hakushu Spanish Oak Editions",
+        "Hakushu Puncheon and Sherry Cask",
+        "Suntory Owner's Cask Hakushu"
+    ],
+    "whatWeDoNotBuy": [
+        "Resealed or open bottles",
+        "Bottles with severe leakage",
+        "Counterfeit or refilled bottles",
+        "Empty bottles",
+        "Miniatures (under 50ml) unless rare sets"
+    ],
+    "photoChecklist": [
+        "Front label clearly showing age statement",
+        "Back label showing import info",
+        "Capsule/Seal condition",
+        "Box and accompanying booklets (if any)",
+        "Fill level"
+    ],
+    "conditionFactors": [
+        "Original Box: Presence of the green carton significantly affects value",
+        "Import Labels: US vs Japanese domestic releases vary in price",
+        "Fading: Green bottles hide fill level, use a light test",
+        "Capsule: Check for cracks in the foil on older 18/25 releases"
+    ],
+    "pricingFactors": [
+        "Age Statement: 25 Year commands a massive premium over 18",
+        "Discontinued Label: 'Pure Malt' vs 'Single Malt' labeling",
+        "Limited Edition: Peated Malt 2013/2012 editions are highly valued",
+        "Market Demand: High global demand for age-statement Hakushu"
+    ],
+    "faqs": [
+        {
+            "question": "Do you buy the 12 Year Old?",
+            "answer": "Yes, we buy Hakushu 12 Year Old, especially older bottlings."
+        },
+        {
+            "question": "What is the difference between Pure Malt and Single Malt?",
+            "answer": "Older bottlings were labeled 'Pure Malt'. These are often more valuable to collectors than the modern 'Single Malt' labels."
+        },
+        {
+            "question": "Do I need the box?",
+            "answer": "For the 18 and 25 Year, the box is critical for full value. For the 12 Year, it is less important."
+        },
+        {
+            "question": "Can I sell the 'Distiller's Reserve'?",
+            "answer": "Yes, though the offer will be lower than age-statement bottles as it is a NAS (No Age Statement) release."
+        },
+        {
+            "question": "How do I check the fill level on the green bottle?",
+            "answer": "Hold a flashlight behind the bottle neck. We need to see the liquid line."
+        },
+        {
+            "question": "Do you buy airport editions?",
+            "answer": "Yes, we buy travel retail exclusives like the Hakushu 18 Limited Edition."
+        }
+    ],
+    "relatedLinks": [
+        {
+            "label": "Get an Offer",
+            "href": "/get-offer"
+        },
+        {
+            "label": "Sell Japanese Whisky",
+            "href": "/sell/japanese-whisky"
+        },
+        {
+            "label": "Photos for Quote",
+            "href": "/resources/photos-for-quote"
+        },
+        {
+            "label": "How Pricing Works",
+            "href": "/resources/how-pricing-works"
+        }
+    ]
+}

@@ -14,7 +14,7 @@
         "Giuseppe Rinaldi Barolo (Tre Tine, Brunate)",
         "Bruno Giacosa Barolo and Barbaresco (Red Label Riservas)",
         "Gaja Barbaresco and Single Vineyards (Sori San Lorenzo, etc.)",
-        "Cappellano Barolo Piè Franco",
+        "Cappellano Barolo Pi\u00e8 Franco",
         "Vietti Barolo Villero/Rocche"
     ],
     "whatWeDoNotBuy": [
@@ -74,16 +74,32 @@
             "href": "/get-offer"
         },
         {
-            "label": "Sell Wine",
-            "href": "/sell/wine"
+            "label": "Photos for Quote",
+            "href": "/resources/photos-for-quote"
         },
         {
-            "label": "Sell Super Tuscans",
-            "href": "/sell/super-tuscan"
+            "label": "How Pricing Works",
+            "href": "/resources/how-pricing-works"
         },
         {
-            "label": "Sell Brunello",
-            "href": "/sell/brunello"
+            "label": "Sell Wine Collection",
+            "href": "/sell/wine-collection"
+        },
+        {
+            "label": "Ullage and Fill Levels",
+            "href": "/guides/ullage-fill-level-guide"
+        },
+        {
+            "label": "Seepage and Leakage",
+            "href": "/guides/seepage-and-leakage-explained"
+        },
+        {
+            "label": "Documenting Provenance",
+            "href": "/guides/how-to-document-provenance"
+        },
+        {
+            "label": "Packing Guide",
+            "href": "/resources/packing-guide"
         }
     ]
 }

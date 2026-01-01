@@ -32,6 +32,14 @@ ${baseUrl}/sell/napa-cult - Sell Napa cult wines
 ${baseUrl}/sell/eh-taylor - Sell E.H. Taylor
 ${baseUrl}/sell/old-forester-birthday-bourbon - Sell Old Forester Birthday Bourbon
 ${baseUrl}/sell/wild-turkey-masters-keep - Sell Master's Keep
+${baseUrl}/sell/cadenheads - Sell Cadenhead's
+${baseUrl}/sell/gordon-and-macphail - Sell Gordon & MacPhail
+${baseUrl}/sell/samaroli - Sell Samaroli
+${baseUrl}/sell/smws - Sell SMWS (Scotch Malt Whisky Society)
+${baseUrl}/sell/adelphi - Sell Adelphi & Ardnamurchan
+${baseUrl}/sell/compass-box - Sell Compass Box
+${baseUrl}/sell/single-cask-nation - Sell Single Cask Nation
+${baseUrl}/sell/thompson-bros - Sell Thompson Bros
 ${baseUrl}/sell/laphroaig - Sell Laphroaig
 ${baseUrl}/sell/balvenie - Sell Balvenie
 ${baseUrl}/sell/lafite-rothschild - Sell Chateau Lafite Rothschild
@@ -42,6 +50,14 @@ ${baseUrl}/sell/dom-perignon - Sell Dom Pérignon
 ${baseUrl}/sell/louis-xiii - Sell Louis XIII Cognac
 ${baseUrl}/sell/tears-of-llorona - Sell Tears of Llorona
 ${baseUrl}/sell/fortaleza - Sell Fortaleza
+${baseUrl}/sell/hakushu - Sell Hakushu Whisky
+${baseUrl}/sell/chichibu - Sell Chichibu Whisky
+${baseUrl}/sell/karuizawa - Sell Karuizawa Whisky
+${baseUrl}/sell/port-ellen - Sell Port Ellen
+${baseUrl}/sell/brora - Sell Brora
+${baseUrl}/sell/rosebank - Sell Rosebank
+${baseUrl}/sell/macallan-fine-and-rare - Sell Macallan Fine & Rare
+${baseUrl}/sell/springbank-local-barley - Sell Springbank Local Barley
 
 ## Resources
 ${baseUrl}/resources - Resources hub
@@ -57,7 +73,11 @@ ${baseUrl}/guides/estate-executor - Guide for estate executors
 ${baseUrl}/guides/downsizing-moving - Selling when downsizing
 ${baseUrl}/guides/consignment-vs-direct - Consignment vs direct sale
 ${baseUrl}/guides/condition-matters - Why condition matters
-
+${baseUrl}/guides/trust-administrator-guide - Trust Administrator Guide
+${baseUrl}/guides/probate-inventory-checklist - Probate Inventory Checklist
+${baseUrl}/guides/heat-damage-signs-wine - Heat Damage Signs in Wine
+${baseUrl}/guides/avoiding-scams-and-fake-buyers - Avoiding Scams When Selling
+${baseUrl}/guides/authorization-checklist-household-staff - Staff Authorization Checklist
 ## Legal
 ${baseUrl}/privacy - Privacy policy
 ${baseUrl}/terms - Terms of use

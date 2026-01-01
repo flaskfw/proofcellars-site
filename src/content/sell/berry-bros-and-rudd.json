@@ -1,0 +1,99 @@
+{
+    "slug": "berry-bros-and-rudd",
+    "title": "Sell Berry Bros. & Rudd Whisky",
+    "metaTitle": "Sell Berry Bros. & Rudd Whisky | Single Casks & Retro Labels | Proof Cellars",
+    "metaDescription": "Sell your Berry Bros. & Rudd whisky. We buy the 'Berry's Own Selection' single casks, Retro Labels, and Perspective Series.",
+    "heroHeadline": "Sell Your Berry Bros. & Rudd Whisky",
+    "heroSubhead": "Direct buyer for Berry's Own Selection single casks.",
+    "introParagraph": "Berry Bros. & Rudd is Britain's oldest wine and spirit merchant (est. 1698). Their single cask whiskies are known for elegance, fruit-forward profiles, and impeccable selection.",
+    "categoryType": "scotch",
+    "whatWeBuy": [
+        "Berry's Own Selection (Single Casks)",
+        "Berry Bros. Perspective Series",
+        "Berry Bros. Retro Labels (Vintages)",
+        "Berry Bros. Exceptional Casks",
+        "Berry Bros. Blue Hanger (Blended Malt)",
+        "The King's Ransom (Vintage)"
+    ],
+    "whatWeDoNotBuy": [
+        "Cutty Sark (Standard Blend)",
+        "Berry Bros. Classic Range (Standard 44.2%)",
+        "Open bottles",
+        "Empty bottles"
+    ],
+    "photoChecklist": [
+        "Front label showing Vintage and Cask #",
+        "Bottle shape (Tall wine style vs short)",
+        "Fill level",
+        "Seal condition",
+        "Box availability"
+    ],
+    "conditionFactors": [
+        "Label Style: 'Retro' labels (colorful, cartoony) from the 2000s are highly collectible.",
+        "Bottle Shape: BBR uses green/brown wine-style bottles. Check for glass color.",
+        "Fill: Generally stable, but check older releases.",
+        "Capsule: Standard foil."
+    ],
+    "pricingFactors": [
+        "Distillery: Top tier distillers (Clynelish, Littlemill, Bowmore) in BBR livery sell well.",
+        "Blue Hanger: The numbered releases (e.g., Release 11) are collectible limited editions.",
+        "Exceptional Casks: High age, wood box releases.",
+        "Vintage: 1970s vintages are the sweet spot."
+    ],
+    "faqs": [
+        {
+            "question": "Do you buy Cutty Sark?",
+            "answer": "Only the 25 Year Old or vintage 1970s bottlings. Not the standard yellow label."
+        },
+        {
+            "question": "What is Blue Hanger?",
+            "answer": "A premium blended malt named after William Hanger. Early batches are valuable."
+        },
+        {
+            "question": "Do you buy 'The Perspective Series'?",
+            "answer": "Yes, the photography label series (21, 25, 35, 40 Year) is excellent."
+        },
+        {
+            "question": "Is Berry's Own Selection valuable?",
+            "answer": "The single casks are excellent. Value depends entirely on the distillery and age."
+        },
+        {
+            "question": "Do you buy Rum?",
+            "answer": "Yes, Berry Bros. Rums (Jamaica, Guyana) are very popular."
+        },
+        {
+            "question": "How do you pay?",
+            "answer": "Bank transfer or check."
+        }
+    ],
+    "relatedLinks": [
+        {
+            "label": "Get an Offer",
+            "href": "/get-offer"
+        },
+        {
+            "label": "Photos for Quote",
+            "href": "/resources/photos-for-quote"
+        },
+        {
+            "label": "How Pricing Works",
+            "href": "/resources/how-pricing-works"
+        },
+        {
+            "label": "Sell Scotch",
+            "href": "/sell/scotch"
+        },
+        {
+            "label": "Sell Macallan",
+            "href": "/sell/macallan"
+        },
+        {
+            "label": "Sell Springbank",
+            "href": "/sell/springbank"
+        },
+        {
+            "label": "Sell Ardbeg",
+            "href": "/sell/ardbeg"
+        }
+    ]
+}

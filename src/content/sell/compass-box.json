@@ -1,0 +1,101 @@
+{
+    "slug": "compass-box",
+    "title": "Sell Compass Box Whisky",
+    "metaTitle": "Sell Compass Box Whisky | Limited Editions & Vintages | Proof Cellars",
+    "metaDescription": "Sell your Compass Box whisky. We buy limited editions like Hedonism, The General, This Is Not A Luxury Whisky, and Tobias & The Angel.",
+    "heroHeadline": "Sell Your Compass Box Whisky",
+    "heroSubhead": "Direct buyer for Compass Box Limited Editions.",
+    "introParagraph": "Compass Box revolutionized Scotch blending. Their limited editions are artistic masterpieces of both liquid and design. We buy the rare, discontinued releases.",
+    "categoryType": "scotch",
+    "whatWeBuy": [
+        "Compass Box The General",
+        "Compass Box Lady Luck",
+        "Compass Box Hedonism (First Releases/Special Editions)",
+        "Compass Box This Is Not A Luxury Whisky",
+        "Compass Box Tobias & The Angel",
+        "Compass Box Eleuthera (First Bottling)",
+        "Compass Box Flaming Heart (1st - 5th Edition)"
+    ],
+    "whatWeDoNotBuy": [
+        "Compass Box Great King Street (Standard)",
+        "Compass Box Glasgow Blend (Standard)",
+        "Compass Box Artist Blend (Standard)",
+        "Compass Box Peat Monster (Standard)",
+        "Open bottles"
+    ],
+    "photoChecklist": [
+        "Front label (Artistic)",
+        "Back label for Batch/Edition code",
+        "Box condition (Luxury boxes)",
+        "Fill level",
+        "Seal condition"
+    ],
+    "conditionFactors": [
+        "Edition: 'Flaming Heart' has many editions (15th anniversary, etc). 1st Edition is key.",
+        "Label: Beautiful paper labels. Scuffs hurt.",
+        "Box: 'This Is Not A Luxury Whisky' has no box, but others like 'The General' do.",
+        "Fill: Generally modern and good."
+    ],
+    "pricingFactors": [
+        "Rarity: 'The General' and 'Lady Luck' are the unicorns (> $1000).",
+        "Discontinued: 'Eleuthera' and 'Asyla' are gone, so they have value.",
+        "Edition: Anniversary bottlings command premiums.",
+        "Hedonism: The original grain whisky that started it all. First bottlings are rare."
+    ],
+    "faqs": [
+        {
+            "question": "Do you buy Peat Monster?",
+            "answer": "Only the Arcana, Cask Strength, or 10th Anniversary editions."
+        },
+        {
+            "question": "What is 'The General'?",
+            "answer": "A legendary blend of two casks aged 33 years. Extremely rare."
+        },
+        {
+            "question": "Do you buy 'No Name'?",
+            "answer": "Yes, No Name 1, 2, and 3 are collectible peat monsters."
+        },
+        {
+            "question": "Do you buy 'Spice Tree Extravaganza'?",
+            "answer": "Yes."
+        },
+        {
+            "question": "Is blended whisky valuable?",
+            "answer": "Compass Box proved it is. Their high-end blends rival any single malt."
+        },
+        {
+            "question": "How do I identify the edition?",
+            "answer": "Check the back label codes or the release year."
+        }
+    ],
+    "relatedLinks": [
+        {
+            "label": "Get an Offer",
+            "href": "/get-offer"
+        },
+        {
+            "label": "Photos for Quote",
+            "href": "/resources/photos-for-quote"
+        },
+        {
+            "label": "How Pricing Works",
+            "href": "/resources/how-pricing-works"
+        },
+        {
+            "label": "Sell Scotch",
+            "href": "/sell/scotch"
+        },
+        {
+            "label": "Sell Macallan",
+            "href": "/sell/macallan"
+        },
+        {
+            "label": "Sell Springbank",
+            "href": "/sell/springbank"
+        },
+        {
+            "label": "Sell Ardbeg",
+            "href": "/sell/ardbeg"
+        }
+    ]
+}

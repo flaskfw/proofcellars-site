@@ -4,16 +4,16 @@
     "metaTitle": "Sell Vintage Champagne | Dom Perignon, Krug, Salon | Proof Cellars",
     "metaDescription": "Sell your vintage Champagne. We buy Dom Perignon, Krug, Cristal, Salon, and other prestige cuvees. Direct offers for single bottles and cases.",
     "heroHeadline": "Sell Vintage Champagne",
-    "heroSubhead": "We buy prestige cuvées and vintage Champagne directly.",
-    "introParagraph": "Vintage Champagne is the ultimate expression of a single harvest. We purchase prestige cuvées from top houses like Dom Pérignon, Krug, Louis Roederer, and Salon. Whether you have recent released vintages or aged library releases, we offer a secure and direct way to sell your Champagne.",
+    "heroSubhead": "We buy prestige cuv\u00e9es and vintage Champagne directly.",
+    "introParagraph": "Vintage Champagne is the ultimate expression of a single harvest. We purchase prestige cuv\u00e9es from top houses like Dom P\u00e9rignon, Krug, Louis Roederer, and Salon. Whether you have recent released vintages or aged library releases, we offer a secure and direct way to sell your Champagne.",
     "categoryType": "champagne",
     "whatWeBuy": [
-        "Dom Pérignon (Vintage, P2, P3)",
+        "Dom P\u00e9rignon (Vintage, P2, P3)",
         "Krug Vintage and Clos du Mesnil/Ambonnay",
-        "Louis Roederer Cristal (and Rosé)",
+        "Louis Roederer Cristal (and Ros\u00e9)",
         "Salon Le Mesnil",
         "Pol Roger Sir Winston Churchill",
-        "Bollinger R.D. and Vieilles Vignes Françaises",
+        "Bollinger R.D. and Vieilles Vignes Fran\u00e7aises",
         "Taittinger Comtes de Champagne",
         "Jacques Selosse (Substance, Initial, Vintages)"
     ],
@@ -45,7 +45,7 @@
     "faqs": [
         {
             "question": "Do you buy Non-Vintage Champagne?",
-            "answer": "Generally no, with the exception of premium multi-vintage blends like Krug Grand Cullée (older IDs) or Jacques Selosse."
+            "answer": "Generally no, with the exception of premium multi-vintage blends like Krug Grand Cull\u00e9e (older IDs) or Jacques Selosse."
         },
         {
             "question": "Does the gift box add value?",
@@ -61,11 +61,11 @@
         },
         {
             "question": "What is P2 or Oenotheque?",
-            "answer": "These are Dom Pérignon bottles aged longer on the lees. They are significantly more valuable than the standard vintage release."
+            "answer": "These are Dom P\u00e9rignon bottles aged longer on the lees. They are significantly more valuable than the standard vintage release."
         },
         {
-            "question": "Do you buy Rosé Champagne?",
-            "answer": "Yes, vintage Rosé from top producers (Dom Perignon, Cristal, Krug) is highly sought after."
+            "question": "Do you buy Ros\u00e9 Champagne?",
+            "answer": "Yes, vintage Ros\u00e9 from top producers (Dom Perignon, Cristal, Krug) is highly sought after."
         }
     ],
     "relatedLinks": [
@@ -74,16 +74,32 @@
             "href": "/get-offer"
         },
         {
-            "label": "Sell Champagne",
-            "href": "/sell/champagne"
+            "label": "Photos for Quote",
+            "href": "/resources/photos-for-quote"
         },
         {
-            "label": "Sell Dom Pérignon",
-            "href": "/sell/dom-perignon"
+            "label": "How Pricing Works",
+            "href": "/resources/how-pricing-works"
         },
         {
-            "label": "Sell Krug",
-            "href": "/sell/krug"
+            "label": "Sell Wine Collection",
+            "href": "/sell/wine-collection"
+        },
+        {
+            "label": "Ullage and Fill Levels",
+            "href": "/guides/ullage-fill-level-guide"
+        },
+        {
+            "label": "Seepage and Leakage",
+            "href": "/guides/seepage-and-leakage-explained"
+        },
+        {
+            "label": "Documenting Provenance",
+            "href": "/guides/how-to-document-provenance"
+        },
+        {
+            "label": "Packing Guide",
+            "href": "/resources/packing-guide"
         }
     ]
 }

@@ -1,0 +1,84 @@
+{
+    "slug": "shibui",
+    "title": "Sell Shibui Whisky",
+    "metaTitle": "Sell Shibui Whisky | Aged Single Grain & Malt | Proof Cellars",
+    "metaDescription": "Sell your Shibui whisky. We buy the aged statements including 15, 18, 23, and 30 Year Old single grain and malts.",
+    "heroHeadline": "Sell Your Shibui Whisky",
+    "heroSubhead": "Buying Shibui 10, 15, 18, 23, and 30 Year Old.",
+    "introParagraph": "Shibui bottles authentic aged whisky from varying Japanese distilleries. We purchase their high-age statement releases.",
+    "categoryType": "japanese-whisky",
+    "whatWeBuy": [
+        "Shibui 30 Year Old Rare Cask",
+        "Shibui 23 Year Old Rare Cask",
+        "Shibui 18 Year Old Sherry Cask",
+        "Shibui 15 Year Old Sherry Cask",
+        "Shibui 10 Year Old Pure Malt"
+    ],
+    "whatWeDoNotBuy": [
+        "Shibui NAS blends (unless part of a set)",
+        "Open bottles",
+        "Empty bottles"
+    ],
+    "photoChecklist": [
+        "Front label age statement",
+        "Back label showing cask info/distillery source",
+        "Box condition",
+        "Seal condition",
+        "Fill level"
+    ],
+    "conditionFactors": [
+        "Box: Shibui packaging is often elaborate wood/leather. Must be intact.",
+        "Label: Verify age statement clearly.",
+        "Seal: Heavy stoppers, check for leaks."
+    ],
+    "pricingFactors": [
+        "Age Statement: The 23 and 30 year old are the primary value drivers.",
+        "Cask Type: Sherry cask releases generally command a premium.",
+        "Distillery Source: Some Shibui releases disclose the source (e.g. Okinawa), which adds context.",
+        "Market: A newer brand, prices are more volatile than Yamazaki."
+    ],
+    "faqs": [
+        {
+            "question": "Is Shibui real Japanese whisky?",
+            "answer": "Yes, they source from various distilleries (Okinawa etc) and bottle with age statements."
+        },
+        {
+            "question": "Do you buy the white oak releases?",
+            "answer": "Yes, we buy the full aged range."
+        },
+        {
+            "question": "How much is the 30 Year worth?",
+            "answer": "It retails high, so secondary value is solid but expect a discount from retail."
+        },
+        {
+            "question": "Do I need the heavy box?",
+            "answer": "Yes. Shipping without the custom box risks breaking the heavy bottle."
+        },
+        {
+            "question": "Do you buy Kurayoshi?",
+            "answer": "Selectively. The Matsui/Kurayoshi aged statements are of interest."
+        },
+        {
+            "question": "Do you buy Kaiyo?",
+            "answer": "Generally only the Cask Strength or aged versions."
+        }
+    ],
+    "relatedLinks": [
+        {
+            "label": "Get an Offer",
+            "href": "/get-offer"
+        },
+        {
+            "label": "Sell Japanese Whisky",
+            "href": "/sell/japanese-whisky"
+        },
+        {
+            "label": "Photos for Quote",
+            "href": "/resources/photos-for-quote"
+        },
+        {
+            "label": "How Pricing Works",
+            "href": "/resources/how-pricing-works"
+        }
+    ]
+}

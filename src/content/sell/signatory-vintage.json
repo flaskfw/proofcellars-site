@@ -1,0 +1,87 @@
+{
+    "slug": "signatory-vintage",
+    "title": "Sell Signatory Vintage Whisky",
+    "metaTitle": "Sell Signatory Vintage CS Collection | Rare Independent Bottlings | Proof Cellars",
+    "metaDescription": "Sell your Signatory Vintage Cask Strength whisky. We buy the 'dumpyle' bottles (Prestonfield) and Cask Strength Collection bottles.",
+    "heroHeadline": "Sell Your Signatory Vintage Whisky",
+    "heroSubhead": "Buying Signatory Cask Strength and Rare Reserve bottlings.",
+    "introParagraph": "Signatory Vintage is one of Scotland's premier independent bottlers. Their 'Cask Strength Collection' (decanter style) and older 80s/90s 'dumpy' bottles harbor incredible liquid.",
+    "categoryType": "scotch",
+    "whatWeBuy": [
+        "Signatory Cask Strength Collection (Decanter bottles)",
+        "Signatory Rare Reserve (30+ Year)",
+        "Signatory Prestonfield (Dumpy bottles)",
+        "Signatory Closed Distilleries (Port Ellen, Brora, Dallas Dhu)",
+        "Signatory 1960s/1970s Vintages",
+        "Signatory Kinclaith / Ladyburn"
+    ],
+    "whatWeDoNotBuy": [
+        "Signatory 'Un-Chillfiltered' (Tube) Collection (standard value)",
+        "Signatory '43%' (Low ABV) - unless rare distillery",
+        "Open bottles",
+        "Empty bottles"
+    ],
+    "photoChecklist": [
+        "Front label showing Distillery and Vintage",
+        "Tin/Box condition (dents matter)",
+        "Fill level",
+        "Certificate of Authenticity (for Rare Reserve)",
+        "Seal condition"
+    ],
+    "conditionFactors": [
+        "Tin Condition: The metal tins dent easily. Perfect tins command a premium.",
+        "Label: Signatory labels provide exact dates; legibility is key.",
+        "Color: Dark sherry bombs (Clynelish, Edradour) are highly sought after.",
+        "Fill: Older dumpy bottles often have cork issues; check level."
+    ],
+    "pricingFactors": [
+        "Distillery: A Signatory Laphroaig is worth more than a Signatory Strathmill.",
+        "Vintage: 1960s/70s distillation dates.",
+        "Series: The 'Prestonfield' series (burlap sack/dumpy bottle) is legendary.",
+        "ABV: Cask strength (black/gold label) > 43% (white label)."
+    ],
+    "faqs": [
+        {
+            "question": "Do you buy the 86 proof bottles?",
+            "answer": "We buy them, but they are generally drinking stock, not high-value collector stock, unless it is a closed distillery."
+        },
+        {
+            "question": "What is 'Prestonfield'?",
+            "answer": "An early series bottled for the Prestonfield House Hotel. Famous for incredible Bowmore and Clynelish."
+        },
+        {
+            "question": "Do you buy Edradour?",
+            "answer": "Yes, Signatory owns Edradour. We buy the older single casks."
+        },
+        {
+            "question": "How much for a closed distillery bottle?",
+            "answer": "Port Ellen or Brora in Signatory livery can fetch $2,000+ depending on vintage."
+        },
+        {
+            "question": "Do you buy G&M too?",
+            "answer": "Yes, we buy Gordon & MacPhail and Cadenhead's."
+        },
+        {
+            "question": "What if the tin is rusty?",
+            "answer": "It happens. We will deduct slightly for presentation, but the liquid is what matters."
+        }
+    ],
+    "relatedLinks": [
+        {
+            "label": "Get an Offer",
+            "href": "/get-offer"
+        },
+        {
+            "label": "Sell Port Ellen",
+            "href": "/sell/port-ellen"
+        },
+        {
+            "label": "Sell Brora",
+            "href": "/sell/brora"
+        },
+        {
+            "label": "How Pricing Works",
+            "href": "/resources/how-pricing-works"
+        }
+    ]
+}

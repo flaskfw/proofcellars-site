@@ -1,0 +1,98 @@
+{
+    "slug": "adelphi",
+    "title": "Sell Adelphi Whisky",
+    "metaTitle": "Sell Adelphi Whisky | Selection & Fascadale | Proof Cellars",
+    "metaDescription": "Sell your Adelphi Selection whisky. We buy rare single casks from Scotland's most acclaimed independent bottler.",
+    "heroHeadline": "Sell Your Adelphi Whisky",
+    "heroSubhead": "Direct buyer for Adelphi Selection and Ardnamurchan special releases.",
+    "introParagraph": "Adelphi is renowned for an uncompromising selection process. They only bottle the absolute top tier of casks, making the 'Adelphi Selection' label a guarantee of quality.",
+    "categoryType": "scotch",
+    "whatWeBuy": [
+        "Adelphi Selection (Single Casks)",
+        "Adelphi The Glover (Fusion)",
+        "Adelphi Fascadale / Liddesdale",
+        "Adelphi Breath of the Isles / Highlands",
+        "Ardnamurchan Paul Launois / Special Releases"
+    ],
+    "whatWeDoNotBuy": [
+        "Adelphi Private Stock Blends (Standard)",
+        "Ardnamurchan AD/ (Standard Core Range)",
+        "Empty bottles",
+        "Open bottles"
+    ],
+    "photoChecklist": [
+        "Front label showing 'Adelphi Selection'",
+        "Back label showing Bottle # and Outturn",
+        "Fill level",
+        "Seal condition",
+        "Box condition"
+    ],
+    "conditionFactors": [
+        "Label Style: The 'Dancey Man' logo is iconic. Check for label scuffs.",
+        "Cask Details: Adelphi lists full cask history. Verify details.",
+        "Seal: Plastic capsules on older bottlings can crack.",
+        "Box: Standard card boxes are less critical than the bottle condition."
+    ],
+    "pricingFactors": [
+        "Distillery: Adelphi Bunnahabhain, Clynelish, and Bowmore are top market movers.",
+        "Age: 25+ year old Adelphis are highly coveted.",
+        "Fusion: 'The Glover' (Japanese/Scotch hybrid) has a specific collector following.",
+        "Color: Dark sherry bombs from Adelphi command premiums."
+    ],
+    "faqs": [
+        {
+            "question": "Do you buy Ardnamurchan?",
+            "answer": "Yes, Adelphi owns Ardnamurchan. We buy the single casks and special releases (e.g., Paul Launois)."
+        },
+        {
+            "question": "What is 'Fascadale'?",
+            "answer": "A batch release series (usually Highland Park). We buy it."
+        },
+        {
+            "question": "What is 'Liddesdale'?",
+            "answer": "A batch release series (usually Bunnahabhain). We buy it."
+        },
+        {
+            "question": "Do you buy The Brisbane?",
+            "answer": "Yes, fusion whiskies are of interest."
+        },
+        {
+            "question": "Why is my Adelphi worth so much?",
+            "answer": "Adelphi has a cult reputation for quality. Demand outstrips supply."
+        },
+        {
+            "question": "Do you buy Limpyd?",
+            "answer": "Yes, the vintage Adelphi 'Limpyd' releases are rare."
+        }
+    ],
+    "relatedLinks": [
+        {
+            "label": "Get an Offer",
+            "href": "/get-offer"
+        },
+        {
+            "label": "Photos for Quote",
+            "href": "/resources/photos-for-quote"
+        },
+        {
+            "label": "How Pricing Works",
+            "href": "/resources/how-pricing-works"
+        },
+        {
+            "label": "Sell Scotch",
+            "href": "/sell/scotch"
+        },
+        {
+            "label": "Sell Macallan",
+            "href": "/sell/macallan"
+        },
+        {
+            "label": "Sell Springbank",
+            "href": "/sell/springbank"
+        },
+        {
+            "label": "Sell Ardbeg",
+            "href": "/sell/ardbeg"
+        }
+    ]
+}

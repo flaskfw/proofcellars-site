@@ -1,0 +1,99 @@
+{
+    "slug": "single-cask-nation",
+    "title": "Sell Single Cask Nation Whisky",
+    "metaTitle": "Sell Single Cask Nation (SCN) Whisky | US Independent Bottler | Proof Cellars",
+    "metaDescription": "Sell your Single Cask Nation whisky. We buy SCN retail releases and online-only single casks. Top prices for rare batches.",
+    "heroHeadline": "Sell Your Single Cask Nation Whisky",
+    "heroSubhead": "Direct buyer for SCN Retail and Online Exclusives.",
+    "introParagraph": "Single Cask Nation (SCN) is the premier American independent bottler. Founded by Jewish Whisky Company, their knack for picking unique, high-quality casks has built a massive cult following.",
+    "categoryType": "scotch",
+    "whatWeBuy": [
+        "Single Cask Nation Retail Releases",
+        "Single Cask Nation Online Exclusives",
+        "Single Cask Nation Clynelish",
+        "Single Cask Nation Laphroaig",
+        "Single Cask Nation Rye/Bourbon",
+        "Single Cask Nation Rum"
+    ],
+    "whatWeDoNotBuy": [
+        "Open bottles",
+        "Empty bottles",
+        "Drinking Stock (low value)",
+        "Merchandise"
+    ],
+    "photoChecklist": [
+        "Front label showing Cask # and Distillation Date",
+        "Back label",
+        "Fill level",
+        "Seal condition",
+        "Box availability (Retail releases)"
+    ],
+    "conditionFactors": [
+        "Label: SCN labels are detailed. Check for tears.",
+        "Release Type: Retail (US stores) vs Online (Membership). Both are valuable.",
+        "Fill: Modern bottlings should be perfect.",
+        "Seal: Standard foil."
+    ],
+    "pricingFactors": [
+        "Distillery: SCN Clynelish 9yo and Laphroaig 14yo are legends.",
+        "Cask Type: Odd finishes (Mezcal, Sherry) often trade high.",
+        "Rarity: Online exclusives had tiny outturns.",
+        "Grain: SCN bottles great grain whisky (Girvan, Invergordon) which we buy."
+    ],
+    "faqs": [
+        {
+            "question": "Do you buy the bourbon?",
+            "answer": "Yes, SCN Wild Turkey and MGP bourbons are sought after."
+        },
+        {
+            "question": "What about 'Water of Life'?",
+            "answer": "The film tie-in bottles? Yes, we buy them."
+        },
+        {
+            "question": "Do you buy the Pre-Prohibition style rye?",
+            "answer": "Yes."
+        },
+        {
+            "question": "Is it worth shipping one bottle?",
+            "answer": "For high-value SCN (>$200), yes. For entry level, we prefer batches."
+        },
+        {
+            "question": "How do I sell my whole membership allocation?",
+            "answer": "Send us a photo of the group. We do lot buys."
+        },
+        {
+            "question": "Do you buy JWC (Jewish Whisky Company)?",
+            "answer": "Yes, SCN is the brand of JWC."
+        }
+    ],
+    "relatedLinks": [
+        {
+            "label": "Get an Offer",
+            "href": "/get-offer"
+        },
+        {
+            "label": "Photos for Quote",
+            "href": "/resources/photos-for-quote"
+        },
+        {
+            "label": "How Pricing Works",
+            "href": "/resources/how-pricing-works"
+        },
+        {
+            "label": "Sell Scotch",
+            "href": "/sell/scotch"
+        },
+        {
+            "label": "Sell Macallan",
+            "href": "/sell/macallan"
+        },
+        {
+            "label": "Sell Springbank",
+            "href": "/sell/springbank"
+        },
+        {
+            "label": "Sell Ardbeg",
+            "href": "/sell/ardbeg"
+        }
+    ]
+}

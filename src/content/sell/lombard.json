@@ -1,0 +1,97 @@
+{
+    "slug": "lombard",
+    "title": "Sell Lombard Whisky",
+    "metaTitle": "Sell Lombard Whisky | Jewels of Scotland | Proof Cellars",
+    "metaDescription": "Sell your Lombard whisky. We buy the 'Jewels of Scotland' and 'Gold Label' releases from the 1970s and 1980s.",
+    "heroHeadline": "Sell Your Lombard Whisky",
+    "heroSubhead": "Direct buyer for Lombard Jewels of Scotland.",
+    "introParagraph": "Lombard's 'Jewels of Scotland' series contains some hidden treasures, particularly their 1970s and 1980s bottlings of Brora, Port Ellen, and Springbank.",
+    "categoryType": "scotch",
+    "whatWeBuy": [
+        "Lombard Jewels of Scotland (Single Casks)",
+        "Lombard Gold Label (Aged Releases)",
+        "Lombard Brora",
+        "Lombard Port Ellen",
+        "Lombard Springbank"
+    ],
+    "whatWeDoNotBuy": [
+        "Lombard Standard Blends",
+        "Open bottles",
+        "Empty bottles"
+    ],
+    "photoChecklist": [
+        "Front label (Jewels of Scotland scroll)",
+        "Distillery and Vintage",
+        "Fill level (Critical for older ones)",
+        "Seal condition",
+        "Box/Tube"
+    ],
+    "conditionFactors": [
+        "Fill Level: Lombard bottles often have simple corks. Check for evaporation.",
+        "Label: The 'Jewels' label is distinctive parchment style. Stains easily.",
+        "Sediment: Natural for these unfiltered whiskies.",
+        "Capsule: Standard."
+    ],
+    "pricingFactors": [
+        "Distillery: Lombard Brora 1982 is a classic. High value.",
+        "Series: 'Jewels of Scotland' beat the 'Gold Label' series.",
+        "Vintage: 1960s/70s.",
+        "Rarity: Often single casks."
+    ],
+    "faqs": [
+        {
+            "question": "What is Jewels of Scotland?",
+            "answer": "Lombard's premium single cask range."
+        },
+        {
+            "question": "Do you buy the Gold Label?",
+            "answer": "Yes, if it is a single malt age statement (e.g. Mortlach 15)."
+        },
+        {
+            "question": "Is Lombard still bottling?",
+            "answer": "Yes, but the older independent releases are what collectors want."
+        },
+        {
+            "question": "Do you buy Lombard Springbank?",
+            "answer": "Yes, absolutely."
+        },
+        {
+            "question": "How do I ship?",
+            "answer": "Bubble wrap and double box."
+        },
+        {
+            "question": "How do you pay?",
+            "answer": "Wire transfer."
+        }
+    ],
+    "relatedLinks": [
+        {
+            "label": "Get an Offer",
+            "href": "/get-offer"
+        },
+        {
+            "label": "Photos for Quote",
+            "href": "/resources/photos-for-quote"
+        },
+        {
+            "label": "How Pricing Works",
+            "href": "/resources/how-pricing-works"
+        },
+        {
+            "label": "Sell Scotch",
+            "href": "/sell/scotch"
+        },
+        {
+            "label": "Sell Macallan",
+            "href": "/sell/macallan"
+        },
+        {
+            "label": "Sell Springbank",
+            "href": "/sell/springbank"
+        },
+        {
+            "label": "Sell Ardbeg",
+            "href": "/sell/ardbeg"
+        }
+    ]
+}

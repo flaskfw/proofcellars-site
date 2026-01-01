@@ -1,0 +1,87 @@
+{
+    "slug": "port-ellen",
+    "title": "Sell Port Ellen Whisky",
+    "metaTitle": "Sell Port Ellen Whisky | Annual Releases & Independent Bottlings | Proof Cellars",
+    "metaDescription": "Sell your rare Port Ellen whisky. We buy the Diageo Annual Releases (1st-17th) and independent bottlings from this legendary closed Islay distillery.",
+    "heroHeadline": "Sell Your Port Ellen Whisky",
+    "heroSubhead": "Buying Annual Releases and rare independent Port Ellen bottlings.",
+    "introParagraph": "Port Ellen is the definitive 'Ghost Distillery' of Islay. Closed in 1983, its finite stock is among the most collected whisky in the world.",
+    "categoryType": "scotch",
+    "whatWeBuy": [
+        "Port Ellen Annual Releases (1st - 17th Release)",
+        "Port Ellen Old Particular (Douglas Laing)",
+        "Port Ellen Signatory Vintage",
+        "Port Ellen Gordon & MacPhail",
+        "Port Ellen Rare Malts Selection",
+        "Port Ellen Elements of Islay"
+    ],
+    "whatWeDoNotBuy": [
+        "Fake or refilled bottles",
+        "Bottles with low fill level (below shoulder)",
+        "Empty bottles",
+        "Open bottles"
+    ],
+    "photoChecklist": [
+        "Front label showing 'Port Ellen' and release details",
+        "Back label for bottle number",
+        "Fill level (Critical for older bottlings)",
+        "Box condition",
+        "Seal condition"
+    ],
+    "conditionFactors": [
+        "Fill Level: Evaporation is the enemy. Mid-neck is good; top-shoulder is borderline; low-shoulder is problem.",
+        "Label Condition: Damp cellars can cause mold/staining on labels.",
+        "Box: Annual Releases come in specific boxes. Missing box reduces value.",
+        "Seal: Check for parafilm damage or cracks."
+    ],
+    "pricingFactors": [
+        "Release Number: Early Annual Releases (1st, 2nd, 3rd) are significantly more valuable than later ones.",
+        "Bottler: Official bottlings usually command a premium over Independents, though rare DL/G&M are high too.",
+        "ABV: Cask strength is preferred (~50%+).",
+        "Vintage: 1970s distillations are prime."
+    ],
+    "faqs": [
+        {
+            "question": "Do you buy Independent Bottlings?",
+            "answer": "Yes! Douglas Laing, Signatory, and G&M Port Ellens are highly desirable."
+        },
+        {
+            "question": "Which Annual Release is worth the most?",
+            "answer": "Generally the 1st Release (2001) is the most expensive due to rarity."
+        },
+        {
+            "question": "What if the fill level is low?",
+            "answer": "We may still buy it, but the price will reflect the 'drinker's risk'. Ideally, it should be in the neck."
+        },
+        {
+            "question": "Are they reopening?",
+            "answer": "Diageo is rebuilding Port Ellen, but the 'New' Port Ellen will be distinct from the 'Old' 1983 stock."
+        },
+        {
+            "question": "Do you buy Brora too?",
+            "answer": "Yes, we buy Brora, Rosebank, and other silent stills."
+        },
+        {
+            "question": "How do I ship a $3000 bottle?",
+            "answer": "Carefully. We recommend double-boxing with plenty of bubble wrap. We provide insurance."
+        }
+    ],
+    "relatedLinks": [
+        {
+            "label": "Get an Offer",
+            "href": "/get-offer"
+        },
+        {
+            "label": "Sell Brora",
+            "href": "/sell/brora"
+        },
+        {
+            "label": "Sell Rosebank",
+            "href": "/sell/rosebank"
+        },
+        {
+            "label": "How Pricing Works",
+            "href": "/resources/how-pricing-works"
+        }
+    ]
+}

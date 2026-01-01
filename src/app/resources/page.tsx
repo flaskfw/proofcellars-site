@@ -140,6 +140,11 @@ export default function ResourcesPage() {
               </Link>
             ))}
           </div>
+          <div className="mt-12 text-center border-t border-border pt-8">
+            <p className="text-secondary text-sm">
+              Working with clients or estates? See our <Link href="/partners" className="text-accent hover:underline">Partners</Link> page.
+            </p>
+          </div>
         </div>
       </section>
 
