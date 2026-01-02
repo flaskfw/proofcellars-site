@@ -9,7 +9,7 @@ export default function Footer() {
       <div className="mx-auto max-w-7xl px-4 py-12 sm:px-6 lg:px-8">
         <div className="grid grid-cols-1 gap-8 md:grid-cols-4">
           {/* Logo and Description */}
-          <div className="md:col-span-2">
+          <div className="md:col-span-1">
             <Link href="/" className="text-xl font-semibold text-primary">
               Proof Cellars
             </Link>
@@ -18,77 +18,69 @@ export default function Footer() {
             </p>
           </div>
 
-          {/* Navigation */}
+          {/* Locations */}
           <div>
-            <h3 className="text-sm font-medium text-primary">Navigation</h3>
+            <h3 className="text-sm font-medium text-primary">Buying Locations</h3>
             <ul className="mt-4 space-y-3">
               <li>
-                <Link href="/" className="text-sm text-secondary hover:text-primary transition-colors">
-                  Home
+                <Link href="/locations/los-angeles" className="text-sm text-secondary hover:text-primary transition-colors">
+                  Los Angeles / Sherman Oaks
                 </Link>
               </li>
               <li>
-                <Link
-                  href="/get-offer"
-                  className="text-sm text-secondary hover:text-primary transition-colors"
-                  onClick={() =>
-                    trackEvent(AnalyticsEvents.CLICK_GET_OFFER, {
-                      location: 'footer',
-                      href: '/get-offer',
-                    })
-                  }
-                >
-                  Get an Offer
+                <Link href="/locations/austin" className="text-sm text-secondary hover:text-primary transition-colors">
+                  Austin / Texas Triangle
                 </Link>
               </li>
               <li>
-                <Link href="/faq" className="text-sm text-secondary hover:text-primary transition-colors">
-                  FAQ
-                </Link>
-              </li>
-              <li>
-                <Link href="/contact" className="text-sm text-secondary hover:text-primary transition-colors">
-                  Contact
-                </Link>
-              </li>
-              <li>
-                <Link href="/resources" className="text-sm text-secondary hover:text-primary transition-colors">
-                  Resources
-                </Link>
-              </li>
-              <li>
-                <Link href="/partners" className="text-sm text-secondary hover:text-primary transition-colors">
-                  Partners
+                <Link href="/how-it-works" className="text-sm text-secondary hover:text-primary transition-colors">
+                  Nationwide Service
                 </Link>
               </li>
             </ul>
           </div>
 
-          {/* Contact */}
+          {/* Services */}
           <div>
-            <h3 className="text-sm font-medium text-primary">Contact</h3>
+            <h3 className="text-sm font-medium text-primary">Our Services</h3>
             <ul className="mt-4 space-y-3">
               <li>
-                <a
-                  href="tel:+12137709463"
-                  className="text-sm text-secondary hover:text-primary transition-colors"
-                  onClick={() =>
-                    trackEvent(AnalyticsEvents.CLICK_TAP_TO_CALL, {
-                      location: 'footer',
-                      phone: '2137709463',
-                    })
-                  }
-                >
-                  213-770-9463
-                </a>
+                <Link href="/services/estates" className="text-sm text-secondary hover:text-primary transition-colors">
+                  Estate Liquidation
+                </Link>
               </li>
               <li>
-                <a
-                  href="mailto:info@proofcellars.com"
-                  className="text-sm text-secondary hover:text-primary transition-colors"
-                >
-                  info@proofcellars.com
-                </a>
+                {/* Changed to /services/estates to avoid 404 per user request */}
+                <Link href="/services/estates" className="text-sm text-secondary hover:text-primary transition-colors">
+                  Cellar Appraisals
+                </Link>
+              </li>
+              <li>
+                <Link href="/sell" className="text-sm text-secondary hover:text-primary transition-colors">
+                  Submit a Collection
+                </Link>
+              </li>
+            </ul>
+          </div>
+
+          {/* Top Brands */}
+          <div>
+            <h3 className="text-sm font-medium text-primary">We Buy</h3>
+            <ul className="mt-4 space-y-3">
+              <li>
+                <Link href="/sell/van-winkle" className="text-sm text-secondary hover:text-primary transition-colors">
+                  Pappy Van Winkle
+                </Link>
+              </li>
+              <li>
+                <Link href="/sell/macallan" className="text-sm text-secondary hover:text-primary transition-colors">
+                  Macallan
+                </Link>
+              </li>
+              <li>
+                <Link href="/sell/japanese-whisky" className="text-sm text-secondary hover:text-primary transition-colors">
+                  Japanese Whisky
+                </Link>
               </li>
             </ul>
           </div>
