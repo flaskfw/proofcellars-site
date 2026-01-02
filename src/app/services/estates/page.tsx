@@ -138,8 +138,33 @@ export default function EstateServicesPage() {
                 </div>
             </section>
 
-            {/* How It Works */}
+            {/* Inherited Collections Section */}
             <section className="bg-surface py-16 md:py-24">
+                <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+                    <div className="max-w-3xl mx-auto text-center">
+                        <h2 className="text-2xl md:text-3xl font-semibold text-primary mb-6">
+                            Inherited a Collection?
+                        </h2>
+                        <p className="text-lg text-secondary mb-8 leading-relaxed">
+                            Inheriting a wine or whiskey cellar can be overwhelming. You may not know the value of what you have, and you likely do not have an inventory list.
+                        </p>
+                        <p className="text-lg text-secondary mb-8 leading-relaxed">
+                            We specialize in helping families navigate this process. You do not need to create a spreadsheet. We can start with a simple video call or a walk-through of the room.
+                        </p>
+                        <CTAButton
+                            href="/get-offer"
+                            variant="secondary"
+                            eventName={AnalyticsEvents.CLICK_GET_OFFER}
+                            eventParams={{ location: 'estate_inherited', href: '/get-offer' }}
+                        >
+                            Get Help with an Inherited Collection
+                        </CTAButton>
+                    </div>
+                </div>
+            </section >
+
+            {/* How It Works */}
+            < section className="bg-surface py-16 md:py-24" >
                 <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
                     <h2 className="text-2xl md:text-3xl font-semibold text-primary mb-12">
                         The Estate Process
@@ -181,10 +206,10 @@ export default function EstateServicesPage() {
                         ))}
                     </div>
                 </div>
-            </section>
+            </section >
 
             {/* Trust & Payment */}
-            <section className="py-16 md:py-24">
+            < section className="py-16 md:py-24" >
                 <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 text-center">
                     <PaymentMethods />
                     <div className="mt-12">
@@ -210,7 +235,7 @@ export default function EstateServicesPage() {
                         </div>
                     </div>
                 </div>
-            </section>
+            </section >
         </>
     );
 }

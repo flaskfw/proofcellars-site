@@ -3,6 +3,7 @@ import CTAButton from '@/components/CTAButton';
 import TrackedLink from '@/components/TrackedLink';
 import ProcessSteps from '@/components/ProcessSteps';
 import PaymentMethods from '@/components/PaymentMethods';
+import SellerTestimonials from '@/components/SellerTestimonials';
 import PhotoChecklist from '@/components/PhotoChecklist';
 import FAQItem from '@/components/FAQItem';
 import { getFirstNFAQs } from '@/lib/getFAQData';
@@ -241,8 +242,11 @@ export default function Home() {
         </div>
       </section>
 
+      {/* Testimonials Section */}
+      <SellerTestimonials />
+
       {/* FAQ Preview Section */}
-      <section className="bg-surface py-16 md:py-24">
+      <section className="bg-surface py-16 md:py-24 border-t border-border">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
           <h2 className="text-2xl md:text-3xl font-semibold text-primary mb-8">
             Common Questions
