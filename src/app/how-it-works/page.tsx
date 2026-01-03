@@ -8,9 +8,61 @@ export const metadata: Metadata = {
     description: 'Sell your wine from anywhere with our insurer-approved shipping kits. We pay for the shipping and insurance.',
 };
 
+const faqSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: [
+        {
+            '@type': 'Question',
+            name: 'Is it legal?',
+            acceptedAnswer: {
+                '@type': 'Answer',
+                text: 'Yes, with some exceptions. We provide the necessary regulatory paperwork and shipping labels to ensure compliance with all federal and state regulations.',
+            },
+        },
+        {
+            '@type': 'Question',
+            name: 'What about insurance?',
+            acceptedAnswer: {
+                '@type': 'Answer',
+                text: 'Your shipment is fully insured provided it is packed in the shipper-approved packaging we send you and handed directly to UPS/FedEx. Additional terms may apply for high-value shipments.',
+            },
+        },
+        {
+            '@type': 'Question',
+            name: 'I have a large collection. Can you come to me?',
+            acceptedAnswer: {
+                '@type': 'Answer',
+                text: 'Yes. For significant collections, our team offers a white-glove service. We will travel to your location, professionally pack the bottles ourselves, and issue payment on the spot.',
+            },
+        },
+        {
+            '@type': 'Question',
+            name: 'When do I get paid?',
+            acceptedAnswer: {
+                '@type': 'Answer',
+                text: 'We issue payment immediately upon inspection at our facility (typically the same day as delivery). For in-person pickups & dropoffs, we pay on the spot.',
+            },
+        },
+        {
+            '@type': 'Question',
+            name: 'Do I have to pay for shipping and packaging up-front?',
+            acceptedAnswer: {
+                '@type': 'Answer',
+                text: 'No. We cover the cost of the shipping kit, the protective inserts, and the pre-paid return label.',
+            },
+        },
+    ],
+};
+
 export default function HowItWorksPage() {
     return (
-        <div className="bg-background">
+        <>
+            <script
+                type="application/ld+json"
+                dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
+            />
+            <div className="bg-background">
             {/* Hero Section */}
             <div className="relative isolate px-6 pt-14 lg:px-8">
                 <div className="mx-auto max-w-2xl py-24 sm:py-32 lg:py-40">
@@ -73,6 +125,7 @@ export default function HowItWorksPage() {
                     </div>
                 </div>
             </div>
-        </div>
+            </div>
+        </>
     );
 }
