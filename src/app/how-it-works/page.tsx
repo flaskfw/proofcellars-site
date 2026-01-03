@@ -36,11 +36,23 @@ export default function HowItWorksPage() {
                 <dl className="space-y-8">
                     <div>
                         <dt className="text-base font-semibold leading-7 text-primary">Is it legal?</dt>
-                        <dd className="mt-2 text-base leading-7 text-secondary">Yes, we provide the shipping labels.</dd>
+                        <dd className="mt-2 text-base leading-7 text-secondary">Yes, with some exceptions. We provide the necessary regulatory paperwork and shipping labels to ensure compliance with all federal and state regulations.</dd>
                     </div>
                     <div>
                         <dt className="text-base font-semibold leading-7 text-primary">What about insurance?</dt>
-                        <dd className="mt-2 text-base leading-7 text-secondary">You are 100% insured from the moment you drop it off.</dd>
+                        <dd className="mt-2 text-base leading-7 text-secondary">Your shipment is fully insured provided it is packed in the shipper-approved packaging we send you and handed directly to UPS/FedEx. Additional terms may apply for high-value shipments; our offer confirmation email and purchase agreement will include any details where applicable.</dd>
+                    </div>
+                    <div>
+                        <dt className="text-base font-semibold leading-7 text-primary">I have a large collection. Can you come to me?</dt>
+                        <dd className="mt-2 text-base leading-7 text-secondary">Yes. For significant collections, our team offers a white-glove service. We will travel to your location, professionally pack the bottles ourselves, and issue payment on the spot.</dd>
+                    </div>
+                    <div>
+                        <dt className="text-base font-semibold leading-7 text-primary">When do I get paid?</dt>
+                        <dd className="mt-2 text-base leading-7 text-secondary">We issue payment immediately upon inspection at our facility (typically the same day as delivery). For in-person pickups & dropoffs, we pay on the spot.</dd>
+                    </div>
+                    <div>
+                        <dt className="text-base font-semibold leading-7 text-primary">Do I have to pay for shipping and packaging up-front?</dt>
+                        <dd className="mt-2 text-base leading-7 text-secondary">No. We cover the cost of the shipping kit, the protective inserts, and the pre-paid return label.</dd>
                     </div>
                 </dl>
             </div>
