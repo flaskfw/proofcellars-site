@@ -60,6 +60,9 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
+        {/* Preconnect hints for faster resource loading */}
+        <link rel="preconnect" href="https://www.googletagmanager.com" />
+        <link rel="preconnect" href="https://www.google-analytics.com" />
         <Script
           src={`https://www.googletagmanager.com/gtag/js?id=${GA_ID}`}
           strategy="afterInteractive"
