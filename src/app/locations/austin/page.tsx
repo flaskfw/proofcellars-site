@@ -13,41 +13,34 @@ export const metadata: Metadata = {
 export default function AustinPage() {
     const schema = {
         '@context': 'https://schema.org',
-        '@type': 'LocalBusiness',
-        name: 'Proof Cellars - Texas Operations',
+        '@type': 'ProfessionalService',
+        name: 'Proof Cellars - Austin Buying Office',
         image: 'https://proofcellars.com/og-image.png',
         '@id': 'https://proofcellars.com/locations/austin',
         url: 'https://proofcellars.com/locations/austin',
-        telephone: '+12137709463',
+        telephone: '+1-213-770-9463',
+        priceRange: '$$$$',
         address: {
             '@type': 'PostalAddress',
             addressLocality: 'Austin',
             addressRegion: 'TX',
             addressCountry: 'US',
         },
-        areaServed: [
-            {
-                '@type': 'City',
-                name: 'Austin',
+        areaServed: {
+            '@type': 'GeoCircle',
+            geoMidpoint: {
+                '@type': 'GeoCoordinates',
+                latitude: 30.2672,
+                longitude: -97.7431,
             },
-            {
-                '@type': 'City',
-                name: 'Dallas',
-            },
-            {
-                '@type': 'City',
-                name: 'Houston',
-            },
-            {
-                '@type': 'City',
-                name: 'San Antonio',
-            },
-            {
-                '@type': 'State',
-                name: 'Texas',
-            },
+            geoRadius: '80000',
+        },
+        serviceArea: [
+            { '@type': 'City', name: 'Austin' },
+            { '@type': 'City', name: 'Round Rock' },
+            { '@type': 'City', name: 'West Lake Hills' },
+            { '@type': 'City', name: 'Lakeway' },
         ],
-        priceRange: '$$$$',
     };
 
     return (
