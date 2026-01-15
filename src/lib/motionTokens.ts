@@ -23,4 +23,5 @@ export const VIEWPORT_CONFIG = {
 export type EasingArray = readonly [number, number, number, number];
 
 // Compile-time type check to ensure EASE_LUXE matches EasingArray
+// eslint-disable-next-line @typescript-eslint/no-unused-vars
 const _typeCheck: EasingArray = EASE_LUXE;
