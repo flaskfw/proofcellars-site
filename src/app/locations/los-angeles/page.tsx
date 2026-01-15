@@ -5,54 +5,43 @@ import TrackedLink from '@/components/TrackedLink';
 import { AnalyticsEvents } from '@/lib/analytics';
 
 export const metadata: Metadata = {
-    title: 'Sell Wine & Spirits in Los Angeles | WeHo Buying Office',
+    title: 'Sell Wine & Spirits in Los Angeles | Sherman Oaks Buying Office',
     description:
-        'Direct buyers serving Beverly Hills, West Hollywood, and Greater LA. Instant payment, local drop-off, or house calls. Sell your collection today.',
+        'Direct buyers serving Beverly Hills, West Hollywood, and Greater LA. Sherman Oaks office. Instant payment, local drop-off, or house calls. Sell your collection today.',
 };
 
 export default function LosAngelesPage() {
     const schema = {
         '@context': 'https://schema.org',
-        '@type': 'ProfessionalService',
-        name: 'Proof Cellars - Los Angeles Buying Office',
+        '@type': 'LiquorStore',
+        name: 'Proof Cellars',
         image: 'https://proofcellars.com/og-image.png',
         '@id': 'https://proofcellars.com/locations/los-angeles',
         url: 'https://proofcellars.com/locations/los-angeles',
-        telephone: '+12137709463',
+        telephone: '+1-213-770-9463',
         address: {
             '@type': 'PostalAddress',
-            addressLocality: 'West Hollywood',
+            streetAddress: '4645 Van Nuys Blvd #103',
+            addressLocality: 'Sherman Oaks',
             addressRegion: 'CA',
-            postalCode: '90069',
+            postalCode: '91403',
             addressCountry: 'US',
         },
-        areaServed: [
-            {
-                '@type': 'City',
-                name: 'West Hollywood',
-            },
-            {
-                '@type': 'City',
-                name: 'Beverly Hills',
-            },
-            {
-                '@type': 'City',
-                name: 'Los Angeles',
-            },
-            {
-                '@type': 'City',
-                name: 'Santa Monica',
-            },
-            {
-                '@type': 'PostalCode',
-                postalCode: '90069',
-            },
-            {
-                '@type': 'PostalCode',
-                postalCode: '90210',
-            },
+        geo: {
+            '@type': 'GeoCoordinates',
+            latitude: 34.153,
+            longitude: -118.448,
+        },
+        openingHoursSpecification: {
+            '@type': 'OpeningHoursSpecification',
+            dayOfWeek: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday'],
+            opens: '10:00',
+            closes: '18:00',
+        },
+        sameAs: [
+            'https://www.facebook.com/proofcellars',
+            'https://www.instagram.com/proofcellars',
         ],
-        priceRange: '$$$$',
     };
 
     return (
@@ -67,7 +56,7 @@ export default function LosAngelesPage() {
                 <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
                     <div className="max-w-3xl">
                         <h1 className="text-4xl md:text-5xl font-semibold tracking-tight text-primary">
-                            Sell Your Wine & Spirits in Los Angeles. West Hollywood Office.
+                            Los Angeles Buying Office (Sherman Oaks)
                         </h1>
                         <p className="mt-6 text-lg text-secondary">
                             Direct buyers serving Beverly Hills, Bel Air, Hollywood Hills, and the
@@ -105,7 +94,7 @@ export default function LosAngelesPage() {
                             </h2>
                             <div className="space-y-6 text-secondary">
                                 <p>
-                                    Located in the heart of <strong>West Hollywood (Beverly Hills adjacent)</strong>,
+                                    Located in <strong>Sherman Oaks</strong>,
                                     our buying office offers a private, secure environment to sell your collection.
                                 </p>
                                 <p>
@@ -171,7 +160,7 @@ export default function LosAngelesPage() {
                             {
                                 step: '03',
                                 title: 'Appointment',
-                                desc: 'Schedule a private drop-off at our WeHo office or request a pickup.',
+                                desc: 'Schedule a private drop-off at our Sherman Oaks office or request a pickup.',
                             },
                             {
                                 step: '04',
@@ -195,6 +184,23 @@ export default function LosAngelesPage() {
                 </div>
             </section>
 
+            {/* Contact Information */}
+            <section className="py-12 border-b border-border">
+                <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+                    <div className="max-w-2xl mx-auto text-center">
+                        <h2 className="text-2xl font-semibold text-primary mb-4">
+                            Office Location
+                        </h2>
+                        <p className="text-lg font-medium text-accent mb-2">
+                            Visits by Appointment Only
+                        </p>
+                        <p className="text-secondary">
+                            4645 Van Nuys Blvd #103, Sherman Oaks, CA 91403
+                        </p>
+                    </div>
+                </div>
+            </section>
+
             {/* Map Section */}
             <section className="h-96 w-full relative bg-gray-100">
                 <iframe
@@ -204,8 +210,8 @@ export default function LosAngelesPage() {
                     loading="lazy"
                     allowFullScreen
                     referrerPolicy="no-referrer-when-downgrade"
-                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d26456.98567156942!2d-118.39646654999999!3d34.0900091!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2beb6247dbc6f%3A0xe6bf44265da41830!2sWest%20Hollywood%2C%20CA!5e0!3m2!1sen!2sus!4v1709240000000!5m2!1sen!2sus"
-                    title="Proof Cellars West Hollywood Location"
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3302.8!2d-118.448!3d34.153!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzTCsDA5JzEwLjgiTiAxMTjCsDI2JzUyLjgiVw!5e0!3m2!1sen!2sus!4v1709240000000!5m2!1sen!2sus"
+                    title="Proof Cellars Sherman Oaks Location"
                 ></iframe>
             </section>
 
