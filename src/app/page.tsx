@@ -6,6 +6,7 @@ import PaymentMethods from '@/components/PaymentMethods';
 import SellerTestimonials from '@/components/SellerTestimonials';
 import PhotoChecklist from '@/components/PhotoChecklist';
 import FAQItem from '@/components/FAQItem';
+import { Reveal } from '@/components/motion/Reveal';
 import { getFirstNFAQs } from '@/lib/getFAQData';
 import { AnalyticsEvents } from '@/lib/analytics';
 import type { Metadata } from 'next';
@@ -71,20 +72,26 @@ export default function Home() {
       {/* Process Section */}
       <section className="py-16 md:py-24 section-divider">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-          <h2 className="mb-12">
-            How It Works
-          </h2>
+          <Reveal>
+            <h2 className="mb-12">
+              How It Works
+            </h2>
+          </Reveal>
           <ProcessSteps />
-          <PaymentMethods />
+          <Reveal delay={0.48}>
+            <PaymentMethods />
+          </Reveal>
         </div>
       </section>
 
       {/* What We Buy Section */}
       <section id="what-we-buy" className="bg-[var(--color-surface)] py-16 md:py-24">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-          <h2 className="mb-12">
-            What We Buy
-          </h2>
+          <Reveal>
+            <h2 className="mb-12">
+              What We Buy
+            </h2>
+          </Reveal>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-12">
             <div>
               <h3 className="mb-4">We buy:</h3>
@@ -211,34 +218,38 @@ export default function Home() {
       {/* Why Proof Cellars Section */}
       <section className="py-16 md:py-24 section-divider">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-          <h2 className="mb-8">
-            Why Proof Cellars
-          </h2>
-          <ul className="grid grid-cols-1 md:grid-cols-2 gap-6 max-w-4xl">
-            {[
-              'Direct offers with no consignment and no seller fees.',
-              'Clear process from submission to payment.',
-              'Responsive communication. We reply to every inquiry.',
-              'Your information stays private. We do not publish seller details.',
-            ].map((item) => (
-              <li key={item} className="flex items-start gap-3">
-                <svg
-                  className="h-5 w-5 text-[var(--color-success)] flex-shrink-0 mt-0.5"
-                  fill="none"
-                  viewBox="0 0 24 24"
-                  strokeWidth="2"
-                  stroke="currentColor"
-                >
-                  <path
-                    strokeLinecap="round"
-                    strokeLinejoin="round"
-                    d="M4.5 12.75l6 6 9-13.5"
-                  />
-                </svg>
-                <span className="text-[var(--color-text)]">{item}</span>
-              </li>
-            ))}
-          </ul>
+          <Reveal>
+            <h2 className="mb-8">
+              Why Proof Cellars
+            </h2>
+          </Reveal>
+          <Reveal delay={0.12}>
+            <ul className="grid grid-cols-1 md:grid-cols-2 gap-6 max-w-4xl">
+              {[
+                'Direct offers with no consignment and no seller fees.',
+                'Clear process from submission to payment.',
+                'Responsive communication. We reply to every inquiry.',
+                'Your information stays private. We do not publish seller details.',
+              ].map((item) => (
+                <li key={item} className="flex items-start gap-3">
+                  <svg
+                    className="h-5 w-5 text-[var(--color-success)] flex-shrink-0 mt-0.5"
+                    fill="none"
+                    viewBox="0 0 24 24"
+                    strokeWidth="2"
+                    stroke="currentColor"
+                  >
+                    <path
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
+                      d="M4.5 12.75l6 6 9-13.5"
+                    />
+                  </svg>
+                  <span className="text-[var(--color-text)]">{item}</span>
+                </li>
+              ))}
+            </ul>
+          </Reveal>
         </div>
       </section>
 
@@ -248,9 +259,11 @@ export default function Home() {
       {/* FAQ Preview Section */}
       <section className="bg-[var(--color-surface)] py-16 md:py-24 section-divider">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-          <h2 className="mb-8">
-            Common Questions
-          </h2>
+          <Reveal>
+            <h2 className="mb-8">
+              Common Questions
+            </h2>
+          </Reveal>
           <div className="max-w-3xl">
             {previewFaqs.map((faq) => (
               <FAQItem key={faq.id} faq={faq} />
