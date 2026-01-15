@@ -25,19 +25,22 @@ export default function CTAButton({
   // Heritage design: Restrained, architectural button styling
   // Touch target: min-height 44px, comfortable padding
   // No layout shift: border always present (transparent on primary)
+  // btn-primary/btn-secondary classes ensure link styles don't bleed through
   const baseStyles =
     'inline-flex items-center justify-center px-6 py-3 min-h-[44px] text-base font-medium no-underline';
 
   const variantStyles = {
     // Primary: Midnight Navy background, Antique Gold border on hover
+    // btn-primary class prevents global link styles from overriding button appearance
     primary:
-      'bg-[var(--color-primary)] text-white border border-transparent rounded-sm ' +
+      'btn-primary bg-[var(--color-primary)] text-white border border-transparent rounded-sm ' +
       'hover:border-[var(--color-accent)] ' +
       'transition-[color,border-color,background-color] duration-[var(--dur-base)] [transition-timing-function:var(--ease-luxe)]',
 
     // Secondary: Transparent background, border emphasis on hover
+    // btn-secondary class prevents global link styles from overriding button appearance
     secondary:
-      'bg-transparent text-[var(--color-heading)] border border-[var(--color-border)] rounded-sm ' +
+      'btn-secondary bg-transparent text-[var(--color-heading)] border border-[var(--color-border)] rounded-sm ' +
       'hover:border-[var(--color-accent)] ' +
       'transition-[color,border-color,background-color] duration-[var(--dur-base)] [transition-timing-function:var(--ease-luxe)]',
   };

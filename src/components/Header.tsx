@@ -57,7 +57,7 @@ export default function Header() {
             </Link>
             <Link
               href="/get-offer"
-              className="inline-flex items-center justify-center px-4 py-2 min-h-[44px] text-sm font-medium no-underline bg-[var(--color-primary)] text-white border border-transparent rounded-sm hover:border-[var(--color-accent)] transition-[color,border-color,background-color] duration-[var(--dur-base)] [transition-timing-function:var(--ease-luxe)]"
+              className="btn-primary inline-flex items-center justify-center px-4 py-2 min-h-[44px] text-sm font-medium no-underline bg-[var(--color-primary)] text-white border border-transparent rounded-sm hover:border-[var(--color-accent)] transition-[color,border-color,background-color] duration-[var(--dur-base)] [transition-timing-function:var(--ease-luxe)]"
               onClick={() =>
                 trackEvent(AnalyticsEvents.CLICK_GET_OFFER, {
                   location: 'header',
@@ -145,7 +145,7 @@ export default function Header() {
               </Link>
               <Link
                 href="/get-offer"
-                className="inline-flex items-center justify-center px-4 py-2 min-h-[44px] text-sm font-medium no-underline bg-[var(--color-primary)] text-white border border-transparent rounded-sm hover:border-[var(--color-accent)] transition-[color,border-color,background-color] duration-[var(--dur-base)] [transition-timing-function:var(--ease-luxe)] w-full"
+                className="btn-primary inline-flex items-center justify-center px-4 py-2 min-h-[44px] text-sm font-medium no-underline bg-[var(--color-primary)] text-white border border-transparent rounded-sm hover:border-[var(--color-accent)] transition-[color,border-color,background-color] duration-[var(--dur-base)] [transition-timing-function:var(--ease-luxe)] w-full"
                 onClick={() => {
                   trackEvent(AnalyticsEvents.CLICK_GET_OFFER, {
                     location: 'header',
