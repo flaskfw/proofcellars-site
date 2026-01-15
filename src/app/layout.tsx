@@ -5,6 +5,7 @@ import "./globals.css";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import StickyMobileOffer from "@/components/StickyMobileOffer";
+import { MotionProvider } from "@/components/providers/MotionProvider";
 
 // Heritage serif for H1-H3 (editorial elegance)
 const baskerville = Libre_Baskerville({
@@ -92,10 +93,12 @@ export default function RootLayout({
         </Script>
       </head>
       <body className="antialiased min-h-screen flex flex-col pb-20 md:pb-0">
-        <Header />
-        <main className="flex-grow">{children}</main>
-        <Footer />
-        <StickyMobileOffer />
+        <MotionProvider>
+          <Header />
+          <main className="flex-grow">{children}</main>
+          <Footer />
+          <StickyMobileOffer />
+        </MotionProvider>
       </body>
     </html>
   );
