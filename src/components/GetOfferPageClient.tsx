@@ -32,21 +32,21 @@ export default function GetOfferPageClient() {
 export function GetOfferSidebar() {
   return (
     <div className="lg:col-span-1">
-      <div className="bg-surface rounded-lg border border-border p-6 sticky top-24">
-        <h3 className="text-xl font-medium text-primary mb-4">
+      <div className="card p-6 sticky top-24">
+        <h3 className="mb-4">
           Text Photos Instead
         </h3>
-        <p className="text-secondary mb-4">Send your submission to:</p>
+        <p className="text-[var(--color-text-muted)] mb-4">Send your submission to:</p>
 
-        <div className="bg-background rounded-lg p-4 mb-4">
-          <p className="text-2xl font-semibold text-primary">213-770-9463</p>
-          <p className="text-sm text-secondary">(213-770-WINE)</p>
+        <div className="bg-[var(--color-bg)] rounded-md p-4 mb-4">
+          <p className="text-2xl font-semibold text-[var(--color-heading)]">213-770-9463</p>
+          <p className="text-sm text-[var(--color-text-muted)]">(213-770-WINE)</p>
         </div>
 
         <div className="flex flex-col gap-3 mb-6">
           <TrackedLink
             href="sms:+12137709463"
-            className="inline-flex items-center justify-center rounded-md bg-accent px-4 py-3 text-sm font-medium text-white hover:bg-accent-hover transition-colors"
+            className="inline-flex items-center justify-center px-6 py-3 min-h-[44px] text-base font-medium no-underline bg-[var(--color-primary)] text-white border border-transparent rounded-sm hover:border-[var(--color-accent)] transition-[color,border-color,background-color] duration-[var(--dur-base)] [transition-timing-function:var(--ease-luxe)]"
             eventName={AnalyticsEvents.CLICK_TEXT_PHOTOS}
             eventParams={{ location: 'get_offer_sidebar', phone: '2137709463' }}
           >
@@ -54,7 +54,7 @@ export function GetOfferSidebar() {
           </TrackedLink>
           <TrackedLink
             href="tel:+12137709463"
-            className="inline-flex items-center justify-center rounded-md border border-accent px-4 py-3 text-sm font-medium text-accent hover:bg-accent hover:text-white transition-colors"
+            className="inline-flex items-center justify-center px-6 py-3 min-h-[44px] text-base font-medium no-underline bg-transparent text-[var(--color-heading)] border border-[var(--color-border)] rounded-sm hover:border-[var(--color-accent)] transition-[color,border-color,background-color] duration-[var(--dur-base)] [transition-timing-function:var(--ease-luxe)]"
             eventName={AnalyticsEvents.CLICK_TAP_TO_CALL}
             eventParams={{ location: 'get_offer_sidebar', phone: '2137709463' }}
           >
@@ -62,8 +62,8 @@ export function GetOfferSidebar() {
           </TrackedLink>
         </div>
 
-        <div className="border-t border-border pt-6">
-          <h4 className="text-sm font-medium text-primary mb-3">
+        <div className="border-t border-[var(--color-divider)] pt-6">
+          <h4 className="text-sm font-medium text-[var(--color-heading)] mb-3">
             What to include:
           </h4>
           <ul className="space-y-2">
@@ -75,10 +75,10 @@ export function GetOfferSidebar() {
             ].map((item) => (
               <li
                 key={item}
-                className="flex items-start gap-2 text-sm text-secondary"
+                className="flex items-start gap-2 text-sm text-[var(--color-text-muted)]"
               >
                 <svg
-                  className="h-4 w-4 text-accent flex-shrink-0 mt-0.5"
+                  className="h-4 w-4 text-[var(--color-success)] flex-shrink-0 mt-0.5"
                   fill="none"
                   viewBox="0 0 24 24"
                   strokeWidth="2"
@@ -96,7 +96,7 @@ export function GetOfferSidebar() {
           </ul>
         </div>
 
-        <p className="mt-6 text-sm text-secondary">
+        <p className="mt-6 text-sm text-[var(--color-text-muted)]">
           We typically respond within one business day.
         </p>
       </div>
@@ -106,6 +106,7 @@ export function GetOfferSidebar() {
 
 /**
  * Tracked link for opening Jotform in new tab
+ * Heritage design: Uses global link styles defined in globals.css
  */
 export function JotformNewTabLink() {
   return (
@@ -113,7 +114,7 @@ export function JotformNewTabLink() {
       href="https://form.jotform.com/230785300811146"
       target="_blank"
       rel="noopener noreferrer"
-      className="text-accent hover:text-accent-hover transition-colors"
+      className=""
       eventName={AnalyticsEvents.CLICK_OPEN_JOTFORM_NEW_TAB}
       eventParams={{
         location: 'get_offer_page',

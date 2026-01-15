@@ -12,17 +12,17 @@ export default function FAQItem({ faq, defaultOpen = false }: FAQItemProps) {
   const [isOpen, setIsOpen] = useState(defaultOpen);
 
   return (
-    <div className="border-b border-border">
+    <div className="border-b border-[var(--color-divider)]">
       <button
         type="button"
         onClick={() => setIsOpen(!isOpen)}
-        className="flex w-full items-center justify-between py-4 text-left"
+        className="flex w-full items-center justify-between py-4 text-left min-h-[44px] transition-colors duration-[var(--dur-base)] [transition-timing-function:var(--ease-luxe)] hover:text-[var(--color-heading)]"
         aria-expanded={isOpen}
       >
-        <span className="text-base font-medium text-primary pr-4">
+        <span className="text-base font-medium text-[var(--color-heading)] pr-4">
           {faq.question}
         </span>
-        <span className="flex-shrink-0 text-secondary">
+        <span className="flex-shrink-0 text-[var(--color-text-muted)]">
           {isOpen ? (
             <svg
               className="h-5 w-5"
@@ -56,7 +56,7 @@ export default function FAQItem({ faq, defaultOpen = false }: FAQItemProps) {
       </button>
       {isOpen && (
         <div className="pb-4">
-          <p className="text-secondary">{faq.answer}</p>
+          <p className="text-[var(--color-text)]">{faq.answer}</p>
         </div>
       )}
     </div>
