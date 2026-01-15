@@ -46,7 +46,7 @@ export function GetOfferSidebar() {
         <div className="flex flex-col gap-3 mb-6">
           <TrackedLink
             href="sms:+12137709463"
-            className="inline-flex items-center justify-center px-6 py-3 min-h-[44px] text-base font-medium no-underline bg-[var(--color-primary)] text-white border border-transparent rounded-sm hover:border-[var(--color-accent)] transition-[color,border-color,background-color] duration-[var(--dur-base)] [transition-timing-function:var(--ease-luxe)]"
+            className="btn-primary inline-flex items-center justify-center px-6 py-3 min-h-[44px] text-base font-medium no-underline bg-[var(--color-primary)] text-white border border-transparent rounded-sm hover:border-[var(--color-accent)] transition-[color,border-color,background-color] duration-[var(--dur-base)] [transition-timing-function:var(--ease-luxe)]"
             eventName={AnalyticsEvents.CLICK_TEXT_PHOTOS}
             eventParams={{ location: 'get_offer_sidebar', phone: '2137709463' }}
           >
@@ -54,7 +54,7 @@ export function GetOfferSidebar() {
           </TrackedLink>
           <TrackedLink
             href="tel:+12137709463"
-            className="inline-flex items-center justify-center px-6 py-3 min-h-[44px] text-base font-medium no-underline bg-transparent text-[var(--color-heading)] border border-[var(--color-border)] rounded-sm hover:border-[var(--color-accent)] transition-[color,border-color,background-color] duration-[var(--dur-base)] [transition-timing-function:var(--ease-luxe)]"
+            className="btn-secondary inline-flex items-center justify-center px-6 py-3 min-h-[44px] text-base font-medium no-underline bg-transparent text-[var(--color-heading)] border border-[var(--color-border)] rounded-sm hover:border-[var(--color-accent)] transition-[color,border-color,background-color] duration-[var(--dur-base)] [transition-timing-function:var(--ease-luxe)]"
             eventName={AnalyticsEvents.CLICK_TAP_TO_CALL}
             eventParams={{ location: 'get_offer_sidebar', phone: '2137709463' }}
           >

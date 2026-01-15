@@ -221,10 +221,54 @@ a:focus-visible {
   border-radius: 2px;
 }
 
+/* ============================================
+   BUTTON LINK OVERRIDES (High Specificity)
+   Prevent global link styles from bleeding into buttons
+   ============================================ */
+
 /* Remove underline from links inside buttons */
 button a,
 .btn a {
   text-decoration: none;
+}
+
+/* Base button class - critical overrides for links styled as buttons
+   Use !important to ensure these win over global link styles */
+a.btn,
+a.btn-primary,
+a.btn-secondary {
+  text-decoration: none !important;
+}
+
+a.btn:hover,
+a.btn-primary:hover,
+a.btn-secondary:hover {
+  text-decoration: none !important;
+  opacity: 1 !important;
+}
+
+a.btn:visited,
+a.btn-primary:visited,
+a.btn-secondary:visited {
+  opacity: 1 !important;
+}
+
+/* Primary button specific overrides - force white text */
+a.btn-primary,
+a.btn-primary:hover,
+a.btn-primary:visited,
+a.btn-primary:focus {
+  color: #FFFFFF !important;
+  text-decoration: none !important;
+}
+
+/* Secondary button specific overrides - force heading color */
+a.btn-secondary,
+a.btn-secondary:hover,
+a.btn-secondary:visited,
+a.btn-secondary:focus {
+  color: var(--color-heading) !important;
+  text-decoration: none !important;
 }
 
 /* ============================================
