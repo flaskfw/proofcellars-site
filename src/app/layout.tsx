@@ -1,15 +1,30 @@
 import type { Metadata } from "next";
-import { Inter } from "next/font/google";
+import { Inter, Libre_Baskerville } from "next/font/google";
 import Script from "next/script";
 import "./globals.css";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import StickyMobileOffer from "@/components/StickyMobileOffer";
 
-const inter = Inter({
-  variable: "--font-inter",
+// Heritage serif for H1-H3 (editorial elegance)
+const baskerville = Libre_Baskerville({
+  weight: ["400", "700"],
   subsets: ["latin"],
   display: "swap",
+  preload: true,
+  variable: "--font-baskerville",
+  fallback: ["Georgia", "Times New Roman", "serif"],
+  adjustFontFallback: true,
+});
+
+// Sans-serif for UI and body (modern clarity)
+const inter = Inter({
+  subsets: ["latin"],
+  display: "swap",
+  preload: true,
+  variable: "--font-inter",
+  fallback: ["-apple-system", "BlinkMacSystemFont", "Segoe UI", "sans-serif"],
+  adjustFontFallback: true,
 });
 
 const GA_ID = "G-36L308Q68S";
@@ -58,7 +73,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
+    <html lang="en" className={`${baskerville.variable} ${inter.variable}`}>
       <head>
         {/* Preconnect hints for faster resource loading */}
         <link rel="preconnect" href="https://www.googletagmanager.com" />
@@ -76,7 +91,7 @@ export default function RootLayout({
           `}
         </Script>
       </head>
-      <body className={`${inter.variable} antialiased min-h-screen flex flex-col pb-20 md:pb-0`}>
+      <body className="antialiased min-h-screen flex flex-col pb-20 md:pb-0">
         <Header />
         <main className="flex-grow">{children}</main>
         <Footer />

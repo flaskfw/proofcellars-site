@@ -21,19 +21,19 @@ export default function SellerTestimonials() {
     ];
 
     return (
-        <section className="py-16 md:py-24 bg-surface">
+        <section className="py-16 md:py-24 bg-[var(--color-surface)]">
             <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-                <h2 className="text-2xl md:text-3xl font-semibold text-primary text-center mb-12">
+                <h2 className="text-center mb-12">
                     Trusted by Collectors & Families Nationwide
                 </h2>
                 <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
                     {testimonials.map((review) => (
                         <div
                             key={review.id}
-                            className="bg-white rounded-lg p-8 shadow-sm border border-border flex flex-col h-full"
+                            className="card p-8 flex flex-col h-full"
                         >
-                            {/* Stars */}
-                            <div className="flex gap-1 mb-4 text-accent">
+                            {/* Stars - Restrained antique gold accent */}
+                            <div className="flex gap-1 mb-4 text-[var(--color-accent)]">
                                 {[...Array(5)].map((_, i) => (
                                     <svg
                                         key={i}
@@ -52,16 +52,16 @@ export default function SellerTestimonials() {
                             </div>
 
                             {/* Review Text */}
-                            <blockquote className="flex-grow text-secondary text-base leading-relaxed mb-6">
+                            <blockquote className="flex-grow text-[var(--color-text)] text-base leading-relaxed mb-6">
                                 "{review.text}"
                             </blockquote>
 
-                            {/* Author & Badge */}
-                            <div className="mt-auto border-t border-gray-100 pt-4 flex items-center justify-between">
-                                <span className="font-medium text-primary text-sm">
+                            {/* Author & Badge - Heritage aesthetic: quiet verification */}
+                            <div className="mt-auto border-t border-[var(--color-divider)] pt-4 flex items-center justify-between">
+                                <span className="font-medium text-[var(--color-heading)] text-sm">
                                     {review.name}
                                 </span>
-                                <span className="inline-flex items-center gap-1 text-xs text-green-600 bg-green-50 px-2 py-1 rounded-full font-medium">
+                                <span className="inline-flex items-center gap-1 text-xs text-[var(--color-success)] bg-[var(--color-surface-2)] px-2 py-1 rounded-sm font-medium">
                                     <svg
                                         xmlns="http://www.w3.org/2000/svg"
                                         viewBox="0 0 24 24"

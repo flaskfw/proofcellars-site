@@ -22,13 +22,24 @@ export default function CTAButton({
   eventName,
   eventParams,
 }: CTAButtonProps) {
+  // Heritage design: Restrained, architectural button styling
+  // Touch target: min-height 44px, comfortable padding
+  // No layout shift: border always present (transparent on primary)
   const baseStyles =
-    'inline-flex items-center justify-center rounded-md px-6 py-3 text-base font-medium transition-colors';
+    'inline-flex items-center justify-center px-6 py-3 min-h-[44px] text-base font-medium no-underline';
 
   const variantStyles = {
-    primary: 'bg-accent text-white hover:bg-accent-hover',
+    // Primary: Midnight Navy background, Antique Gold border on hover
+    primary:
+      'bg-[var(--color-primary)] text-white border border-transparent rounded-sm ' +
+      'hover:border-[var(--color-accent)] ' +
+      'transition-[color,border-color,background-color] duration-[var(--dur-base)] [transition-timing-function:var(--ease-luxe)]',
+
+    // Secondary: Transparent background, border emphasis on hover
     secondary:
-      'border border-accent text-accent hover:bg-accent hover:text-white',
+      'bg-transparent text-[var(--color-heading)] border border-[var(--color-border)] rounded-sm ' +
+      'hover:border-[var(--color-accent)] ' +
+      'transition-[color,border-color,background-color] duration-[var(--dur-base)] [transition-timing-function:var(--ease-luxe)]',
   };
 
   const combinedStyles = `${baseStyles} ${variantStyles[variant]} ${className}`;

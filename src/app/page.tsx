@@ -37,14 +37,14 @@ export default function Home() {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationSchema) }}
       />
 
-      {/* Hero Section */}
-      <section className="bg-surface py-16 md:py-24">
+      {/* Hero Section - Editorial restraint with whitespace */}
+      <section className="bg-[var(--color-surface)] py-16 md:py-24">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
           <div className="max-w-3xl">
-            <h1 className="text-4xl md:text-5xl font-semibold tracking-tight text-primary">
+            <h1>
               Direct buyer of collectible wine and spirits.
             </h1>
-            <p className="mt-6 text-lg text-secondary">
+            <p className="mt-6 text-lg text-[var(--color-text-muted)]">
               Sell Bourbon, Scotch, and Fine Wine. No consignment. No auctions. Just a direct offer.
             </p>
             <div className="mt-8 flex flex-col sm:flex-row gap-4">
@@ -69,9 +69,9 @@ export default function Home() {
       </section>
 
       {/* Process Section */}
-      <section className="py-16 md:py-24">
+      <section className="py-16 md:py-24 section-divider">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-          <h2 className="text-2xl md:text-3xl font-semibold text-primary mb-12">
+          <h2 className="mb-12">
             How It Works
           </h2>
           <ProcessSteps />
@@ -80,14 +80,14 @@ export default function Home() {
       </section>
 
       {/* What We Buy Section */}
-      <section id="what-we-buy" className="bg-surface py-16 md:py-24">
+      <section id="what-we-buy" className="bg-[var(--color-surface)] py-16 md:py-24">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-          <h2 className="text-2xl md:text-3xl font-semibold text-primary mb-12">
+          <h2 className="mb-12">
             What We Buy
           </h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-12">
             <div>
-              <h3 className="text-xl font-medium text-primary mb-4">We buy:</h3>
+              <h3 className="mb-4">We buy:</h3>
               <ul className="space-y-3">
                 {[
                   'Bourbon and American whiskey (Pappy Van Winkle, BTAC, allocated releases)',
@@ -98,7 +98,7 @@ export default function Home() {
                 ].map((item) => (
                   <li key={item} className="flex items-start gap-3">
                     <svg
-                      className="h-5 w-5 text-success flex-shrink-0 mt-0.5"
+                      className="h-5 w-5 text-[var(--color-success)] flex-shrink-0 mt-0.5"
                       fill="none"
                       viewBox="0 0 24 24"
                       strokeWidth="2"
@@ -110,13 +110,13 @@ export default function Home() {
                         d="M4.5 12.75l6 6 9-13.5"
                       />
                     </svg>
-                    <span className="text-secondary">{item}</span>
+                    <span className="text-[var(--color-text)]">{item}</span>
                   </li>
                 ))}
               </ul>
             </div>
             <div>
-              <h3 className="text-xl font-medium text-primary mb-4">
+              <h3 className="mb-4">
                 We typically do not buy:
               </h3>
               <ul className="space-y-3">
@@ -128,7 +128,7 @@ export default function Home() {
                 ].map((item) => (
                   <li key={item} className="flex items-start gap-3">
                     <svg
-                      className="h-5 w-5 text-error flex-shrink-0 mt-0.5"
+                      className="h-5 w-5 text-[var(--color-danger)] flex-shrink-0 mt-0.5"
                       fill="none"
                       viewBox="0 0 24 24"
                       strokeWidth="2"
@@ -140,7 +140,7 @@ export default function Home() {
                         d="M6 18L18 6M6 6l12 12"
                       />
                     </svg>
-                    <span className="text-secondary">{item}</span>
+                    <span className="text-[var(--color-text)]">{item}</span>
                   </li>
                 ))}
               </ul>
@@ -150,10 +150,10 @@ export default function Home() {
       </section>
 
       {/* What to Send Section */}
-      <section className="py-16 md:py-24">
+      <section className="py-16 md:py-24 section-divider">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
           <div className="max-w-2xl">
-            <h2 className="text-2xl md:text-3xl font-semibold text-primary mb-8">
+            <h2 className="mb-8">
               What to Send for a Quote
             </h2>
             <PhotoChecklist />
@@ -162,9 +162,9 @@ export default function Home() {
       </section>
 
       {/* Condition Section */}
-      <section className="bg-surface py-16 md:py-24">
+      <section className="bg-[var(--color-surface)] py-16 md:py-24">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-          <h2 className="text-2xl md:text-3xl font-semibold text-primary mb-8">
+          <h2 className="mb-8">
             Condition Factors That Affect Value
           </h2>
           <ul className="grid grid-cols-1 md:grid-cols-2 gap-6 max-w-4xl">
@@ -197,10 +197,10 @@ export default function Home() {
               },
             ].map((item) => (
               <li key={item.title} className="flex items-start gap-3">
-                <span className="text-accent font-medium flex-shrink-0">-</span>
+                <span className="text-[var(--color-text-muted)] font-medium flex-shrink-0">—</span>
                 <div>
-                  <span className="font-medium text-primary">{item.title}:</span>{' '}
-                  <span className="text-secondary">{item.description}</span>
+                  <span className="font-medium text-[var(--color-heading)]">{item.title}:</span>{' '}
+                  <span className="text-[var(--color-text)]">{item.description}</span>
                 </div>
               </li>
             ))}
@@ -209,9 +209,9 @@ export default function Home() {
       </section>
 
       {/* Why Proof Cellars Section */}
-      <section className="py-16 md:py-24">
+      <section className="py-16 md:py-24 section-divider">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-          <h2 className="text-2xl md:text-3xl font-semibold text-primary mb-8">
+          <h2 className="mb-8">
             Why Proof Cellars
           </h2>
           <ul className="grid grid-cols-1 md:grid-cols-2 gap-6 max-w-4xl">
@@ -223,7 +223,7 @@ export default function Home() {
             ].map((item) => (
               <li key={item} className="flex items-start gap-3">
                 <svg
-                  className="h-5 w-5 text-accent flex-shrink-0 mt-0.5"
+                  className="h-5 w-5 text-[var(--color-success)] flex-shrink-0 mt-0.5"
                   fill="none"
                   viewBox="0 0 24 24"
                   strokeWidth="2"
@@ -235,7 +235,7 @@ export default function Home() {
                     d="M4.5 12.75l6 6 9-13.5"
                   />
                 </svg>
-                <span className="text-secondary">{item}</span>
+                <span className="text-[var(--color-text)]">{item}</span>
               </li>
             ))}
           </ul>
@@ -246,9 +246,9 @@ export default function Home() {
       <SellerTestimonials />
 
       {/* FAQ Preview Section */}
-      <section className="bg-surface py-16 md:py-24 border-t border-border">
+      <section className="bg-[var(--color-surface)] py-16 md:py-24 section-divider">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-          <h2 className="text-2xl md:text-3xl font-semibold text-primary mb-8">
+          <h2 className="mb-8">
             Common Questions
           </h2>
           <div className="max-w-3xl">
@@ -258,7 +258,7 @@ export default function Home() {
             <div className="mt-8">
               <Link
                 href="/faq"
-                className="text-accent hover:text-accent-hover font-medium transition-colors"
+                className="font-medium"
               >
                 See all questions
               </Link>
@@ -268,12 +268,12 @@ export default function Home() {
       </section>
 
       {/* Final CTA Section */}
-      <section className="py-16 md:py-24">
+      <section className="py-16 md:py-24 section-divider">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 text-center">
-          <h2 className="text-2xl md:text-3xl font-semibold text-primary">
+          <h2>
             Ready to sell?
           </h2>
-          <p className="mt-4 text-lg text-secondary">
+          <p className="mt-4 text-lg text-[var(--color-text-muted)]">
             Get a direct offer for your bottles.
           </p>
           <div className="mt-8 flex flex-col sm:flex-row gap-4 justify-center items-center">
@@ -286,7 +286,7 @@ export default function Home() {
             </CTAButton>
             <TrackedLink
               href="sms:+12137709463"
-              className="text-secondary hover:text-primary transition-colors"
+              className=""
               eventName={AnalyticsEvents.CLICK_TEXT_PHOTOS}
               eventParams={{ location: 'cta_band', phone: '2137709463' }}
             >

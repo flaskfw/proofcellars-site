@@ -10,12 +10,12 @@ export default function PaymentMethods() {
     ];
 
     return (
-        <div className="mt-12 border-t border-border pt-12">
+        <div className="mt-12 border-t border-[var(--color-divider)] pt-12">
             <div className="text-center mb-8">
-                <h3 className="text-xl font-semibold text-primary">
+                <h3>
                     Multiple Payout Options. Zero Fees.
                 </h3>
-                <p className="mt-2 text-secondary">
+                <p className="mt-2 text-[var(--color-text-muted)]">
                     We pay immediately upon verification via your preferred method.
                 </p>
             </div>
@@ -24,7 +24,7 @@ export default function PaymentMethods() {
                 {methods.map((method) => (
                     <span
                         key={method}
-                        className="inline-flex items-center rounded-full bg-surface-hover px-4 py-2 text-sm font-medium text-primary border border-border"
+                        className="inline-flex items-center rounded-sm bg-[var(--color-surface-2)] px-4 py-2 text-sm font-medium text-[var(--color-heading)] border border-[var(--color-border)]"
                     >
                         {method}
                     </span>
