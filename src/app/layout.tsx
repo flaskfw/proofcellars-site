@@ -1,15 +1,10 @@
 import type { Metadata } from "next";
 import { Inter, Libre_Baskerville } from "next/font/google";
 import Script from "next/script";
-import dynamic from "next/dynamic";
 import "./globals.css";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
-
-// Lazy load StickyMobileOffer - not needed for initial render, only mobile
-const StickyMobileOffer = dynamic(() => import("@/components/StickyMobileOffer"), {
-  ssr: false, // Don't render on server, only client-side
-});
+import StickyMobileOffer from "@/components/StickyMobileOffer";
 
 // Heritage serif for H1-H3 (editorial elegance)
 // Using display: "optional" for fastest LCP - shows fallback immediately,
