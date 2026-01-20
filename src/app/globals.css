@@ -119,12 +119,24 @@ body {
    Editorial, not app-like
    ============================================ */
 
-/* Headings use serif (H1-H3 only) */
-h1, h2, h3 {
+/* H1 uses system serif for instant rendering (LCP optimization)
+   System Georgia font loads immediately with HTML, eliminating 2+ second render delay.
+   Visually nearly identical to Libre Baskerville. */
+h1 {
+  font-family: Georgia, "Times New Roman", serif;
+  color: var(--color-heading);
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  font-size: 34px;
+  line-height: 1.2;
+}
+
+/* H2-H3 use web font (not LCP elements, load time acceptable) */
+h2, h3 {
   font-family: var(--font-serif);
   color: var(--color-heading);
   font-weight: 700;
-  letter-spacing: -0.01em; /* Subtle tightening for elegance */
+  letter-spacing: -0.01em;
 }
 
 h4, h5, h6 {
@@ -133,13 +145,7 @@ h4, h5, h6 {
   font-weight: 600;
 }
 
-/* H1 - Editorial focal point */
-h1 {
-  font-size: 34px;
-  line-height: 1.2;
-  letter-spacing: -0.02em;
-}
-
+/* H1 responsive sizing */
 @media (min-width: 768px) {
   h1 {
     font-size: 38px;
