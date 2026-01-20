@@ -78,6 +78,34 @@ export default function RootLayout({
   return (
     <html lang="en" className={`${baskerville.variable} ${inter.variable}`}>
       <head>
+        {/* Critical CSS for instant LCP render - inlined to avoid CSS chunk blocking */}
+        <style dangerouslySetInnerHTML={{ __html: `
+          body {
+            background-color: #F9F8F4;
+            color: #2C2C2C;
+            margin: 0;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+          }
+          h1 {
+            font-family: Georgia, "Times New Roman", serif;
+            color: #1A1A1A;
+            font-weight: 700;
+            letter-spacing: -0.02em;
+            font-size: 34px;
+            line-height: 1.2;
+            margin: 0;
+          }
+          @media (min-width: 768px) {
+            h1 { font-size: 38px; line-height: 1.18; }
+          }
+          @media (min-width: 1024px) {
+            h1 { font-size: 44px; line-height: 1.15; }
+          }
+        `}} />
         {/* DNS prefetch and preconnect for critical origins (performance optimization) */}
         <link rel="dns-prefetch" href="https://fonts.googleapis.com" />
         <link rel="dns-prefetch" href="https://fonts.gstatic.com" />
