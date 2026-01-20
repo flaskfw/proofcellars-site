@@ -56,6 +56,26 @@
 }
 
 /* ============================================
+   SCROLL REVEAL ANIMATIONS (CSS-only, zero JS)
+   ============================================ */
+@keyframes reveal-fade-up {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.reveal-animate {
+  animation: reveal-fade-up var(--dur-scroll) var(--ease-luxe);
+  animation-delay: var(--reveal-delay, 0s);
+  animation-fill-mode: both;
+}
+
+/* ============================================
    PREFERS-REDUCED-MOTION
    ============================================ */
 @media (prefers-reduced-motion: reduce) {
@@ -63,6 +83,13 @@
     --dur-fast: 10ms;
     --dur-base: 10ms;
     --dur-slow: 10ms;
+  }
+
+  /* Disable scroll reveal animations */
+  .reveal-animate {
+    animation: none;
+    opacity: 1;
+    transform: none;
   }
 }
 
