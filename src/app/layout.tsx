@@ -1,16 +1,23 @@
 import type { Metadata } from "next";
 import { Inter, Libre_Baskerville } from "next/font/google";
 import Script from "next/script";
+import dynamic from "next/dynamic";
 import "./globals.css";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
-import StickyMobileOffer from "@/components/StickyMobileOffer";
+
+// Lazy load StickyMobileOffer - not needed for initial render, only mobile
+const StickyMobileOffer = dynamic(() => import("@/components/StickyMobileOffer"), {
+  ssr: false, // Don't render on server, only client-side
+});
 
 // Heritage serif for H1-H3 (editorial elegance)
+// Using display: "optional" for fastest LCP - shows fallback immediately,
+// only swaps if font loads within 100ms (mobile-first performance)
 const baskerville = Libre_Baskerville({
   weight: ["400", "700"],
   subsets: ["latin"],
-  display: "swap",
+  display: "optional", // Changed from "swap" to "optional" for faster LCP
   preload: true,
   variable: "--font-baskerville",
   fallback: ["Georgia", "Times New Roman", "serif"],
@@ -18,9 +25,10 @@ const baskerville = Libre_Baskerville({
 });
 
 // Sans-serif for UI and body (modern clarity)
+// Using display: "optional" for UI text to prioritize speed over perfect font rendering
 const inter = Inter({
   subsets: ["latin"],
-  display: "swap",
+  display: "optional", // Changed from "swap" to "optional" for faster FCP
   preload: true,
   variable: "--font-inter",
   fallback: ["-apple-system", "BlinkMacSystemFont", "Segoe UI", "sans-serif"],
@@ -75,7 +83,11 @@ export default function RootLayout({
   return (
     <html lang="en" className={`${baskerville.variable} ${inter.variable}`}>
       <head>
-        {/* Preconnect hints for faster resource loading */}
+        {/* DNS prefetch and preconnect for critical origins (performance optimization) */}
+        <link rel="dns-prefetch" href="https://fonts.googleapis.com" />
+        <link rel="dns-prefetch" href="https://fonts.gstatic.com" />
+        <link rel="preconnect" href="https://fonts.googleapis.com" crossOrigin="anonymous" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
         <link rel="preconnect" href="https://www.googletagmanager.com" />
         <link rel="preconnect" href="https://www.google-analytics.com" />
         <Script
