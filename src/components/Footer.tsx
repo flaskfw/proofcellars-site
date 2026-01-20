@@ -20,7 +20,7 @@ export default function Footer() {
 
           {/* Locations */}
           <div>
-            <h4 className="text-sm font-medium text-[var(--color-heading)] mb-4">Buying Locations</h4>
+            <h3 className="text-sm font-medium text-[var(--color-heading)] mb-4">Buying Locations</h3>
             <ul className="space-y-3">
               <li>
                 <Link href="/locations/los-angeles" className="text-sm text-[var(--color-text-muted)] no-underline hover:text-[var(--color-heading)] transition-colors duration-[var(--dur-base)] [transition-timing-function:var(--ease-luxe)]">
@@ -42,7 +42,7 @@ export default function Footer() {
 
           {/* Services */}
           <div>
-            <h4 className="text-sm font-medium text-[var(--color-heading)] mb-4">Our Services</h4>
+            <h3 className="text-sm font-medium text-[var(--color-heading)] mb-4">Our Services</h3>
             <ul className="space-y-3">
               <li>
                 <Link href="/services/estates" className="text-sm text-[var(--color-text-muted)] no-underline hover:text-[var(--color-heading)] transition-colors duration-[var(--dur-base)] [transition-timing-function:var(--ease-luxe)]">
@@ -65,7 +65,7 @@ export default function Footer() {
 
           {/* Top Brands */}
           <div>
-            <h4 className="text-sm font-medium text-[var(--color-heading)] mb-4">We Buy</h4>
+            <h3 className="text-sm font-medium text-[var(--color-heading)] mb-4">We Buy</h3>
             <ul className="space-y-3">
               <li>
                 <Link href="/sell/van-winkle" className="text-sm text-[var(--color-text-muted)] no-underline hover:text-[var(--color-heading)] transition-colors duration-[var(--dur-base)] [transition-timing-function:var(--ease-luxe)]">
