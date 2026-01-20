@@ -38,32 +38,76 @@ export default function Home() {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationSchema) }}
       />
 
-      {/* Hero Section - Editorial restraint with whitespace */}
-      <section className="bg-[var(--color-surface)] py-16 md:py-24">
-        <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-          <div className="max-w-3xl">
+      {/* Hero Section - Editorial restraint with whitespace
+          Inline styles used for critical above-the-fold content to enable instant rendering
+          without waiting for CSS chunks or JavaScript hydration */}
+      <section style={{
+        backgroundColor: '#FFFFFF',
+        padding: '64px 16px',
+      }}>
+        <div style={{
+          margin: '0 auto',
+          maxWidth: '1280px',
+          padding: '0 16px',
+        }}>
+          <div style={{ maxWidth: '768px' }}>
             <h1>
               Direct buyer of collectible wine and spirits.
             </h1>
-            <p className="mt-6 text-lg text-[var(--color-text-muted)]">
+            <p style={{
+              marginTop: '24px',
+              fontSize: '18px',
+              lineHeight: '1.6',
+              color: '#6B6258',
+            }}>
               Sell Bourbon, Scotch, and Fine Wine. No consignment. No auctions. Just a direct offer.
             </p>
-            <div className="mt-8 flex flex-col sm:flex-row gap-4">
-              <CTAButton
+            <div style={{
+              marginTop: '32px',
+              display: 'flex',
+              flexDirection: 'column',
+              gap: '16px',
+            }}>
+              <Link
                 href="/get-offer"
-                eventName={AnalyticsEvents.CLICK_GET_OFFER}
-                eventParams={{ location: 'hero', href: '/get-offer' }}
+                style={{
+                  display: 'inline-flex',
+                  alignItems: 'center',
+                  justifyContent: 'center',
+                  padding: '12px 24px',
+                  minHeight: '44px',
+                  fontSize: '16px',
+                  fontWeight: '500',
+                  backgroundColor: '#1B2A41',
+                  color: '#FFFFFF',
+                  border: '1px solid transparent',
+                  borderRadius: '2px',
+                  textDecoration: 'none',
+                  transition: 'border-color 220ms cubic-bezier(0.16, 1, 0.3, 1)',
+                }}
               >
                 Get an Offer
-              </CTAButton>
-              <CTAButton
+              </Link>
+              <a
                 href="sms:+12137709463"
-                variant="secondary"
-                eventName={AnalyticsEvents.CLICK_TEXT_PHOTOS}
-                eventParams={{ location: 'hero', phone: '2137709463' }}
+                style={{
+                  display: 'inline-flex',
+                  alignItems: 'center',
+                  justifyContent: 'center',
+                  padding: '12px 24px',
+                  minHeight: '44px',
+                  fontSize: '16px',
+                  fontWeight: '500',
+                  backgroundColor: 'transparent',
+                  color: '#1A1A1A',
+                  border: '1px solid #E6E1D8',
+                  borderRadius: '2px',
+                  textDecoration: 'none',
+                  transition: 'border-color 220ms cubic-bezier(0.16, 1, 0.3, 1)',
+                }}
               >
                 Text Photos
-              </CTAButton>
+              </a>
             </div>
           </div>
         </div>
