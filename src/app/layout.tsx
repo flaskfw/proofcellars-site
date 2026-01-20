@@ -78,6 +78,58 @@ export default function RootLayout({
   return (
     <html lang="en" className={`${baskerville.variable} ${inter.variable}`}>
       <head>
+        {/* Critical CSS for instant LCP render - inlined to avoid CSS chunk blocking
+            This CSS allows the hero section (including H1) to render immediately
+            without waiting for external CSS chunks or JavaScript to load */}
+        <style dangerouslySetInnerHTML={{ __html: `
+          * { box-sizing: border-box; }
+          body {
+            background-color: #F9F8F4;
+            color: #2C2C2C;
+            margin: 0;
+            padding: 0 0 5rem 0;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+            font-size: 15px;
+            line-height: 1.6;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+          }
+          @media (min-width: 768px) {
+            body {
+              padding-bottom: 0;
+              font-size: 16px;
+              line-height: 1.65;
+            }
+          }
+          h1 {
+            font-family: Georgia, "Times New Roman", serif;
+            color: #1A1A1A;
+            font-weight: 700;
+            letter-spacing: -0.02em;
+            font-size: 34px;
+            line-height: 1.2;
+            margin: 0 0 24px 0;
+          }
+          @media (min-width: 768px) {
+            h1 { font-size: 38px; line-height: 1.18; }
+          }
+          @media (min-width: 1024px) {
+            h1 { font-size: 44px; line-height: 1.15; }
+          }
+          main {
+            flex-grow: 1;
+          }
+          p {
+            margin: 0 0 1em 0;
+          }
+          a {
+            color: #1A1A1A;
+            text-decoration: underline;
+          }
+        `}} />
         {/* DNS prefetch and preconnect for critical origins (performance optimization) */}
         <link rel="dns-prefetch" href="https://fonts.googleapis.com" />
         <link rel="dns-prefetch" href="https://fonts.gstatic.com" />
@@ -87,9 +139,9 @@ export default function RootLayout({
         <link rel="preconnect" href="https://www.google-analytics.com" />
         <Script
           src={`https://www.googletagmanager.com/gtag/js?id=${GA_ID}`}
-          strategy="afterInteractive"
+          strategy="lazyOnload"
         />
-        <Script id="ga4-init" strategy="afterInteractive">
+        <Script id="ga4-init" strategy="lazyOnload">
           {`
             window.dataLayer = window.dataLayer || [];
             function gtag(){window.dataLayer.push(arguments);}
@@ -98,7 +150,7 @@ export default function RootLayout({
           `}
         </Script>
       </head>
-      <body className="antialiased min-h-screen flex flex-col pb-20 md:pb-0">
+      <body>
         <Header />
         <main className="flex-grow">{children}</main>
         <Footer />
