@@ -1,36 +1,446 @@
 @import "tailwindcss";
 
 @theme inline {
-  /* Color Palette */
-  --color-background: #FAFAF8;
-  --color-surface: #FFFFFF;
-  --color-primary: #111827;
-  --color-secondary: #4B5563;
-  --color-border: #E5E7EB;
-  --color-accent: #1F3A5F;
-  --color-accent-hover: #162A45;
-  --color-success: #166534;
-  --color-warning: #B45309;
-  --color-error: #B91C1C;
+  /* ============================================
+     ALABASTER & MIDNIGHT DESIGN SYSTEM
+     Heritage / Private Client Aesthetic
+     ============================================ */
 
-  /* Font */
-  --font-sans: var(--font-inter), system-ui, -apple-system, sans-serif;
+  /* Surfaces */
+  --color-bg: #F9F8F4; /* Alabaster - global body background */
+  --color-surface: #FFFFFF; /* Soft White - cards, inputs, panels */
+  --color-surface-2: #FCFBF8; /* Warm Tint - disabled fields, subtle depth */
+  --color-divider: #E0DBD2; /* Section dividers */
+
+  /* Borders (semantic) */
+  --color-border: #E6E1D8; /* Hairline Sand - default borders */
+  --color-border-strong: #D8D1C6; /* Hover states, emphasized dividers */
+  --color-accent: #D4AF37; /* Antique Gold - focus rings, primary hover borders (sparingly) */
+
+  /* Text */
+  --color-text: #2C2C2C; /* Warm Charcoal - body text */
+  --color-text-muted: #6B6258; /* Soft Charcoal - secondary text */
+  --color-heading: #1A1A1A; /* Deep Charcoal - H1-H3 */
+
+  /* Brand and actions */
+  --color-primary: #1B2A41; /* Midnight Navy - primary CTA background */
+  --color-primary-hover: #15212F; /* Slightly darker navy for hover states */
+
+  /* Semantic states (muted, wine-adjacent) */
+  --color-success: #3A5A40; /* Muted Forest */
+  --color-danger: #6B2737; /* Subdued Burgundy */
+  --color-info: #3E4A59; /* Muted Slate */
+
+  /* Shadows (explicit, restrained) */
+  --shadow-card: 0 1px 2px rgba(0, 0, 0, 0.06);
+  --shadow-card-hover: 0 4px 14px rgba(0, 0, 0, 0.08);
+
+  /* Motion (explicit) */
+  --ease-luxe: cubic-bezier(0.16, 1, 0.3, 1);
+  --dur-fast: 180ms;
+  --dur-base: 220ms;
+  --dur-slow: 260ms;
+  --dur-scroll: 450ms; /* Luxury scroll reveal animations */
+
+  /* Font families */
+  --font-serif: var(--font-baskerville), Georgia, "Times New Roman", serif;
+  --font-sans: var(--font-inter), -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+
+  /* Border radius (restrained) */
+  --radius-sm: 2px; /* Buttons */
+  --radius-md: 6px; /* Cards, inputs */
+
+  /* Spacing scale (luxury = whitespace) */
+  --spacing-section-mobile: 64px; /* py-16 */
+  --spacing-section-desktop: 96px; /* py-24 */
 }
 
-body {
-  background-color: var(--color-background);
-  color: var(--color-primary);
-  font-family: var(--font-sans);
+/* ============================================
+   SCROLL REVEAL ANIMATIONS (CSS-only, zero JS)
+   ============================================ */
+@keyframes reveal-fade-up {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
 }
 
-/* Smooth scrolling for anchor links */
+.reveal-animate {
+  animation: reveal-fade-up var(--dur-scroll) var(--ease-luxe);
+  animation-delay: var(--reveal-delay, 0s);
+  animation-fill-mode: both;
+}
+
+/* ============================================
+   PREFERS-REDUCED-MOTION
+   ============================================ */
+@media (prefers-reduced-motion: reduce) {
+  :root {
+    --dur-fast: 10ms;
+    --dur-base: 10ms;
+    --dur-slow: 10ms;
+  }
+
+  /* Disable scroll reveal animations */
+  .reveal-animate {
+    animation: none;
+    opacity: 1;
+    transform: none;
+  }
+}
+
+/* ============================================
+   BASE STYLES
+   ============================================ */
 html {
   scroll-behavior: smooth;
 }
 
-/* Focus styles for accessibility */
-a:focus-visible,
-button:focus-visible {
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+}
+
+body {
+  background-color: var(--color-bg);
+  color: var(--color-text);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* ============================================
+   TYPOGRAPHY HIERARCHY
+   Editorial, not app-like
+   ============================================ */
+
+/* H1 uses system serif for instant rendering (LCP optimization)
+   System Georgia font loads immediately with HTML, eliminating 2+ second render delay.
+   Visually nearly identical to Libre Baskerville. */
+h1 {
+  font-family: Georgia, "Times New Roman", serif;
+  color: var(--color-heading);
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  font-size: 34px;
+  line-height: 1.2;
+}
+
+/* H2-H3 use web font (not LCP elements, load time acceptable) */
+h2, h3 {
+  font-family: var(--font-serif);
+  color: var(--color-heading);
+  font-weight: 700;
+  letter-spacing: -0.01em;
+}
+
+h4, h5, h6 {
+  font-family: var(--font-sans);
+  color: var(--color-heading);
+  font-weight: 600;
+}
+
+/* H1 responsive sizing */
+@media (min-width: 768px) {
+  h1 {
+    font-size: 38px;
+    line-height: 1.18;
+  }
+}
+
+@media (min-width: 1024px) {
+  h1 {
+    font-size: 44px;
+    line-height: 1.15;
+  }
+}
+
+/* H2 - Section headings */
+h2 {
+  font-size: 24px;
+  line-height: 1.25;
+}
+
+@media (min-width: 768px) {
+  h2 {
+    font-size: 27px;
+    line-height: 1.22;
+  }
+}
+
+@media (min-width: 1024px) {
+  h2 {
+    font-size: 30px;
+    line-height: 1.2;
+  }
+}
+
+/* H3 - Subsection headings */
+h3 {
+  font-size: 18px;
+  line-height: 1.3;
+}
+
+@media (min-width: 768px) {
+  h3 {
+    font-size: 20px;
+    line-height: 1.28;
+  }
+}
+
+@media (min-width: 1024px) {
+  h3 {
+    font-size: 22px;
+    line-height: 1.25;
+  }
+}
+
+/* Body text - Responsive scale */
+body {
+  font-size: 15px;
+  line-height: 1.6;
+}
+
+@media (min-width: 768px) {
+  body {
+    font-size: 16px;
+    line-height: 1.65;
+  }
+}
+
+@media (min-width: 1024px) {
+  body {
+    font-size: 17px;
+    line-height: 1.7;
+  }
+}
+
+/* Paragraph spacing */
+p {
+  margin-bottom: 1em;
+}
+
+p:last-child {
+  margin-bottom: 0;
+}
+
+/* ============================================
+   LINK STYLES (Global)
+   ============================================ */
+a {
+  color: var(--color-heading);
+  text-decoration: underline;
+  text-decoration-color: var(--color-border-strong);
+  text-underline-offset: 0.2em;
+  transition: text-decoration-color var(--dur-base) var(--ease-luxe),
+              color var(--dur-base) var(--ease-luxe);
+}
+
+a:hover {
+  text-decoration-color: var(--color-accent);
+}
+
+a:visited {
+  opacity: 0.75;
+}
+
+a:focus-visible {
   outline: 2px solid var(--color-accent);
   outline-offset: 2px;
+  border-radius: 2px;
+}
+
+/* ============================================
+   BUTTON LINK OVERRIDES (High Specificity)
+   Prevent global link styles from bleeding into buttons
+   ============================================ */
+
+/* Remove underline from links inside buttons */
+button a,
+.btn a {
+  text-decoration: none;
+}
+
+/* Base button class - critical overrides for links styled as buttons
+   Use !important to ensure these win over global link styles */
+a.btn,
+a.btn-primary,
+a.btn-secondary {
+  text-decoration: none !important;
+}
+
+a.btn:hover,
+a.btn-primary:hover,
+a.btn-secondary:hover {
+  text-decoration: none !important;
+  opacity: 1 !important;
+}
+
+a.btn:visited,
+a.btn-primary:visited,
+a.btn-secondary:visited {
+  opacity: 1 !important;
+}
+
+/* Primary button specific overrides - force white text */
+a.btn-primary,
+a.btn-primary:hover,
+a.btn-primary:visited,
+a.btn-primary:focus {
+  color: #FFFFFF !important;
+  text-decoration: none !important;
+}
+
+/* Secondary button specific overrides - force heading color */
+a.btn-secondary,
+a.btn-secondary:hover,
+a.btn-secondary:visited,
+a.btn-secondary:focus {
+  color: var(--color-heading) !important;
+  text-decoration: none !important;
+}
+
+/* ============================================
+   FOCUS STATES (Keyboard Accessibility)
+   ============================================ */
+button:focus-visible,
+input:focus-visible,
+textarea:focus-visible,
+select:focus-visible {
+  outline: 2px solid var(--color-accent);
+  outline-offset: 2px;
+  transition: outline var(--dur-fast) var(--ease-luxe);
+}
+
+/* ============================================
+   FORM ELEMENTS (Base Styling)
+   ============================================ */
+input[type="text"],
+input[type="email"],
+input[type="tel"],
+input[type="url"],
+input[type="password"],
+input[type="number"],
+input[type="date"],
+textarea,
+select {
+  background-color: var(--color-surface);
+  border: 1px solid var(--color-border);
+  color: var(--color-text);
+  font-family: var(--font-sans);
+  font-size: 15px;
+  border-radius: var(--radius-md);
+  padding: 12px 16px;
+  min-height: 44px; /* Touch target */
+  transition: border-color var(--dur-fast) var(--ease-luxe),
+              box-shadow var(--dur-fast) var(--ease-luxe);
+}
+
+@media (min-width: 768px) {
+  input[type="text"],
+  input[type="email"],
+  input[type="tel"],
+  input[type="url"],
+  input[type="password"],
+  input[type="number"],
+  input[type="date"],
+  textarea,
+  select {
+    font-size: 16px;
+  }
+}
+
+input::placeholder,
+textarea::placeholder {
+  color: var(--color-text-muted);
+  opacity: 1;
+}
+
+/* Focus state */
+input:focus,
+textarea:focus,
+select:focus {
+  border-color: var(--color-primary);
+  box-shadow: 0 0 0 2px rgba(27, 42, 65, 0.12);
+  outline: none;
+}
+
+/* Disabled state */
+input:disabled,
+textarea:disabled,
+select:disabled {
+  background-color: var(--color-surface-2);
+  border-color: var(--color-border);
+  color: var(--color-text-muted);
+  opacity: 0.4;
+  cursor: not-allowed;
+}
+
+/* Error state */
+input.error,
+textarea.error,
+select.error {
+  border-color: var(--color-danger);
+}
+
+/* Helper text for errors */
+.form-error {
+  color: var(--color-danger);
+  font-size: 13px;
+  margin-top: 4px;
+}
+
+/* ============================================
+   UTILITY CLASSES
+   ============================================ */
+
+/* Content max-width constraints */
+.content-editorial {
+  max-width: 720px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.content-grid {
+  max-width: 1280px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Section divider */
+.section-divider {
+  border-top: 1px solid var(--color-divider);
+}
+
+/* Card base */
+.card {
+  background-color: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-card);
+  transition: box-shadow var(--dur-base) var(--ease-luxe),
+              border-color var(--dur-base) var(--ease-luxe);
+}
+
+.card:hover {
+  border-color: var(--color-border-strong);
+  box-shadow: var(--shadow-card-hover);
+}
+
+/* Visually hidden (accessibility) */
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border-width: 0;
 }

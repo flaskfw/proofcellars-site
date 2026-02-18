@@ -1,3 +1,5 @@
+import { Reveal } from '@/components/motion/Reveal';
+
 const steps = [
   {
     number: '1',
@@ -28,14 +30,17 @@ const steps = [
 export default function ProcessSteps() {
   return (
     <div className="grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-4">
-      {steps.map((step) => (
-        <div key={step.number} className="relative">
-          <div className="flex items-center justify-center w-10 h-10 rounded-full bg-accent text-white text-lg font-semibold mb-4">
-            {step.number}
+      {steps.map((step, index) => (
+        <Reveal key={step.number} delay={index * 0.12}>
+          <div className="relative">
+            {/* Heritage design: Restrained circle with border, no bright fills */}
+            <div className="flex items-center justify-center w-10 h-10 rounded-md border-2 border-[var(--color-primary)] text-[var(--color-primary)] text-lg font-semibold mb-4">
+              {step.number}
+            </div>
+            <h3 className="mb-2">{step.title}</h3>
+            <p className="text-[var(--color-text-muted)] text-sm">{step.description}</p>
           </div>
-          <h3 className="text-lg font-medium text-primary mb-2">{step.title}</h3>
-          <p className="text-secondary text-sm">{step.description}</p>
-        </div>
+        </Reveal>
       ))}
     </div>
   );

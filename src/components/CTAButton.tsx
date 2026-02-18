@@ -22,13 +22,27 @@ export default function CTAButton({
   eventName,
   eventParams,
 }: CTAButtonProps) {
+  // Heritage design: Restrained, architectural button styling
+  // Touch target: min-height 44px, comfortable padding
+  // No layout shift: border always present (transparent on primary)
+  // btn-primary/btn-secondary classes ensure link styles don't bleed through
   const baseStyles =
-    'inline-flex items-center justify-center rounded-md px-6 py-3 text-base font-medium transition-colors';
+    'inline-flex items-center justify-center px-6 py-3 min-h-[44px] text-base font-medium no-underline';
 
   const variantStyles = {
-    primary: 'bg-accent text-white hover:bg-accent-hover',
+    // Primary: Midnight Navy background, Antique Gold border on hover
+    // btn-primary class prevents global link styles from overriding button appearance
+    primary:
+      'btn-primary bg-[var(--color-primary)] text-white border border-transparent rounded-sm ' +
+      'hover:border-[var(--color-accent)] ' +
+      'transition-[color,border-color,background-color] duration-[var(--dur-base)] [transition-timing-function:var(--ease-luxe)]',
+
+    // Secondary: Transparent background, border emphasis on hover
+    // btn-secondary class prevents global link styles from overriding button appearance
     secondary:
-      'border border-accent text-accent hover:bg-accent hover:text-white',
+      'btn-secondary bg-transparent text-[var(--color-heading)] border border-[var(--color-border)] rounded-sm ' +
+      'hover:border-[var(--color-accent)] ' +
+      'transition-[color,border-color,background-color] duration-[var(--dur-base)] [transition-timing-function:var(--ease-luxe)]',
   };
 
   const combinedStyles = `${baseStyles} ${variantStyles[variant]} ${className}`;

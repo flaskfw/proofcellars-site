@@ -14,7 +14,7 @@ export default function PhotoChecklist() {
       {checklistItems.map((item) => (
         <li key={item} className="flex items-start gap-3">
           <svg
-            className="h-5 w-5 text-accent flex-shrink-0 mt-0.5"
+            className="h-5 w-5 text-[var(--color-success)] flex-shrink-0 mt-0.5"
             fill="none"
             viewBox="0 0 24 24"
             strokeWidth="2"
@@ -26,7 +26,7 @@ export default function PhotoChecklist() {
               d="M4.5 12.75l6 6 9-13.5"
             />
           </svg>
-          <span className="text-secondary">{item}</span>
+          <span className="text-[var(--color-text)]">{item}</span>
         </li>
       ))}
     </ul>
