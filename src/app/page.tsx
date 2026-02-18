@@ -44,17 +44,6 @@ export default function Home() {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationSchema) }}
       />
 
-<<<<<<< HEAD
-      {/* Hero Section */}
-      <section className="bg-surface py-16 md:py-24">
-        <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-          <div className="max-w-3xl">
-            <h1 className="text-4xl md:text-5xl font-semibold tracking-tight text-primary">
-              Proof Cellars: Sell Wine & Spirits Collections
-            </h1>
-            <p className="mt-6 text-lg text-secondary">
-              Submit photos, receive a direct offer, and get paid after verification. No consignment or auction fees.
-=======
       {/* Hero Section - Editorial restraint with whitespace
           Inline styles used for critical above-the-fold content to enable instant rendering
           without waiting for CSS chunks or JavaScript hydration */}
@@ -69,7 +58,7 @@ export default function Home() {
         }}>
           <div style={{ maxWidth: '768px' }}>
             <h1>
-              Direct buyer of collectible wine and spirits.
+              Proof Cellars: Sell Wine & Spirits Collections
             </h1>
             <p style={{
               marginTop: '24px',
@@ -77,8 +66,7 @@ export default function Home() {
               lineHeight: '1.6',
               color: '#6B6258',
             }}>
-              Sell Bourbon, Scotch, and Fine Wine. No consignment. No auctions. Just a direct offer.
->>>>>>> origin/main
+              Submit photos, receive a direct offer, and get paid after verification. No consignment or auction fees.
             </p>
             <div style={{
               marginTop: '32px',
