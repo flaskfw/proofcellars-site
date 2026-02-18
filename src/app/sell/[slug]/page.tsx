@@ -11,8 +11,6 @@ import {
 } from '@/lib/getSellPageData';
 import { AnalyticsEvents } from '@/lib/analytics';
 import { BRAND_OVERRIDES } from '@/lib/brand-overrides';
-import { getRelatedLinks } from '@/lib/related-links';
-
 
 interface PageProps {
   params: Promise<{ slug: string }>;
@@ -36,6 +34,9 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   return {
     title: data.metaTitle.replace(' | Proof Cellars', ''),
     description: data.metaDescription,
+    alternates: {
+      canonical: `/sell/${slug}`,
+    },
     openGraph: {
       title: data.metaTitle,
       description: data.metaDescription,
@@ -55,7 +56,6 @@ export default async function SellPage({ params }: PageProps) {
   const overrides = BRAND_OVERRIDES[slug];
   const conditionFactors = overrides?.condition_factors || data.conditionFactors;
   const authenticityTips = overrides?.authenticity_tips;
-  const relatedLinks = getRelatedLinks(data.categoryType, slug);
 
   const breadcrumbSchema = generateBreadcrumbSchema(data.title, slug);
   const faqSchema = generateFAQSchemaFromPage(data.faqs);
@@ -353,15 +353,38 @@ export default async function SellPage({ params }: PageProps) {
               Related
             </h2>
             <div className="flex flex-wrap gap-3">
-              {relatedLinks.map((link) => (
+              <Link
+                href="/sell"
+                className="inline-flex items-center rounded-md border border-border px-4 py-2 text-sm text-secondary hover:border-accent hover:text-accent transition-colors"
+              >
+                What We Buy
+              </Link>
+              <Link
+                href="/get-offer"
+                className="inline-flex items-center rounded-md border border-border px-4 py-2 text-sm text-secondary hover:border-accent hover:text-accent transition-colors"
+              >
+                Get an Offer
+              </Link>
+              {slug === 'blantons' && (
                 <Link
-                  key={link.href}
-                  href={link.href}
+                  href="/guides/how-to-document-provenance"
                   className="inline-flex items-center rounded-md border border-border px-4 py-2 text-sm text-secondary hover:border-accent hover:text-accent transition-colors"
                 >
-                  {link.label}
+                  Blanton&apos;s provenance guide
                 </Link>
-              ))}
+              )}
+              <Link
+                href="/resources/photos-for-quote"
+                className="inline-flex items-center rounded-md border border-border px-4 py-2 text-sm text-secondary hover:border-accent hover:text-accent transition-colors"
+              >
+                Photos for Quote
+              </Link>
+              <Link
+                href="/resources/how-pricing-works"
+                className="inline-flex items-center rounded-md border border-border px-4 py-2 text-sm text-secondary hover:border-accent hover:text-accent transition-colors"
+              >
+                How Pricing Works
+              </Link>
             </div>
           </div>
         </div>

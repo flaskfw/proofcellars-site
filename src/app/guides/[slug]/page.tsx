@@ -33,6 +33,9 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   return {
     title: guide.metaTitle.replace(' | Proof Cellars', ''),
     description: guide.metaDescription,
+    alternates: {
+      canonical: `/guides/${slug}`,
+    },
     openGraph: {
       title: guide.metaTitle,
       description: guide.metaDescription,
@@ -217,6 +220,12 @@ export default async function GuidePage({ params }: PageProps) {
                 className="inline-flex items-center rounded-md border border-border px-4 py-2 text-sm text-secondary hover:border-accent hover:text-accent transition-colors"
               >
                 All Guides
+              </Link>
+              <Link
+                href="/sell"
+                className="inline-flex items-center rounded-md border border-border px-4 py-2 text-sm text-secondary hover:border-accent hover:text-accent transition-colors"
+              >
+                What We Buy
               </Link>
               <Link
                 href="/get-offer"

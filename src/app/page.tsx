@@ -11,8 +11,20 @@ import { AnalyticsEvents } from '@/lib/analytics';
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  title: {
+    absolute: 'Proof Cellars | Sell Wine & Spirits Collections',
+  },
   description:
-    'Direct buyer of collectible wine and spirits. Sell Bourbon, Scotch, and Fine Wine. No fees. Just text us photos and get an offer.',
+    'Proof Cellars buys collectible wine and spirits directly. Submit photos, receive a direct offer, and get paid after verification. No consignment or auction fees.',
+  alternates: {
+    canonical: '/',
+  },
+  openGraph: {
+    title: 'Proof Cellars | Sell Wine & Spirits Collections',
+    description:
+      'Proof Cellars buys collectible wine and spirits directly. Submit photos, receive a direct offer, and get paid after verification. No consignment or auction fees.',
+    url: 'https://proofcellars.com',
+  },
 };
 
 export default function Home() {
@@ -42,10 +54,10 @@ export default function Home() {
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
           <div className="max-w-3xl">
             <h1 className="text-4xl md:text-5xl font-semibold tracking-tight text-primary">
-              Direct buyer of collectible wine and spirits.
+              Proof Cellars: Sell Wine & Spirits Collections
             </h1>
             <p className="mt-6 text-lg text-secondary">
-              Sell Bourbon, Scotch, and Fine Wine. No consignment. No auctions. Just a direct offer.
+              Submit photos, receive a direct offer, and get paid after verification. No consignment or auction fees.
             </p>
             <div className="mt-8 flex flex-col sm:flex-row gap-4">
               <CTAButton
