@@ -19,12 +19,6 @@ export const metadata: Metadata = {
   alternates: {
     canonical: '/',
   },
-  openGraph: {
-    title: 'Proof Cellars | Sell Wine & Spirits Collections',
-    description:
-      'Proof Cellars buys collectible wine and spirits directly. Submit photos, receive a direct offer, and get paid after verification. No consignment or auction fees.',
-    url: 'https://proofcellars.com',
-  },
 };
 
 export default function Home() {
