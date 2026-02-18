@@ -1,11 +1,11 @@
 {
   "slug": "blantons",
-  "title": "Sell Blanton's",
-  "metaTitle": "Sell Blanton's Bourbon | Proof Cellars",
-  "metaDescription": "Sell your Blanton's bourbon to Proof Cellars. We buy Original, Gold, Straight from the Barrel, and Special Reserve. Direct offers.",
-  "heroHeadline": "Sell Your Blanton's Bourbon",
-  "heroSubhead": "We buy Blanton's directly - from Original Single Barrel to international releases.",
-  "introParagraph": "Blanton's is known as the original single barrel bourbon. We buy Blanton's expressions directly, including domestic releases and international exclusives like Gold and Straight from the Barrel. Submit photos and details, receive an offer, and get paid after verification - no consignment or auction fees.",
+  "title": "Sell Blanton's Collection",
+  "metaTitle": "Sell Blanton's Collection | Proof Cellars",
+  "metaDescription": "Sell your Blanton's collection to Proof Cellars. Submit stopper, label, and fill-level photos for a direct offer with no consignment or auction fees.",
+  "heroHeadline": "Sell Your Blanton's Collection",
+  "heroSubhead": "We buy Blanton's collections directly, from Original Single Barrel to Gold and Straight from the Barrel.",
+  "introParagraph": "Blanton's is known as the original single barrel bourbon. We buy Blanton's collections directly, including domestic releases and international exclusives like Gold and Straight from the Barrel. Submit photos and details, receive a direct offer, and get paid after verification.",
   "categoryType": "bourbon",
   "whatWeBuy": [
     "Blanton's Original Single Barrel",
@@ -24,12 +24,12 @@
     "Items we cannot legally purchase in your state"
   ],
   "photoChecklist": [
-    "Front label showing expression and dump date",
-    "Horse stopper letter and condition",
-    "Seal and capsule condition",
-    "Fill level visible in the bottle",
+    "Front and back label photos (include dump date)",
+    "Top-down photo of the horse stopper and letter",
+    "Close-up of seal and capsule condition",
+    "Fill level photo in good lighting",
     "Original box or bag if available",
-    "Any damage or imperfections"
+    "One group photo if submitting multiple bottles"
   ],
   "conditionFactors": [
     "Horse stopper must be present and undamaged - missing or broken stoppers significantly reduce value",

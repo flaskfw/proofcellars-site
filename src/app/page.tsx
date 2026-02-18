@@ -12,8 +12,14 @@ import { AnalyticsEvents } from '@/lib/analytics';
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
+  title: {
+    absolute: 'Proof Cellars | Sell Wine & Spirits Collections',
+  },
   description:
-    'Direct buyer of collectible wine and spirits. Sell Bourbon, Scotch, and Fine Wine. No fees. Just text us photos and get an offer.',
+    'Proof Cellars buys collectible wine and spirits directly. Submit photos, receive a direct offer, and get paid after verification. No consignment or auction fees.',
+  alternates: {
+    canonical: '/',
+  },
 };
 
 export default function Home() {
@@ -52,7 +58,7 @@ export default function Home() {
         }}>
           <div style={{ maxWidth: '768px' }}>
             <h1>
-              Direct buyer of collectible wine and spirits.
+              Proof Cellars: Sell Wine & Spirits Collections
             </h1>
             <p style={{
               marginTop: '24px',
@@ -60,7 +66,7 @@ export default function Home() {
               lineHeight: '1.6',
               color: '#6B6258',
             }}>
-              Sell Bourbon, Scotch, and Fine Wine. No consignment. No auctions. Just a direct offer.
+              Submit photos, receive a direct offer, and get paid after verification. No consignment or auction fees.
             </p>
             <div style={{
               marginTop: '32px',
