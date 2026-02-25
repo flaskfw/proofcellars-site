@@ -1,7 +1,4 @@
-'use client';
-
 import Link from 'next/link';
-import { trackEvent, AnalyticsEvents } from '@/lib/analytics';
 
 export default function Footer() {
   return (

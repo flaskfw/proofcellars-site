@@ -81,7 +81,8 @@ export default function RootLayout({
         {/* Critical CSS for instant LCP render - inlined to avoid CSS chunk blocking
             This CSS allows the hero section (including H1) to render immediately
             without waiting for external CSS chunks or JavaScript to load */}
-        <style dangerouslySetInnerHTML={{ __html: `
+        <style dangerouslySetInnerHTML={{
+          __html: `
           * { box-sizing: border-box; }
           body {
             background-color: #F9F8F4;
@@ -130,13 +131,7 @@ export default function RootLayout({
             text-decoration: underline;
           }
         `}} />
-        {/* DNS prefetch and preconnect for critical origins (performance optimization) */}
-        <link rel="dns-prefetch" href="https://fonts.googleapis.com" />
-        <link rel="dns-prefetch" href="https://fonts.gstatic.com" />
-        <link rel="preconnect" href="https://fonts.googleapis.com" crossOrigin="anonymous" />
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
-        <link rel="preconnect" href="https://www.googletagmanager.com" />
-        <link rel="preconnect" href="https://www.google-analytics.com" />
+
         <Script
           src={`https://www.googletagmanager.com/gtag/js?id=${GA_ID}`}
           strategy="lazyOnload"
